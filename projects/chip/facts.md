@@ -14,6 +14,7 @@
 | F7 | All facilities served (gas plant, geothermal, battery storage, solar, data center) and all substations are on private land. | `CHIP_NEPA_Risk_Memo_081426.docx`, Background 4; Cory, 2026-09-24 | PRIVILEGED | 2026-09-24 |
 | F8 | The draft PPODs erroneously show a substation of about 60 acres on BLM land; EPS is to correct it. | `CHIP_NEPA_Risk_Memo_081426.docx`, Background 4 | PRIVILEGED | 2026-09-24 |
 | F10 | The overhead lines on the Application 1 crossings are medium-voltage lines from CHIP's own gas plant, BESS and solar to CHIP load, powering the first data center building, with no FMDP connectivity. | Cory, 2026-09-24 session | INTERNAL | 2026-09-24 |
+| F11 | An existing two-lane gravel road has been in use for years in the Application 1 area. Its legal status (county road, easement, or unauthorized use of Reclamation land) and its relation to the Hart Lane road alignment are not yet confirmed. | Cory, 2026-09-24 session | INTERNAL | 2026-09-24 |
 | F9 | CHIP will be publicly announced as a solar, battery, geothermal and gas development. The NEPA record should never appear to minimize solar; the shared-infrastructure framing is the one that holds. | `CHIP_NEPA_Risk_Memo_081426.docx`, Q1 | PRIVILEGED | 2026-09-24 |
 
 ## Documents
