@@ -1,0 +1,21 @@
+SOURCE: https://www.leg.state.nv.us/NRS/NRS-533.html RETRIEVED: 2026-09-24
+NRS Chapter 533, selected sections (533.025, 533.030(1), 533.035, 533.325, 533.370(1)-(2)). Extracted from the Legislative Counsel Bureau HTML; typographic quotes and dashes normalized to ASCII.
+NRS 533.025  Water belongs to public.  The water of all sources of water supply within the boundaries of the State whether above or beneath the surface of the ground, belongs to the public.
+NRS 533.030  Appropriation for beneficial use; use for recreational purpose, developed shortage supply or intentionally created surplus declared beneficial; limitations and exceptions.
+1.  Subject to existing rights, and except as otherwise provided in this section and NRS 533.0241, 533.027, 533.028 and 534.115, all water may be appropriated for beneficial use as provided in this chapter and not otherwise.
+NRS 533.035  Beneficial use: Basis, measure and limit of right to use.  Beneficial use shall be the basis, the measure and the limit of the right to the use of water.
+NRS 533.325  Application to State Engineer for permit.  Except as otherwise provided in NRS 533.027, 533.028 and 534.065, any person who wishes to appropriate any of the public waters, or to change the place of diversion, manner of use or place of use of water already appropriated, shall, before performing any work in connection with such appropriation, change in place of diversion or change in manner or place of use, apply to the State Engineer for a permit to do so.
+NRS 533.370  Approval or rejection of application by State Engineer: Conditions; exceptions; considerations; procedure.
+1.  Except as otherwise provided in this section and NRS 533.0241, 533.345, 533.371, 533.372, 533.503 and 534.115, the State Engineer shall approve an application submitted in proper form which contemplates the application of water to beneficial use if:
+(a) The application is accompanied by the prescribed fees;
+(b) The proposed use or change, if within an irrigation district, does not adversely affect the cost of water for other holders of water rights in the district or lessen the efficiency of the district in its delivery or use of water; and
+(c) The applicant provides proof satisfactory to the State Engineer of the applicant's:
+(1) Intention in good faith to construct any work necessary to apply the water to the intended beneficial use with reasonable diligence; and
+(2) Financial ability and reasonable expectation actually to construct the work and apply the water to the intended beneficial use with reasonable diligence.
+2.  Except as otherwise provided in subsection 10, the State Engineer shall reject an application and refuse to issue the requested permit if:
+(a) There is no unappropriated water in the proposed source of supply;
+(b) The groundwater that has not been committed for use has been reserved pursuant to NRS 533.0241;
+(c) The application requests a change to or reinstatement of groundwater rights that have been retired pursuant to NRS 534.115; or 
+(d) The proposed use or change conflicts with existing rights or with protectable interests in existing domestic wells as set forth in NRS 533.024 or threatens to prove detrimental to the public interest.
+If a previous application for a similar use of water within the same basin has been rejected on those grounds, the new application may be denied without publication.
+3.  In addition to the criteria set forth in subsections 1 and 2, in determining whether an application for an interbasin transfer of groundwater must be rejected pursuant to this section, the State Engineer shall consider:

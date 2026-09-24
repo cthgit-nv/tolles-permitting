@@ -1,0 +1,100 @@
+SOURCE: https://www.ecfr.gov/api/versioner/v1/full/2026-09-22/title-33.xml?part=328&section=328.3 RETRIEVED: 2026-09-24
+eCFR text current as of 2026-09-22
+§ 328.3 Definitions.
+For the purpose of this regulation these terms are defined as follows:
+(a) Waters of the United States means:
+(1) Waters which are:
+(i) Currently used, or were used in the past, or may be susceptible to use in interstate or foreign commerce, including all waters which are subject to the ebb and flow of the tide;
+(ii) The territorial seas; or
+(iii) Interstate waters;
+(2) Impoundments of waters otherwise defined as waters of the United States under this definition, other than impoundments of waters identified under paragraph (a)(5) of this section;
+(3) Tributaries of waters identified in paragraph (a)(1) or (2) of this section that are relatively permanent, standing or continuously flowing bodies of water;
+(4) Wetlands adjacent to the following waters:
+(i) Waters identified in paragraph (a)(1) of this section; or
+(ii) Relatively permanent, standing or continuously flowing bodies of water identified in paragraph (a)(2) or (a)(3) of this section and with a continuous surface connection to those waters;
+(5) Intrastate lakes and ponds not identified in paragraphs (a)(1) through (4) of this section that are relatively permanent, standing or continuously flowing bodies of water with a continuous surface connection to the waters identified in paragraph (a)(1) or (a)(3) of this section.
+(b) The following are not “waters of the United States” even where they otherwise meet the terms of paragraphs (a)(2) through (5) of this section:
+(1) Waste treatment systems, including treatment ponds or lagoons, designed to meet the requirements of the Clean Water Act;
+(2) Prior converted cropland designated by the Secretary of Agriculture. The exclusion would cease upon a change of use, which means that the area is no longer available for the production of agricultural commodities. Notwithstanding the determination of an area's status as prior converted cropland by any other Federal agency, for the purposes of the Clean Water Act, the final authority regarding Clean Water Act jurisdiction remains with EPA;
+(3) Ditches (including roadside ditches) excavated wholly in and draining only dry land and that do not carry a relatively permanent flow of water;
+(4) Artificially irrigated areas that would revert to dry land if the irrigation ceased;
+(5) Artificial lakes or ponds created by excavating or diking dry land to collect and retain water and which are used exclusively for such purposes as stock watering, irrigation, settling basins, or rice growing;
+(6) Artificial reflecting or swimming pools or other small ornamental bodies of water created by excavating or diking dry land to retain water for primarily aesthetic reasons;
+(7) Waterfilled depressions created in dry land incidental to construction activity and pits excavated in dry land for the purpose of obtaining fill, sand, or gravel unless and until the construction or excavation operation is abandoned and the resulting body of water meets the definition of waters of the United States; and
+(8) Swales and erosional features (e.g., gullies, small washes) characterized by low volume, infrequent, or short duration flow.
+(c) In this section, the following definitions apply:
+(1) Wetlands means those areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas.
+(2) Adjacent means having a continuous surface connection.
+(3) High tide line means the line of intersection of the land with the water's surface at the maximum height reached by a rising tide. The high tide line may be determined, in the absence of actual data, by a line of oil or scum along shore objects, a more or less continuous deposit of fine shell or debris on the foreshore or berm, other physical markings or characteristics, vegetation lines, tidal gages, or other suitable means that delineate the general height reached by a rising tide. The line encompasses spring high tides and other high tides that occur with periodic frequency but does not include storm surges in which there is a departure from the normal or predicted reach of the tide due to the piling up of water against a coast by strong winds such as those accompanying a hurricane or other intense storm.
+(4) Ordinary high water mark means that line on the shore established by the fluctuations of water and indicated by physical characteristics such as clear, natural line impressed on the bank, shelving, changes in the character of soil, destruction of terrestrial vegetation, the presence of litter and debris, or other appropriate means that consider the characteristics of the surrounding areas.
+(5) Tidal waters means those waters that rise and fall in a predictable and measurable rhythm or cycle due to the gravitational pulls of the moon and sun. Tidal waters end where the rise and fall of the water surface can no longer be practically measured in a predictable rhythm due to masking by hydrologic, wind, or other effects.
+[88 FR 3142, Jan. 18, 2023, as amended at 88 FR 61968, Sept. 8, 2023]
+
+SOURCE: https://www.govinfo.gov/content/pkg/FR-2025-11-20/html/2025-20402.htm RETRIEVED: 2026-09-24
+Excerpt, 90 FR 52498 (Nov. 20, 2025), proposed rule:
+[Federal Register Volume 90, Number 222 (Thursday, November 20, 2025)] [Proposed Rules] [Pages 52498-52546] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2025-20402]
+
+[[Page 52497]]
+
+Vol. 90
+
+Thursday,
+
+No. 222
+
+November 20, 2025
+
+Part II
+
+Department of Defense
+
+-----------------------------------------------------------------------
+
+Department of the Army, Corps of Engineers
+
+-----------------------------------------------------------------------
+
+Environmental Protection Agency
+
+-----------------------------------------------------------------------
+
+33 CFR Part 328
+
+40 CFR Part 120
+
+Finally, the agencies removed ``interstate wetlands'' from the 2023 Rule to conform with the decision in Sackett. Id. at 61966. The Supreme Court in Sackett examined the Clean Water Act and its statutory history and found the predecessor statute to the Clean Water Act covered and defined ``interstate waters'' as ``all rivers, lakes, and other waters that flow across or form a part of State boundaries.'' 598 U.S. at 673 (citing 33 U.S.C. 1160(a), 1173(e) (1970 ed.)) (emphasis in original). The Court concluded that the use of the term ``waters'' refers to such ``open waters'' and not wetlands. Id. As a result, under Sackett, the provision authorizing the assertion of Clean Water Act jurisdiction over wetlands simply because they are interstate is invalid. 88 FR 61966. 5. Current Applicable Regulatory Regimes As noted above, the agencies refer to the regulations defining ``waters of the United States'' under the 2023 Rule, as amended by the Conforming Rule, as the ``Amended 2023 Rule.'' The Amended 2023 Rule is the regulatory regime that is currently codified in the Code of Federal Regulations and that serves as the baseline for the regulatory impact analysis for this proposal. In this action, the agencies are proposing to revise the Amended 2023 Rule. Due to preliminary injunctions of the Amended 2023 Rule in several States, the agencies are implementing two regulatory regimes across the country as of the signature date of this proposed rule.\39\ The EPA and the Army are implementing the Amended 2023 Rule in 24 States, the District of Columbia, and the U.S. Territories. In the other 26 States, the agencies are interpreting ``waters of the United States'' consistent with the pre-2015 regulatory regime and the Supreme Court's Sackett decision.\40\ ---------------------------------------------------------------------------
+
+\39\ States and business groups challenged the 2023 Rule in three courts. Two district courts preliminarily enjoined the 2023 Rule as to the plaintiff-States. Texas v. EPA, 662 F. Supp. 3d 739 (S.D. Tex. 2023); West Virginia v. EPA, 669 F. Supp. 3d 781 (D.N.D. 2023). The Eastern District of Kentucky dismissed on standing and ripeness grounds. Kentucky v. EPA, No. 3:23-cv-7 (E.D. Ky. Mar. 31, 2023). Subsequently, the Sixth Circuit granted an injunction pending appeal of the Eastern District of Kentucky's order to Kentucky and business plaintiffs, which dissolved when the Sixth Circuit's mandate issued on September 23, 2024, following the Sixth Circuit's ruling vacating and remanding the district court's dismissal. Order, Kentucky v. EPA, No. 23-5345, ECF No. 28 (6th Cir. May 10, 2023); Opinion, Kentucky v. EPA, No. 23-5345, ECF No. 56-2 (6th Cir. July 29, 2024); Mandate Issued, Kentucky v. EPA, No. 23-5345, ECF No. 57 (6th Cir. Sept. 23, 2024). Kentucky then amended its complaint, and the business plaintiffs filed a notice of voluntary dismissal. Amended Complaint, Kentucky v. EPA, No. 3:23-cv-7, ECF No. 78 (E.D. Ky. Nov. 8, 2024); Notice of Voluntary Dismissal, Kentucky v. EPA, No. 3:23-cv-7, ECF No. 73 (E.D. Ky. Oct. 4, 2024). While these cases were pending, the Supreme Court decided Sackett and the agencies issued the Conforming Rule. After the agencies issued the Conforming Rule, plaintiffs challenging the 2023 Rule amended their complaints to challenge the Amended 2023 Rule and certain aspects of the Conforming Rule and 2023 Rule. See also White v. EPA, No. 24-00013 (E.D.N.C.); White v. EPA, No. 24-1635 (4th Cir.). As of the signature date of this proposed rule, this ongoing litigation is in abeyance. \40\ The latest information on the status of this litigation can be found on the EPA's Rule Status and Litigation Update web page at https://www.epa.gov/wotus/definition-waters-united-states-rule-status-and-litigation-update. ---------------------------------------------------------------------------
+
+SOURCE: https://www.govinfo.gov/content/pkg/FR-2026-09-09/html/2026-18317.htm RETRIEVED: 2026-09-24
+Excerpt, 91 FR 57284 (Sept. 9, 2026), supplemental notice of proposed rulemaking:
+[Federal Register Volume 91, Number 173 (Wednesday, September 9, 2026)] [Proposed Rules] [Pages 57284-57301] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2026-18317]
+
+======================================================================= -----------------------------------------------------------------------
+
+DEPARTMENT OF DEFENSE
+
+Department of the Army, Corps of Engineers
+
+33 CFR Part 328
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 120
+
+[EPA-HQ-OW-2025-0322; FRL 11132.1-04-OW] RIN 2040-AG44
+
+Updated Definition of ``Waters of the United States''
+
+AGENCY: Department of Defense, Department of the Army, Corps of Engineers; U.S. Environmental Protection Agency (EPA).
+
+ACTION: Supplemental notice of proposed rulemaking.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The purpose of this supplemental notice of proposed rulemaking is for the U.S. Environmental Protection Agency (EPA) and the Department of the Army (``the agencies'') to supplement and seek additional comment on certain aspects of an earlier proposal, published on November 20, 2025, to revise the regulations defining the scope of waters federally covered under the Clean Water Act in light of the U.S. Supreme Court's 2023 decision in Sackett v. Environmental Protection Agency. As stated in the agencies' November 20, 2025 Notice of Proposed Rulemaking (NPRM), the agencies intend for this rulemaking to provide greater regulatory certainty and increase Clean Water Act program predictability and consistency by clarifying the definition of ``waters of the United States.'' After consideration of the public comments received on the NPRM, the agencies are issuing this notice to supplement the NPRM with additional regulatory options on certain aspects of the proposed rule.
+
+DATES: Comments must be received on or before October 9, 2026.
+
+ADDRESSES: You may send comments, identified by Docket ID No. EPA-HQ- OW-2025-0322, by any of the following methods: Federal eRulemaking Portal: https://www.regulations.gov/ (our preferred method). Follow the online instructions for submitting comments. Email: [email protected]. Include Docket ID No. EPA-HQ-OW- 2025-0322 in the subject line of the message. Mail: U.S. Environmental Protection Agency, EPA Docket Center,
+

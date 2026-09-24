@@ -1,0 +1,157 @@
+SOURCE: https://www.ecfr.gov/api/versioner/v1/full/2026-09-22/title-43.xml?part=429 RETRIEVED: 2026-09-24
+eCFR text current as of 2026-09-22. Excerpt: 429.1 through 429.7, 429.10, 429.27 through 429.30.
+PART 429—USE OF BUREAU OF RECLAMATION LAND, FACILITIES, AND WATERBODIES
+Authority:43 U.S.C. 373; 43 U.S.C. 373b; 43 U.S.C. 387; 43 CFR part 21; Public Law 108-447, Title VIII; 31 U.S.C. 9701, as amended.
+Source:73 FR 74335, Dec. 5, 2008, unless otherwise noted.
+Subpart A—Purpose, Definitions, and Applicability
+§ 429.1 What is the purpose of this part?
+The purpose of this part is to notify the public that any possession or occupancy of any portion of, and the extraction or disturbance of any natural resources from Reclamation land, facilities, or waterbodies are prohibited without written authorization from Reclamation, unless excepted as listed in § 429.4. This part describes:
+(a) How to apply to Reclamation for a use authorization to allow your activity on Reclamation land, facilities, and waterbodies;
+(b) How Reclamation reviews and processes your application, including the criteria for approval or denial of your application;
+(c) The requirement for collection of application and use fees and the recovery of administrative costs;
+(d) How Reclamation determines and collects costs and fees;
+(e) Prohibited uses on Reclamation land, facilities, and waterbodies;
+(f) How Reclamation will address existing authorized uses which are otherwise prohibited, including the criteria for approval or denial of requests to renew these use authorizations;
+(g) The process and penalties associated with resolution of unauthorized uses; and
+(h) How to appeal an action or determination made under this part.
+§ 429.2 What definitions are used in this part?
+The following definitions are used in this part:
+Administrative costs means all costs incurred by Reclamation in processing your application and all costs associated with evaluating, issuing, monitoring, and terminating your use authorization on Reclamation land, facilities, and waterbodies. Administrative costs are distinct and separate from application and use fees and typically include, but are not limited to:
+(1) Determining the use fee;
+(2) Evaluating and documenting environmental and cultural resources compliance;
+(3) Performing engineering review;
+(4) Preparation of the use authorization; and
+(5) Personnel and indirect costs directly associated with these actions.
+Applicant means you as any person or entity (such as a private citizen, business, non-governmental organization, public entity, Indian tribe, or foreign government) who submits an application requesting use of Reclamation land, facilities, and waterbodies.
+Application means either Form 7-2540 or SF 299. The choice of application form is dependent on the type of use requested.
+Application fee means a $100 nonrefundable charge, which you must submit with your application to cover the costs of our initial review of your request. Application fees are distinct and separate from administrative costs and use fees.
+Commissioner means the senior executive of the Bureau of Reclamation, Department of the Interior.
+Consent document means a written agreement or notification listing conditions which will prevent unreasonable interference with our easement on non-Reclamation land.
+Cultural resource means any prehistoric, historic, architectural, sacred, or traditional cultural property and associated objects and documents that are of interest to archaeology, anthropology, history, or other associated disciplines. Cultural resources include archaeological resources, historic properties, traditional cultural properties, sacred sites, and cultural landscapes that are associated with human activity or occupation.
+Easement refers to an interest in land that consists of the right to use or control the land for a specific purpose, but does not constitute full ownership of the land.
+Environmental compliance means complying with the requirements of the National Environmental Policy Act; the Endangered Species Act; the Clean Water Act; the Clean Air Act; the Comprehensive Environmental Response, Compensation, and Liability Act; applicable regulations associated with these statutes; and other related laws and regulations.
+Form 7-2540 means the Bureau of Reclamation Right-of-Use Application form required for all proposed uses of Reclamation land, facilities, and waterbodies, except those associated with construction and/or placement of transportation, communication, and utility systems and facilities.
+Grantee means you as the recipient or holder of a use authorization regardless of the contractual format.
+Interior means the United States Department of the Interior.
+Managing partner means a Federal or non-Federal public entity that manages land, facilities, or waterbodies through a management agreement with Reclamation entered into pursuant to the Federal Water Project Recreation Act, as amended.
+Part 21 of this title means title 43 of the Code of Federal Regulations part 21, which is titled Occupancy of Cabin Sites on Public Conservation and Recreation Areas.
+Part 423 of this chapter means title 43 of the Code of Federal Regulations part 423, which is titled Public Conduct on Bureau of Reclamation Facilities, Lands, and Waterbodies.
+Possession or occupancy and possess or occupy mean to control, use, or reside on Reclamation land, facilities, or waterbodies.
+Private exclusive recreational or residential use means any use that involves structures or other improvements used for recreational or residential purposes to the exclusion of public uses that are not associated with the official management of a Reclamation project. This includes, but is not limited to the following:
+(1) Cabin sites and associated improvements (including those currently defined in part 21 of this title); mobile homes, residences, outbuildings, and related structures; and associated landscaping, patios, decks, and porches;
+(2) Boat houses, docks, moorings, piers, and launch ramps;
+(3) Floating structures or buildings, including moored vessels used as residences or unauthorized business sites;
+(4) Sites for such activities as hunting, fishing, camping, and picnicking (other than transitory uses allowed under part 423 of this chapter) that attempt to exclude general public access; and
+(5) Access routes to private land, facilities, or structures when other reasonable alternative means of access is available or can be obtained.
+Public entity means States, political subdivisions or agencies thereof; public and quasi-governmental authorities and agencies; and agencies of the Federal Government.
+Public needs mean the recreational requirements of the general public at areas where existing authorized private exclusive recreational or residential uses are present.
+Reclamation means the Bureau of Reclamation, United States Department of the Interior.
+Reclamation facility means any facility under our jurisdiction. The term includes, but is not limited to, buildings, canals, dams, ditches, drains, fish and wildlife facilities, laterals, powerplants, pumping plants, recreation facilities, roads, switchyards, transmission and telecommunication lines, and warehouses.
+Reclamation land means any land under the jurisdiction of, or administered by, Reclamation and may include, but is not limited to, the following:
+(1) All land acquired by Reclamation through purchase, condemnation, exchange, or donation for Reclamation project and water related purposes;
+(2) All land withdrawn by Reclamation from the public domain for Reclamation purposes; and
+(3) All interests in land acquired by Reclamation, including easements and rights exercised by the United States under the 1890 Canal Act (43 U.S.C. 945).
+Reclamation law means the Reclamation Act of June 17, 1902 (32 Stat. 388, 43 U.S.C. 371 et seq.), and all Acts which supplement or amend the 1902 Act.
+Reclamation project means any land, facilities, or waterbodies used for water supply, water delivery, flood control, hydropower, or other authorized purposes including fish, wildlife, and recreation administered by Reclamation under Federal laws.
+Reclamation waterbodies means any body of water situated on Reclamation land and under Reclamation jurisdiction. Examples of Reclamation waterbodies include, but are not limited to, reservoirs, lakes, and impoundments.
+Regional Director means any one of the representatives of the Commissioner, or their delegates, who are responsible for managing their respective region's land, facilities, and waterbodies and for the decisions made under this part.
+Standard Form (SF) 299 means the form titled Application for Transportation and Utility Systems and Facilities on Federal Lands used when requesting permission for construction and/or placement of transportation, communication, or utility systems and facilities.
+Unauthorized use means use of Reclamation land, facilities, and waterbodies without proper authorization.
+Use authorization means a document that defines the terms and conditions under which we will allow you to use Reclamation land, facilities, and waterbodies. Use authorizations can take the form of easements, leases, licenses, permits, and consent documents. This document is also referred to as a “right-of-use” in part 423 of this chapter.
+Use fee means the amount due to Reclamation for the use of Federal land, facilities, or waterbodies under our jurisdiction or control. Use fees are distinct and separate from application fees and administrative costs.
+Valuation means the method used to establish the fee for a use authorization by appraisal, waiver valuation, or other sound or generally accepted business practice.
+Water user organization means any legal entity established under State law that has entered into a contract with the United States pursuant to the Federal reclamation laws.
+We, us, or our mean Reclamation.
+You, your, I, me, or my, mean an applicant, grantee, or unauthorized user.
+§ 429.3 What types of uses are subject to the requirements and processes established under this part?
+Possession or occupancy of, or extraction or removal of natural resources from, Reclamation land, facilities, or waterbodies require a use authorization in accordance with this part. Typical uses of or activities on Reclamation land, facilities, or waterbodies regulated by this part include, but are not limited to the following:
+(a) Commercial filming and photography;
+(b) Commercial guiding and outfitting;
+(c) Commercial or organized sporting events;
+(d) Grazing, farming, and other agricultural uses;
+(e) Infrastructure, such as transportation, telecommunications, utilities, and pipelines;
+(f) Organized recreational activities, public gatherings, and other special events that involve the possession or occupancy of Reclamation lands;
+(g) Removal of, or exploration for, sand, gravel, and other mineral resources;
+(h) Timber harvesting, or removal of commercial forest products or other vegetative resources; and
+(i) Any other uses deemed appropriate by Reclamation, subject to the exclusions listed in § 429.4.
+§ 429.4 What types of uses are not subject to the requirements and processes established under this part?
+(a) Individual, non-commercial use of Reclamation land, facilities, or waterbodies for occasional activities such as hiking, camping for periods of 14 days or less during any period of 30 consecutive days, sightseeing, picnicking, hunting, swimming, boating, and fishing, consistent with applicable laws, regulations and policies. Public conduct associated with these activities is governed by part 423 of this chapter;
+(b) Buildings and structures used by concessionaires or managing partners to facilitate their operations or that are made available by them for the general, non-exclusive use of the public. Examples include, but are not limited to the following:
+(1) Boat docks available for short-term use by the public;
+(2) Marina slips available for rent by the public;
+(3) Publicly available boat ramps;
+(4) Houseboats available for short-term rent by the public;
+(5) Stores and restaurants;
+(6) Employee housing; and
+(7) Rental cabins, hotels, campgrounds, and other short-term lodging facilities.
+(c) While not subject to other requirements and processes established under this part, the following types of uses must be in compliance with the requirements in subpart H of this part:
+(1) Recreational activities at sites managed by non-Federal managing partners under Public Law 89-72, titled Federal Water Project Recreation Act, July 9, 1965;
+(2) Activities managed by other Federal agencies or Interior bureaus by agreement or under other authority;
+(3) Activities at sites directly managed by Reclamation where fees or fee schedules are established for general public recreation use;
+(4) Uses authorized under concession contracts on Reclamation land, facilities, and waterbodies;
+(5) Reclamation contracts for water supply or water operations;
+(6) Authorized operation and maintenance activities on Reclamation land, facilities, and waterbodies undertaken by water user organizations, or their contractors, or by Reclamation contractors;
+(7) Agreements and real property interests granted for the replacement or relocation of facilities, such as highways, railroads, telecommunication, or transmission lines or infrastructure governed by Section 14 of the Reclamation Project Act of August 4, 1939 (43 U.S.C. 389). Payments to equalize land values may still be required and administrative costs may still be recovered; and
+(8) Activities specifically authorized under other Federal statutes or regulations.
+§ 429.5 Who is authorized to issue use authorizations under this part?
+Unless otherwise provided by law or regulation, only Reclamation or another Federal agency acting for Reclamation under delegated authority is authorized to issue use authorizations that convey an interest in Reclamation land, facilities, or waterbodies. Recreation managing partners under the Federal Water Projects Recreation Act, 16 U.S.C. 4601 et seq., and water user organizations who have assumed responsibility for operation and maintenance of Reclamation land, facilities, or waterbodies, and provide a copy of the use authorization to the local Reclamation office, pursuant to a contract with Reclamation may issue limited use authorizations to third parties for activities on Reclamation land, facilities, or waterbodies when all of the following apply:
+(a) The recreation managing partner or water user organization is authorized to do so under its contract with Reclamation;
+(b) Such limited use authorizations do not convey ownership or other interest in the Federal real property;
+(c) The uses authorized are not permanent or for an indefinite period;
+(d) The limited use authorization does not provide for an automatic right of renewal;
+(e) The limited use authorization is fully revocable at the discretion of Reclamation; and
+(f) All revenues collected for the use of Reclamation land, facilities, and waterbodies are handled in compliance with all statutory, regulatory, and policy requirements.
+§ 429.6 When must water user organizations also approve use authorizations?
+(a) Use authorizations for easements and rights-of-way for periods in excess of 25 years are also subject to approval from water user organizations under contract obligation for repayment of the project or division. This requirement does not apply to any other type of use authorizations.
+(b) At a minimum, the appropriate water user organizations will be notified of all use authorizations prior to their issuance to avoid potential conflicts between the requested use authorization and the water user organizations' need to operate and maintain the facilities for which they have contractual responsibility.
+(c) At the discretion of the responsible Regional Director, concurrence of the appropriate water user organizations not addressed in paragraph (a) of this section may be requested.
+Subpart B—Proposed Uses Involving Reclamation Easements
+§ 429.7 Can I use land where Reclamation holds an easement?
+(a) To prevent conflicts where Reclamation holds an easement on land owned by others, you should submit an application for the proposed use. If after review of the application, Reclamation determines that your requested use would not unreasonably interfere with Reclamation's easement, a consent document may be issued to you. The consent document will contain the conditions with which you must comply to ensure that your use will not unreasonably interfere with Reclamation's use of its easement.
+(b) In accordance with subpart C of this part, you should submit either SF 299 or Form 7-2540 to the local Reclamation office to request a consent document.
+(c) If you are not the underlying landowner, you must also secure the permission of the landowner for your requested use of the area covered by Reclamation's easement.
+§ 429.8 Is there a fee for uses involving a Reclamation easement?
+Reclamation will not charge a use fee for a consent document. However, depending upon the complexity of your requested use and issues associated with it, Reclamation may charge an application fee and administrative costs, unless waived in accordance with subpart F of this part.
+§ 429.10 What application form should I use?
+You must use one of the following application forms depending on the nature of your requested use:
+(a) Use SF 299 to request a use authorization for the placement, construction, and use of energy, transportation, water, or telecommunication systems and facilities on or across all Federal property including Reclamation land, facilities, or waterbodies.
+Examples of such uses are:
+(1) Canals;
+(2) Communication towers;
+(3) Fiber-optics cable;
+(4) Pipelines;
+(5) Roads;
+(6) Telephone lines; and
+(7) Utilities and utility corridors.
+(b) Use Form 7-2540 to request any other type of use authorization. Examples of such uses are:
+(1) Commercial filming and photography;
+(2) Commercial guiding and outfitting;
+(3) Commercial or organized sporting events;
+(4) Grazing, farming, and other agricultural uses;
+(5) Organized recreational activities, public gatherings, and other special events;
+(6) Removal of, or exploration for, sand, gravel, and other mineral materials;
+(7) Timber harvesting, or removal of commercial forest products or other vegetative resources; and
+(8) Any other uses deemed appropriate by Reclamation.
+(c) Application forms may not be required where Reclamation solicits competitive bids.
+§ 429.27 What general information appears in use authorizations?
+Each use authorization will contain:
+(a) An adequate description of the land, facilities, or waterbodies where the use will occur;
+(b) A description of the specific use being authorized together with applicable restrictions or conditions that must be adhered to;
+(c) The conditions under which the use authorization may be renewed, terminated, amended, assigned or transferred, and/or have the use fee adjusted; and
+(d) Primary points of contact and other terms and conditions.
+§ 429.28 What terms and conditions apply to all use authorizations?
+(a) By accepting a use authorization under this part, you agree to comply with and be bound by the following terms and conditions during all construction, operation, maintenance, use, and termination activities:
+(1) The grantee agrees to indemnify the United States for, and hold the United States and all of its representatives harmless from, all damages resulting from suits, actions, or claims of any character brought on account of any injury to any person or property arising out of any act, omission, neglect, or misconduct in the manner or method of performing any construction, care, operation, maintenance, supervision, examination, inspection, or other activities of the grantee.
+(2) The United States, acting through Reclamation, Department of the Interior, reserves rights to construct, operate, and maintain public works now or hereafter authorized by the Congress without liability for termination of the use authorization or other damage to the grantee's activities or facilities.
+(3) Reclamation may, at any time and at no cost or liability to the United States, terminate any use authorization in the event of a natural disaster, a national emergency, a need arising from security requirements, or an immediate and overriding threat to public health and safety.
+(4) Reclamation may, at any time and at no cost or liability to the United States, terminate any use authorization for activities other than existing authorized private exclusive recreational or residential use as defined under § 429.2 if Reclamation determines that any of the following apply:
+(i) The use has become incompatible with authorized project purposes, project operations, safety, and security;
+(ii) A higher public use is identified through a public process described at § 429.32(a)(1); or
+(iii) Termination is necessary for operational needs of the project.
+(5) Reclamation may, at any time and at no cost or liability to the United States, terminate any use authorization if Reclamation determines that the grantee has failed to use the use authorization for its intended purpose. Further, failure to construct within the timeframe specified in the terms of the use authorization may constitute a presumption of abandonment of the requested use and cause termination of the use authorization.
+(6) Reclamation may, at any time and at no cost or liability to the United States, terminate any use authorization if the grantee fails to comply with all applicable Federal, State, and local laws, regulations, ordinances, or terms and conditions of any use authorization, or to obtain any required permits or authorizations.
+(b) The Regional Director may, upon advice of the Solicitor, modify these terms and conditions with respect to the contents of the use authorization to meet local and special conditions.
+§ 429.29 What other terms and conditions may be included in my use authorization?
+Reclamation may include additional terms, conditions, or requirements that address environmental law compliance, the protection of cultural and natural resources, other interests of the United States, and local laws and regulations.
+§ 429.30 May use authorizations be transferred or assigned to others?
+Your use authorization may not be transferred or assigned to others without prior written approval of Reclamation, unless specifically provided for in your use authorization or as provided under subpart H of this part for existing private exclusive recreational and residential uses. Should you wish to transfer or assign your use authorization to another individual or entity, you must contact the Reclamation office that issued your use authorization prior to taking such action.

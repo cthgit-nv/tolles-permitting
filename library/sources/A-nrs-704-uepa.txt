@@ -1,0 +1,159 @@
+SOURCE: https://www.leg.state.nv.us/NRS/NRS-704.html RETRIEVED: 2026-09-24
+NRS Chapter 704, NRS 704.820 to 704.900 (Utility Environmental Protection Act). Extracted from the Legislative Counsel Bureau HTML; typographic quotes and dashes normalized to ASCII.
+NRS 704.820  Short title.  NRS 704.820 to 704.900, inclusive, shall be known and may be cited as the Utility Environmental Protection Act.
+(Added to NRS by 1971, 554)
+NRS 704.825  Declaration of legislative findings and purpose.
+1.  The Legislature hereby finds and declares that:
+(a) There is at present and will continue to be a growing need for electric, gas and water services which will require the construction of new facilities. It is recognized that such facilities cannot be built without in some way affecting the physical environment where such facilities are located.
+(b) It is essential in the public interest to minimize any adverse effect upon the environment and upon the quality of life of the people of the State which such new facilities might cause.
+(c) Present laws and practices relating to the location of such utility facilities should be strengthened to protect environmental values and to take into account the total cost to society of such facilities.
+(d) Existing provisions of law may not provide adequate opportunity for natural persons, groups interested in conservation and the protection of the environment, state and regional agencies, local governments and other public bodies to participate in proceedings regarding the location and construction of major facilities.
+2.  The Legislature, therefore, hereby declares that it is the purpose of NRS 704.820 to 704.900, inclusive, to provide a forum for the expeditious resolution of all matters concerning the location and construction of electric, gas and water transmission lines and associated facilities.
+(Added to NRS by 1971, 554; A 1985, 2051; 1997, 489, 1914)
+NRS 704.830  Definitions.  As used in NRS 704.820 to 704.900, inclusive, unless the context otherwise requires, the words and terms defined in NRS 704.834 to 704.860, inclusive, have the meanings ascribed to them in those sections.
+(Added to NRS by 1971, 554; A 1973, 1263; 1985, 2298; 2001, 2986)
+NRS 704.834  "Appropriate federal agency" defined.  "Appropriate federal agency" means a federal agency responsible for the enforcement of environmental laws whose approval is required for the construction of a utility facility.
+(Added to NRS by 2001, 2984)
+NRS 704.840  "Commence to construct" defined.  "Commence to construct" means any clearing of land, excavation or other action which would adversely affect the natural environment of the site or route of a utility facility, but does not include changes needed for temporary use of sites or routes for nonutility purposes, or uses in securing geological data, including necessary borings to ascertain foundation conditions.
+(Added to NRS by 1971, 555)
+NRS 704.842  "Environmental review" defined.  "Environmental review" includes, without limitation, an environmental assessment and environmental impact statement.
+(Added to NRS by 2001, 2984)
+NRS 704.845  "Local government" defined.  "Local government" means any county, municipality, district, agency or other unit of local government in Nevada.
+(Added to NRS by 1971, 555; A 1991, 376)
+NRS 704.848  "Other permitting entity" defined.
+1.  "Other permitting entity" means any state or local entity:
+(a) That is responsible for the enforcement of environmental laws and whose approval is required for the construction of a utility facility, including, without limitation, the State Environmental Commission, the State Department of Conservation and Natural Resources and a local air pollution control board; or
+(b) Whose approval is required for granting any variance, special use permit, conditional use permit or other special exception under NRS 278.010 to 278.319, inclusive, or 278.640 to 278.675, inclusive, or any regulation or ordinance adopted pursuant thereto, that is required for the construction of a utility facility.
+2.  The term does not include the Commission or the State Engineer.
+(Added to NRS by 2001, 2984; A 2013, 3211)
+NRS 704.850  "Person" defined.  "Person" includes a natural person, corporation, partnership, public utility, government, governmental agency, political subdivision of a government and any other entity that seeks to construct a utility facility.
+(Added to NRS by 1971, 555; A 1985, 539; 1997, 1914)
+NRS 704.855  "Public utility" and "utility" defined.
+1.  "Public utility" or "utility" includes those public utilities defined in NRS 704.020 and not excluded by NRS 704.021 and any oil pipeline carrier described and regulated under chapter 708 of NRS.
+2.  "Public utility" does not include plants or equipment used to generate electrical energy that is wholly consumed on the premises of and by the producer thereof.
+(Added to NRS by 1971, 555; A 1973, 1035; 1983, 2003; 1985, 2051, 2298; 1987, 288; 1997, 1914)
+NRS 704.860  "Utility facility" defined.  "Utility facility" means:
+1.  Electric generating plants and their associated facilities, except electric generating plants and their associated facilities which use or will use renewable energy, as defined in NRS 704.7715, as their primary source of energy to generate electricity and which have or will have a nameplate capacity of not more than 70 megawatts, including, without limitation, a net metering system, as defined in NRS 704.771. As used in this subsection, "associated facilities" includes, without limitation, any facilities for the storage, transmission or treatment of water, including, without limitation, facilities to supply water or for the treatment or disposal of wastewater, which support or service an electric generating plant.
+2.  Electric transmission lines and transmission substations that:
+(a) Are designed to operate at 200 kilovolts or more;
+(b) Are not required by local ordinance to be placed underground; and
+(c) Are constructed outside any incorporated city.
+3.  Gas transmission lines, storage plants, compressor stations and their associated facilities when constructed outside any incorporated city.
+4.  Water storage, transmission and treatment facilities, other than facilities for the storage, transmission or treatment of water from mining operations.
+5.  Sewer transmission and treatment facilities.
+(Added to NRS by 1971, 555; A 1979, 671; 1985, 2051; 1991, 376; 1997, 489, 1915; 2001, 2986; 2005, 1818; 2007, 1774, 3007; 2009, 2752; 2019, 25)
+NRS 704.863  Applicability.
+1.  Notwithstanding any specific statute, regulation or ordinance to the contrary, the process for the issuance by the Commission or any other permitting entity of a permit, license or other approval for the construction of a utility facility which is subject to the provisions of NRS 704.820 to 704.900, inclusive, must be conducted in accordance with those provisions.
+2.  No provision of NRS 704.820 to 704.900, inclusive, exempts or is intended to exempt the construction of a utility facility from any requirements that are or may be imposed on the construction of the utility facility by the Federal Government.
+(Added to NRS by 2001, 2985)
+NRS 704.865  Permit required to construct utility facility; transfer of permit; exemptions; waiver of exemption.
+1.  A person, other than a local government, shall not commence to construct a utility facility in the State without first having obtained a permit therefor from the Commission. The replacement of an existing facility with a like facility, as determined by the Commission, does not constitute construction of a utility facility. Any facility, with respect to which a permit is required, must thereafter be constructed, operated and maintained in conformity with the permit and any terms, conditions and modifications contained therein. A permit may only be issued pursuant to NRS 704.820 to 704.900, inclusive. Any authorization relating to a utility facility granted under other laws administered by the Commission constitutes a permit under those sections if the requirements of those sections have been complied with in the proceedings leading to the granting of the authorization.
+2.  A permit may be transferred, subject to the approval of the Commission, to a person who agrees to comply with the terms, conditions and modifications contained therein.
+3.  NRS 704.820 to 704.900, inclusive, do not apply to any utility facility:
+(a) For which, before July 1, 1971, an application for the approval of the facility has been made to any federal, state, regional or local governmental agency which possesses the jurisdiction to consider the matters prescribed for finding and determination in NRS 704.890;
+(b) For which, before July 1, 1971, a governmental agency has approved the construction of the facility and the person has incurred indebtedness to finance all or part of the cost of the construction;
+(c) Over which an agency of the Federal Government has exclusive jurisdiction; or
+(d) Owned by a supplier of services described in NRS 704.673 or 704.675 that:
+(1) Is not jointly owned by or with an entity that is not such a supplier of services; and
+(2) Is subject to the provisions of the National Environmental Policy Act of 1969, 42 U.S.C. §§ 4321 et seq.
+4.  Any person intending to construct a utility facility excluded from NRS 704.820 to 704.900, inclusive, pursuant to paragraph (a) or (b) of subsection 3 may elect to waive the exclusion by delivering notice of its waiver to the Commission. NRS 704.820 to 704.900, inclusive, thereafter apply to each utility facility identified in the notice from the date of its receipt by the Commission.
+(Added to NRS by 1971, 555; A 1985, 2299; 1991, 376; 2007, 832)
+NRS 704.870  Requirements for filing application: Form and contents; procedure when federal agency is required to conduct environmental analysis; time for filing application; service; public notice.
+1.  Except as otherwise provided in subsection 2, a person who wishes to obtain a permit for a utility facility must file with the Commission an application, in such form as the Commission prescribes, containing:
+(a) A description of the location and of the utility facility to be built thereon;
+(b) A summary of any studies which have been made of the environmental impact of the facility;
+(c) A description of any reasonable alternate location or locations for the proposed facility, a description of the comparative merits or detriments of each location submitted, and a statement of the reasons why the primary proposed location is best suited for the facility; and
+(d) A surplus asset retirement plan as described in subsection 2 of NRS 704.734 for the decommissioning, removal, remediation and disposition of the utility facility after it ceases to operate, including a description of the manner in which the plan will be funded.
+A copy or copies of the studies referred to in paragraph (b) must be filed with the Commission and be available for public inspection.
+2.  If a person wishes to obtain a permit for a utility facility and a federal agency is required to conduct an environmental analysis of the proposed utility facility, the person must:
+(a) Not later than the date on which the person files with the appropriate federal agency an application for approval for the construction of the utility facility, file with the Commission and each other permitting entity a notice, in such a form as the Commission or other permitting entity prescribes; and
+(b) Not later than 30 days after the issuance by the appropriate federal agency of either the final environmental assessment or final environmental impact statement, but not the record of decision or similar document, relating to the construction of the utility facility:
+(1) File with the Commission an application that complies with the provisions of subsection 1; and
+(2) File with each other permitting entity an application for a permit, license or other approval for the construction of the utility facility.
+3.  A copy of each application filed with the Commission must be filed with the Administrator of the Division of Environmental Protection of the State Department of Conservation and Natural Resources.
+4.  Each application filed with the Commission must be accompanied by:
+(a) Proof of service of a copy of the application on the clerk of each local government in the area in which any portion of the facility is to be located, both as primarily and as alternatively proposed; and
+(b) Proof that public notice thereof was given to persons residing in the municipalities entitled to receive notice pursuant to paragraph (a) by the publication of a summary of the application in newspapers published and distributed in the area in which the utility facility is proposed to be located.
+5.  Not later than 5 business days after the Commission receives an application pursuant to this section, the Commission shall issue a notice concerning the application. Any person who wishes to become a party to a permit proceeding pursuant to NRS 704.885 must file with the Commission the appropriate document required by NRS 704.885 within the time frame set forth in the notice issued by the Commission pursuant to this subsection.
+(Added to NRS by 1971, 556; A 1973, 1263; 1981, 662; 1985, 2299; 1997, 5, 1915; 2001, 2987; 2003, 1258; 2013, 3211; 2015, 2217)
+NRS 704.871  Approval of application for utility facility not intended to serve customers in State.  If the Commission approves an application submitted by a public utility pursuant to NRS 704.820 to 704.900, inclusive, for a utility facility which is not intended to serve customers in this State and the cost of which will not be included in the rates of that public utility, the public utility is not required to include the utility facility in any plan filed pursuant to NRS 704.741.
+(Added to NRS by 2013, 3210)
+NRS 704.873  Commission has exclusive jurisdiction to determine need for utility facilities of certain public utilities; other permitting entities precluded from considering need.  If a public utility that is subject to the provisions of NRS 704.736 to 704.754, inclusive, applies to the Commission for a permit for the construction of a utility facility:
+1.  The Commission has exclusive jurisdiction with regard to the determination of whether a need exists for the utility facility; and
+2.  No other permitting entity may consider, in its review of any application for a permit, license or other approval for the construction of the utility facility, whether a need exists for the utility facility.
+(Added to NRS by 2001, 2985; A 2009, 1000)
+NRS 704.875  Review of application by Division of Environmental Protection of State Department of Conservation and Natural Resources.  The Division of Environmental Protection of the State Department of Conservation and Natural Resources shall review each application filed and may participate in any proceeding held pursuant to NRS 704.880.
+(Added to NRS by 1971, 556; A 1973, 1264; 1997, 6)
+NRS 704.877  Duty to accept and incorporate findings and conclusions of environmental review that already has been conducted; duplicative review prohibited; exception; duty to cooperate and coordinate to avoid duplication of activities.
+1.  Except as otherwise provided in this subsection, if an environmental review relating to the construction of a utility facility in its entirety, or to the construction of any portion of a utility facility, has already been conducted by an appropriate federal agency or by a state, regional or local agency, the Commission and each other permitting entity:
+(a) Shall accept and incorporate the findings and conclusions made in that review into any application for a permit, license or other approval for the construction of the utility facility which is filed with the Commission or other permitting entity; and
+(b) Shall not conduct any duplicative environmental review on the application.
+The Commission or other permitting entity need not comply with the provisions of this subsection if the Commission or other permitting entity has already completed its own environmental review.
+2.  The Commission and other permitting entities shall cooperate with each other and the appropriate federal agencies on applications for permits, licenses and other approvals to construct a utility facility and coordinate their activities, including, without limitation, conducting hearings or environmental reviews, to avoid duplication of activities.
+(Added to NRS by 2001, 2985)
+NRS 704.880  Power of Commission to dispense with hearing for certain applications; practice and procedure at hearings.  The Commission, in its discretion, may dispense with the hearing on the application if, upon the expiration of the time fixed in the notice thereof, no protest against the granting of the permit has been filed by or in behalf of any interested party. The conduct of the hearing shall be the same as set forth in the applicable Rules of Practice and Procedure before the Commission.
+(Added to NRS by 1971, 556)
+NRS 704.885  Parties to proceeding for permit; limited appearance; intervention.
+1.  The parties to a permit proceeding include:
+(a) The applicant.
+(b) The Division of Environmental Protection of the State Department of Conservation and Natural Resources.
+(c) Each local government entitled to receive service of a copy of the application pursuant to subsection 4 of NRS 704.870, if it has filed with the Commission a notice of intervention as a party, within the time frame established by the Commission pursuant to subsection 5 of NRS 704.870.
+(d) Any natural person residing in a local government entitled to receive service of a copy of the application pursuant to subsection 4 of NRS 704.870, if such a person has petitioned the Commission for leave to intervene as a party within the time frame established by the Commission pursuant to subsection 5 of NRS 704.870 and if the petition has been granted by the Commission for good cause shown.
+(e) Any domestic nonprofit corporation or association, formed in whole or in part to promote conservation of natural beauty, to protect the environment, personal health or other biological values, to preserve historical sites, to promote consumer interests, to represent commercial and industrial groups, or to promote the orderly development of the areas in which the facility is to be located, if it has filed with the Commission a notice of intent to be a party within the time frame established by the Commission pursuant to subsection 5 of NRS 704.870.
+2.  Any person may make a limited appearance in the proceeding by filing a statement of position within the time frame established by the Commission pursuant to subsection 5 of NRS 704.870. A statement filed by a person making a limited appearance becomes part of the record. No person making a limited appearance has the right to present oral testimony or cross-examine witnesses.
+3.  The Commission may, for good cause shown, grant a petition for leave to intervene as a party to participate in subsequent phases of the proceeding, filed by a municipality, government agency, person or organization who is identified in paragraph (c), (d) or (e) of subsection 1, but who failed to file in a timely manner a notice of intervention, a petition for leave to intervene or a notice of intent to be a party, as the case may be.
+(Added to NRS by 1971, 556; A 1973, 910, 1265, 1837; 1977, 215; 1985, 2300; 1997, 6, 1916; 2001, 2987; 2003, 1259)
+NRS 704.890  Grant or denial of permit: Required findings; conditions and modifications.
+1.  Except as otherwise provided in subsection 3, the Commission may not grant a permit for the construction, operation and maintenance of a utility facility, either as proposed or as modified by the Commission, to a person unless it finds and determines:
+(a) The nature of the probable effect on the environment;
+(b) If the utility facility emits greenhouse gases and does not use renewable energy as its primary source of energy to generate electricity, the extent to which the facility is needed to ensure reliable utility service to customers in this State;
+(c) That the need for the facility balances any adverse effect on the environment;
+(d) That the facility represents the minimum adverse effect on the environment, considering the state of available technology and the nature and economics of the various alternatives;
+(e) That the location of the facility as proposed conforms to applicable state and local laws and regulations issued thereunder and the applicant has obtained, or is in the process of obtaining, all other permits, licenses, registrations and approvals required by federal, state and local statutes, regulations and ordinances;
+(f) That the surplus asset retirement plan filed pursuant to NRS 704.870:
+(1) Complies with federal, state and local laws;
+(2) Provides for the remediation and reuse of the facility within a reasonable period; and
+(3) Is able to be reasonably completed under the funding plan contained in the application; and
+(g) That the facility will serve the public interest.
+2.  If the Commission determines that the location of all or a part of the proposed facility should be modified, it may condition its permit upon such a modification. If the applicant has not obtained all the other permits, licenses, registrations and approvals required by federal, state and local statutes, regulations and ordinances as of the date on which the Commission decides to issue a permit, the Commission shall condition its permit upon the applicant obtaining those permits and approvals.
+3.  The requirements set forth in paragraph (g) of subsection 1 do not apply to any application for a permit which is filed by a state government or political subdivision thereof.
+4.  As used in this section, "renewable energy" has the meaning ascribed to it in NRS 704.7715.
+(Added to NRS by 1971, 557; A 1983, 887; 1985, 2301; 1997, 1916; 2001, 2988; 2009, 2753; 2015, 2218; 2019, 25)
+NRS 704.8905  Grant or denial of application: Time within which Commission and other permitting entities must act; determination upon record; terms, conditions and modifications; service of Commission order.
+1.  Except as otherwise required to comply with federal law:
+(a) Not later than 150 days after a person has filed an application regarding a utility facility pursuant to subsection 1 of NRS 704.870:
+(1) The Commission shall grant or deny approval of that application; and
+(2) Each other permitting entity shall, if an application for a permit, license or other approval for the construction of the utility facility was filed with the other permitting entity on or before the date on which the applicant filed the application pursuant to subsection 1 of NRS 704.870, grant or deny the application filed with the other permitting entity.
+(b) Not later than 120 days after a person has filed an application regarding a utility facility pursuant to subsection 2 of NRS 704.870:
+(1) The Commission shall grant or deny approval of the application; and
+(2) Each other permitting entity shall, if an application for a permit, license or other approval for the construction of the utility facility was filed with the other permitting entity on or before the date on which the applicant filed with the appropriate federal agency an application for approval for the construction of the utility facility, grant or deny the application filed with the other permitting entity.
+2.  The Commission or other permitting entity shall make its determination upon the record and may grant or deny the application as filed, or grant the application upon such terms, conditions or modifications of the construction, operation or maintenance of the utility facility as the Commission or other permitting entity deems appropriate.
+3.  The Commission shall serve a copy of its order and any opinion issued with it upon each party to the proceeding before the Commission.
+(Added to NRS by 2001, 2985; A 2013, 3212)
+NRS 704.891  Reports to be filed with Commission by person holding permit who is not public utility.  
+1.  Any person other than a public utility who receives a permit issued by the Commission pursuant to NRS 704.820 to 704.900, inclusive, shall, as provided in subsection 2, file with the Commission reports which contain:
+(a) The location, nature and capacity of that facility;
+(b) The anticipated date for commercial operation of that facility;
+(c) Information regarding whether any public utility in this state has contracted for the purchase of the capacity or other services of that facility; and
+(d) Information regarding whether any capacity or other services of that facility is available for purchase by public utilities in this state.
+2.  The reports required by subsection 1 must be filed:
+(a) On or before the date on which construction of a utility facility is commenced; and
+(b) On a date not later than:
+(1) Twelve months before the scheduled date of commercial operation of that facility; or
+(2) Thirty days before the actual date of commercial operation of that facility,
+whichever is earlier.
+(Added to NRS by 1985, 2297; A 1997, 1917; 2001, 2989)
+NRS 704.893  Limitations on purchase of capacity of utility facility by certain public utilities.  No public utility which has a parent or an affiliated corporation or a subsidiary of that parent or affiliated corporation with an interest in the ownership of a utility facility, may purchase or contract for the capacity of that facility unless the purchase or the contract has been reviewed and approved by the Commission in a manner consistent with the provisions of NRS 704.736 to 704.754, inclusive.
+(Added to NRS by 1985, 2297)
+NRS 704.895  Rehearing; judicial review.
+1.  Any party aggrieved by any order issued by the Commission on an application for a permit may apply for a rehearing within 15 days after issuance of the order. Any party aggrieved by the final order of the Commission on rehearing may obtain judicial review thereof by filing a complaint in a district court within 30 days after the issuance of such final order. Upon receipt of such complaint, the Commission shall forthwith deliver to the court a copy of the written transcript of the record of the proceeding before it and a copy of its decision and opinion entered therein, which constitutes the record on judicial review.
+2.  The grounds for and the scope for review of the court are limited to whether the opinion and order of the Commission are:
+(a) In conformity with the Constitution and the laws of the State of Nevada and of the United States;
+(b) Supported by substantial evidence in the record;
+(c) Made in accordance with the procedures set forth in NRS 704.820 to 704.900, inclusive, or established order, rule or regulation of the Commission; and
+(d) Arbitrary, capricious or an abuse of discretion.
+(Added to NRS by 1971, 558; A 2001, 2989)
+NRS 704.897  Effect of provisions on jurisdiction of Commission over public utilities serving retail customers in State.  Nothing in the provisions of NRS 704.820 to 704.900, inclusive, may be construed as limiting the jurisdiction of the Commission over public utilities which serve retail customers in this state.
+(Added to NRS by 1985, 2297)
+NRS 704.900  Cooperation with other states and Federal Government.  The Commission, in the discharge of its duties under NRS 704.820 to 704.900, inclusive, or any other law, shall, to the extent practicable, make joint investigations, hold joint hearings within or without the State, and issue joint or concurrent orders in conjunction or concurrence with any official or agency of any state or of the United States, whether in the holding of such investigations or hearings, or in the making of such orders, the Commission functions under agreements or compacts between states or under the concurrent power of states to regulate interstate commerce, or as an agency of the United States, or otherwise. The Commission may, in the discharge of its duties under NRS 704.820 to 704.900, inclusive, negotiate and enter into agreements or compacts with agencies of other states, pursuant to any consent of the Congress, for cooperative efforts in permitting the construction, operation and maintenance of utility facilities in accord with the purposes of NRS 704.820 to 704.900, inclusive, and for the enforcement of the respective state laws regarding them.
+(Added to NRS by 1971, 558; A 2001, 2990)

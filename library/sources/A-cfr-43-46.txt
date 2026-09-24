@@ -1,0 +1,160 @@
+SOURCE: https://www.ecfr.gov/api/versioner/v1/full/2026-09-22/title-43.xml?part=46 RETRIEVED: 2026-09-24
+eCFR text of 43 CFR Part 46 current as of 2026-09-22 (entire part)
+PART 46—IMPLEMENTATION OF THE NATIONAL ENVIRONMENTAL POLICY ACT OF 1969
+Authority:42 U.S.C. 4321-4347.
+Source:91 FR 8758, Feb. 24, 2026, unless otherwise noted.
+Subpart A [Reserved]
+Subpart B—Protection and Enhancement of Environmental Quality
+§ 46.105 Using a bureau-directed contractor to prepare environmental documents.
+(a) A Responsible Official may use a bureau-directed contractor to prepare any environmental document.
+(b) If a Responsible Official uses a bureau-directed contractor, the Responsible Official remains responsible for:
+(1) Preparation and adequacy of the environmental documents; and
+(2) Independent evaluation of the environmental documents after their completion. The Responsible Official must briefly document the bureau's evaluation of the environmental document and ensure that it meets the standards under NEPA, this Part, and any Departmental or bureau-specific procedures or guidance.
+(c) The Responsible Official shall require any bureau-directed contractor preparing an environmental document to submit a professional integrity statement certifying that the environmental document is prepared with professional and scientific integrity, using reliable data and resources, consistent with 42 U.S.C. 4332(2)(E) and Secretary's Order 3441, Implementing the Requirements of Executive Order 14303, Restoring Gold Standard Science and meets bureau needs for decision-making. In addition, the Responsible Official shall require any bureau-directed contractor preparing an environmental document to submit a disclosure statement specifying that the contractor has no financial or other interest in the outcome of the action.
+§ 46.107 Procedures for applicant-prepared environmental impact statements and environmental assessments.
+In accordance with NEPA section 107(f), 42 U.S.C. 4336a(f), the following procedures are established for bureaus to allow applicants, or contractors directed by applicants, to prepare environmental impact statements and environmental assessments under bureau supervision when the bureau is the Federal lead agency.
+(a) A Responsible Official has discretion to allow an applicant or applicant-directed contractor to prepare an environmental impact statement or an environmental assessment (including analysis supporting these documents). A bureau may request more information, revise analysis methodologies, or choose not to use an environmental impact statement or an environmental assessment prepared by an applicant or its contractor at any time.
+(b) Applicants or applicant-directed contractors may not prepare decision documents, including records of decision.
+(c) The Responsible Official remains responsible for the accuracy, scope, and content of the environmental impact statement or environmental assessment and must independently evaluate and approve each such analysis before the bureau may use it. To maintain the scientific quality and integrity of the impact assessment, if in-house expertise is not available for the technical evaluations, another bureau or cooperating agency may be relied on, as needed, to verify the analyses.
+(d) Prior to a Responsible Official initiating the preparation of an environmental impact statement or an environmental assessment proposed to be prepared by an applicant or an applicant-directed contractor, the bureau must engage with the applicant and provide written documentation outlining the bureau's expectations regarding roles, responsibilities, the project schedule, coordination, deliverables (including draft and final documents), and supervision. Such engagement must occur within 30 days of the date initiating the preparation of an environmental impact statement or an environmental assessment.
+(e) If a Responsible Official uses information from an applicant or applicant-directed contractor to prepare an environmental impact statement or environmental assessment, the bureau must independently evaluate and provide written concurrence to the applicant or applicant-directed contractor documenting that the information submitted meets the standards under NEPA, this Part, and any Departmental or bureau-specific NEPA procedures or guidance. If a Responsible Official uses any of the following information prepared by an applicant or applicant-directed contractor in initiating a review, such information must be submitted in writing to the Responsible Official for independent evaluation prior to initiating the NEPA process:
+(1) The purpose and need for the proposed action;
+(2) The proposed action and reasonable alternatives to the proposed action;
+(3) A community and stakeholder engagement plan;
+(4) Anticipated permits and authorizations required for the proposed action;
+(5) Anticipated cooperating agencies;
+(6) The process for consultations with relevant Federal agencies and State, Tribal, and local governments to ensure compliance with environmental laws and regulations.
+(7) Anticipated issues and resources to be analyzed in the environmental impact statement or environmental assessment, and summary of analysis methodology, as applicable; and
+(8) Schedule.
+(f) If a Responsible Official uses an environmental impact statement or environmental assessment prepared by an applicant or applicant-directed contractor, the Responsible Official must independently evaluate and verify that the environmental analysis, including the methodologies used by the applicant or applicant-directed contractor, meets bureau standards and complies with NEPA, this Part, and any applicable Departmental or bureau-specific NEPA procedures or guidance. The applicant or applicant-directed contractor must provide the bureau with all relevant supporting information, including all studies, surveys, and technical reports pertaining to the environment prepared by the applicant or applicant-directed contractor for the proposed action. The applicant or applicant-directed contractor must certify that the materials provided to the bureau are complete for the bureau's independent review and inclusion in its decision file. The Responsible Official shall document the bureau's review and determination in any bureau-approved environmental impact statement or environmental assessment. The bureau is responsible for publishing all environmental impact statements and environmental assessments and, if an action is administratively or judicially challenged, for using the materials in its decision file to prepare an administrative record.
+(g) The Responsible Official shall require any applicant or applicant-directed contractor preparing an environmental impact statement or environmental assessment to submit a professional integrity statement certifying that the environmental analysis is prepared with professional and scientific integrity, using reliable data and resources, and meets any relevant Federal information quality standards and bureau needs for decision-making. In addition, the Responsible Official shall require any applicant or applicant-directed contractor preparing an environmental impact statement or an environmental assessment to submit a disclosure statement specifying any financial or other interest the entity has in the outcome of the action.
+(h) Bureaus must publish or otherwise provide bureau-specific policy information to assist applicants preparing environmental impact statements or environmental assessments. Bureaus may provide additional guidance to Responsible Officials describing how to document the independent evaluation of environmental impact statements and environmental assessments to ensure that they meet the standards under NEPA and these implementing procedures.
+§ 46.150 Emergency responses.
+This section applies only if the Responsible Official determines that an emergency exists that makes it necessary to take actions to address imminent threats to life, property, or important natural, cultural, or historic resources before preparing an environmental document or documenting the use of a categorical exclusion in accordance with the provisions in this chapter.
+(a) The Responsible Official may take those actions necessary to control the immediate impacts of the emergency that are urgently needed to address imminent threats to life, property, or important natural, cultural, or historic resources. When taking such actions, the Responsible Official shall consider the probable environmental consequences of these actions and consider taking steps to mitigate reasonably foreseeable adverse environmental impacts to the extent practicable and consistent with agency authority.
+(b) The Responsible Official shall document in writing the determination that an emergency exists and describe the responsive actions taken at the time the emergency exists. The form of that documentation is within the discretion of the Responsible Official.
+(c) If the Responsible Official determines that the nature and scope of proposed actions that must be taken beyond actions noted in paragraph (a) of this section but in response and relation to such emergency action that makes it necessary to take action before preparing an environmental document, the Responsible Official must consult with the Office of Environmental Policy and Compliance about alternative arrangements for NEPA compliance for such additional responsive actions. The Assistant Secretary, Policy Management and Budget may authorize the use of alternative arrangements. Reliance on any such alternative arrangements shall apply only to the proposed actions necessary to control the immediate actions in response and related to the emergency beyond those noted in paragraph (a) of this section and must be documented. Consultation with the Office of Environmental Policy and Compliance and with the Assistant Secretary, Policy Management and Budget must be coordinated through the appropriate bureau headquarters.
+(d) For actions meeting the criteria noted in paragraph (c) of this section that the Responsible Official reasonably foresees would be likely to result in significant effects, the Assistant Secretary, Policy Management and Budget or their designee must consult with the Council on Environmental Quality prior to authorizing the use of alternative arrangements for compliance with NEPA section 102(2)(C), 42 U.S.C. 4332(2)(C).
+(e) Other proposed actions remain subject to compliance with NEPA and the remaining sections of this part.
+Subpart C—Initiating the NEPA Process
+§ 46.205 Actions categorically excluded from further NEPA review.
+Categorical Exclusion means a category of actions that a bureau has determined normally do not significantly affect the quality of the human environment.
+(a) Except as provided in paragraph (c), (d), or (e) of this section, if an action is covered by a Departmental categorical exclusion, the bureau is not required to prepare an environmental assessment or an environmental impact statement. If a proposed action does not meet the criteria for any of the listed Departmental categorical exclusions or any of the individual bureau categorical exclusions, then the proposed action must be analyzed in an environmental assessment or environmental impact statement.
+(b) The actions listed in § 46.210 are categorically excluded, Department-wide, from preparation of environmental assessments or environmental impact statements.
+(c) DOI has provided for extraordinary circumstances in which a normally excluded action may have a significant environmental effect and require additional analysis. Section 46.215 lists the extraordinary circumstances under which actions otherwise covered by a categorical exclusion require analyses under NEPA.
+(1) Any action that is normally categorically excluded must be evaluated to determine whether it meets any of the extraordinary circumstances in § 46.215; if it does, further analysis and environmental documents must be prepared for the action.
+(2) Bureaus must work within existing administrative frameworks, including any existing programmatic agreements, when deciding how to apply any of the § 46.215 extraordinary circumstances.
+(d) Congress may establish categorical exclusions by legislation, in which case the terms of the legislation determine how to apply those categorical exclusions.
+(e) A Responsible Official may rely on another agency's determination that a categorical exclusion applies to a particular proposed action if the action covered by that determination and the bureau proposed action are substantially the same. The Responsible Official need not conduct extraordinary circumstances review according to the protocol set forth at § 46.215 but must document any reliance on another agency's categorical exclusion determination. When more than one agency is reviewing a proposed action, a bureau may also reach and document a joint determination with another agency that a categorical exclusion applies to the action.
+(f) Bureaus may apply multiple categorical exclusions in combination to cover a proposed action composed of multiple action elements. In some circumstances, a bureau might consider a proposed action that is a composite of multiple smaller actions or action elements. In such instances, a combination of categorical exclusions—each covering an action that is an element of the larger proposed action—can cover all the actions or action elements composing the larger composite action and support the bureau's determination that it is not reasonably foreseeable that the effects of the composite proposed action, with all its elements, would be significant. When a bureau completes its review of a proposed action composed of several action elements in reliance on multiple categorical exclusions, the bureau must concisely document this reliance, including by verifying that each smaller action or action element is supported by a categorical exclusion and completing all applicable review for the presence of extraordinary circumstances that, if present, would preclude application of the categorical exclusions to the larger or composite proposed action.
+(g) Each bureau may rely on any categorical exclusion administratively established or adopted, under NEPA section 109, 42 U.S.C. 4336c, by the Department or any bureau within the Department.
+(h) To establish or revise a categorical exclusion, the Department will determine that the action is of a type that normally does not significantly affect the quality of the human environment. In making this determination and identifying and describing such a category, the Department will:
+(1) Develop a written record containing information to substantiate its determination;
+(2) Consult with the Council on Environmental Quality on its proposed categorical exclusion, including the written record, for a period not to exceed 30 days prior to providing public notice as described in paragraph (h)(3) of this section; and
+(3) Provide public notice in the Federal Register of establishment of the categorical exclusion and the location of availability of the written record.
+(i) To remove a categorical exclusion from its NEPA procedures, the Department will follow steps similar to those by which it establishes or revises a categorical exclusion.
+(j) Neither the establishment nor the modification or removal of a categorical exclusion from bureau NEPA procedures is subject to NEPA review.
+§ 46.210 Listing of departmental categorical exclusions.
+The following actions are categorically excluded under § 46.205(b), unless any of the extraordinary circumstances in § 46.215 apply. Reliance on paragraphs (a) through (j) of this section to support approval of a proposed action does not need to be documented; reliance on paragraph (k) or (l) of this section to support approval of a proposed action does need to be documented:
+(a) Personnel actions and investigations and personnel services contracts.
+(b) Internal organizational changes and facility and bureau reductions and closings.
+(c) Routine financial transactions including such things as salaries and expenses, procurement contracts (e.g., in accordance with applicable procedures and Executive Orders for sustainable or green procurement), guarantees, financial assistance, income transfers, audits, fees, bonds, and royalties.
+(d) Departmental legal activities including, but not limited to, such things as arrests, investigations, patents, claims, and legal opinions. This does not include bringing judicial or administrative civil or criminal enforcement actions which are outside the scope of NEPA.
+(e) Nondestructive data collection, inventory (including field, aerial, and satellite surveying and mapping), study, research, and monitoring activities.
+(f) Routine and continuing government business, including such things as supervision, administration, operations, maintenance, renovations, and replacement activities having limited context and intensity (e.g., limited size and magnitude or short-term effects).
+(g) Management, formulation, allocation, transfer, and reprogramming of the Department's budget at all levels. (This does not exclude the preparation of environmental documents for proposals included in the budget when otherwise required.)
+(h) Legislative proposals of an administrative or technical nature (including such things as changes in authorizations for appropriations and minor boundary changes and land title transactions) or having primarily economic, social, individual, or institutional effects; and comments and reports on referrals of legislative proposals.
+(i) Policies, directives, regulations, and guidelines: that are of an administrative, financial, legal, technical, or procedural nature; or whose environmental effects are too broad, speculative, or conjectural to lend themselves to meaningful analysis and will later be subject to the NEPA process, either collectively or case-by-case.
+(j) Activities which are educational, informational, advisory, or consultative to other agencies, public and private entities, visitors, individuals, or the general public.
+(k) (Not for use within the jurisdiction of the Ninth Circuit Court of Appeals.) Hazardous fuels reduction activities using prescribed fire not to exceed 4,500 acres, and mechanical methods for crushing, piling, thinning, pruning, cutting, chipping, mulching, and mowing, not to exceed 1,000 acres. Such activities:
+(1) Shall be limited to areas—
+(i) In wildland-urban interface; and
+(ii) Condition Classes 2 or 3 in Fire Regime Groups I, II, or III, outside the wildland-urban interface;
+(2) Shall be identified through a collaborative framework as described in “A Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment 10-Year Comprehensive Strategy Implementation Plan;”
+(3) Shall be conducted consistent with bureau and Departmental procedures and applicable land and resource management plans;
+(4) Shall not be conducted in wilderness areas or impair the suitability of wilderness study areas for preservation as wilderness; and
+(5) Shall not include the use of herbicides or pesticides or the construction of new permanent roads or other new permanent infrastructure; and may include the sale of vegetative material if the primary purpose of the activity is hazardous fuels reduction.
+(l) Post-fire rehabilitation activities not to exceed 4,200 acres (such as tree planting, fence replacement, habitat restoration, heritage site restoration, repair of roads and trails, and repair of damage to minor facilities such as campgrounds) to repair or improve lands unlikely to recover to a management approved condition from wildland fire damage, or to repair or replace minor facilities damaged by fire. Such activities must comply with the following:
+(1) Shall be conducted consistent with bureau and Departmental procedures and applicable land and resource management plans;
+(2) Shall not include the use of herbicides or pesticides or the construction of new permanent roads or other new permanent infrastructure; and
+(3) Shall be completed within three years following a wildland fire.
+§ 46.215 Categorical exclusions: Extraordinary circumstances.
+Extraordinary circumstances (see § 46.205(c)) exist for individual actions within categorical exclusions that may meet any of the criteria listed in paragraphs (a) through (i) of this section. Applicability of extraordinary circumstances to categorical exclusions is determined by the Responsible Official. If an extraordinary circumstance is not present, the Responsible Official may determine that the categorical exclusion applies to the proposed action and conclude review.
+(a) Have significant impacts on public health or safety.
+(b) Have significant impacts on such natural resources and unique geographic characteristics as historic or cultural resources; park, recreation or refuge lands; wilderness areas; wild or scenic rivers; national natural landmarks; sole or principal drinking water aquifers; prime farmlands; wetlands; floodplains; national monuments; migratory birds; and other ecologically significant or critical areas.
+(c) Have highly uncertain and potentially significant environmental effects or involve unique or unknown environmental risks.
+(d) Establish a precedent for future action or represent a decision in principle about future actions with potentially significant environmental effects.
+(e) Have a direct relationship to other actions that implicate potentially significant environmental effects.
+(f) Have significant impacts on properties listed, or eligible for listing, on the National Register of Historic Places as determined by the bureau.
+(g) Have significant impacts on species listed, or proposed to be listed, on the List of Endangered or Threatened Species or have significant impacts on designated Critical Habitat for these species.
+(h) Significantly limit access to and ceremonial use of Indian sacred sites on Federal lands by Indian religious practitioners or significantly adversely affect the physical integrity of such sacred sites.
+(i) Contribute to potentially significant effects resulting from the introduction, continued existence, or spread of noxious weeds or non-native invasive species known to occur in the area or from other actions that promote the introduction, growth, or expansion of the range of such species (Federal Noxious Weed Control Act).
+§ 46.220 How to designate lead agencies.
+(a) In most cases, the Responsible Official should designate one Federal agency as the lead with the remaining Federal, State, Tribal, and local agencies assuming the role of cooperating agency. In this manner, the other Federal, State, Tribal, and local agencies can work to ensure that the environmental impact statement will meet their needs for adoption and application to any related decision.
+(b) In some cases, a non-Federal agency (including a State, Tribal, or local government) must comply with State, Tribal, or local requirements that are comparable to the NEPA requirements. In these cases, the Responsible Official may designate the non-Federal agency as a joint lead agency.
+(c) In some cases, the Responsible Official may establish a joint lead relationship among several Federal agencies. If there are joint leads for an environmental impact statement, then one Federal agency must be identified as the agency responsible for filing the environmental impact statement with the Environmental Protection Agency.
+(d) Bureaus may allow joint lead agencies to cooperate in developing environmental assessments.
+§ 46.225 How to select cooperating agencies.
+(a) An eligible agency is:
+(1) Any Federal, State, Tribal, or local agency that is qualified to participate in the development of an environmental assessment or environmental impact statement by virtue of its jurisdiction by law, consistent with 42 U.S.C. 4336a(a)(3);
+(2) Any Federal, State, Tribal, or local agency that is qualified to participate in the development of an environmental assessment or environmental impact statement by virtue of its special expertise. 1
+1 See Council on Environmental Quality, Federal and Federal-State Agencies with Jurisdiction by Law or Special Expertise on Environmental Quality Issues (June 15, 2018), https://ceq.doe.gov/docs/nepa-practice/Agency-Jurisdiction-and-Expertise-formerly-Appendix-II-2018-06-15.pdf.
+(b) The Responsible Official for a lead bureau may invite eligible agencies to participate as cooperating agencies when the bureau is developing an environmental assessment and must invite eligible agencies to participate as cooperating agencies when the bureau is developing an environmental impact statement, subject to the exception described in paragraph (c) of this section.
+(c) The Responsible Official for the lead bureau must consider any request by an eligible agency to participate in a particular environmental impact statement or environmental assessment as a cooperating agency. Such request shall not be arbitrarily denied. If the Responsible Official for the lead bureau denies a request, or determines it is inappropriate to extend an invitation, he or she must state the reasons in the environmental impact statement or environmental assessment, as applicable. Denial of a request for cooperating agency status is not subject to any internal administrative appeals process, nor is it a final agency action subject to review under the Administrative Procedure Act, 5 U.S.C. 701 et seq.
+(d) Bureaus should work with cooperating agencies to develop and adopt appropriate documentation that includes their respective roles, assignment of issues, schedules, and staff commitments so that the NEPA process remains on track and within the time schedule. Such documentation must be used in the case of non-Federal agencies and must include a commitment to maintain the confidentiality of documents and deliberations during the period prior to the public release by the bureau of any environmental document, including drafts, to the extent permitted by the Freedom of Information Act and other applicable law. However, no memorandum can require a cooperating agency to waive the right to judicial review.
+(e) Bureaus within the Department will be cooperating agencies with other bureaus when requested.
+Subparts D-E [Reserved]
+
+SOURCE: https://www.ecfr.gov/api/versioner/v1/versions/title-43.json?part=46 RETRIEVED: 2026-09-24
+eCFR version history, Part 46, entries dated 2025-07-03 or later (date, section, removed flag):
+2025-07-03 46.10 removed=True
+2025-07-03 46.20 removed=True
+2025-07-03 46.30 removed=True
+2025-07-03 46.100 removed=True
+2025-07-03 46.105 removed=False
+2026-02-24 46.105 removed=False
+2025-07-03 46.107 removed=False
+2026-02-24 46.107 removed=False
+2025-07-03 46.110 removed=True
+2025-07-03 46.115 removed=True
+2025-07-03 46.120 removed=True
+2025-07-03 46.125 removed=True
+2025-07-03 46.130 removed=True
+2025-07-03 46.135 removed=True
+2025-07-03 46.140 removed=True
+2025-07-03 46.145 removed=True
+2025-07-03 46.150 removed=False
+2026-02-24 46.150 removed=False
+2025-07-03 46.155 removed=True
+2025-07-03 46.160 removed=True
+2025-07-03 46.170 removed=True
+2025-07-03 46.200 removed=True
+2025-07-03 46.205 removed=False
+2026-02-24 46.205 removed=False
+2025-07-03 46.210 removed=False
+2026-02-24 46.210 removed=False
+2025-07-03 46.215 removed=False
+2026-02-24 46.215 removed=False
+2025-07-03 46.220 removed=True
+2026-02-24 46.220 removed=False
+2025-07-03 46.225 removed=True
+2026-02-24 46.225 removed=False
+2025-07-03 46.230 removed=True
+2025-07-03 46.235 removed=True
+2025-07-03 46.240 removed=True
+2025-07-03 46.300 removed=True
+2025-07-03 46.305 removed=True
+2025-07-03 46.310 removed=True
+2025-07-03 46.315 removed=True
+2025-07-03 46.320 removed=True
+2025-07-03 46.325 removed=True
+2025-07-03 46.400 removed=True
+2025-07-03 46.405 removed=True
+2025-07-03 46.415 removed=True
+2025-07-03 46.420 removed=True
+2025-07-03 46.425 removed=True
+2025-07-03 46.430 removed=True
+2025-07-03 46.435 removed=True
+2025-07-03 46.440 removed=True
+2025-07-03 46.445 removed=True
+2025-07-03 46.450 removed=True

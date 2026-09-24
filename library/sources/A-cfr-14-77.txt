@@ -1,0 +1,38 @@
+SOURCE: https://www.ecfr.gov/current/title-14/chapter-I/subchapter-E/part-77/subpart-B RETRIEVED: 2026-09-24
+Retrieved via eCFR API https://www.ecfr.gov/api/versioner/v1/full/2026-09-22/title-14.xml?part=77&subpart=B (eCFR up to date as of 2026-09-22). Extract: 14 CFR 77.5 through 77.11.
+ Subpart B--Notice Requirements § 77.5 Applicability. (a) If you propose any construction or alteration described in § 77.9, you must provide adequate notice to the FAA of that construction or alteration.
+(b) If requested by the FAA, you must also file supplemental notice before the start date and upon completion of certain construction or alterations that are described in § 77.9.
+(c) Notice received by the FAA under this subpart is used to:
+(1) Evaluate the effect of the proposed construction or alteration on safety in air commerce and the efficient use and preservation of the navigable airspace and of airport traffic capacity at public use airports;
+(2) Determine whether the effect of proposed construction or alteration is a hazard to air navigation;
+(3) Determine appropriate marking and lighting recommendations, using FAA Advisory Circular 70/7460-1, Obstruction Marking and Lighting;
+(4) Determine other appropriate measures to be applied for continued safety of air navigation; and
+(5) Notify the aviation community of the construction or alteration of objects that affect the navigable airspace, including the revision of charts, when necessary.
+§ 77.7 Form and time of notice. (a) If you are required to file notice under § 77.9, you must submit to the FAA a completed FAA Form 7460-1, Notice of Proposed Construction or Alteration. FAA Form 7460-1 is available at FAA regional offices and on the Internet.
+(b) You must submit this form at least 45 days before the start date of the proposed construction or alteration or the date an application for a construction permit is filed, whichever is earliest.
+(c) If you propose construction or alteration that is also subject to the licensing requirements of the Federal Communications Commission (FCC), you must submit notice to the FAA on or before the date that the application is filed with the FCC.
+(d) If you propose construction or alteration to an existing structure that exceeds 2,000 ft. in height above ground level (AGL), the FAA presumes it to be a hazard to air navigation that results in an inefficient use of airspace. You must include details explaining both why the proposal would not constitute a hazard to air navigation and why it would not cause an inefficient use of airspace.
+(e) The 45-day advance notice requirement is waived if immediate construction or alteration is required because of an emergency involving essential public services, public health, or public safety. You may provide notice to the FAA by any available, expeditious means. You must file a completed FAA Form 7460-1 within 5 days of the initial notice to the FAA. Outside normal business hours, the nearest flight service station will accept emergency notices.
+§ 77.9 Construction or alteration requiring notice. If requested by the FAA, or if you propose any of the following types of construction or alteration, you must file notice with the FAA of:
+(a) Any construction or alteration that is more than 200 ft. AGL at its site.
+(b) Any construction or alteration that exceeds an imaginary surface extending outward and upward at any of the following slopes:
+(1) 100 to 1 for a horizontal distance of 20,000 ft. from the nearest point of the nearest runway of each airport described in paragraph (d) of this section with its longest runway more than 3,200 ft. in actual length, excluding heliports.
+(2) 50 to 1 for a horizontal distance of 10,000 ft. from the nearest point of the nearest runway of each airport described in paragraph (d) of this section with its longest runway no more than 3,200 ft. in actual length, excluding heliports.
+(3) 25 to 1 for a horizontal distance of 5,000 ft. from the nearest point of the nearest landing and takeoff area of each heliport described in paragraph (d) of this section.
+(c) Any highway, railroad, or other traverse way for mobile objects, of a height which, if adjusted upward 17 feet for an Interstate Highway that is part of the National System of Military and Interstate Highways where overcrossings are designed for a minimum of 17 feet vertical distance, 15 feet for any other public roadway, 10 feet or the height of the highest mobile object that would normally traverse the road, whichever is greater, for a private road, 23 feet for a railroad, and for a waterway or any other traverse way not previously mentioned, an amount equal to the height of the highest mobile object that would normally traverse it, would exceed a standard of paragraph (a) or (b) of this section.
+(d) Any construction or alteration on any of the following airports and heliports:
+(1) A public use airport listed in the Airport/Facility Directory, Alaska Supplement, or Pacific Chart Supplement of the U.S. Government Flight Information Publications;
+(2) A military airport under construction, or an airport under construction that will be available for public use;
+(3) An airport operated by a Federal agency or the DOD.
+(4) An airport or heliport with at least one FAA-approved instrument approach procedure.
+(e) You do not need to file notice for construction or alteration of:
+(1) Any object that will be shielded by existing structures of a permanent and substantial nature or by natural terrain or topographic features of equal or greater height, and will be located in the congested area of a city, town, or settlement where the shielded structure will not adversely affect safety in air navigation;
+(2) Any air navigation facility, airport visual approach or landing aid, aircraft arresting device, or meteorological device meeting FAA-approved siting criteria or an appropriate military service siting criteria on military airports, the location and height of which are fixed by its functional purpose;
+(3) Any construction or alteration for which notice is required by any other FAA regulation.
+(4) Any antenna structure of 20 feet or less in height, except one that would increase the height of another antenna structure.
+§ 77.11 Supplemental notice requirements. (a) You must file supplemental notice with the FAA when:
+(1) The construction or alteration is more than 200 feet in height AGL at its site; or
+(2) Requested by the FAA.
+(b) You must file supplemental notice on a prescribed FAA form to be received within the time limits specified in the FAA determination. If no time limit has been specified, you must submit supplemental notice of construction to the FAA within 5 days after the structure reaches its greatest height.
+(c) If you abandon a construction or alteration proposal that requires supplemental notice, you must submit notice to the FAA within 5 days after the project is abandoned.
+(d) If the construction or alteration is dismantled or destroyed, you must submit notice to the FAA within 5 days after the construction or alteration is dismantled or destroyed.

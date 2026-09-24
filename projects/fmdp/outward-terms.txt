@@ -1,0 +1,8 @@
+# Terms that should not appear in Hazen OUTWARD documents (role names only).
+# check_outward.py warns on each hit; a reviewer decides.
+Tolles
+TDC
+Cory
+Kyle
+Holland
+financial model

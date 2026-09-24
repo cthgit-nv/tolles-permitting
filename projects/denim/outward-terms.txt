@@ -1,0 +1,6 @@
+# Terms that should not appear in Denim OUTWARD documents. The applicant name
+# (Jean Data Partners LLC) is expected in the application and is not listed.
+Holland
+Cory
+Kyle
+financial model
