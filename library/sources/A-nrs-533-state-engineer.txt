@@ -1,5 +1,6 @@
 SOURCE: https://www.leg.state.nv.us/NRS/NRS-533.html RETRIEVED: 2026-09-24
-NRS Chapter 533, selected sections (533.025, 533.030(1), 533.035, 533.325, 533.370(1)-(2)). Extracted from the Legislative Counsel Bureau HTML; typographic quotes and dashes normalized to ASCII.
+NRS Chapter 533, selected sections (533.025, 533.030(1), 533.035, 533.325, 533.370(1)-(2) and the first sentence of (4)). Extracted from the Legislative Counsel Bureau HTML; typographic quotes and dashes normalized to ASCII.
+[Rev. 4/15/2026 3:20:25 PM--2025]
 NRS 533.025  Water belongs to public.  The water of all sources of water supply within the boundaries of the State whether above or beneath the surface of the ground, belongs to the public.
 NRS 533.030  Appropriation for beneficial use; use for recreational purpose, developed shortage supply or intentionally created surplus declared beneficial; limitations and exceptions.
 1.  Subject to existing rights, and except as otherwise provided in this section and NRS 533.0241, 533.027, 533.028 and 534.115, all water may be appropriated for beneficial use as provided in this chapter and not otherwise.
@@ -19,3 +20,4 @@ NRS 533.370  Approval or rejection of application by State Engineer: Condi
 (d) The proposed use or change conflicts with existing rights or with protectable interests in existing domestic wells as set forth in NRS 533.024 or threatens to prove detrimental to the public interest.
 If a previous application for a similar use of water within the same basin has been rejected on those grounds, the new application may be denied without publication.
 3.  In addition to the criteria set forth in subsections 1 and 2, in determining whether an application for an interbasin transfer of groundwater must be rejected pursuant to this section, the State Engineer shall consider:
+4.  Except as otherwise provided in this subsection and subsections 6 and 10 and NRS 533.365, the State Engineer shall approve or reject each application within 2 years after the final date for filing a protest. The State Engineer may postpone action: 

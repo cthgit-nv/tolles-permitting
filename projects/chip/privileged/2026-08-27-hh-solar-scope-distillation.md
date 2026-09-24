@@ -47,6 +47,9 @@ deeply interconnected with the federal action.
 ## Citation notes for the library
 
 - Friends of the Earth, Inc. v. Coleman, 518 F.2d 323 is cited in footnote 3 as "(9th Cir.
-  1995)". Volume 518 of F.2d is from 1975. Confirm and note in `A-case-foe-coleman`.
+  1995)". **Confirmed: decided May 28, 1975** (`A-case-foe-coleman`).
 - Footnote 4 cites Wetlands Action Network, 222 F.3d at 1116 "(2003)"; the case is 2000.
-- Save the Sound is cited to Lexis only; confirm availability in free sources.
+- Save the Sound: full slip opinion retrieved (`A-case-save-the-sound`). The Lexis cite is
+  unverified; a later D.C. Circuit opinion cites it as 2026 WL 2093931. Counsel's factor list
+  matches slip op. 8 to 10, but the court tied the factors to the old CEQ rule and circuit
+  precedent, so their footing after CEQ's rescission is untested.

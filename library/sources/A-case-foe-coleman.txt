@@ -1,0 +1,114 @@
+SOURCE: https://static.case.law/f2d/518/html/0323-01.html RETRIEVED: 2026-09-24
+NOTE: Full opinion text from the Caselaw Access Project static export (Harvard Law School Library), converted from HTML to plain text. Reporter page markers appear inline as *NNN at the point the new page begins (sometimes mid-word). Text is OCR-derived and is reproduced as served, including OCR artifacts.
+
+FRIENDS OF THE EARTH, INC., et al., Plaintiffs-Appellants, v. William T. COLEMAN, Jr., Secretary of the United States Department of Transportation, et al., Defendants-Appellees, Greater San Francisco Chamber of Commerce et al., Amici Curiae.
+
+No. 74-3490.
+
+United States Court of Appeals, Ninth Circuit.
+
+May 28, 1975.
+
+ *325William P. Hoffman, Jr., San Francisco, Cal., for plaintiffs-appellants.
+
+Thomas M. O’Connor, City Atty., William F. Bourne, Utilities General Counsel, Jerome Cohen, David I. Kroopnick, Deputy City Attys., for defendants-appellees City and County of San Francisco.
+
+Thomas A. Welch, of Brobeck, Phleger & Harrison, San Francisco, Cal., for amicus Greater San Francisco Chamber of Commerce.
+
+Darrell P. McCrory, of Monteleone & McCrory, Los Angeles, Cal., for amicus Stockton Steel Fabricators.
+
+OPINION
+
+Before MERRILL, WRIGHT and TRASK, Circuit Judges.
+
+EUGENE A. WRIGHT, Circuit Judge:
+
+This is an appeal from an order denying in part appellants’ motion for preliminary injunction. On April 10, 1975, we issued an order affirming the district *326court, and vacating the temporary injunction pending appeal granted by this court January 22, 1975. We now consider the facts and legal principles on which that order was based.
+
+This suit began as one for injunctive and declaratory relief against alleged noneompliance with the environmental impact statement [EIS] requirements of § 102(2)(C) of the National Environmental Policy Act [NEPA] [42 U.S.C. § 4321 et seq. (1970)]. Appellants sought to halt further implementation of an expansion and development plan for constructing additional facilities and upgrading existing ones at the San Francisco International Airport until a satisfactory EIS was submitted.
+
+On November 11, 1974, the district court granted in part and denied in part appellants’ request for preliminary injunction. We affirm that order.
+
+FACTS:
+
+In 1970, appellee Airports Commission approved a revised and enlarged expansion program for airport development. It was to proceed in phases, to double present airport passenger capacity by 1985, at an estimated cost of $398 million.
+
+The FAA, with its regulatory authority over design and layout of the airport and over construction plans which alter the design and layout, had reviewed and approved layout plans for the expansion program from time to time since the program’s adoption, most recently in November of 1973. Such approval is required before federal funds for airport development and expansion may be granted. [Airport and Airway Development Act, 49 U.S.C. § 1716 (1970)].
+
+When suit was filed, contracts had been let or work was under way on several expansion program projects. Those as to which no federal funds had been or could be allocated included a new north terminal, the first stage of which was under construction when suit was brought, and a five-story parking garage for which bids had been sought. Once the district court had ruled, appellee Airports Commission entered into additional contracts for construction of the garage foundation and the superstructure of the terminal.
+
+Other expansion program projects had been approved for assistance under the federal Airport Development Aid Program (ADAP) or were awaiting approval. One of them, the expansion and reconstruction of the airport access road, had already been completed and others, involving various forms of runway improvement, were well under way. Federal funding was also anticipated at the time of this action for construction of additional aircraft aprons and a new control tower. In all, grants totaling $14 million had already been approved, and the total federal contribution might well be expected to reach $38 million by the time the development plan was completed.
+
+In the district court, appellants sought to stop all work on expansion program projects until an EIS had been submitted. They claimed that the approved and anticipated federal assistance rendered the entire program a federal-state joint venture subject to NEPA evaluation.
+
+The district court enjoined further approval or commitment of federal funds for eligible airport development projects “unless and until such request for aid is accompanied by a draft [EIS] on the overall development plan of the Airport.” The court refused to enjoin further awards of contracts or construction of the parking garage and north terminal projects. Since it found that “such projects do not involve significant adverse environmental effects, but merely are related to and necessary for maintenance of the present use of the Airport within its existing size and purpose,” the court did not consider whether their nonfederal funding would also insulate them from the requirements of NEPA.
+
+Appellants contend that the district court’s finding on the environmental impact of the north terminal and parking garage projects is clearly erroneous, and *327that an injunction should have been granted as to these projects as well. We agree that the finding lacks support in the record, but we uphold the denial of preliminary relief as to these projects because of the absence of federal participation in the challenged projects.
+
+In reviewing the denial of interlocutory relief, we need only determine whether the district court abused its discretion. See Ross-Whitney Corp. v. Smith Kline & French Laboratories, 207 F.2d 190 (9th Cir. 1953).
+
+Among the factors to be weighed in determining the propriety of a preliminary injunction are the probability of ultimate success on the merits, the relative importance of the rights asserted, the nature of the acts to be enjoined, the hardship to each party that would result pendente lite from granting or denying interlocutory relief, and the public interest. King v. Saddleback Jr. Coll. Dist., 425 F.2d 426 (9th Cir. 1970). We have considered all factors, and cannot say that the district court’s refusal to stop work on the north terminal and parking garage amounted to an abuse of discretion.
+
+A. LIKELIHOOD OF SUCCESS ON THE MERITS.
+
+NEPA requires federal agencies to provide a detailed environmental impact statement on “major Federal actions significantly affecting the quality of the human environment.” [42 U.S.C. § 4332(2)(C)]. The statement should be prepared at the earliest time prior to implementation of the proposed action, so that alternative courses of action with less severe environmental consequences can be considered. [Council on Environmental Quality, Guidelines for Preparation of Environmental Impact Stateaments, 40 C.F.R. § 1500.2(a) (1974).]
+
+Appellees have not challenged the district court’s determination that environmental impact statements were required for the federally funded projects in the airport expansion program. Nor have they pointed to any facts to support the finding that the state-funded north terminal and parking garage projects will have no significant environmental effect. Instead, they concede, and we agree, that the uncontradicted evidence at trial indicates the outgrowth of the Airport Development Plan involves a substantial increase in air passenger and vehicular traffic at the airport. Thus the denial of an interlocutory injunction as to these projects was based on an unsubstantiated and erroneous finding of fact.
+
+For an action to be subject to NEPA, however, it must be shown to be “federal.” Nothing in this record indicates that either the terminal or parking garage projects would be eligible for federal funds. We also conclude that the state-funded projects are not so closely interwoven with those receiving federal funds to make the entire airport development program the relevant “action” for NEPA purposes.
+
+If facts in the record to support an affirmance appear with reasonable clarity, then “the Court of Appeals can, and, at least where the answer seems clear, should decide the issue.” M.O.S. Corp. v. John I. Haas Co., 375 F.2d 614, 617 (9th Cir. 1967). It seems clear that we should resolve rather than remand undecided factual issues in suits for preliminary injunctions, where prompt action to avoid irreparable harm is obviously indicated.1
+
+Appellants contend that our factual determination of no federal involvement in the north terminal and parking garage projects would ignore evidence that these are integral and closely-connected parts of an overall program subject to NEPA review because federally funded in part. This conclusion, they claim, is supported by the district court’s findings, by decisions of this court requiring EIS’s *328for integrated programs rather than for their component parts, and by consideration of the purposes of NEPA. We disagree as to each contention.
+
+In requiring an EIS only for those projects financed wholly or in part by federal funds, the district court impliedly found that none was required for the overall program before any work could proceed. Its order that a federal project EIS consider “the total development plan at the airport” is best viewed as an admonition that each project’s impact should be evaluated in the context of the whole development scheme.2 As such, the court’s directive relates to the type of statement required for projects subject to NEPA, rather than to which will require an EIS initially.
+
+Appellants contend that the EIS requirement was triggered by FAA approval of the airport layout plan or at least by tentative allocations of federal funds to projects included therein.
+
+ FAA approval of an airport layout plan does not require an EIS. [City of Boston v. Volpe, 464 F.2d 254 (1st Cir. 1972); City of Boston v. Brinegar, 6 E.R.C. 1961 (D.Mass.1974).] The court in City of Boston v. Volpe distinguished those decisions requiring an EIS upon location approval under the federal highway statute from an airport layout plan approval. Whereas highway location approval constitutes “a decision, in the ordinary course final, that a federal aid highway is approved for a particular location,” under the airport aid scheme the “single decision to fund or not to fund a project” comes at the tentative allocation rather than the layout approval stage. 464 F.2d at 259.3
+
+ The reasoning in City of Boston v. Volpe is consistent with our decision in Friends of the Earth v. Coleman, 513 F.2d 295 (9th Cir., 1975), since no “irreversible and irretrievable commitment of resources” has occurred at the point of airport layout plan approval. It is consistent also with the plain language of NEPA limiting the act’s scope to major “federal” actions. Adoption of federal standards in the hope of qualifying for future ADAP grants does not transform a state or local project into a federal one.4
+
+Appellants contend that, even if no EIS was required at the layout approval stage, one was certainly required for the entire development program once the decision had been made to supply federal funds to any project therein. Again they rely on decisions involving federal highway aid programs. See La Raza Unida v. Volpe, 488 F.2d 559 (9th Cir. 1973); Sierra Club v. Volpe, 351 F.Supp. 1002 (N.D.Cal.1972).
+
+In La Raza Unida and Sierra Club, attempts to designate certain segments of highway construction projects as “state” and others as “federal,” so that work on the “state” stretches could proceed without or pending EIS submission, were rejected. In the case before us, there was no attempt to fragment a project for which federal aid had been an open option for the purpose of avoiding compliance with NEPA. Instead, there were distinct projects with sepa*329rate functions and independent justifications,
+
+It is true that the local and federal projects in the whole scheme are not entirely distinct. The access road improvements include a new spur to the parking garage extension, and the new control tower becomes more justifiable in light of the expanded traffic the new north terminal will allow. But even though there may be substantial functional complementarity between the locally- and federally-funded projects, there is lacking the kind of functional interdependence between parts of the same project present in the highway construction peases.
+
+Another relevant factor is the determination by nonfederal officials to proceed with the terminal and garage projects with or without federal funding of the other parts of the airport program. The record is clear that the federal funds have never been available for parking or terminal facilities projects, that these were actively considered well before ADAP grants became generally available for related airport traffic and safety projects, and that local officials have a long standing commitment to proceed with these and other parts of the expansion program even without federal financial assistance.
+
+C~ Such considerations were not considered useful in evaluating the duty to comply with NEPA in highway construction cases. La Raza Unida v. Volpe, 488 F.2d at 562-63; Sierra Club v. Volpe, 351 F.Supp. at 1006-09. But where the function and utility of the challenged projects is substantially less dependent on the projects for which federal funding has been or is being sought, these factors become more relevant in determining whether the former as well as the latter group of projects involve federal action.” Cf. City of Boston v. Volpe, 464 F.2d at 259-60.
+
+^ A final relevant consideration is the great disparity in the expenditures forecast for the state and federal portions of the entire program. To consider the state-funded north terminal and parking garage projects “federal action” merely because appellees were also involved in commitments for federal funds for other development projects at the airport amounting to less than 10% of the total expenditures for all airport development projects would let the tail wag the dog. NEPA aims to bring environmental considerations to the attention of federal decisionmakers but, except on the ADAP-funded projects, the only relevant decision makers here are local officials. No federal-state partnership is involved in the north terminal and parking garage projects as in Silva v. Romney, 473 F.2d 287 (1st Cir. 1973), in which a federal agency had made a binding financial commitment without which a housing project could not proceed.
+
+Considerations of the actual degree of federal involvement are consistent with the Boston v. Volpe rejection of the notion that, once the federal government has participated in a development, it is necessarily forever federal. 464 F.2d at 258. Accord, San Francisco Tomorrow v. Romney, 472 F.2d 1021, 1025 (9th Cir. 1973). Similarly, to say that injunctive relief would always be available to stop construction of a state project as soon as federal funds were sought or awarded for related but distinct projects would undermine the autonomy left by NEPA to state and local officials. See City of Boston v. Volpe, 464 F.2d at 259-60.
+
+Determination of whether federal and state projects are sufficiently interrelated to constitute a single “federal action” for NEPA purposes will generally require a careful analysis of all facts and circumstances surrounding the relationship. At some point, the nexus will become so close, and the projects so intertwined, that they will require joint NEPA evaluation. We hold only that, on this record, appellants failed to demonstrate a reasonable likelihood of showing that the approved and anticipated airport development activities so federalized the state-funded projects in the overall plan and all work must stop pending an EIS on that plan.
+
+ *330B. ADDITIONAL EQUITABLE CONSIDERATIONS.
+
+The decision whether to grant interlocutory relief turns also on whether or not the balance of irreparable damage favors issuance of a preliminary injunction, and on relevant public interests.
+
+We do not minimize the seriousness of the environmental hazards associated with airport expansion. Irreparable damage may in the context of an action to enforce NEPA be implied from the failure by responsible authorities to evaluate fully the environmental impact of the proposed project, and consider alternative proposals before engaging in a project which constitutes major federal action. See City of Boston v. Brinegar, supra, 6 E.R.C. at 1965, citing Jones v. District of Columbia Redevelopment Land Agency, 162 U.S.App.D.C. 366, 499 F.2d 502 (1974). Cf. Alpine Lakes Protection Society v. Schlapfer, 518 F.2d 1089 (9th Cir., May 1, 1975), at 1090. But such considerations cannot be controlling, where the applicants for injunctive relief have shown little likelihood of prevailing on their claim that major federal action is involved.
+
+Furthermore, in balancing the equities, it is significant that the environmental effects of the expansion program have already been the subject of an environmental impact report (EIR) under Cal. Publ. Resources Code § 21,000 et seq. (Supp.1975). While an EIR might contain a less detailed inquiry than this court has required for an EIS, we find nevertheless that the formal environmental review of the state construction projects is a factor in determining whether these projects should be halted on a motion for preliminary injunction. Cf. Homeowners Emergency Life Protection Committee v. Lynn, 388 F.Supp. 971 (C.D.Cal.1974).
+
+It is well recognized that “[t]he award of an interlocutory injunction by courts of equity has never been regarded as strictly a matter of right, even though irreparable injury may otherwise result to the plaintiff . [, but is rather] a matter of sound judicial discretion . ” and careful balancing of the interests of the respective parties. Yakus v. United States, 321 U.S. 414, 440, 64 S.Ct. 660, 88 L.Ed. 834 (1944). Our analysis of those interests leads to the conclusion that the district court acted well within its discretion in granting a preliminary injunction pending EIS submission only as to the federally funded projects in the airport development plan. Its judgment is affirmed.
+
+The time for filing a petition for rehearing will commence on the date of filing of this opinion.
+
+ 1
+
+. Emphasizing speedy determination of such matters, we have held that “on application for preliminary injunction, the [district] court is not bound to decide doubtful and difficult questions of law or disputed questions of fact.” Dymo Industries, Inc. v. Tapeprinter, Inc., 326 F.2d 141, 143 (9th Cir. 1964).
+
+ 2
+
+. Compare City of Boston v. Volpe, 464 F.2d 254 (1st Cir. 1972), at 258, noting that while-the project was best characterized as local rather than federal, “[tjhis [was] not to say that the past and the future are irrelevant in assessing the environmental impact of a present project for which federal funds are sought.”
+
+ 3
+
+. FAA Order No. 5050.2, fl 16 [36 Fed.Reg. 23,-689 (1971)] also seems to adopt this distinction, differentiating between “airport layout plan approvals” and ensuing “airport development projects” for which an EIS will be required.
+
+ 4
+
+. Brief of Amicus Curiae Greater San Francisco Chamber of Commerce suggests a practical consideration against treating airport development plans as “federal actions” for purposes of NEPA. It is that airport development planning is in a constant state of flux and that continuing modification of expansion and modernization plans would, if NEPA were applicable at this stage, lead to a recurring series of applications to enjoin work on all aspects of such programs pending completion of interminable revisions of the overall EIS required thereby.

@@ -32,3 +32,17 @@ the Secretary shall provide the Federal agency and the applicant concerned, if a
 (2) Any person who may wish to apply for an exemption under subsection (g) of this section for that action may conduct a biological assessment to identify any endangered species or threatened species which is likely to be affected by such action. Any such biological assessment must, however, be conducted in cooperation with the Secretary and under the supervision of the appropriate Federal agency.
 (d) Limitation on commitment of resources
 After initiation of consultation required under subsection (a)(2), the Federal agency and the permit or license applicant shall not make any irreversible or irretrievable commitment of resources with respect to the agency action which has the effect of foreclosing the formulation or implementation of any reasonable and prudent alternative measures which would not violate subsection (a)(2) of this section.
+
+ALSO RETRIEVED 2026-09-24: https://www.federalregister.gov/api/v1/documents/2025-20551.json (Federal Register API record, fields citation, title, abstract, dates)
+citation: 90 FR 52600
+publication_date: 2025-11-21
+title: Endangered and Threatened Wildlife and Plants; Interagency Cooperation Regulations
+abstract: We, the U.S. Fish and Wildlife Service (FWS) and the National Marine Fisheries Service (NMFS; collectively, the "Services") propose to revise portions of our regulations for section 7 of the Endangered Species Act of 1973, as amended (ESA or Act). The proposed revisions to the interagency cooperation regulations confirm the Services' application of statutory requirements for interagency cooperation, while continuing to provide for the conservation of listed species.
+dates: Comments must be received by December 22, 2025.
+
+ALSO RETRIEVED 2026-09-24: https://www.federalregister.gov/api/v1/documents/2026-14195.json (Federal Register API record, fields citation, title, abstract, dates)
+citation: 91 FR 43300
+publication_date: 2026-07-14
+title: Rescinding the Definition of "Harm" Under the Endangered Species Act
+abstract: We, the U.S. Fish and Wildlife Service (FWS) and the National Marine Fisheries Service (NMFS; collectively referred to as the "Services") rescind the regulatory definition of "harm" in our Endangered Species Act (ESA or the Act) regulations. This rescission removes the regulatory definition of "harm" from the Code of Federal Regulations (CFR) in Title 50 parts 17 and 222.
+dates: This final rule is effective September 14, 2026.

@@ -19,6 +19,17 @@
 | Q8 | Advantage to Churchill County applying and assigning to the GID? | Little: rent exception, assignment rules | A-cfr-43-2806-14, A-cfr-43-2807-21, A-usc-43-1764 | Unanswered |
 | Q9 | Pay the Section 112 opt-in fee? | Pairs with applicant-prepared EA; when to opt in, recourse if missed | A-usc-42-nepa-112 | Unanswered |
 
+## Corrections found by the library (2026-09-24)
+
+- **Q2:** 43 C.F.R. 46.225 was removed in July 2025 but **reinstated Feb. 24, 2026** (91 FR 8738). It is current. (`A-cfr-43-46`, `P-lead-cooperating-agencies`)
+- **Q4:** CEQ's rescission (90 FR 10610) was adopted as final at **91 FR 618** (Jan. 8, 2026); cite both. (`A-fr-90-10610`)
+- **Q5:** 50 C.F.R. 402.17 was **removed May 6, 2024** (89 FR 24268); a Nov. 2025 proposal to reinstate it is not final. (`A-cfr-50-402`, `P-esa-effects-test`)
+- **Q6:** The N.D. Cal. challenge exists: CBD & Sierra Club v. DOI, No. 3:25-cv-10793, amended Apr. 3, 2026 to reach 91 FR 8738; partial summary judgment briefed June to July 2026; no ruling found (secondary sources only). (`A-fr-91-8738`)
+- **Q7:** "Crossing agreement" is not a Part 429 term. Reclamation's terms are use authorization and, where it holds only an easement, consent document. (`A-cfr-43-429`)
+- **Q9:** Section 112 is codified at 42 U.S.C. 4336f; the EA clock runs from fee payment. (`A-usc-42-nepa-112`)
+- **Q1:** Sylvester, 882 F.2d 407 is Sylvester II (alternatives). The "does not federalize the resort" holding is Sylvester I, 871 F.2d 817 (later cited as 884 F.2d 394). (`A-case-sylvester`)
+- **Q1:** Save Our Sonoran is questioned after Seven County and Sackett (desk reading, not a court holding). (`A-case-save-our-sonoran`)
+
 ## Positions worth keeping
 
 - The federal ask is linear only; no substation or generation on federal land.

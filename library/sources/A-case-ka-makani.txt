@@ -1,0 +1,103 @@
+SOURCE: https://static.case.law/f3d/295/html/0955-01.html RETRIEVED: 2026-09-24
+NOTE: Full opinion text from the Caselaw Access Project static export (Harvard Law School Library), converted from HTML to plain text. Reporter page markers appear inline as *NNN at the point the new page begins (sometimes mid-word). Text is OCR-derived and is reproduced as served, including OCR artifacts.
+
+KA MAKANI ‘O KOHALA OHANA INC., a Hawai'i nonprofit corporation, Plaintiff-Appellant, v. WATER SUPPLY, Department of, County of Hawai'i; Milton Pavao, in his capacity as Department Manager of the Department of Water Supply, County of Hawai'i; United States Geological Survey; William Meyer, in his capacity as District Chief of the United States Geological Survey; Department of Housing and Urban Development, United States; Art Agnos, in his capacity as Secretary’s Representative of the United States Department of Housing and Urban Development, Defendants-Appellees.
+
+No. 00-17473.
+
+United States Court of Appeals, Ninth Circuit.
+
+Argued and Submitted May 7, 2002.
+
+Filed July 1, 2002.
+
+ *957John G. Nelson, Denver, CO, for the plaintiff-appellant.
+
+Susan L. Pacholski, U.S. Department of Justice, Environment and Natural Resources Division, Washington, DC, for the Federal defendants-appellees.
+
+Michael S. Kagami, Deputy Corporation Counsel, Hilo, HI, for the County of Hawaii defendants-appellees.
+
+Before WALLACE, TASHIMA and TALLMAN, Circuit Judges.
+
+OPINION
+
+TASHIMA, Circuit Judge:
+
+Plaintiff-Appellant Ka’ Makani ‘0 Koha-la Ohana, Inc. (“Ka Makani”), a citizens’ coalition, appeals the district court’s summary judgment in favor of Defendants-Appellees County of Hawaii Department of Water Supply (“DWS”) and Milton Pavao, its Department Manager; the United States Geological Survey (“USGS”) and William Meyer, its District Chief; and the United States Department of Housing and Urban Development (“HUD”) and Art Ag-nos, the Secretary’s Representative of HUD (collectively “Appellees”) dismissing Ka Makani’s action against them. Ka Ma-kani alleged that Appellees’ involvement in the Kohala Water Transmission System Project (“Kohala Project”) constituted “major federal action” that triggered the requirement to prepare an environmental *958impact statement (“EIS”) under the National Environmental Policy Act (“NEPA”), 42 U.S.C. § 4321, and sought to enjoin Appellees from proceeding with any work on the Project until a federal EIS is completed. This appeal followed. We have jurisdiction pursuant to 28 U.S.C. § 1291, and we affirm.
+
+I. FACTUAL BACKGROUND
+
+In 1987, the DWS began planning for the Kohala Project, a transbasin water diversion system on the Big Island of Hawaii that would transfer up to 20 million gallons of groundwater per day (in Phases I and II, combined) from the northern part of Kohala to South Kohala through an arrangement of groundwater wells, gravity flow pipelines, and storage reservoirs, to provide a reliable supply of potable water for the development of coastal resorts.
+
+USGS involvement in the Kohala Project consisted primarily of the partial funding of and participation in a series of preliminary studies designed to assess the groundwater availability in the basal aquifer of the North Kohala area and a program of test drilling and test pumping in the aquifer. DWS and USGS entered into four Joint Funding Agreements in 1988, dividing the costs of the studies and an interpretative analysis of the data collected evenly between the two, in the amount of $800,000 each. The studies resulted in the publication of two reports in 1995 and were used by the DWS to prove the merits of the project. In addition to the initial studies, the DWS consulted with the USGS about the design of the Kohala Project and requested that the USGS conduct further studies on the impact of the proposed wells on the streamflow of the Polulu Valley Stream, the Kohakohau Stream, the Waik-oloa Stream, and the Olaa Flume Spring.
+
+In 1991, HUD became involved in the Kohala Project when Congress passed an appropriations bill allocating $500,000 to the County of Hawaii for an EIS for the development of a water resource system for the community of Kohala. See Department of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act of 1991, Pub.L. No. 101-507, Title II, 104 Stat. 1351, 1356-60 (1991). HUD provided the County with application materials for the special purpose grant and gave the County advice regarding its application, including a recommendation to restrict the scope of the activities proposed to be funded by the grant to those exempted from NEPA requirements in order to expedite the approval process. While it is unclear from the record whether HUD restricted the use of the grant funds to the preparation of an EIS alone or had informally approved of its use in the other activities set forth in the County’s revised application, there is no doubt that the activities to be funded by the grant were limited to those of a preliminary nature.1
+
+The DWS only drew upon the grant account once, in 1995, for $30,000 to cover a portion of the payments made to contractors working on the state EIS for the Kohala'Project.2 In 1998, the DWS notified HUD that the Kohala Project had been placed on hold due to the poor economic climate, but maintained that the project would be resumed at the appropriate time. HUD initially agreed to extend the three-year time limit for use of the grant funds, but later recommended the *959closing out of the grant. In 1999, Congress authorized Hawaii County to transfer the remaining balance for use in other water system improvement projects subject to HUD’s approval. In April 2000, the DWS proposed to use the remaining $470,000 for an unrelated project in South Hilo.
+
+II. STANDARD OF REVIEW
+
+We review the district court’s grant of summary judgment de novo. See Hall v. Norton, 266 F.3d 969, 975 (9th Cir.2001). “De novo review of a district court judgment concerning the decision of an administrative agency means we view the case from the same position as the district court.” Sierra Club v. Babbitt, 65 F.3d 1502, 1507 (9th Cir.1995) (citation omitted).
+
+Because NEPA does not contain a separate provision for judicial review, we review an agency’s compliance with NEPA under the Administrative Procedure Act (“APA”), 5 U.S.C. § 706(2)(A). See Churchill County v. Norton, 276 F.3d 1060, 1071 (9th Cir.2001). Usually, under the APA, we review an agency’s decision to determine whether it was “arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;” however, where an agency has decided that a particular project does not require the preparation of an EIS, without having conducted an environmental assessment (“EA”), and we are dealing with primarily legal issues that are based upon undisputed historical facts, we review the decision under the less deferential standard of “reasonableness.” See Northcoast Envtl. Ctr. v. Glickman, 136 F.3d 660, 667 (9th Cir.1998) (citing Res. Ltd., Inc. v. Robertson, 35 F.3d 1300, 1304 (9th Cir.1993) (quoting § 706 of the APA, 5 U.S.C. § 706(2)(A))).3
+
+“The ‘agency’s interpretation [of its own regulations] must be given controlling-weight unless it is plainly erroneous or inconsistent with the regulation.’ ” Alhambra Hosp. v. Thompson, 259 F.3d 1071, 1074 (9th Cir.2001) (quoting Thomas Jefferson Univ. v. Shalala, 512 U.S. 504, 512, 114 S.Ct. 2381, 129 L.Ed.2d 405 (1994)); see also Auer v. Robbins, 519 U.S. 452, 461, 117 S.Ct. 905, 137 L.Ed.2d 79 (1997).
+
+III. DISCUSSION
+
+A. NEPA Requirements
+
+NEPA requires a federal agency to prepare a detailed EIS for all “major Federal actions significantly affecting the quality of the human environment.” 42 U.S.C. § 4332(2)(C); see Churchill County, 276 *960F.3d at 1072. Among other things, the EIS must set forth the unavoidable adverse environmental effects of the proposed action and alternatives to the proposed action. Id. The primary issue in this appeal is whether the USGS and HUD involvement in the Kohala Project is sufficiently major to transform it into a “major Federal action,” triggering the EIS requirement of NEPA. We conclude that it is not.
+
+“There are no clear standards for defining the point at which federal participation transforms a state or local project into a major federal action.” Almond Hill Sch. v. United States Dep’t of Agric., 768 F.2d 1030, 1039 (9th Cir.1985). “The matter is simply one of degree.” Id. (citation omitted). “ ‘Marginal’ federal action will not render otherwise local action federal.” Id. To make this determination, we look “to the nature of the federal funds used and the extent of federal involvement.” Sierra Club v. Penfold, 857 F.2d 1307, 1314 (9th Cir.1988).
+
+While “significant federal funding” can turn “what would otherwise be” a state or local project into a “major federal action,” Alaska v. Andrus, 591 F.2d 537, 540 (9th Cir.1979), consideration must be given to a “great disparity in the expenditures forecast for the state [and county] and federal portions of the entire program.” See Friends of the Earth, Inc. v. Coleman, 518 F.2d 323, 329 (9th Cir.1975) (identifying a large funding disparity and finding that the federal involvement was not sufficient to “federalize” the project for NEPA purposes); see also Village of Los Ranchos de Albuquerque v. Barnhart, 906 F.2d 1477, 1482 (10th Cir.1990) (noting that the federal funding of a large portion of a preliminary study was “minuscule in comparison with the cost of the total bridge project” and did not rise to the level of major federal action). In the present case, the sum total of all of the federal funding that was ever offered to the Kohala Project is $1.3 million,4 which is less than two percent of the estimated total project cost of $80 million.5 At this point, the State of Hawaii and DWS have spent $3,453,161 on the Kohala Project and intend to fund the rest of the project, when it is ready to proceed, with the proceeds of bonds issued by the State and/or County. We therefore conclude that the federal funding contribution alone could not transform the entire Kohala Project into a “major federal action.”
+
+The USGS and HUD also lacked the degree of decision-making power, authority, or control oyer the Kohala Project needed to render it a major federal action. The purpose of NEPA is to “bring environmental considerations to the attention of federal decision-makers.” Friends of the Earth, 518 F.2d at 329 (emphasis added); see also Atlanta Coalition on Transp. Crisis, Inc. v. Atlanta Reg’l Comm’n, 599 F.2d 1333, 1344 (5th Cir.1979) (noting that “Congress did not intend NEPA to apply to state, local, or private actions”). “This pre-supposes that *961[the federal agency] has judgment to exercise.” Village of Los Ranchos, 906 F.2d at 1482 (citations omitted).
+
+Although the USGS played an advisory role in the planning of the Kohala Project because of the agency’s expertise and participation in the preliminary research studies, the USGS was not “placed in a deci-sionmaking role.” See Almond Hill Sch., 768 F.2d at 1039 (stating that federal officials sitting on a State advisory panel which offered recommendations to the Director of the Calif. Dep’t of Food and Agrie, were not in decision-making roles). Because the final decision-making power remained at all times with DWS, we conclude that the USGS involvement was not sufficient to constitute “major federal action.” See Village of Los Ranchos, 906 F.2d at 1482 (stating that in order to have “major federal action,” a federal agency’s authority to influence “must be more than the power to give nonbinding advice to the nonfederal actor ... the federal agency must possess actual power to control the nonfederal activity”) (internal quotation marks and citations omitted).
+
+Similarly, HUD’s provision of advice and information to the DWS regarding its application for HUD’s special purpose grant “did not constitute discretionary involvement or control over” the entire Kohala Project, and therefore, was not “major federal action” for the purposes of NEPA. See Marbled Murrelet v. Babbitt, 83 F.3d 1068, 1075 (9th Cir.1996) (holding that advisory activity, such as the U.S. Fish & Wildlife Serv.’s provision of advice to lumber companies about how to avoid a “take” violation under the Endangered Species Act, did not constitute “discretionary involvement or control” over the lumber companies’ proposed tree harvest operations); see also Sierra Club, 65 F.3d at 1513 (concluding that the NEPA requirements were not triggered because the federal agency was unable meaningfully to influence the project at issue or to implement alternatives to it).
+
+Finally, Ka Makani’s heavy reliance on Scottsdale Mall v. Indiana, 549 F.2d 484 (7th Cir.1977), and Ross v. Fed. Highway Admin., 162 F.3d 1046 (10th Cir.1998), is misplaced. Both Scottsdale and Ross are distinguishable from the present case because of the extent and nature of the federal involvement in those two federal-aid highway project cases. See Ross, 162 F.3d at 1053 (distinguishing Ross and Scottsdale from Village of Los Ranchos, 906 F.2d 1477). In those cases, the projects were conceived of as federal from the outset and had already been subjected to a high degree of federal oversight and control. Furthermore, the federal involvement, including federal funds, had continued long-after the preliminary planning stages. Id. In the present case, federal involvement in the Kohala Project was restricted to the support and funding of preliminary activities such as the EIS and scientific background studies. Moreover, the Kohala Project was always under the total control of non-federal actors and agencies.
+
+In sum, we hold that the actions of HUD and USGS, taken together, in the preliminary stages of the Kohala Project did not constitute “major federal action” within the scope of NEPA.
+
+B. HUD Regulation Requirements
+
+Ka Makani further contends that the completion of a federal EIS was expressly required by HUD’s own regulations regarding the environmental review requirements for HUD special purpose grants. We apply the current version of the regulations, 24 C.F.R. §§ 58.32, 58.34, and 58.36 (2001), because Ka Makani seeks *962forward-looking injunctive relief.6
+ See Lidie v. California, 478 F.2d 552, 556 (9th Cir.1973).
+
+HUD’s regulations require a federal EA or EIS to be prepared for projects funded with special purpose grants unless the “project” is covered by an exemption or a categorical exclusion from NEPA review. See 24 C.F.R. § 58.36. Projects “consisting solely” of exempted activities, which include “environmental and other studies, resource identification and the development of plans and strategies,” see 24 C.F.R. § 58.34(a)(1), do not have to comply with the NEPA requirements. Ka Makani contends that no such exemption applies to this case because the Kohala Project must be considered as a whole.
+
+To make this argument, Ka Makani relies on the “connected actions” provision, which states that all activities related on a geographic or a functional basis must be aggregated and evaluated as a single project, see 24 C.F.R. § 58.32(a), the “connected actions” case law, see e.g., Thomas v. Peterson, 753 F.2d 754, 758 (9th Cir.1985) (noting that the consideration of “connected actions” is necessary to prevent an agency from “dividing a project into multiple ‘actions,’ each of which individually has an insignificant environmental impact, but which collectively have a substantial impact”), and the broad definitions of “project” and “activity” set forth in the regulations, see 24 C.F.R. §§ 58.2(a)(1) and 58.2(a)(4). However, where, as here, the HUD special purpose grant has been clearly designated for use in the preparation of an EIS, and at most, other preliminary activities that would have no real impact on the physical environment and are exempted from the NEPA requirements under 24 C.F.R. § 58.34, it would be illogical to require a full-blown EIS of the whole Kohala Project before permitting the release of funding for these preliminary purposes. Cf. Douglas County v. Babbitt, 48 F.3d 1495, 1505 (9th Cir.1995) (stating that “[i]f the purpose of the NEPA is to protect the physical environment ... then an EIS is unnecessary when the action at issue does not alter the natural, untouched physical environment at all.”). Moreover, for preliminary planning activities which presumably have no impact on the physical environment, the logic of the “connected actions” provision, 24 C.F.R. § 58.32(a), which seeks to ensure that combined impacts of related activities are adequately addressed, see 24 C.F.R. § 58.32(c)(1)-(4), and “connected actions” case law, see e.g., Thomas, 753 F.2d at 758, does not apply.
+
+We therefore conclude that HUD’s interpretation of its own regulations, that its administration of a special-purpose grant for the designated purpose of preparing an EIS and other preliminary activities did not require a federal EIS for the entire Kohala Project, is neither plainly erroneous nor inconsistent with the regulation, and should be upheld. See Alhambra Hosp., 259 F.3d at 1074.
+
+IV. CONCLUSION
+
+For the foregoing reasons, the district court’s grant of summary judgment to Ap-pellees is AFFIRMED.
+
+ 1
+
+. In its grant application, the County/DWS revised the list of activities to be covered by the grant, in keeping with HUD's recommendation.
+
+ 2
+
+. The state EIS of the Kohala Project, prepared pursuant to Haw.Rev.Stat. § 343-5, was completed in 1995.
+
+ 3
+
+. The district court recognized some tension in our cases as to whether the "reasonableness” standard or the "arbitary and capricious” standard should apply to the review of an agency's decision not to prepare an EIS where no EA precedes the decision. While some recent cases have applied the "arbitrary and capricious” standard in this situation, without distinguishing whether or not an EA preceded the agency's decision, see, e.g., Churchill County, 276 F.3d at 1071 (citing Blue Mountains Biodiversity Project v. Blackwood, 161 F.3d 1208, 1211 (9th Cir.1998)), we follow the more reasoned analysis of Northcoast, 136 F.3d at 667, which held that the "reasonableness” standard should apply where the agency decision involved a threshold question of NEPA applicability. See Kern v. United States Bureau of Land Mgmt., 284 F.3d 1062, 1070 (9th Cir.2002). Because this case involves primarily legal issues-whether the activities of HUD and USGS transformed the Kohala Project into a "major Federal action” — based on undisputed historical facts, we conclude that the "reasonableness” standard should apply to this case. Id.; see also Price Rd. Neighborhood Ass'n, Inc. v. United States Dep’t of Transp., 113 F.3d 1505, 1508 (9th Cir.1997) (recognizing that two standards govern the review of agency actions involving NEPA: the arbitrary and capricious standard for predominantly factual or technical disputes and the reasonableness standard for primarily legal disputes).
+
+ 4
+
+. The $1.3 million figure is based on $800,000 provided by USGS for preliminary studies and $500,000 offered under the HUD grant. Because $470,000 of the HUD grant has been transferred for use on other projects, the total amount of federal funding actually spent is only $830,000.
+
+ 5
+
+. Although there is no evidence that the money was ever spent, for summary judgment purposes, it is reasonable to infer that an additional $61,200 in federal funding was anticipated to go towards a USGS study requested by the DWS on the streamflow of the Pololu Valley Stream and three other streams. This additional amount, however, would only raise the federal portion of the total project cost to 2.5 percent and would not alter our analysis.
+
+ 6
+
+. The parties agree that the current HUD regulations apply to this case.

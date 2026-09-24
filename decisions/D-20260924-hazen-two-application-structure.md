@@ -47,8 +47,9 @@ Rejected because it ties the crossings to the corridor's EA schedule.
 
 ## Depends on
 
-- Segmentation propositions: `P-independent-utility-test`, `P-separate-projects-not-analyzed`,
-  `P-post-seven-county-project-definition` (library).
+- Segmentation propositions: `P-segmentation-independent-utility` (status: contested; our application is advocacy),
+  `P-post-seven-county-project-definition`. `P-separate-projects-not-analyzed` covers the
+  private generation only, not the Application 1 vs 2 split (library).
 - Reclamation CX: `A-guid-bor-cx-d8`.
 - Phasing discipline: FMDP documents must not describe Application 1 as a phase of FMDP,
   and Application 1 documents must state its own purpose (CHIP parcel access and

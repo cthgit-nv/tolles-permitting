@@ -1,0 +1,257 @@
+SOURCE: https://static.case.law/f2d/882/html/0407-01.html RETRIEVED: 2026-09-24
+NOTE: Full opinion text from the Caselaw Access Project static export (Harvard Law School Library), converted from HTML to plain text. Reporter page markers appear inline as *NNN at the point the new page begins (sometimes mid-word). Text is OCR-derived and is reproduced as served, including OCR artifacts.
+
+Frederic D. SYLVESTER, Plaintiff-Appellant, v. U.S. ARMY CORPS OF ENGINEERS, Wayne J. Scholl, in his official capacity as District Engineer of the Corps; Patrick Kelley, in his official capacity as San Francisco Division Engineer of the Corps; Robert W. Page, in his official capacity as Assistant Secretary of the Army for Civil Works; John O. Marsh, Jr., in his official capacity as Secretary of the Army, Lee M. Thomas, in his official capacity as Administrator of the Environmental Protection Agency; and Perini Land & Development Company, a Delaware corporation, Defendants-Appellees.
+
+No. 89-15592.
+
+United States Court of Appeals, Ninth Circuit.
+
+Argued and Submitted June 13, 1989.
+
+Decided Aug. 11, 1989.
+
+Terry J. Houlihan, McCutchen, Doyle, Brown & Enersen, San Francisco, Cal., for plaintiff-appellant.
+
+John M. Collette, Collette & Erickson, San Francisco, Cal., Elizabeth Petterson, *408U.S. Dept, of Justice, Washington, D.C., for defendants-appellees.
+
+Before CHOY, SNEED and NOONAN, Circuit Judges.
+
+SNEED, Circuit Judge:
+
+Sylvester appeals the district court’s denial of a motion for a preliminary injunction. We affirm.
+
+I.
+
+FACTS AND PROCEEDINGS BELOW
+
+This appeal addresses issues not before this court in an earlier appeal in which we reversed the district court’s issuance of a temporary injunction. See Sylvester v. United States Army Corps of Eng’rs, 871 F.2d 817 (9th Cir.1989) (Sylvester I).
+
+The facts and then existing procedural history were fully set out in our first opinion. See id. at 818-19. Following our remand to the district court, Sylvester filed a motion for a preliminary injunction to halt, in effect, the construction of the proposed golf course based on the Clean Water Act (CWA), 33 U.S.C. § 1344(a) (1982). He also filed a motion for partial summary judgment based on his National Environmental' Policy Act (NEPA) claims, 42 U.S.C. § 4332(2)(E) (1982). Perini Land & Development Co. (Perini) opposed the preliminary injunction motion and also filed a partial summary judgment motion on the NEPA claims. The district court denied Sylvester’s motion for a preliminary injunction and granted Perini’s motion for partial summary judgment. Sylvester appealed to this court, seeking an emergency injunction halting construction of the proposed golf course. We affirm.
+
+II.
+
+JURISDICTION
+
+The district court had jurisdiction under 28 U.S.C. § 1331 (1982). We have jurisdiction under § 1292(a).
+
+m.
+
+STANDARD OF REVIEW
+
+We review the district court’s refusal to grant injunctive relief for abuse of discretion. See Friends of the Earth, Inc. v. Coleman, 518 F.2d 323, 327 (9th Cir.1975). This court will set aside the Corps’ decision only if it is “arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with [the] law.” 5 U.S.C. § 706(2)(A) (1982).
+
+IV.
+
+ANALYSIS
+
+Sylvester raises three objections to the district court’s decision which we will address in turn. In sum, Sylvester argues that the Corps violated the CWA, the NEPA, and its own regulations in issuing a permit to Perini to fill eleven acres of wetlands in the process of building a golf course.
+
+A. Practicable Alternative under the CWA
+
+First, we turn to Sylvester’s claim that the Corps impermissibly accepted Perini’s definition of the project as necessitating an on-site, eighteen hole golf course. By accepting this definition, Sylvester contends that the Corps’ evaluation of practicable alternatives was skewed in favor of Perini.
+
+The regulations implementing § 404 of the CWA provide that “no discharge of dredged or fill material shall be permitted if there is a practicable alternative to the proposed discharge which would have less adverse impact on the aquatic ecosystem, so long as the alternative does not have other significant adverse environmental consequences.” 40 C.F.R. § 230.10(a) (1988) (emphasis added). The Corps defines a practicable alternative as an alternative that “is available and capable of being done after taking into consideration cost, existing technology, and logistics in light of overall project purposes.” Id. § 230.10(a)(2) (emphasis added). Further, *409because the golf course is not a water dependent activity, the Corps’ regulations presume that practicable alternatives are available “unless clearly demonstrated otherwise.” Id. § 230.10(a)(3); see also Louisiana Wildlife Fed’n, Inc. v. York, 603 F.Supp. 518, 527 (W.D.La.1984), aff'd in part and vacated in part, 761 F.2d 1044 (5th Cir.1985) (“[Classification of an activity as ‘non-water dependent’ does not serve as an automatic bar to issuance of a permit ... [it] simply necessitates a more persuasive showing than otherwise concerning the lack of alternatives.”).
+
+In its Environmental Assessment (EA), the Corps defined the project’s purpose as follows:
+
+To construct an 18-hole, links style, championship golf course and other recreational amenities in conjunction with the development of the proposed Resort at Squaw Creek. Research conducted for the applicant has indicated that a quality 18-hole golf course is an essential element for a successful alpine destination resort.
+
+Sylvester protests that the use of this definition impermissibly skewed the “practicable alternatives” analysis in favor of Perini. Specifically, Sylvester objects to the Corps’ failure to consider off-site locations for the golf course, i.e., a site that was not contiguous to the rest of the resort complex. The Corps rejected consideration of such an alternative because it “did not meet [Peri-ni’s] basic purpose and need.” The Corps did note, however, that two off-site locations were considered but rejected because of insufficient size and the potential for more severe environmental impacts.
+
+In evaluating whether a given alternative site is practicable, the Corps may legitimately consider such facts as cost to the applicant and logistics. See Friends of the Earth v. Hintz, 800 F.2d 822, 833-34 (9th Cir.1986). In addition, the Corps has a duty to consider the applicant’s purpose. As the Fifth Circuit observed: "[T]he Corps has a duty to take into account the objectives of the applicant’s project. Indeed, it would be bizarre if the Corps were to ignore the purpose for which the applicant seeks a permit and to substitute a purpose it deems more suitable.” Louisiana Wildlife Fed’n, Inc. v. York, 761 F.2d 1044, 1048 (5th Cir.1985) (per curiam) (footnote omitted).
+
+Obviously, an applicant cannot define a project in order to preclude the existence of any alternative sites and thus make what is practicable appear impracticable. This court in Hintz quite properly suggested that the applicant’s purpose must be “legitimate.” Id. at 833. Yet, in determining whether an alternate site is practicable, the Corps is not entitled to reject Perini’s genuine and legitimate conclusion that the type of golf course it wishes to construct is economically advantageous to its resort development.
+
+By contrast, an alternative site does not have to accommodate components of a project that are merely incidental to the applicant’s basic purpose. For example, in Shoreline Assocs. v. Marsh, 555 F.Supp. 169, 179 (D.Md.1983), aff'd, 725 F.2d 677 (4th Cir.1984), the Corps refused to issue a permit to a developer for building a number of waterfront town houses together with a boat storage and launching facility. The developer argued that the Corps’ proposed alternative site for the town houses could not accommodate the boat storage and launch area. The court upheld the Corps’ denial of the permit, observing that the boat facilities were merely “incidental” to the town house development. Id.
+
+In this case, it is not the resort buildings that are at issue as were the town houses in Shoreline. The location of the resort buildings was fixed by decisions not involving the Corps of Engineers; and we held in Sylvester I that the location of the proposed golf course partially on wetlands did not “federalize” the entire development. See 871 F.2d at 823. Rather the issue in this case, Sylvester II, is whether this proposed location ignores other reasonable and practicable alternatives, including no golf course at all. Resolution of this issue requires that the relationship of the course to the entire project be considered. The Corps of Engineers did consider this rela*410tionship. Doing so was neither arbitrary nor capricious.
+
+In no way does this conclusion conflict with Sylvester I. A relationship required to be considered in determining reasonable and practicable alternatives need not be of such significance as would be necessary to “federalize” the entire project. True, the golf course is not incidental to the resort; but then neither is it the compelling force, the centerpiece; of the resort. To illustrate, Shoreline would have resembled Sylvester I had the only issue been the location of the boat storage and launch sites, the location of the town houses already having been fixed on a site not subject to federal jurisdiction. Obviously the relationship between the town houses and the boat storage and launch sites would be considered in evaluating possible alternative sites of the latter two; equally obvious, this relationship should not “federalize” the entire project.
+
+B. Evaluation of the Benefits of the Golf Course
+
+Sylvester next argues that the Corps’ analysis of the “reasonable alternatives” under the NEPA to the project was improper.1 Sylvester contends that the Corps limited its consideration of the impact of the proposed development to only those of the golf course while simultaneously including the benefits from the entire resort complex. Sylvester argues that such an analysis violates the Corps’ regulations. Similarly, Sylvester argues that the Corps’ CWA “public interest analysis” was likewise skewed in favor of the project.
+
+It is Sylvester’s refusal to recognize the difference between a relationship that “federalizes” an entire project and one that is properly considered in evaluating benefits of a proposed federal action that lies at the bottom of his assertions that the Corps violated its regulations2 and skewed its CWA public interest analysis.3 The Corps did not, as Sylvester argues, weigh the benefits of the entire project against the environmental impacts of the golf course. The EA makes plain that the Corps followed its regulations and weighed only the benefits of the golf course to the resort.
+
+We conclude, therefore, that the Corps quite properly did measure the benefit of the golf course in terms of its contribution to making the resort an economically viable year-round facility with all of its attendant advantages. This analysis was proper under both the CWA and the NEPA.4
+
+C. Irreparable Harm
+
+In his final argument, Sylvester contends that in denying his motion for a preliminary injunction to halt the construction of the golf course the district court erred in concluding there was no irreparable harm resulting from the construction of the golf course. Presumably the irreparable harm to which Sylvester alludes is the alteration, or in his view, destruction of the wetlands. Because we conclude that the Corps action was neither arbitrary nor capricious, we reject his allegation of irreparable harm. Moreover, even if we accept the wetlands impairment as an irreparable loss, this would not carry the day for Sylvester be*411cause of our holding that Sylvester has no fair chance of succeeding on the merits.
+
+AFFIRMED.
+
+ 1
+
+. The Corps’ regulations require it to include a discussion of the “reasonable alternatives” to the proposed development in an EA. See 33 C.F.R. pt. 325, app. B § 7 (1988).
+
+ 2
+
+. The Corps’ regulations require that ”[i]n all cases, the scope of analysis used for analyzing both impacts and alternatives should be the same scope of analysis used for analyzing the benefits of a proposal." 33 C.F.R. pt. 325 app. B, § 7(3).
+
+ 3
+
+. 33 C.F.R. § 320.4(a) (1988) requires the Corps to evaluate “the probable impacts, including cumulative impacts, of the proposed activity and its intended use on the public interest.”
+
+ 4
+
+.We also note that the public interest review under the CWA encompasses more factors than the NEPA analysis. The Corps’ regulations require it to consider a broad range of interests that are not included under the “reasonable alternative” analysis under the NEPA. See 33 C.F.R. § 320.4(a) (listing, for example, conservation, economics, aesthetics, recreation, and "the needs and welfare of the people”). Further, under the CWA, the Corps is not limited by a regulation similar to 33 C.F.R. pt 325 app. B § 7, see supra note 2. As a consequence, the Corps could properly consider a wider range of facts in conducting its public interest analysis than the reasonable alternatives analysis.
+
+==========
+SUPPLEMENT (for Notes only, not the carded opinion): Sylvester v. U.S. Army Corps of Engineers, 871 F.2d 817 (9th Cir. 1989) ("Sylvester I"), from https://static.case.law/f2d/871/html/0817-01.html RETRIEVED: 2026-09-24
+==========
+Frederic D. SYLVESTER, Plaintiff-Appellee/Cross-Appellant, v. U.S. ARMY CORPS OF ENGINEERS, Wayne J. Scholl, in his official capacity as District Engineer Of the Corps; Patrick Kelley, in his Official capacity as San Francisco Division Engineer of the Corps; Robert W. Page, in his official capacity as Assistant Secretary of the Army for Civil Works; John O. Marsh, Jr., in his official capacity as Secretary of the Army, Defendants-Appellants. and Perini Land & Development Company, a Delaware corporation, Defendant-Appellant/Cross-Appellee.
+
+Nos. 88-15376, 88-15477 and 88-15604.
+
+United States Court of Appeals, Ninth Circuit.
+
+Argued and Submitted Feb. 16, 1989.
+
+Decided March 27, 1989.
+
+ *818Peter R. Steenland, Jr., Elizabeth Ann Peterson, Dept, of Justice, Washington, D.C., for defendants-appellants.
+
+John M. Collette, Collette & Erickson, San Francisco, Cal., for defendant-appellant/ cross-appellee.
+
+Terry J. Houlihan, McCutchen, Doyle, Brown & Enersen, San Francisco, Cal., for plaintiff-appellee/eross-appellant.
+
+Michael J. Bean, Environmental Defense Fund, Hope Babcock, for Nat. Audubon Society, Washington, D.C., for amici.
+
+William Robert Irvin, Washington, D.C., for Nat. Wildlife Federation.
+
+Before CHOY, SNEED, and NOONAN, Jr., Circuit Judges.
+
+SNEED, Circuit Judge:
+
+We issued an order on February 23, 1989, modifying a preliminary injunction in a suit by Frederic D. Sylvester against the United States Army Corps of Engineers (the Corps), four federal officials (with the Corps, referred to as the “Federal Defendants”), and Perini Land & Development Company (Perini).1 This opinion sets forth our reasoning and supersedes our order of February 23, 1989, with an order vacating the preliminary injunction entirely.
+
+The district court’s injunction, which enjoined all work on a resort complex that Perini is developing, was in response to Sylvester’s claim that the Corps improperly issued Perini a conditional permit to fill wetlands under § 404 of the Clean Water Act (CWA), 33 U.S.C. § 1344(a) (1982). Specifically, Sylvester insisted that the issuance by the Corps of the § 404 permit was based on an erroneous decision not to prepare an “Environmental Impact Statement” (EIS) under the National Environmental Policy Act (NEPA), 42 U.S.C. § 4332(2)(C) (1982), covering the entire resort and that this error unduly limited the scope of its NEPA analysis. We disagreed and temporarily modified the injunction to cover only the property that we felt was within the Corps’ control and responsibility.
+
+I.
+
+FACTS AND PROCEEDINGS BELOW
+
+Perini has begun building a multi-million dollar resort in Squaw Valley, California. The resort, if completed as planned, will include skiing facilities, a resort village, and a golf course. Perini has decided to locate the golf course on a meadow in Squaw Valley and to locate the resort village and the ski runs on neighboring uplands. The meadow, through which the Squaw Creek flows, contains pockets of wetlands. To make the land suitable for golf, Perini intends to fill eleven acres of these wetlands. Although others already have used the meadow for various purposes, such as farming, waste disposal, and parking, the parties dispute whether these activities have affected the natural state of the wetlands.
+
+ *819Perini has sought to obtain the necessary permits to build the resort for almost five years. It has obtained approval from four government agencies: (1) the Placer County Board of Supervisors, (2) the State Regional Water Control Board — Lahontan Region, (3) the State Water Resources Control Board, and (4) the Corps. It also has settled two state court actions challenging the adequacy of the state environmental analy-ses.
+
+Placer County, which has jurisdiction over all of the resort property, certified an “Environmental Impact Report” for the entire project, pursuant to California law, after analyzing each component of the resort. It then issued a “Conditional Use Permit” that allowed Perini to construct the resort subject to one hundred and twenty-eight conditions. Thirty-seven of these conditions related to the golf course. The State Regional Water Control Board and the State Water Resources Control Board, which have jurisdiction to review and approve compliance with state waste discharge restrictions, have required Perini to adopt additional water quality protective measures.
+
+The Corps believed that it had jurisdiction only over the wetlands and, accordingly, confined its review to the meadow where Perini intends to locate the golf course. The Corps reviewed the records compiled by the state agencies, held a public hearing, and conducted its own evaluation of the environmental effects of constructing the golf course. The Corps also agreed to accept anonymous written comments about the resort because of the possibility that Perini may have curtailed the speech of concerned citizens and organizations by threatening to enforce certain “no further opposition” terms of its state court settlements.
+
+On February 25,1988, the Corps issued a conditional permit under § 404 of the CWA allowing Perini to build the golf course but requiring it: (1) to construct 12.7 acres of new artificial wetlands, (2) to restore 117 acres of the existing meadow, and (3) to comply with certain conditions imposed by the state agencies. In its “Environmental Assessment” (EA), issued pursuant to its own regulations, see 53 Fed.Reg. 3120, 3129 (1988) (to be codified at 33 C.F.R. § 230.10), the Corps stated that it had decided not to prepare an EIS under 42 U.S.C. § 4332(2)(C) (1982), because it found that the federal action of granting the § 404 permit to Perini would not have a significant effect on the quality of the human environment, see 53 Fed.Reg. at 3129 (to be codified at 33 C.F.R. § 230.11). As already mentioned, the Corps considered only the impact of the golf course and not the impact of the rest of the resort complex in reaching this decision.
+
+Sylvester reacted quickly. On April 28, 1988, he sued Perini and the Federal Defendants in the United States district court below. His complaint raised claims under the NEPA, the CWA, the Endangered Species Act, 16 U.S.C. § 1536(c)(1) (1982), and the Clean Air Act, 42 U.S.C. §§ 7506(c), 7609 (1982). The relief he sought included declaratory relief, a writ of mandamus ordering the Corps, among other things, to prepare an EIS and to rescind Perini’s § 404 permit, and, finally, a preliminary and permanent injunction restraining the defendants from authorizing or undertaking “work in the Squaw Meadow or in other areas that would affect the wetlands in Squaw Meadow.”
+
+On August 4, 1988, the district court granted a temporary restraining order preventing Perini from doing any work in the wetlands. On September 21,1988, it issued a preliminary injunction halting all work on the entire resort complex. The court accepted Sylvester’s claim that the Corps should not have issued the § 404 permit because it failed to comply with the NEPA. It relied, in particular, on Sylvester’s assertion that, in deciding whether to prepare an EIS, the Corps improperly limited the scope of its NEPA analysis to the golf course rather than examining the environmental effects of the entire resort complex. After reviewing various Ninth Circuit cases, the court stated that the “plaintiff has at least raised serious questions on the merits, if not a likelihood of success, regarding the proper scope of analysis under his NEPA claim.” The court later explained that it *820would not defer to the Corps’ NEPA regulations, which interpreted the NEPA to limit the scope of its analysis to the golf course, because the regulations did not comport with the NEPA and its legislative history. On October 6, 1988, the court ordered Sylvester to post a $100,000 bond as security for the injunction.
+
+Perini timely appealed the order granting the preliminary injunction and Sylvester timely appealed the bonding order. To expedite this litigation, we modified the scope of the injunction to cover only the golf course and the other areas embraced in the Corps’ EA immediately following oral argument.
+
+II.
+
+JURISDICTION
+
+The district court had jurisdiction over Sylvester’s NEPA claim under 28 U.S.C. § 1331 (1982) and the Administrative Procedure Act, 5 U.S.C. § 702 (Supp. IV 1986). This court has appellate jurisdiction, under 28 U.S.C. § 1292(a) (1982), to review the order granting the preliminary injunction.2
+
+III.
+
+STANDARD OF REVIEW
+
+This court reviews an order granting a preliminary injunction for abuse of discretion. See Sierra Club v. Penfold, 857 F.2d 1307, 1321 (9th Cir.1988). To obtain a preliminary injunction, the moving party must show either (1) a combination of probable success on the merits and the possibility of irreparable injury or (2) that serious questions are raised and the balance of hardships tips in its favor. See United States v. Odessa Union Warehouse Co-op, 833 F.2d 172, 174 (9th Cir.1987).
+
+IV.
+
+THE ISSUE
+
+The NEPA requires federal agencies to prepare a detailed statement on the environmental impact of “major Federal actions significantly affecting the quality of the human environment.” 42 U.S.C. § 4332(2)(C) (1982). The issue before us is whether the Corps’ understanding of the term “federal action” that it used in deciding whether to prepare such a statement was correct. The NEPA does not specify the scope of analysis that federal agencies must conduct in determining whether their actions, when combined with private actions, come within the mandate of § 4332(2)(C). The district court, as noted above, looked to Ninth Circuit precedent for guidance. We hold that the district court erred in reaching the conclusion it did.
+
+V.
+
+THE REGULATIONS
+
+A. The Corps’ Regulations
+
+The Corps follows its own regulations when determining how to comply with the NEPA. In 1980, the Corps published a version of regulations that did not specify how it should determine the scope of its NEPA analysis when issuing permits for projects combining both federal and non-federal actions. See 45 Fed.Reg. 56760 (1980). In the same year, the Fifth and Eighth Circuits decided to limit this scope to the federally controlled or regulated aspects of such projects. See Winnebago Tribe v. Ray, 621 F.2d 269, 273 (8th Cir.) (NEPA did not require the Corps to consider an entire power line when issuing a permit allowing the line to cross navigable waters), cert. denied, 449 U.S. 836, 101 S.Ct. 110, 66 L.Ed.2d 43 (1980); Save the Bay, Inc. v. United States Corps of Eng’rs, 610 F.2d 322, 327 (5th Cir.) (NEPA did not require the Corps to consider a chemical plant when issuing a permit allowing construction of a wastewater pipeline from the plant), cert. denied, 449 U.S. 900, 101 S.Ct. 269, 66 L.Ed.2d 130 (1980).
+
+In 1984, the Corps proposed an amendment to its NEPA regulations that would have codified Winnebago and Save the 
+ *821
+ Bay. The Clean Air Act (CAA), however, requires the Administrator of the Environmental Protection Agency (EPA) to review proposed NEPA compliance regulations. See 42 U.S.C. § 7609(a) (1982). The Administrator did not approve the Corps’ amendment and, therefore, had to refer it to the Council of Environmental Quality (CEQ) under § 7609(b) (1982). On June 8, 1987, the CEQ approved the amendment subject to a few proposed modifications. See 52 Fed.Reg. 22518, 22520-22 (1987). On February 3, 1988, the Corps revised and published the amendment; the revision adopted the CEQ’s proposals. See 53 Fed. Reg. 3120, 3121 (1988).
+
+The final set of regulations provides:
+
+b. Scope of Analysis. (1) In some situations, a permit applicant may propose to conduct a specific activity requiring a Department of the Army (DA) permit (e.g., construction of a pier in a navigable water of the United States) which is merely one component of a larger project (e.g., construction of an oil refinery on an upland area). The district engineer should establish the scope of the NEPA document (e.g., the EA or EIS) to address the impacts of the specific activity requiring a DA permit and those portions of the entire project over which the district engineer has sufficient control and responsibility to warrant Federal review.
+
+(2) The district engineer is considered to have control and responsibility for portions of the project beyond the limits of Corps jurisdiction where the Federal involvement is sufficient to turn an essentially private action into a Federal action. These are cases where the environmental consequences of the larger project are essentially products of the Corps permit action.
+
+Typical factors to be considered in determining whether sufficient “control and responsibility” exists include:
+
+(i)Whether or not the regulated activity comprises “merely a link” in a corridor type project (e.g., a transportation or utility transmission project).
+
+(ii) Whether there are aspects of the upland facility in the immediate vicinity of the regulated activity which affect the location and configuration of the regulated activity.
+
+(iii) The extent to which the entire project will be within Corps jurisdiction.
+
+(iv) The extent of cumulative Federal control and responsibility.
+
+ Id. at 3135 (to be codified at 33 C.F.R. Part 325, App. B„ § 7b).
+
+B. Deference to the Regulations
+
+In Chevron, U.S.A. Inc. v. National Resources Defense Council, Inc., 467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984), the Supreme Court established two rules for reviewing an agency’s construction of a statute that it administers. First, the court must follow any unambiguously expressed intent of Congress. See id. at 842-43, 104 S.Ct. at 2781-82. Second, when a statute is “silent or ambiguous” with respect to a specific issue, the court must defer to the agency’s interpretation if based on a permissible construction of the statute. See id. at 843, 104 S.Ct. at 2782.
+
+When we apply these rules to the facts, we find no clear intention in the NEPA with respect to the proper resolution of the issue before us. Moreover, we cannot say that the Corps’ interpretation is an impermissible reading of the statute. We hold, therefore, that the district court should have deferred to the Corps’ regulations as approved by the CEQ. We also conclude that there is little likelihood that Sylvester can show that the Corps incorrectly applied these regulations in limiting the scope of its review.
+
+VI.
+
+SYLVESTER’S CONTENTIONS
+
+Sylvester makes four arguments to which we should respond.
+
+The first addresses the deference to which the Corps’ regulations are entitled. Sylvester insists that while Chevron may require a court to give controlling weight to an agency’s construction of a statute that it administers, see 467 U.S. at 844, 104 *822S.Ct. at 2782, a court does not have to give deference to an agency’s interpretation of a statute outside of its “administrative ken.” See Parola v. Weinberger, 848 F.2d 956, 959 (9th Cir.1988). Therefore, Sylvester argues, this court owes no deference to the Corps’ NEPA regulations because the Corps does not administer the NEPA. True, but this argument misses the mark. It ignores the role of the EPA and the CEQ. As the Federal Defendants point out, the CAA requires the EPA to review the Corps’ regulations and designates the CEQ as the arbitrator in disputes between federal agencies on environmental issues. See 42 U.S.C. § 7609(a)-(b). This is not done as an idle exercise. It is to provide guidance to all who may be concerned, including courts. Thus, even though the Corps actually promulgated the regulations, we believe that the principles underlying Chevron entitle them to, and require us to extend, deference.
+
+Second, Sylvester argues that the Corps’ regulations are contrary to Congress’ clear intention. The NEPA requires agencies to comply with its mandates “to the fullest extent possible.” 42 U.S.C. § 4332 (1982). Congress explained that this means that no agency may “utilize an excessively narrow construction of its existing statutory authorizations to avoid compliance.” H.R. Conf. Rep. No. 91-765, 91st Cong., 1st Sess. 10, reprinted in 1969 U.S.Code Cong. & Admin.News 2751, 2767, 2770. Even expansive language has some limits. These statements cannot expand the areas over which the Corps may exercise control and responsibility beyond its statutory authority. Mindful of this positive restraint, we find that the Corps’ regulations fixing the scope of its NEPA analysis strike an acceptable balance between the needs of the NEPA and the Corps' jurisdictional limitations.
+
+Third, Sylvester charges that the present regulations are entitled to little deference because they conflict with the Corps’ previous regulations. The alleged conflict is said to be between § 7b(l) and § 7b(2). The Corps’ previous regulations contained the language now set forth in § 7b(l) but not that in § 7b(2). See 53 Fed.Reg. at 3135 (to be codified at 33 C.F.R. Part 325, App. B). Thus, the previous regulations, Sylvester argues, did not restrict the Corps’ authority to consider “entire” projects to the extent that is now done by the present regulations. See 45 Fed.Reg. 56760, 56779 (1980) (presently codified at 33 C.F.R. Part 230, App. B, § 8(a) (1987)). However, under Mesa Verde Construction Co. v. Northern California District Council of Laborers, 861 F.2d 1124, 1134 (9th Cir.1988) (en banc), this court will defer to an agency’s interpretation of a statute, if reasonable, even though the agency previously interpreted the statute differently.
+
+Fourth, Sylvester argues that the Corps’ regulations conflict with the CEQ’s regulations. The CEQ’s regulations provide that in deciding whether to prepare an EIS, an agency must consider significant indirect effects, including “growth inducing effects and other effects relating to induced changes in the pattern of land use, population density or growth rate.” 40 C.F.R. § 1508.8(b) (1987). The regulations provide further that an agency cannot avoid finding significant indirect effects by “breaking [an action] down into small component parts.” Id. § 1508.27(b)(7). The regulations also explain that the cumulative impact of a project consists of the “incremental impact of the action when added to other past, present, and reasonably foreseeable future action regardless of what agency (Federal or non-Federal) or person undertakes such other actions.” Id. § 1508.7.
+
+Environmental impacts are in some respects like ripples following the casting of a stone in a pool. The simile is beguiling but useless as a standard. So employed it suggests that the entire pool must be considered each time a substance heavier than a hair lands upon its surface. This is not a practical guide. A better image is that of scattered bits of a broken chain, some segments of which contain numerous links, while others have only one or two. Each segment stands alone, but each link within each segment does not.
+
+ *823Drawing our inspiration from this image, we find no conflict in the regulations as applied in this case. Consistent with both its own regulations and the CEQ’s regulations, the Corps did analyze the secondary and cumulative impacts of the golf course, but concluded that these impacts did not include the other resort facilities. As we explain below, we cannot find that the golf course and the rest of the resort are two links of a single chain that require the Corps to look further than it did.
+
+VII.
+
+NINTH CIRCUIT PRECEDENTS
+
+Perhaps the district court, in deciding not to defer to the regulations, was swayed by several Ninth Circuit precedents indicating that agencies cannot divide projects to avoid their duties under the NEPA. These cases include Port of Astoria, Oregon v. Model, 595 F.2d 467, 480 (9th Cir.1979) (agency’s EIS had to consider the supply of federal power and the construction of a private magnesium plant that used the power); Thomas v. Peterson, 753 F.2d 754, 761 (9th Cir.1985) (agency’s EIS had to consider both a federal road and the federal timber sales that the road would facilitate); and Colorado River Indian Tribes v. Marsh, 605 F.Supp. 1425, 1433 (C.D.Cal.1985) (agency had to prepare an EIS that considered both the federal action of stabilizing a river bank and the private housing built as a result).
+
+These cases do not conflict with the Corps’ decision not to consider the entire resort. The federal and private portions of the projects considered in these cases were joined to each other (links in the same bit of chain) in a way that the golf course and the remainder of the resort complex (a separate segment of chain) are not. Although the parties dispute what Perini has represented about the economic feasibility of building the resort complex without the golf course, we take judicial notice that ski resorts in the Lake Tahoe region of California can and do exist without being located immediately adjacent to golf courses. We do not understand how Perini’s desire to place the course in a meadow that contains wetlands can federalize the entire resort complex.
+
+Indeed, we believe that a contrary decision on our part might conflict with Friends of the Earth v. Hintz, 800 F.2d 822, 832 (9th Cir.1986) (agency considered only filled wetlands and not other aspects of a harbor facility in deciding not to prepare an EIS); Enos v. Marsh, 769 F.2d 1363, 1371-72 (9th Cir.1985) (agency’s EIS did not have to consider non-federal shore facilities for a new deep draft harbor); and Friends of Earth, Inc. v. Coleman, 518 F.2d 323, 328 (9th Cir.1975) (agency did not have to prepare an EIS for state funded projects in a partially federally funded airport development). Although Sylvester asserts that the projects in these cases were more divisible than Perini’s project, and amici curiae point out various other differences, we find the present case to resemble these cases more closely than it resembles Hodel, Thomas, or Colorado River Indian Tribes.
+
+ 3
+
+VIII.
+
+CONCLUSION
+
+The foregoing discussion indicates that Sylvester has not demonstrated a likelihood of success on the merits of his claim that the Corps improperly limited the scope of its analysis in deciding not to prepare an EIS. We therefore vacate the preliminary injunction entirely and hereby supersede our order filed herein on February 23, 1989. However, because the district court did not rule on Sylvester’s other claims under the NEPA, CWA, and CAA, we remand the matter so that the district *824court may rule on the propriety of issuing a preliminary injunction on those other claims. The district court should reconsider the amount of Sylvester’s $100,000 bond if it determines that a preliminary injunction should issue.
+
+We, finally, draw comfort from the fact that ordinary notions of efficiency suggest a federal environmental review should not duplicate competently performed state environmental analyses. The United States may have learned more from California about the need to protect the environment than has California from the United States. The latter is supreme, of course, but the former infrequently needs tutelage.
+
+REVERSED AND REMANDED.
+
+ 1
+
+. The court has received and considered a brief from amici curiae Environmental Defense Fund, Inc., National Audubon Society, and National Wildlife Federation.
+
+ 2
+
+. We do not address the appealability of the bonding order because our modification of the injunction requires the district court to reconsider the amount of the bond in any event.
+
+ 3
+
+. The parties also have cited Methow Valley Citizens Council v. Regional Forester, 833 F.2d 810, 816 (9th Cir.1987) (agency had to assess the commercial development caused by a ski resort), cert. granted, — U.S. -, 108 S.Ct. 2869, 101 L.Ed.2d 905 (1988); and City of Davis v. Coleman, 521 F.2d 661, 671 (9th Cir.1975) (agency had to consider the commercial development caused by an interstate highway interchange). These cases address the impact of federal action rather than the scope of federal action.

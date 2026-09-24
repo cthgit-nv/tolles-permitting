@@ -1,0 +1,27 @@
+SOURCE: https://www.ecfr.gov/current/title-50/chapter-I/subchapter-B/part-17/subpart-B/section-17.11 RETRIEVED: 2026-09-24
+Retrieved via eCFR API https://www.ecfr.gov/api/versioner/v1/full/2026-09-22/title-50.xml?part=17&section=17.11 (eCFR up to date as of 2026-09-22). Extract: 50 CFR 17.11(h) rows for desert tortoise. Columns run together in extraction: common name, scientific name, where listed, status, listing citations.
+Tortoise, desert [Mojave DPS] Gopherus agassizii Wherever found, except AZ south and east of Colorado R., and Mexico T 45 FR 55654, 8/20/1980; 
+54 FR 32326, 8/4/1989; 
+55 FR 12178, 4/2/1990; 
+50 CFR 17.95(c).CH 
+Tortoise, desert Gopherus agassizii AZ south and east of Colorado R., and Mexico, when found outside of Mexico or said range in AZ T(S/A) 55 FR 12178, 4/2/1990; 
+50 CFR 17.42(e).4d 
+
+ALSO RETRIEVED 2026-09-24: https://ecos.fws.gov/ecp/pullreports/catalog/species/report/bo/export?format=html (FWS ECOS, Section 7 Consultation Issued Biological Opinions report; export returned rows 1 to 2,999 of 2,999, latest row dated 01/21/2022). Columns run together: project code, biological opinion date, title, lead agency. Selected rows:
+08ENVS00-2019-F-015301/14/2020BLM SNDO Reinitiation of the 1998 RMP PBOBureau of Land Management
+08ENVS00-2020-F-002801/14/2020BLM Sloan to Mead Rebuild Transmission Line ROW Append to SNDO PBOBureau of Land Management
+08ENVD00-2015-F-0034, 08ENVD00-2015-F-0034-R00106/18/2019Append BLM Southern Nevada Interie Project - Desertlink to the SNDO PBOBureau of Land Management
+08ENVD00-2015-F-003411/13/2019Append BLM Southern Nevada Interie Project - Desertlink to the SNDO PBOBureau of Land Management
+08ENVS00-2020-F-001411/13/2019BLM Via Nobila to I15 ROW Append to SNDO PBOBureau of Land Management
+08ENVS00-2020-F-010005/27/2020BLM Miners Mesa Road ROW Append to SNDO PBOBureau of Land Management
+08ENVS00-2017-F-006103/02/2017BLM Faraday Future Apex Gas Line Project Append to SNDO PBOBureau of Land Management
+08ENVS00-2019-F-012511/07/2019BLM SNDO Gemini SolarBureau of Land Management
+08ENVS00-2020-F-007107/14/2020BLM SNDO Yellow Pine SolarBureau of Land Management
+
+ALSO RETRIEVED 2026-09-24: https://www.blm.gov/press-release/blm-seeks-input-northern-ivanpah-valley-desert-tortoise-habitat-plan-nevada
+BLM seeks input on Northern Ivanpah Valley Desert Tortoise habitat plan in Nevada
+Jul 10, 2024
+LAS VEGAS - The Bureau of Land Management Las Vegas Field Office is proposing to restore and reconnect fragmented habitat in the northern Ivanpah Valley for the threatened desert tortoise in and around the Large-Scale Translocation Site, a 40 square-mile area of tortoise habitat that was fenced in 1996 to experimentally relocate desert tortoises displaced by development or abandoned by pet owners.
+BLM has prepared a draft environmental assessment and draft plan for the Northern Ivanpah Valley Desert Tortoise Habitat Connectivity and Restoration Project and is seeking public input on the draft documents through August 10, 2024.
+"We look forward to the public's feedback and review of our draft environmental assessment and draft plan," said BLM Las Vegas Field Office Manager Bruce Sillitoe. "We hope that with this project we can more effectively restore and reconnect valuable habitat for the Desert Tortoise."
+From 1997 to 2014, the U.S. Fish and Wildlife Service released over 9,000 tortoises into the Large-Scale Translocation Site. The proposed project would add, modify, or remove fencing to reduce tortoise mortality and improve habitat connectivity; add and modify culverts; monitor and treat weeds, especially where ground disturbing activities occur; and restore native vegetation near culverts or elsewhere to improve tortoise habitat.

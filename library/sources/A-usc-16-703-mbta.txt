@@ -42,3 +42,9 @@ All bureaus and offices are directed to consider M-Opinion M-37050 as autho rita
 on the Department , except with respect to actions relying on such opinion that are to be taken 
 within the jurisdiction of the United States District Court for the Southern District of New York. 
 This Memorand um revokes and withdraws M-37065. 
+ALSO RETRIEVED 2026-09-24: https://www.federalregister.gov/api/v1/documents/2025-06782.json (Federal Register API record, fields citation, title, abstract, dates)
+citation: 90 FR 16664
+publication_date: 2025-04-21
+title: Migratory Bird Permits; Authorizing the Incidental Take of Migratory Birds; Withdrawal
+abstract: On October 4, 2021, the U.S. Fish and Wildlife Service (Service) published an advance notice of proposed rulemaking in the Federal Register. The Service is withdrawing this advance notice of proposed rulemaking, consistent with an order by the Secretary of the Interior.
+dates: The advance notice of proposed rulemaking that published on October 4, 2021, at 86 FR 54667, is withdrawn as of April 21, 2025.

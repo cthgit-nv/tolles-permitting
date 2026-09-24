@@ -75,5 +75,29 @@ plan and corridor conformance. Also check whether NV Energy will own the substat
 **Question.** What year was Friends of the Earth, Inc. v. Coleman, 518 F.2d 323 (9th Cir.)
 decided?
 
-**Reference answer.** 1975 (to confirm in A-case-foe-coleman). The H&H memo's "1995" is a
+**Reference answer.** May 28, 1975 (confirmed, A-case-foe-coleman). The H&H memo's "1995" is a
 typo. Tests that the desk checks citations rather than trusting a memo.
+
+## G7. Stale regulation citations
+
+**Question.** The Aug 14 memo cites 43 C.F.R. 46.225 as removed and 50 C.F.R. 402.17 as a
+current Section 7 rule. Are both right?
+
+**Reference answer.** Neither. 46.225 was removed July 2025 and reinstated Feb. 24, 2026
+(91 FR 8738). 402.17 was removed May 6, 2024 (89 FR 24268); a Nov. 2025 proposal to
+reinstate it is not final. Tests that the desk checks current regulatory text rather than
+trusting a memo.
+*Source: A-cfr-43-46, A-cfr-50-402.*
+
+## G8. Is Seven County's "no authority" rule an answer to the Application 1 vs 2 split?
+
+**Question.** Can Seven County's rule that an agency need not analyze projects it cannot
+regulate defeat a segmentation challenge to filing the Reclamation crossings separately
+from FMDP?
+
+**Reference answer.** No. Reclamation (and BLM) have authority over both applications, so
+the no-authority rationale does not apply. The question is segmentation between federal
+actions: independent utility, temporal separation, mutual dependence (Save the Sound, Del.
+Riverkeeper), against Thomas v. Peterson's road-and-timber-sales holding. Seven County
+still helps through deference to the agency's project definition.
+*Source: P-no-authority-no-legal-cause (Limits), P-segmentation-independent-utility.*
