@@ -12,7 +12,7 @@ Needed before any NEPA pathway analysis: acres of disturbance on BLM land by fac
 
 ## Answer
 
-- **Answered:**
-- **Answer:**
-- **Cites:**
-- **Led to:**
+- **Answered:** 2026-09-24 by Cory Hunt
+- **Answer:** Partly answered: substation about 50 to 60 acres; 230 kV line about 1.25 miles; access road about 1.2 miles, three lanes. Still open: fiber route, overlap with existing ROWs or corridor 224-225, tortoise habitat.
+- **Cites:** Cory, 2026-09-24 session
+- **Led to:** denim facts F4; remaining items carried in Q-20260924-denim-route-details.

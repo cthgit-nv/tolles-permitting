@@ -15,7 +15,7 @@ A same-day filing obligation tied to the SF-299. Easy to miss.
 
 ## Limits
 
-Voltage of FMDP and Denim lines not yet confirmed. Behind-the-meter gas plant exemption
+Denim: 230 kV line, so a permit is required (denim facts F4). FMDP voltage not yet confirmed; the Application 1 MV lines are below the threshold. Behind-the-meter gas plant exemption
 is a question for counsel. FERC-jurisdictional pipelines are excluded (704.865(3)).
 
 ## Relied on by

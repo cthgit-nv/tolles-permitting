@@ -12,7 +12,7 @@ Cory listed "overhead" and "medium voltage" among the utilities the Application 
 
 ## Answer
 
-- **Answered:**
-- **Answer:**
-- **Cites:**
-- **Led to:**
+- **Answered:** 2026-09-24 by Cory Hunt
+- **Answer:** No. The overhead lines across the Application 1 crossings are medium-voltage lines from CHIP's own gas plant, BESS and solar to CHIP load, powering the first data center building. They have no FMDP connectivity.
+- **Cites:** Cory, 2026-09-24 session
+- **Led to:** chip facts F10. Strengthens independent utility for Application 1 (P-segmentation-independent-utility).

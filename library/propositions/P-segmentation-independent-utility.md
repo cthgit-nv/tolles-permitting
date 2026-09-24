@@ -38,8 +38,9 @@ crossings and Hart Lane road are one project with the FMDP corridor.
   whether or not FMDP is built; (2) FMDP does not require Application 1 to proceed, since
   its access uses the NV Energy road and the shared GBGT corridor; (3) Thomas applied the
   CEQ connected-actions regulation, now rescinded, and Seven County directs deference.
-  The answer fails if any Application 1 facility exists only to serve FMDP (see
-  `Q-20260924-overhead-line-scope`).
+  Confirmed 2026-09-24: the Application 1 overhead lines are MV lines from CHIP's own
+  generation to CHIP load (the first data center building), with no FMDP connectivity
+  (chip facts F10). The answer would fail only if that changes.
 - **Sovereign Inupiat (9th Cir. June 2025, binding).** Upheld BLM choosing a broad,
   anti-segmentation scope. Answer: it upholds agency discretion to go broad; it does not
   require breadth. But it shows a Ninth Circuit panel receptive to segmentation concerns,

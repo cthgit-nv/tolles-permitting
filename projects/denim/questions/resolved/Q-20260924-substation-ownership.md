@@ -12,7 +12,7 @@ Cory, 2026-09-24: the BLM ROW applicant is Jean Data Partners LLC. Utility subst
 
 ## Answer
 
-- **Answered:**
-- **Answer:**
-- **Cites:**
-- **Led to:**
+- **Answered:** 2026-09-24 by Cory Hunt
+- **Answer:** Jean Data Partners LLC is expected to own the facilities; NV Energy ownership is not envisioned at this time.
+- **Cites:** Cory, 2026-09-24 session
+- **Led to:** denim facts F5.

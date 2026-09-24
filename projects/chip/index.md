@@ -36,18 +36,19 @@ the CHIP Brain in Dropbox.
    small, transverse crossings (~4.17 acres). A 2,750-foot paved road running on
    Reclamation land, plus water, wastewater, overhead, MV and fiber, makes "minor and
    localized" harder.
-3. **"Overhead" scope.** If any overhead line across the crossings is part of the FMDP
-   transmission line, Application 1 contains a piece of Application 2.
+3. **Energy delivery framing.** The crossings carry MV power from CHIP's own gas plant, BESS
+   and solar to the first data center building, with no FMDP connectivity (facts F10). This
+   is the independent-utility fact: Application 1 works on day one without FMDP. Keep every
+   document consistent with it, and do not describe the crossings as enabling the data
+   center in a way that invites the D(8) prong (b) argument; rely on prong (a).
 
 ## Open questions
 
-See `questions/open/`. Blocking: `Q-20260924-overhead-line-scope`,
-`Q-20260924-cx-fit-road-and-bundle`, `Q-20260924-dropbox-public-edit-links`.
+See `questions/open/`. Blocking: `Q-20260924-cx-fit-road-and-bundle`, `Q-20260924-dropbox-public-edit-links`.
 
 ## Next actions
 
-1. Answer the overhead-line question (Cory / EPS).
-2. Conform the Reclamation PPOD to the two-application structure and add the Hart Lane
+1. Conform the Reclamation PPOD to the two-application structure and add the Hart Lane
    road (EPS), then red-team it.
-3. Put Q2 and Q7 of the Aug 14 memo to Holland & Hart as revised for this structure.
-4. Pre-application meeting with Reclamation Lahontan Basin Area Office (to confirm office).
+2. Put Q2 and Q7 of the Aug 14 memo to Holland & Hart as revised for this structure.
+3. Pre-application meeting with Reclamation Lahontan Basin Area Office (to confirm office).
