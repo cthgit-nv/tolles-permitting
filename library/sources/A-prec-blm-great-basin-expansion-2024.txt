@@ -1,0 +1,270 @@
+SOURCE: https://eplanning.blm.gov/Project-Home/?id=90ba6ce4-a7f2-f011-8406-001dd8008d46 RETRIEVED: 2026-09-24
+[BLM National NEPA Register project page, Project Information section]
+Project Information 
+NEPA Number
+DOI-BLM-NV-C020-2024-0028-EA
+Project Name
+2024 Great Basin Expansion Project
+Project Type
+EA
+NEPA Status
+Completed - Completed
+Lead Office
+Sierra Front Field Office
+Last Updated
+Project Description
+The staff of the Federal Energy Regulatory Commission (FERC or Commission) has prepared an environmental assessment (EA) for the 2024 Great Basin Expansion Project (Project), proposed by Great Basin Gas Transmission Company (Great Basin) in the above-referenced docket. Great Basin requests authorization to construct, operate, and abandon certain natural gas pipeline facilities. The expansion would provide 5,674 dekatherms per day of incremental firm transportation service for two existing firm transportation shippers and would require construction of approximately 3.4 miles of upsized or looped pipeline in three segments across Douglas, Lyon, and Storey Counties, Nevada. 
+The Bureau of Land Management (BLM) participated as a cooperating agency in the preparation of the EA. The BLM will adopt and use the EA to consider the issuance of a right-of-way grant for the portion of the project on federal lands.
+What's New
+The BLM National NEPA Register number, DOI-BLM-NV-C020-2024-0028,
+applies to the FERC NEPA document.  The Environmental Assessment can be viewed by clicking on 'Documents' in the left-hand column of this site.
+The
+EA may be accessed by using the eLibrary link on the FERC’s website. Click on
+the eLibrary link (https://elibrary.ferc.gov/eLibrary/search), select “General
+Search” and enter the docket number in the “Docket Number” field, excluding the
+last three digits (CP23-466). Be sure you have selected an appropriate date
+range.
+Project Location
+City
+State/Territory
+Zip Code
+County(ies)
+Silver Springs
+Nevada
+Lyon County
+Application Information
+Applicant
+Great Basin Transmission Company
+Case File Number
+NVN-0060169-04
+Program
+Lands and Realty
+Sub-Program
+Rights-of-Way
+Project Dates
+Start Date
+2/1/2024
+Decision Date
+7/5/2024
+NEPA Completion Date
+7/6/2024
+FONSI Date
+7/8/2023
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /2033371/200621127/20114914/251014894/Decision Record_Great Basin Gas Pipeline Expansion_JK_6-27-24_508-signed.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction]
+
+[[page 1]]
+FINAL ENVIRONMENTAL ASSESSMENT 
+ 
+Great Basin Gas Transmission Company 
+Great Basin Gas Pipeline 
+Expansion 
+ 
+ 
+ 
+ 
+ 
+ 
+Decision Record 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOI-BLM-NV-C020-2024-0028-EA 
+ 
+U.S. Department of the Interior 
+Bureau of Land Management 
+Carson City District 
+Stillwater Field Office 
+5665 Morgan Mill Road 
+Carson City, NV 89701 
+(775) 885-6000 
+ 
+ 
+ 
+July 2024 
+ 
+Stillwater Field Office, Nevada 
+
+[[page 2]]
+1 
+ 
+DECISION RECORD 
+2024 GREAT BASIN EXPANSION PROJECT 
+LYON COUNTY, NEVADA 
+ 
+Environmental Assessment 
+DOI-BLM-NV-C020-2024-0028-EA 
+ 
+INTRODUCTION 
+On May 1, 2023, Great Basin Gas Transmission Company (Great Basin) filed an 
+application to the Federal Energy Regulatory Commission (FERC) under sections 7(b) and (c) of 
+the Natural Gas Act (NGA) and Part 157 of the Commission’s regulations for authorization to 
+abandon existing facilities and to construct, and operate certain pipeline facilities in Douglas, 
+Lyon, and Storey Counties, Nevada (2024 Expansion Project). The project is designed to enable 
+Great Basin to provide an additional 5,674 dekatherms per day (Dth/d) of incremental firm 
+transportation service for two local distribution companies. 
+ 
+The Bureau of Land Management (BLM), Sierra Front Field Office (SFFO) received 
+applications on January 13th and February 1st of 2023 for temporary use areas (BLM Serial 
+Number NVN-0060169-04) associated with the 2024 Great Basin Expansion Project. Great 
+Basin proposed to utilize (3) 220’ x 35’ turn out areas along existing roads and (1) 350’ x 30’ 
+staging area on public lands.  
+ 
+On February 1, 2023, the BLM, SFFO, also received an application for an amendment to an 
+existing right-of-way authorization held by Great Basin.  Great Basin proposed to install a 20” 
+natural gas pipeline withing the existing authorization (BLM Serial Number NVN-0060169) to 
+increase the capacity to serve the surrounding communities.   
+ 
+Great Basin, a Nevada corporation, is a natural gas company, engaged in the transportation and 
+storage of natural gas in interstate commerce subject to the FERC’s jurisdiction. Great Basin’s 
+interstate natural gas system extends from the Idaho-Nevada border to the California-Nevada 
+state line near Lake Tahoe. 
+ 
+The proposed project will enable Great Basin to provide 5,674 Dth per day of incremental firm 
+transportation service on its mainline system to points downstream of Wadsworth, Nevada, to 
+meet the incremental service requirements of two existing firm transportation shippers, 
+Southwest Gas Corporation – Northern Nevada (Southwest Gas Nevada) and Southwest Gas 
+Corporation – Northern California (Southwest Gas California) (together Southwest Gas), both of 
+which are local distribution companies, and to accommodate Southwest Gas Nevada’s request to 
+shift delivery point rights. Southwest Gas Nevada and Southwest Gas California are affiliates of 
+Great Basin through their parent company. 
+ 
+Great Basin seeks authorization to construct, abandon, or replace the following natural gas 
+facilities on lands managed by the BLM: 
+ 
+• Silver Springs Segment – Abandon in place or by removal approximately 2.88 
+miles of 10-inch diameter Carson Lateral pipeline between mileposts CA-15.85 
+[[page 3]]
+2 
+ 
+and CA-18.736 in Lyon County, Nevada and replace it with new 20-inch diameter 
+pipeline. 
+ 
+PUBLIC INVOLVEMENT 
+• Notice of Great Basin’s application was published in the Federal Register on May 19, 
+2023.  
+• On June 15, 2023, FERC issued a Notice of Scoping Period requesting comments on 
+environmental issues for the proposed Project. The notice was published in the Federal 
+Register and mailed to interested parties, including federal, state, and local government 
+representatives and agencies; elected officials; environmental and public interest groups; 
+Native American Tribes; other interested parties; and local libraries and newspapers. 
+Publication of the NOS established a 30-day public comment period for submission of 
+comments, concerns, and issues related to the environmental aspects of the Project. All 
+comments received by FERC are part of the public record for the Project and are 
+available for viewing on the FERC website (www.FERC.gov). 
+• In response to the NOS, FERC received comments from Southwest Gas Corporation, the 
+Office of the Nevada Attorney General, Bureau of Consumer Protection, the Department 
+of Conservation and Natural Resources, and the Nevada State Historic Preservation 
+Office (SHPO). The primary issues raised by the commentors included concerns about 
+the purpose and need and precedent agreements, the source of water for construction, and 
+remaining cultural surveys required for compliance under Section 106 of the NHPA. The 
+Commission developed a “Certificate Policy Statement” that established criteria for 
+determining whether there is a need for a proposed project and whether the proposed 
+project would serve the public interest. The Commission decision, in its Order, would 
+review the need for the Project. All substantive environmental comments are addressed 
+throughout the EA. 
+• On July 10, 2023, the Commission issued a Notice of Schedule for the Preparation 
+of an Environmental Assessment for the 2024 Expansion Project. The notice was 
+mailed to interested parties, including federal, state, and local officials; agency 
+representatives; environmental and public interest groups; Native American Tribes; local 
+libraries and newspapers; and affected property owners. 
+• On November 28, 2023, The Environmental Assessment (EA) was issued for a 30-day 
+public comment period.  A Notice of Availability of the EA was published in the Federal 
+Register and was mailed to interested parties, including federal, state, and local officials; 
+agency representatives; environmental and public interest groups; Native American 
+Tribes; local libraries and newspapers; and affected property owners. 
+ 
+DECISION 
+Based on the analysis in the 2024 Great Basin Gas Expansion Project, EA# DOI-BLM-NV-
+C020-2024-0028-EA and the associated Finding of No Significant Impact (FONSI), it is my 
+decision to approve the application for two temporary use areas (BLM Serial Number NVN-
+0060169-04) and the application to amend the existing Rights of Way (BLM Serial Number 
+NVN-0060169). This decision will allow Great Basin to implement its Proposed Action 
+Alternative as described in the EA with the identified Best Management Practices (BMPs) and 
+mitigation measures as identified in Section B of the EA document. 
+[[page 4]]
+3 
+ 
+This decision is effective upon issuance in accordance with Title 43 of the Code of Federal 
+Regulations (CFR) at §2801.10. This determination is in conformance with NEPA as amended 
+(72 USC 4321 et.seq.); the 2001 Carson City Field Office Consolidated Resource Management 
+Plan, and current BLM policies, plans and programs. 
+ 
+RATIONALE FOR DECISION 
+Upon analyzing the impacts of the Proposed Action Alternative and following issuance of the 
+EA for public review, I have determined that implementing the Proposed Action Alternative as 
+described in Section A of the EA with Best Management Plans identified in the SWPPP, the 
+Noxious and Invasive Weed Control Plan, and the Restoration and Revegetation Plan, will not 
+have a significant impact to the human environment and that an EIS is not required (FONSI pp. 
+1-4).  
+ 
+AUTHORITIES 
+The Proposed Action is in conformance with the FLPMA of 1976 as amended, Title V Sec. 501 
+Grant, issue, or renewal of rights-of-way, , the regulations at Title 43 of the CFR §2800 and 
+§2900, the 2001 Carson City Field Office Consolidated Resource Management Plan, and with 
+current BLM policies, plans and programs. The Proposed Action is consistent in relationship to 
+statutes, regulations and policies of neighboring local, County, State, Tribal governments and 
+other Federal agencies. 
+ 
+The Best Management Plans identified in the SWPPP, the Noxious and Invasive Weed Control 
+Plan, and the Restoration and Revegetation Plan and the FONSI show that all practicable means 
+to avoid or minimize environmental harm have been adopted and that unnecessary or undue 
+degradation of the public lands will not occur as a result of the proposed Great Basin Gas 
+Pipeline Expansion project. 
+ 
+APPEAL PROCEDURES 
+If you wish to appeal this decision, it may be appealed to the Interior Board of Land Appeals,  
+Office of the Secretary, in accordance with 43 CFR Part 4  and the enclosed Form 1842 -1. Your 
+appeal must be filed within thirty (30) days from receipt or issuance of this decision. The appellant 
+has the burden of showing that the decision appealed from is in error. If you appeal, your appeal 
+must also be filed with the Bureau of Land Management at the following address: 
+ 
+Joshua M. Carnahan, Acting Sierra Front Field Manager 
+BLM, Carson City District Office 
+5665 Morgan Mill Road 
+Carson City, NV 89701 
+ 
+If you wish to f ile a petition pursuant to regulation 43 CFR 4.21 for a stay (suspension) of the 
+decision during the time that your appeal is being reviewed by the Board, the petition for stay must 
+accompany your notice of appeal. 
+ 
+Copies of the notice of appeal and petition for a stay must also be submitted to: 
+ 
+[[page 5]]
+4 
+Interior Board of Land Appeals 
+801 N. Quincy Street, Suite 300 
+Arlington, VA 22203 
+A
+ copy must also be sent to the appropriate office of the Solicitor at the same time the original  
+documents are filed with the above office. 
+U
+.S. Department of the Interior 
+Office of the Regional Solicitor 
+Pacific Southwest Region 
+2800 Cottage Way, Room E-1712 
+Sacramento, CA 95825 
+I
+f you request a stay, you have the burden of proof to demonstrate that a stay should be granted. 
+A petition for a stay is required to show sufficient justification based on the following standards: 
+1. T
+he relative harm to the parties if the stay is granted or denied.
+2. The likelihood of the appellants' success on the merits.
+3. The likelihood of immediate and irreparable harm if the stay is not granted.
+4. Whether the public interest favors granting the stay.
+T
+he Office of Hearings and Appeals regulations do not provide for electronic f iling of appeals, 
+therefore they will not be accepted. 
+__________________________________
+ _____________________ 
+Joshua M. Carnahan 
+Field Manager (Acting) Date 
+Sierra Front Field Office 
+7/5/2024
+[[page 6]]
+5

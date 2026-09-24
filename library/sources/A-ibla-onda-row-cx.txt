@@ -1,0 +1,369 @@
+SOURCE: https://www.oha.doi.gov/IBLA/Ibladecisions/174IBLA/174IBLA026.pdf RETRIEVED: 2026-09-24
+[Full decision text, pypdf extraction; [[page N]] markers are PDF pages, not reporter pages]
+
+[[page 1]]
+OREGON NATURAL DESERT ASSOCIATION
+174 IBLA 26                                            Decided March 5, 2008
+
+[[page 2]]
+United States Department of the Interior
+Office of Hearings and Appeals
+Interior Board of Land Appeals
+801 N. Quincy St., Suite 300
+Arlington, VA 22203
+OREGON NATURAL DESERT ASSOCIATION
+IBLA 2007-48 Decided March 5, 2008
+Appeal from a decision of the Andrews Resource Area Field Manager, Burns
+District (Oregon), Bureau of Land Management, approving a right-of-way
+application.  OR 63580.
+Affirmed.
+1. Environmental Quality: Enviro nmental Statements: Categorical
+Exclusions--National Environmental Policy Act of 1969:
+Environmental Statements: Categorical
+Exclusions--Rights-of-Way: Applications
+BLM’s decision to approve a right-of-way grant without
+preparing an environmental assessment or an
+environmental impact statement, based on its
+determination that such grant falls within the scope of a
+categorical exclusion specified in the Departmental
+Manual, will be affirmed if it is reasonable and supported
+by the record.
+2. Environmental Quality: Envi ronmental Statements: Categorical
+Exclusions--National Environmental Policy Act of 1969:
+Environmental Statements: Categorical
+Exclusions--Rights-of-Way: Applications     
+BLM’s determination that a right-of-way grant for a wind
+energy testing site, for an original term of less than three
+years, fits within the scope of categorical exclusion E(19),
+which, as defined by the Departmental Manual, generally
+covers “issuance of short-term (3 years or less)
+rights-of-way for land use authorizations,” will be deemed
+to be reasonable and supported by the record, even
+though the grant may be renewed, where the grant
+provides that renewal is governed by Instruction
+Memorandum 2006-216 or current prevailing law,
+174 IBLA 26
+[[page 3]]
+IBLA 2007-48
+regulation, and policy at the time of renewal.  Instruction
+Memorandum 2006-216 provides that a project area
+right-of-way holder may seek to extend or renew the
+initial term for a period to allow for continued site testing
+and monitoring, but only if a separate ROW application
+and plan of development, which would be subject to
+NEPA review, is submitted for a wind energy development
+project prior to the end of the initial term of the grant.
+APPEARANCES:  Kristin F. Ruether, Esq., Portland, Oregon, for Oregon Natural
+Desert Association; Beth S. Ginsberg, Esq. and Jason T. Morgan, Esq., Seattle,
+Washington, for Horizon Wind Energy Northwest X LLC; Mariel J. Combs, Esq.,
+Office of the Regional Solicitor, U.S. Department of the Interior, Portland, Oregon,
+for the Bureau of Land Management.
+OPINION BY ADMINISTRATIVE JUDGE KALAVRITINOS
+Oregon Natural Desert Association (ONDA) has appealed from the
+November 13, 2006, decision of the Andrews Resource Area Field Manager, Burns
+District (Oregon), Bureau of Land Management (BLM) (Decision), notifying Horizon
+Wind Energy Northwest X LLC (Horizon) of the approval of right-of-way (ROW)
+grant OR 63580, effective November 13, 2006, for a wind energy testing site in the
+Pueblo Mountains of southeastern Oregon.1  We affirm BLM’s Decision.
+Background 
+1. The ROW
+ROW OR 63580 authorizes Horizon to use less than one acre of public land for
+a wind energy testing site, for an original term of less than 3 years, from
+November 13, 2006, until December 31, 2008.2  Specifically, the ROW provides
+                                          
+1  By Order dated Jan. 30, 2007, this Board granted Horizon’s Motion to Intervene,
+denied Horizon’s Motion to Dismiss (finding ONDA had satisfied the standing
+requirement of 43 C.F.R. § 4.410), and denied ONDA’s Petition for Stay. 
+2  Horizon originally filed an Application for Transportation and Utility Systems and
+Facilities on Federal Lands on Apr. 28, 2006.  Administrative Record (AR), tab 14. 
+After receiving the application, BLM completed a “Categorical Exclusion
+Environmental Review and Approval” (CEERA), finding that the proposed ROW
+qualified under categorical exclusion E(19).  BLM issued a decision on Aug. 8, 2006,
+which granted ROW OR 63580 for a term of more than 3 years, lasting from Sept. 1,
+2006, until Dec. 31, 2009.  ONDA appealed this decision, claiming that the
+(continued...)
+174 IBLA 27
+[[page 4]]
+IBLA 2007-48
+Horizon the exclusive right to construct, operate, maintain, and terminate two
+meteorological (met) towers (or poles) in Meridian, County, Oregon, within an
+exclusive wind energy testing project area.3
+The ROW grant identifies measures required by BLM to prevent or mitigate
+any adverse environmental effects, including requiring Horizon to administer the
+ROW in conformance with BLM’s Wind Energy Development Program Policies and
+Best Management Practices (BMPs).4  Activities under the ROW grant must conform
+with Horizon’s Plan of Development, dated May 10, 2006, for the overall wind energy
+testing project.  Decision at 1.  However, despite the fact that the ROW is
+contemplated as part of a larger wind energy testing project, BLM clearly states, in its
+Decision approving the ROW grant, that “[t]he grant does not authorize any
+additional commercial wind energy development,” adding that “[a]ny future
+development within the project area will require separate application, analysis, and
+approval.”  Id.  Importantly for our present purposes, the ROW grant states that the
+ROW is subject to renewal.  The ROW grant states that renewal of the ROW must be
+“in accordance with BLM’s Wind Energy Development Policy, Instruction
+Memorandum No. 2006-216 or in accordance with the current prevailing law,
+regulation, and policy at that time” (ROW, Ex. A, at I), and subject to “any other
+terms and conditions that the Authorized Officer deems necessary to protect the
+public interest.”  ROW, Ex. A, ¶ 2.d.
+The met towers or poles, authorized by the ROW, are temporary structures,
+approximately 50-60 meters high, which are erected using sections of 6-8 inch
+diameter non-reflective silver/gray steel tubes.  They require no excavation for a
+below-ground foundation.  Each sits on a flat base, approximately 3 feet by 3 feet and
+is supported in four equidistant directions by 100-foot long guy wires.  Horizon Plan
+of Development at 1.  Towers are erected in 1 day, by a crew using existing roads and
+trails and one authorized cross-country route.  ROW Grant, Ex. A, at k.  
+                                          
+2 (...continued)
+categorical exclusion was inapplicable because the term of the ROW was longer than
+3 years.  Order, IBLA 2006-297, dated Nov. 6, 2006, at 2.  BLM asked the Board to
+remand the decision to permit amendment of the term.  Id.  The Board vacated the
+decision and remanded the matter to BLM.  Id. at 2-3.  Thereafter, BLM issued the
+Nov. 13, 2006, Decision now before the Board. 
+3  A project area map, identified as Exhibit B to the ROW grant, shows the specific
+location of the met site, within the overall project area.
+4  The BMPs are included as Attachment A to the “RECORD OF DECISION
+Implementation of a Wind Energy Development Program and Associated Land Use
+Plan Amendments” (Wind Energy Development ROD), dated Dec. 15, 2005.  See
+71 Fed. Reg. 1768 (Jan. 11, 2006). 
+174 IBLA 28
+[[page 5]]
+IBLA 2007-48
+Once installed, the met poles remain in place for the duration of the ROW,
+recording weather information including “wind speed, direction, gusts, temperature,
+etc. that can be used with regional reference station data, such as the kind recorded
+at airports, to characterize the long-term wind resource at the site.”  Id. at 1.  Data is
+saved to a memory card in the met poles or transmitted via cell phone each day to an
+offsite location, enabling crews to limit visits to the met site to once per season. 
+Horizon Plan of Development at 3.  In the event of inadequate cell phone signals,
+Horizon will collect memory cards manually, visiting the site a maximum of 4 times
+per year, excluding times of wet soil and sage grouse lekking seasons.  Id.  Removal,
+like installation, will take less than a day.  Id.  Upon termination of testing
+operations, Horizon must remove all equipment, and take specified measures to
+rehabilitate the site to a natural condition.  ROW Grant, Ex. A, ¶ 4.b, and ROW Grant,
+Ex. A, Terms and Conditions, ¶ q.
+2. Wind Energy Program
+In 2003, BLM began preparation of a programmatic Environmental Impact
+Statement (EIS) to study the impacts of the future development of wind energy
+resources on public lands.  IM No. 2006-216 at 1.  In 2005, BLM published its “Final
+Programmatic Environment Impact Statement and Wind Energy Development on
+BLM-Administered Lands in the Western United States” (PEIS).  Based on the PEIS,
+BLM issued the Wind Energy Development Record of Decision (ROD), dated
+December 15, 2005, which, inter alia, authorized BLM to amend the Andrews
+Resource Management Plan (RMP), which governs land use programs and activities
+in the Andrews Resource Area.  The ROD permitted BLM to adopt wind energy
+development program policies and BMPs, and to identify specific areas where wind
+energy development would be forbidden.5  ROD, Attachment B.  Importantly, it
+provided, in the BMPs, for BLM’s use of categorical exclusion E(19) for wind energy
+site monitoring and testing activities:  “The Categorical Exclusion (CX) applicable to
+the issuance of short-term ROWs or land use authorizations may be applicable to some
+site monitoring and testing activities.”  ROD, Attachment A, at A-4 (emphasis added).
+IM No. 2006-216, which was issued in 2006, provides specific guidance for
+implementing the ROD.  Among other things, the IM describes the three types of
+wind energy projects for which BLM is authorized to grant ROWs:
+                                           
+5  The Department’s wind energy policy is consistent with Executive Order No. 13212
+(which provides that executive departments and agencies “shall take appropriate
+actions, to the extent consistent with applicable law, to expedite projects that will
+increase the production, transmission, or conservation of energy”) and section 201 of
+the Energy Policy Act of 2005, Pub. L. No.  109-58, 119 Stat. 594, 650 (2005)
+(codified at 42 U.S.C. § 15851) (which encourages development of renewable energy
+resources, including wind energy).
+174 IBLA 29
+[[page 6]]
+IBLA 2007-48
+1) a site-specific wind energy site testing and monitoring right-of-way
+grant for individual meteorological towers and instrumentation
+facilities with a term that is limited to 3 years;
+2) a wind energy site testing and monitoring right-of-way grant for a
+larger site testing and monitoring project area, with a term of 3 years
+that may be renewed consistent with 43 C.F.R. § 2807.22 and the
+provisions of this IM beyond the initial term of the grant; and
+3) a long-term commercial wind energy development right-of-way
+grant with a term that is not limited by the regulations, but usually in
+the range of 30 to 35 years.
+IM No. 2006-216 at 3.  The IM also states, at page 9, that use of a categorical
+exclusion “for the issuance of short-term right-of-way authorizations may be
+applicable to some site testing and monitoring locations.” (Emphasis added.)
+Regarding renewals, the IM states in several places that the term “can be
+extended or renewed (43 C.F.R. § 2807.22) for a term not to exceed an additional
+3 years to allow for continued site testing and monitoring, only if a separate [ROW]
+application and POD is submitted for a wind energy development project prior to the
+end of the initial term of the grant.”  Id. at 5; see also Id. at 8-9.
+Following receipt of Horizon’s ROW application, BLM determined that the
+proposed action described in Horizon’s application fell within the second type of
+ROW identified in IM No. 2006-216.
+3. Categorical Exclusion E(19)
+In its May 18, 2006, CEERA, BLM also determined that the ROW fell within
+the scope of categorical exclusion E(19), thus excluding it from the statutory and
+regulatory requirements to prepare an environmental assessment (EA) or EIS.6
+Under section 102(2)(C) of the National Environmental Policy Act of 1969
+(NEPA) and its implementing regulations (40 C.F.R. Chapter V), a Federal agency is
+directed, by regulation, to prepare an EA in order to determine whether it is
+obligated, by statute, to prepare an EIS because the proposed Federal action is a
+major Federal action that is likely to significantly affect the quality of the human
+environment, unless such action falls within a categorical exclusion.  42 U.S.C.
+                                           
+6  The CEERA also found that “[t]he Proposed Action is in conformance with the
+Andrews Management Unit RMP and ROD.”  CEERA at unpaginated 1.
+174 IBLA 30
+[[page 7]]
+IBLA 2007-48
+§ 4332(2)(C) (2000); 40 C.F.R. §§ 1501.4, 1507.3(b) and 1508.9.  Categorical
+exclusions are defined by NEPA’s implementing regulations as 
+a category of actions which do not individually or cumulatively have a
+significant effect on the human environment and which have been
+found to have no such effect in procedures adopted by a Federal agency
+in implementation of these regulations and for which, therefore, neither
+an [EA] nor an [EIS] is required. . . . Any procedures under this section
+shall provide for extraordinary circumstances in which a normally
+excluded action may have a significant environmental effect.
+40 C.F.R. § 1508.4.
+The Departmental Manual at 516 DM 2.3, which was adopted through the
+“procedures” envisioned in 40 C.F.R. § 1508.4, similarly defines categorical
+exclusions.  It refers to the categories of actions listed in Appendix 1 to that chapter
+that are categorically excluded, Department-wide, from the preparation of EAs or
+EISs, and to the list of categorical exclusions specific to bureau programs found in the
+DM bureau chapters, beginning with Chapter 8.  In determining whether an action is
+categorically excluded, BLM first must consider whether the action fits within the
+meaning of any exclusionary category and then, if it does, whether it falls within an
+exception requiring NEPA analysis, due to “extraordinary circumstances in which a
+normally excluded action may have a significant environmental effect.”  40 C.F.R.
+§ 1508.4; 516 DM 2.3A(3); see Utah Environmental Congress v. Bosworth, 443 F.3d.
+732, 740-41 (10th Cir. 2006); Salinas Ramblers Motorcycle Club, 171 IBLA 396, 403
+(2007); Dineh Alliance and Maxine Kescoli v. OSM and Peabody Western Coal,
+136 IBLA 319, 332 (1996), citing Oregon Natural Desert Association, 125 IBLA 52,
+57-58 (1993); Utah Chapter Sierra Club, 120 IBLA 229, 232 (1991).  The list of
+categorical exclusions for BLM programs is provided in 516 DM 11.5. 
+In the present case, BLM considered the applicability of the categorical
+exclusions listed in the “Realty” category of 516 DM 11.5 and determined that the
+grant falls within the scope of categorical exclusion E(19):  “[I]ssuance of short-term
+(3 years or less) rights-of-way for land use authorizations for such uses as storage
+sites, apiary sites, and construction sites where the proposal includes rehabilitation to
+restore the land to its natural or original condition.”  CEERA at unpaginated 1.  BLM
+also screened for exceptions, determining that the ROW did not meet any of the
+12 extraordinary circumstances that might except this action from categorical
+exclusion E(19), including “significant impacts on public health or safety.”  Id.
+174 IBLA 31
+[[page 8]]
+IBLA 2007-48
+Arguments of the Parties
+In its Statement of Reasons (SOR) and Supplemental Statement of Reasons
+(SSR), ONDA principally contends that Horizon’s ROW does not qualify under
+categorical exclusion E(19) because the ROW can be, and indeed is likely to be,
+renewed, such that renewal will extend the term beyond the 3-year limit permitted
+by that categorical exclusion.  SOR at 16-18; SSR at 5-7.  ONDA argues that, since
+categorical exclusion E(19) cannot be applied to renewable ROWs, BLM’s decision to
+grant the ROW, without preparing an EA or EIS, violated section 102(2)(C) of NEPA
+because BLM failed to take the requisite hard look at the environmental
+consequences of granting the ROW.7  SOR at 7-15; SSR 2-5.
+BLM responds that “[c]ontrary to ONDA’s assertion, there is no indication that
+the BLM ‘is likely to extend the ROW into an extended term,’ and there is no basis for
+ONDA’s argument that, if renewal does occur, there will be ‘no further NEPA
+analysis.’”  Answer at 7-8.
+________________________
+7  ONDA asserts that BLM was required, in an EA or EIS, to address the likely
+environmental impacts on wilderness resources if the ROW is renewed and eventually
+results in development of the wind energy resources at the met site.  SOR at 18-22. 
+It specifically asserts that the ROW area stretches across three proposed wilderness
+study areas (WSAs), Bear Dog Springs, Babes Canyon, and Mahogany Rim,
+documented by ONDA in its citizen wilderness inventory recommendations,
+submitted to BLM on Sept. 1, 2002 and Nov. 1, 2002.  Id. at 4, 7.  ONDA also
+challenges the RMP to the extent it failed to assess wilderness resources.  Id. at 14-16.
+Horizon is correct in noting that, in considering the appropriateness of
+invoking a categorical exclusion, BLM considered comments ONDA submitted
+regarding potential adverse impacts to potential wilderness values.  Horizon Answer
+at 3-4.  A BLM interdisciplinary team reviewed those comments and concluded,
+consistent with BLM’s inventories of the late 1970s and early 1980s, “that the area
+lacks wilderness characteristics.”  AR 21.  Given our determination that BLM did not
+err in finding that the action does not individually or cumulatively have a significant
+effect on the human environment and therefore was exempt from additional review
+under NEPA, we will address appellant’s NEPA challenges no further.
+To the extent ONDA raises concerns with BLM’s consideration of wilderness
+values in the RMP process as issues in this appeal, as we stated in our Jan. 30, 2007,
+Order, “[t]o the extent ONDA raises concerns with BLM’s consideration of wilderness
+values in the RMP process as issues in this appeal, those concerns are untimely and
+not addressed to the proper forum.”  See 43 C.F.R. § 1610.4; Rainer Huck, 168 IBLA
+365, 396 (2006).  We note, in conclusion, that the Court in Oregon Natural Desert
+Ass’n v. Shuford, No. 06-242, AA, U.S. Dist. Lexis 42614 (June 8, 2007), rejected
+ONDA’s arguments regarding the adequacy of the RMP.
+174 IBLA 32
+[[page 9]]
+IBLA 2007-48
+ONDA asks the Board to vacate the Decision, and order BLM to comply with
+section 102(2)(C) of NEPA, before deciding whether to grant an ROW at the
+proposed met site.  SOR at 2; SSR at 3.
+Analysis
+[1]  When BLM decides not to prepare an EA or EIS, because the proposed
+action qualifies for a categorical exclusion, we have long held that the decision will
+be affirmed on review where it is reasonable and supported by the record.  Dineh
+Alliance and Maxine Kescoli v. OSM and Peabody Western Coal, 136 IBLA at 332;
+Colorado Open Space Council, 73 IBLA 226, 232 (1983).  An agency’s interpretation of
+its own categorical exclusions must not be plainly erroneous or inconsistent with the
+terms of 43 C.F.R. § 1508.4 because the activity at issue does not fit within one of the
+categories of actions due to its significant effect on the human environment.
+See Alaska Center for Environment v. U.S. Forest Service, 189 F.3d 851, 857
+(9th Cir. 1999).  
+ONDA’s sole argument against BLM’s application of categorical exclusion
+E(19) to the ROW at issue relates to the possibility that BLM will, in accordance with
+the terms of the ROW grant, renew the ROW, thus bringing the ROW outside the
+scope of the categorical exclusion for ROWs “issu[ed] [for] . . . 3 years or less.”  We
+disagree.
+[2]  BLM approved a grant for an ROW with an initial term of just over
+2 years, which may be extended or renewed only as allowed by IM 2006-216 or by
+current prevailing law, regulation, and policy at the time of renewal.  As discussed,
+IM 2006-216 provides that an ROW holder such as Horizon seeking to extend or
+renew the initial term to allow for continued site testing and monitoring beyond
+3 years must submit a separate ROW application and plan of development for a wind
+energy development project.  See IM No. 2006-216 at 5, 8-9.  In this way, BLM
+encouraged due diligence and notified Horizon that it would evaluate any request to
+extend or renew an ROW application beyond an initial 3 years and the accompanying
+plan of development in accordance with its responsibilities under NEPA.  
+The record in this case clearly demonstrates and ONDA does not dispute that,
+upon receiving Horizon’s application for the short-term ROW at issue, BLM carefully
+reviewed the proposed action, finding that it conformed with the RMP, that there
+would be minimal disturbance from construction and operation of the temporary met
+poles, and that, upon termination of approved activity, the poles would be removed
+and the area restored to its natural condition.  BLM recognized that the Wind Energy
+Development ROD and IM No. 2006-216 contemplate that short-term ROWs for wind
+energy monitoring and testing activities, which, like the ROW at issue, fall within the
+second type of ROW identified in IM No. 2006-216, ordinarily are within the scope of
+174 IBLA 33
+[[page 10]]
+IBLA 2007-48
+categorical exclusion E(19).  Recognizing further that IM 2006-216 provided
+conditions required for continued site testing and monitoring beyond 3 years, BLM
+was careful to make any renewal of the grant at issue subject to those conditions.  
+See ROD, Attachment A, at A-4; IM No. 2006-216 at 9; ROW Grant, Ex. A, at I. 
+Finally, BLM determined that there were no extraordinary circumstances that might
+militate against application of categorical exclusion E(19).  ONDA has not
+demonstrated otherwise.
+Against the backdrop of these specific facts, we conclude that BLM did not
+exceed its discretion to construe this short-term wind energy testing site as falling
+within categorical exclusion E(19).8  BLM was not required by section 102(2)(C) of
+NEPA or its implementing regulations to prepare an EA or EIS, taking a hard look at
+the likely environmental impacts of granting the ROW and, therefore, ONDA’s
+arguments in favor of such NEPA review must fail.
+We have considered all of the arguments raised by ONDA, including any not
+specifically addressed in this decision, and find them to be without merit.
+Therefore, pursuant to the authority delegated to the Board of Land Appeals
+by the Secretary of the Interior, 43 C.F.R. § 4.1, the decision appealed from is
+affirmed.
+         /s/                                               
+Christina S. Kalavritinos
+Administrative Judge
+I concur:
+          /s/                                          
+R. Bryan McDaniel
+Administrative Judge
+                                           
+8  We note that renewal of the ROW at issue for a term that, when added to the initial
+term, would equal 3 years or less might be categorically excluded under E(19), and
+that under the terms of the due diligence provisions of IM 2006-216 a request for
+such a limited renewal would not require the applicant to submit a plan of
+development that would undergo separate analysis, including NEPA review, and
+approval.  In the event, however, that the applicant were to seek renewal for a term
+that, when added to the initial term, exceeded 3 years, E(19) would no longer apply,
+and the applicant must submit a separate ROW application and plan of development
+to BLM for analysis, including NEPA review, and separate approval for any future
+wind energy development.
+174 IBLA 34

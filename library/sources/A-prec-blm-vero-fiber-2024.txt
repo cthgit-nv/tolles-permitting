@@ -1,0 +1,395 @@
+SOURCE: https://eplanning.blm.gov/Project-Home/?id=8987f6d4-a7f2-f011-8407-001dd80db62a RETRIEVED: 2026-09-24
+[BLM National NEPA Register project page, Project Information section]
+Project Information 
+NEPA Number
+DOI-BLM-NV-C000-2023-0003-EA
+Project Name
+Reno to Las Vegas Fiber Optic Project
+Project Type
+EA
+NEPA Status
+Completed - Completed
+Lead Office
+Carson City District Office
+Last Updated
+Project Description
+The proposed action associated with this right-of-way includes the construction activities and operations associated with the development of an approximately 450-mile-long buried fiber optic line spanning from Reno to Las Vegas. The proposed project includes the construction of the fiber optic line by plowing, trenching, or boring techniques and the construction of nine inline amplifier buildings. The project area and ROW would include approximately 58 acres. This proposed buried fiber optic line would cross through Washoe, Lyon, Storey, Churchill, Mineral, Nye, Esmeralda, and Clark Counties in Nevada. The proposed project would be located within existing rights-of-way that predominantly follow U.S. Highways 50 and 95; Nevada State Highways 160, 839, and 439; and county-maintained roads from Reno to Las Vegas.
+What's New
+The Decision Record (DR) and Finding of No Significant Impact (FONSI) for the portions of the proposed route located on BLM-administered public lands have been signed and can be found on the Documents page.
+The Plan of Development and associated appendices have been uploaded to the Documents page.
+**An error in the DR was brought to our attention regarding the length of the long-term ROW grant; the original text stated that it was a 50-year grant when it was supposed to be a 30-year grant. That typo has been corrected in the DR that was posted in the Documents page on 6/10/2024.**
+Project Location
+City
+State/Territory
+Zip Code
+County(ies)
+Reno
+Nevada
+89502
+Washoe County
+Application Information
+Applicant
+Vero Fiber Networks
+Program
+Lands and Realty
+Sub-Program
+Rights-of-Way
+Project Dates
+Start Date
+3/20/2023
+Decision Date
+3/6/2024
+NEPA Completion Date
+3/7/2024
+FONSI Date
+3/6/2024
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /2024041/200549464/20113450/251013441/Vero_DecisionRecord_Updated.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction]
+
+[[page 1]]
+U.S. Department of the Interior 
+Bureau of Land Management 
+Carson City District 
+Stillwater Field Office 
+5665 Morgan Mill Road 
+Carson City, NV 89701 
+Decision Record 
+DOI-BLM-NV-C000-2023-0002-EA 
+Vero Fiber Networks, LLC 
+Reno to Las Vegas Fiber Optic Project 
+[[page 2]]
+INTRODUCTION 
+Vero Fiber Networks, LLC (Vero) has submitted an application for the construction, operation, 
+and repair and maintenance of a new buried fiber optic conduit and cables that extends from 
+Reno to Las Vegas. The proposed route would be approximately 450 miles, 327 miles of which 
+would be located on Bureau of Land Management [BLM] managed public lands. 
+The overall Project purpose is to provide the infrastructure to improve the quality of rural 
+broadband in Nevada. This Project would provide the infrastructure for a direct, low-latency, and 
+high bandwidth fiber route, providing a unique and diverse fiber network to existing routes. The 
+Project would act as a main linkage for distribution lines throughout the fiber optic system. This 
+region needs redundant and alternative bandwidth services to improve network quality and 
+reliability associated with existing limited bandwidth infrastructure. 
+PROPOSED ACTION 
+In addition to the buried fiber optic line, the proposed project would also include in-line 
+amplifier buildings, vaults, and line markers along the proposed route. The short-term ROW, 
+N-100968-01/NVNVI06240146, would cover the construction of the ROW and the long-term 
+ROW, N-100968 / NVNV105856545, would cover the operation and maintenance ofthe fiber 
+optic line. The term of the long-term ROW would be 30 years while the term of the short-term 
+ROW would be three years. • 
+The proposed buried fiber optic line would cross through a mix ofprivate; Nevada State Lands; 
+and BLM, Bureau of Reclamation, and U.S. Forest Service administered public lands in Washoe, 
+Lyon, Storey, Churchill, Mineral, Nye, Esmeralda, and Clark counties. The proposed project 
+would be located within existing rights-of-way that predominantly follow U.S. Highways 50 and 
+95; Nevada State Highways 160, 839, and 439; and county-maintained roads from Reno to Las 
+Vegas. Appendix D of the EA, DOI-BLM-NV-C000-2023-0003-EA, provides the legal 
+description of the proposed fiber optic line of the entire proposed route. 
+PROJECT CONSULTATION 
+Notification of the BLM's intent to use the "NEPA Substitution" process at 36 CFR 800.S(c) for 
+Section 106 consultation was sent to the Advisory Council on Historic Preservation (ACHP) and 
+the Nevada State Historic Preservation Officer (SHPO) in October of 2022. The BLM, as the 
+lead federal agency, is using the NEPA substitution regulations at 36 CFR 800.8 to comply with 
+Section 106 of the National Historic Preservation Act (NHPA). All consulting parties and/or the 
+ACHP can object to the BLM during the public comment period allotted for the EA that the 
+BLM has not met the standards as set forth in 36 CFR 800.8(c). The BLM did not receive any 
+objections from consulting parties or the ACHP. The BLM provided the Class III reports to the 
+Nevada SHPO in October of 2023 and revised the EA based on their comments. The Nevada 
+SHPO provided comments during the public comment period that concurred with BLM's 
+determinations of eligibility. 
+In March of 2022, the BLM sent letters to tribes initiating formal consultation on the proposed 
+project, in accordance with the NHPA, NEPA, the American Indian Religious Freedom Act of 
+1978, and other legal authorities . The BLM shared the Class III inventory reports with the tribes 
+in December 2022, February 2023, March 2023, and August of 2023. The BLM provided the 
+initial draft of the EA and associated supplemental environmental reports to the tribes in March 
+[[page 3]]
+and September of 2023. Formal government to government consultation occurred between the 
+BLM and the Reno Sparks Indian Colony and continues. In July of 2023, a field visit to the 
+Truckee River crossing at USA Parkway was conducted between the BLM and representatives of 
+the Reno Sparks Indian Colony and Pyramid Lake Paiute Tribe. All tribes received electronic 
+copies of the Draft Monitoring and Discovery Plan to review. 
+A draft biological assessment was prepared and submitted to the U.S. Fish and Wildlife Service 
+with a request to initiate formal consultation in April of 2023 . The Biological Assessment 
+focused on Mojave Desert tortoise as the species of concern with concurrence ofa may affect, 
+but, is not likely to adversely affect southwestern willow flycatcher, and yellow-billed cuckoo . 
+The biological opinion addressed potential effects to l~sted species, including formal consultation 
+for the federally threatened Mojave desert tortoise (Gopherus agassizii), and informal 
+consultation for the Southwestern willow flycatcher (Empidonax trail/ii extimus), and yellow­
+billed cuckoo (Coccyzus americanus) in accordance with section 7 of the Endangered Species 
+Act of 1973 (Act), as amended (16 U.S.C. 1531 et seq.), and 50 CFR § 402 of the interagency 
+regulations governing section 7 of the Act. The BO determined that the Project is not likely to 
+jeopardize the continued existence of the desert tortoise. No Mojave desert tortoise designated 
+critical habitat is present in the action area, thus none will be affected. The U.S. Fish and 
+Wildlife Service also concurred with BLM's determination that the project may affect, but is not 
+likely to adversely affect the Southwestern willow flycatcher and yellow-billed cuckoo. 
+The BO amendment, received in February of 2024, addressed a change to the minimization 
+measures applicable to the informal consultation for the Southwestern willow flycatcher and the 
+yellow-billed cuckoo. Effects for the proposed action were previously considered in the Informal 
+and Formal consultation (File No. File No. 2024-0009830). The requested change falls within the 
+action area previously analyzed for effects . Disturbance acreage for the project will remain the 
+same. The change to the conservation measures of the proposed action is expected to have only a 
+minor effect due to a potential reduction in the distance from which disturbance may occur from 
+Southwestern willow flycatcher and yellow-billed cuckoo habitat during the non-breeding 
+season. The overall effect from the changes to the conservation measures for the Southwestern 
+willow flycatcher and yellow-billed cuckoo will be to continue to minimize potential adverse 
+effects from the project and will not substantially change the level of those effects analyzed in 
+the previous consultation with respect to these species. All other proposed measures to minimize 
+effects to listed species in the project area remain valid as described in the original biological 
+opinion. 
+PUBLIC INVOLVEMENT 
+The public was provided a 30-day scoping period to disclose potential issues and concerns 
+associated with the Proposed Action. Information obtained by the agencies during public scoping 
+was combined with issues identified by the agencies and this formed the scope of the EA. Public 
+scoping ran from April 3 to May 3, 2023. During Scoping a press release was issued by the BLM 
+Nevada State Office to Nevada media outlets. An BLM National NEPA Register website was 
+launched and is active throughout the NEPA process (https://eplanning.blm.gov /eplanning­
+ui/project/202404 1/510). A scoping overview document was also published to the site to provide 
+introductory Project information to the public in advance of the public scoping meetings. By the 
+close of the scoping process, 16 comment documents had been received. 
+[[page 4]]
+The EA for the Reno to Las Vegas Fiber Optic Project was issued for public comment on 
+December 12, 2023, at which time the 30-day comment period commenced and ended on 
+January 11, 2024. A total of 20 agencies, businesses, organizations, and interested parties 
+provided comments on the EA via mail, email, or the Reno to Las Vegas Fiber Project National 
+NEPA Register website. Appendix A of the project EA, DOI-BLM-NV-C000-2023-0003-EA, 
+provides the list of comments and responses to those comments. The EA was revised based on 
+substantive comments received during public comment period. 
+DECISION 
+Based on the analysis in the Reno to Las Vegas Fiber Optic Project EA, DOI-BLM -NV-C000-
+2023-0003-EA, it is my decision to implement the Proposed Action as described in the EA with 
+the identified Environmental Protection Measures (EPMs) as identified throughout the EA and 
+collated in Appendix I of the EA. The Proposed Action meets the purpose and need for the 
+proposed project as stated in Section 1.2 of the EA. 
+RATIONALE FOR DECISION 
+Upon analyzing the impacts ofthe Proposed Action and following issuance of the EA for public 
+review, I have determined that implementing the Proposed Action as described in Chapter 2 of 
+the EA with incorporated Environmental Protection Measures will not have a significant impact 
+to the human environment and that an EIS is not required. Refer to the attached Finding ofNo 
+Significance. 
+AUTHORITIES 
+The Proposed Action is in conformance with the FLPMA of 1976, the Carson City Field Office 
+Consolidated Resource Management Plan (CRMP) approved in 2001, the Tonopah Resource 
+Management plan approved in 1997, the Las Vegas Resource Management Plan approved in 
+1998, the regulations at 43 CFR §2800, and with current BLM policies, plans, and programs . The 
+Proposed Action is consistent in relationship to statutes; regulations; and policies of neighboring 
+local, County, State, Tribal governments, and other Federal agencies. 
+The attached Environmental Protection Measures and FONS! show that all practicable means to 
+avoid or minimize environmental harm have been adopted and that unnecessary or undue 
+degradation of the public lands will not occur as a result of the proposed Reno to Las Vegas 
+Fiber Optic Project. 
+[[page 5]]
+APPROVAL 
+The Reno to Las Vegas Fiber Optic Project DOI-BLM-NV-C000-2023-0003-EA is approved for 
+implementation as described above in this Decision Record, with incorporation of identified 
+Environmental Protection Measures. This project is approved for implementation upon receipt 
+ofa ROW grant and issuance decision, signed by the Authorized Officer, in accordance with 
+Title 43 CFR 2805.13. 
+This Decision is in conformance with the National Environmental Policy Act of 1969 (P.L. 91-
+190) as amended (72 USC 4321 et. seq., the Carson City Field Office Consolidated Resource 
+Management Plan (CRMP) approved in 2001, the Tonopah Resource Management plan 
+approved in 1997, the Las Vegas Resource Management Plan approved in 1998, the regulations 
+at 43 CFR §2800, and with current BLM policies, plans and programs. 
+03/'D lPI 2D2..Y 
+District Manager Date 
+Carson City District Office 
+KimberlyD.Dow 
+[[page 6]]
+APPEAL PROCEDURES 
+If you wish to appeal this decision, it may be appealed to the Interior Board of Land Appeals, 
+Office of the Secretary, in accordance with 43 CFR Part 4. If you appeal, your appeal must also 
+be filed with the Bureau of Land Management at the following address: 
+Kimberly D. Dow, Carson City District Manager 
+BLM, Carson City District Office 
+5665 Morgan Mill Road 
+Carson City, NV 89701 
+Your appeal must be filed within thirty (30) days from receipt or issuance ofthis decision. The 
+appellant has the burden of showing that the decision appealed from is in error. 
+If you wish to file a petition pursuant to regulation 43 CFR 4.2 I for a stay (suspension) of the 
+decision during the time that your appeal is being reviewed by the Board, the petition for stay 
+must accompany your notice of appeal. 
+Copies of the notice of appeal and petition for a stay must also be submitted to: 
+Interior Board of Land Appeals 
+801 N. Quincy Street, Suite 300 
+Arlington, VA 22203 
+A copy must also be sent to the appropriate office of the Solicitor at the same time the original 
+documents are filed with the above office. 
+U.S. Department of the Interior 
+Office of the Regional Solicitor 
+Pacific Southwest Region 
+2800 Cottage Way, Room E-1712 
+Sacramento, CA 95825 
+If you request a stay, you have the burden of proof to demonstrate that a stay should be granted. 
+A petition for a stay is required to show sufficient justification based on the following standards: 
+1. The relative harm to the parties if the stay is granted or denied. 
+2. The likelihood of the appellants
+1 
+success on the merits. 
+3. The likelihood of immediate and irreparable harm if the stay is not granted. 
+4. Whether the public interest favors granting the stay. 
+The Office of Hearings and Appeals re1::,'l.llations do not provide for electronic filing of appeals, 
+therefore they will not be accepted.
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /2024041/200549464/20105414/251005414/Vero FONSI_signed_508.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction]
+
+[[page 1]]
+U.S. Department of the Interior 
+Bureau of Land Management 
+Carson City District Office 
+5665 Morgan Mill Road 
+Carson City, NV 8970 l 
+FINDING OF NO SIGNIFICANT IMPACT 
+Reno to Las Vegas Fiber Optic Project 
+DOI-BLM -NV-C000-2023 -0002-EA 
+Introduction 
+Vero Fiber Networks, LLC (Vero) has submitted an application for the construction, operation, 
+and repair and maintenance of a new buried fiber optic conduit and cables that extends from 
+Reno to Las Vegas. The proposed route would be approximately 450 miles, 327 miles of which 
+would be located on Bureau of Land Management [BLM] managed public lands. The proposed 
+project would also include in-line amplifier buildings, vaults, and line markers along the 
+proposed route. The short-term ROW, N-100968-01/NVNV 106240146, would cover the 
+construction of the ROW and the long-term ROW, N- 100968/ NVNV 105856545, would cover 
+the operation and maintenance of the fiber optic line. The term of the long-term ROW would be 
+30 years while the term of the short-term ROW would be three years. 
+The proposed action associated with this ROW includes the construction activities and 
+operations associated with the development of an approximately 450-mile-long buried fiber optic 
+line spanning from Reno to Las Vegas. The proposed project includes the construction of the 
+fiber optic line by plowing, trenching, or boring techniques and the construction of six inline 
+amplifier buildings. This proposed buried fiber optic line would cross through Washoe, Lyon, 
+Storey, Churchill, Mineral, Nye, Esmeralda, and Clark Counties in Nevada. The proposed project 
+would be located within existing rights-of-way that predominantly follow U.S. Highways 50 and 
+95; Nevada State Highways 160, 839, and 439; and county-maintained roads from Reno to Las 
+Vegas. 
+The overall Project purpose is to provide the infrastructure to improve the quality of rural 
+broadband in Nevada. This Project would provide the infrastructure for a direct, low-latency, and 
+high bandwidth fiber route, providing a unique and diverse fiber network to existing routes. The 
+Project would act as a main linkage for distribution lines throughout the fiber optic system . This 
+region needs redundant and alternative bandwidth services to improve network quality and 
+reliability associated with existing limited bandwidth infrastructure. 
+The BLM's purpose is to respond to Vero's request for a long-term ROW grant (N-100968/ 
+NVNV105856545) and short-term ROW grant (N-100968-01/NVNV 106240146) for the 
+Proposed Action as described in the Plan of Development (POD) and summarized in the attached 
+EA. The BLM's need for the action is established by the agency's responsibility under Title V of 
+the Federal Land Policy and Management Act of 1976 (FLPMA) for issuance of ROW Grants 
+(43 Code of Federal Regulations [CFR] 2800), to process ROW applications, and to take any 
+action necessary to prevent unnecessary or undue degradation of the land. The Proposed Project 
+would be divided into phases which are dependent upon timing restrictions for resource 
+[[page 2]]
+protection and environmental protection measures (EPMs). Issuance of Notices to Proceed would 
+be in conformance with as outlined in the EPMs and project plans. 
+Finding of No Significant Impact Determination 
+Based on the analysis of potential environmental impacts contained in the attached 
+environmental assessment (incorporated by reference as Attachment I), considering the CEQ 
+regulations, 40 CFR 1501.3 (Determine the Appropriate Level of NEPA Review), and 40 CFR 
+1501.6 (Finding of No Significant Impact), I have determined that selecting the proposed action 
+in DOI-BLM-NV-C000-2023-0003 -EA document will not have a significant effect on the human 
+environment and is not a major federal action. An environmental impact statement is therefore 
+not required. This finding is based on potentially affected environment and degree factors of the 
+Project, as described below. 
+Vero has committed to implementing environmental protection measures (EPMs) to prevent 
+environmental degradation during construction, operation, and maintenance activities of the 
+Project. Vero has committed lo EPMs for the following resources: Air Quality; Cultural 
+Resources; Fire Protection; Noise; Lands and Realty; Livestock and Grazing; Paleontological 
+Resources; Public Safety; Recreation; Soils; Threatened and Endangered Species; 
+Transportation; Vegetation Including Noxious and Invasive Species; Visual Resources; Wastes, 
+Hazardous or Solid; Water Resources Including Wetland and Riparian Areas; and Wildlife 
+Resources. There are no mitigation measures to be enforced by the BLM. 
+With respect to the Greater sage-grouse, Vero has consulted with the Sagebrush Ecosystem 
+Technical Team (SETT) and conducted the CCS analysis as required by the State. The 
+preliminary debit calculation was submitted to the SETT for review in May of 2023, with a 
+requirement of 21 Term Debits. The BLM will be notified once the proponent has completed 
+their full or initial mitigation obligations. With respect to the Mojave desert tortoise, Vero is 
+required to submit remuneration fees as part of the Endangered Species Act (ESA) compliance 
+process. In total, 350 acres of undisturbed habitat was determined to be in the area of analysis 
+that would require renumeration fees for ESA compliance. 
+Potentially Affected Environment 
+A BLM Interdisciplinary Team (IDT) consisting of National Environmental Policy Act and 
+Resource Specialists, contributed to this EA. The IDT used various sources of information to 
+prepare the EA, including existing data inventories, and data collected during resource surveys. 
+The potential impacts to the resources reviewed in Table 4 of the EA were evaluated by the IDT 
+to determine if detailed analysis would be necessary. Through this process, the IDT found that 
+air quality, areas of critical environmental concerns, cultural resources, environmental justice, 
+soils and prime or unique farmlands, wildlife, floodplains, lands and realty, migratory birds, 
+Native American religious concerns, socioeconomics, special stat species, threatened and 
+endangered species, transportation, vegetation including noxious and invasive species, visual 
+resources, surface and ground water resources, and wetland and riparian zones. warranted 
+detailed analyses in this EA. 
+Degree of Effects 
+• Short- and long-term effects of the selected alternative 
+[[page 3]]
+o Short-term effects are related to construction activities, which would include 
+localized impacts to soils, air quality, wildlife, transportation, vegetation including 
+noxious weeds and invasive species, visual resources, and water resources. These 
+impacts would dissipate as soon as construction activities cease. With respect to 
+impacts to local socioeconomics, local communities would benefit from construction 
+contractor crews spending money for goods and services. Impacts to these resources 
+would be negligible given that the proposed excavation for the fiber-optic cable 
+installation is small in scale and would involve a narrow trenching machine working 
+adjacent to existing roadways and existing utility routes along the proposed route. 
+Long-term effects are related to the operation and maintenance of the buried fiber 
+optic conduit and cables and in-line amplifiers (ILAs). Impacts related to the presence 
+of the ILAs would affect visual resource management and would disturb two acres of 
+land within 100 to 250 feet of existing roads. Soils in the proposed project area would 
+be impacted long-term however, most of the soils within the area of the analysis in 
+the EA have previously been disturbed so there is limited native soil. The 
+Stormwater Pollution Prevention Plan, Appendix B of the Project Plan, provides 
+direction on reducing erosion potential within the project area. Greater sage-grouse 
+(GRSG) and special status plants would be impacted long-term due to construction 
+activities. However, EPMs for the protection of these resources have been put into 
+place to protect these resources. These EPMs would include treatments to reduce the 
+potential for introduction of noxious weeds, concurrent reclamation to reduce 
+establishment of invasive species, utilization of the GRSG Sagebrush Ecosystem 
+Technical Team Conservation Credit System to offset impacts to GRSG, and 
+Required Design Features from the GRSG Approved Resource Management Plan 
+Amendment, etc. The Mojave desert tortoise (DT) would be impacted long-term due 
+to the construction of the ILAs within their habitat. Environmental Protection 
+Measures taken from the project Biological Opinion would reduce impacts to DTs 
+and would include OT monitors and authorized DT biologists ·surveying areas prior to 
+construction, moving DTs if one is immediately in harm's way, temporary or 
+permanent tortoise proof fencing, conducting Worker Environmental Awareness 
+Training for construction crews, and etc. The Proposed Action would result in 
+negligible, short-term, and localized impacts to yellow-billed cuckoo and 
+southwestern willow flycatcher with the implementation of environmental protection 
+measures identified in the amended BO and Appendix I of the EA. 
+• Beneficial and adverse effects of the selected alternative 
+o Benefits of the Proposed Action would include the money spent in local communities 
+by construction contractor crews for goods and services. Potential benefits from 
+future fiber line connection projects, and projects benefiting from the fiber line such 
+as new industries, educational opportunities, improved health and social services and 
+social networking may be realized once the dark fiber line is live. The Proposed 
+Action is for a dark fiber project and the timeline for this Project fiber line to be live 
+is unknown currently. No adverse effects are anticipated to occur from the Proposed 
+Action. 
+• Whether and to what extent the selected alternative will affect public health and safety 
+o Environmental protection measures (EPMs) are described in Appendix I of the EA 
+while the management plans for noxious weeds; fire protection prevention; spill 
+[[page 4]]
+prevention, control, and countermeasures; public safety; contractor safety; drainage 
+crossing protection; dust control; and transportation and traffic control are described 
+in the Project Plan appendix of the Plan of Development. Taken together, these 
+EPMs and management plans will not affect public health and safety. 
+• Whether effects of the selected alternative would violate Federal, State, Tribal or local 
+law protecting the environment. 
+o The Proposed Action conforms with the provisions of NEPA (U.S.C. 4321-4346) and 
+FLPMA (43 U.S.C. 1701 et seq.) and is compliant with the Clean Water Act of 1972, 
+as amended; National Historic Preservation Act, as amended; Threatened and 
+Endangered Species Act of 1973, as amended; Migratory Bird Treaty Act of 1918, as 
+amended; Bald and Golden Eagle Protection Act (16 U.S.C. 668), 43 Code of Federal 
+Regulations part 2800. 
+4 
+[[page 5]]
+Signature 
+Kimberly D. Dow Date 
+Carson City District Manager 
+Carson City District 
+Attachment s 
+I) Reno to Las Vegas Fiber Optic Project Environmental Assessment 
+5
+
+SOURCE: https://www.usbr.gov/mp/nepa/includes/nepa_data.php?location=lbao RETRIEVED: 2026-09-24
+[Reclamation Region 10 NEPA database record, Project_ID 54419, fields TITLE, SUMMARY, NOTES, STATUS_DATE]
+Vero Fiber Networks Reno to Las Vegas Fiber Optic Project
+Vero Fiber Networks is constructing a 450-mile-long buried fiber optic line primarily within road rights-of-way between Reno and Las Vegas, Nevada. The project will provide the infrastructure to improve the quality and reliability of rural broadband service.
+
+The Bureau of Land Management Reno to Las Vegas Fiber Optic Project, Vero Fiber Networks Environmental Assessment (EA, DOI-BLM-NV-C000-2023-0003-EA, December 2023) describes the environmental effects of authorizing Vero to construct, operate, and maintain the project. In March 2024, the BLM prepared an associated Finding of No Significant Impact (FONSI) and Decision Record for the project. The Bureau of Reclamation (Reclamation) is a cooperating agency for the BLM EA under the National Environmental Policy Act of 1969, as amended (NEPA). Pursuant to 40 Code of Federal Regulations (CFR) 1500.4(p) and 43 CFR 46.120, Reclamation is adopting the BLM EA as its NEPA compliance document. Link to the BLM EA: https://eplanning.blm.gov/eplanning-ui/project/2024041/570
+FONSI posted for EA that was previously posted by BLM (link in summary above) for public comment from 12/11/2023 to 1/10/2024.
+30-APR-2024

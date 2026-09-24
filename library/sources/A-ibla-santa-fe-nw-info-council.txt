@@ -1,0 +1,2301 @@
+SOURCE: https://www.oha.doi.gov/IBLA/Ibladecisions/174IBLA/174IBLA093.pdf RETRIEVED: 2026-09-24
+[Full decision text, pypdf extraction; [[page N]] markers are PDF pages, not reporter pages]
+
+[[page 1]]
+SANTA FE NORTHWEST INFORMATION COUNCIL, INC., ET AL.
+174 IBLA 93                                           Decided March 17, 2008
+
+[[page 2]]
+United States Department of the Interior
+Office of Hearings and Appeals
+Interior Board of Land Appeals
+801 N. Quincy St., Suite 300
+Arlington, VA 22203
+SANTA FE NORTHWEST INFORMATION COUNCIL, INC., ET AL.
+IBLA 2005-27, 2005-28,
+2005-29, and 2005-30 Decided March 17, 2008
+Appeals from a decision of the Field Office Manager, Taos Field Office, New
+Mexico, Bureau of Land Management, authorizing access roads and utility lines in
+new and existing rights-of-way.  NMNM-97059 and NMNM-95859.
+Motion to dismiss appeals denied; decision affirmed.
+1. Administrative Procedure: Standing--Appeals: Standing--Rules of
+Practice: Appeals: Standing to Appeal
+In order to have standing to appeal a BLM decision, a
+person or organization must be a “party to a case” and
+must be “adversely affected” by the decision.  43 C.F.R.
+§ 4.410(a).  A party challenging a BLM decision to issue a
+right-of-way may show adverse effect through evidence of
+use of the lands in question.  A party may also show
+adverse effect by setting forth a legally cognizable interest
+in lands affected by a right-of-way grant and showing
+how the decision has caused or is substantially likely to
+cause injury to that interest.  43 C.F.R. § 4.410(d).   
+2. Federal Land Policy and Management Act of 1976: Rights-
+of-Way--Rights-of-Way: Applications--Rights-of-Way:
+Federal Land Policy and Management Act of 1976
+Under section 501(a)(6) of the Federal Land Policy and
+Management Act of 1976, 43 U.S.C. § 1761(a)(6) (2000),
+a decision to issue a right-of-way is discretionary and will
+be affirmed where the record shows the decision to be
+based on a reasoned analysis of the facts involved, made
+with due regard for the public interest, and where
+appellants fail to show error in the decision.
+174 IBLA 93
+[[page 3]]
+IBLA 2005-27, et al.
+3. Environmental Quality: Enviro nmental Statements--Federal Land
+Policy and Management Act of 1976: Rights-of-Way--National
+Environmental Policy Act of 1969: Environmental
+Statements--Rights-of-Way: Applications
+BLM properly authorizes rights-of-way for access roads
+and utility lines across public lands to private lands,
+absent preparation of an EIS, where, in accordance with
+section 102(2)(C) of the National Environmental Policy
+Act of 1969, 42 U.S.C. § 4332(2)(C) (2000), it has taken
+a hard look at the environmental consequences of issuing
+the rights-of-way, considering all relevant matters of
+environmental concern, and made a convincing case that
+no significant impact will result therefrom or that any
+such impact will be reduced to insignificance by the
+adoption of appropriate mitigation measures.  BLM’s
+decision will be affirmed where the appellants fail to
+demonstrate, with objective proof, that BLM failed to
+consider a substantial environmental question of material
+significance to the proposed action, or otherwise failed to
+abide by the statute.
+APPEARANCES:  Stephen Kirschenbaum, Santa Fe, New Mexico, for the Santa Fe
+Northwest Information Council, Inc.; Barbro Kirschenbaum, Santa Fe, New Mexico,
+for the Hacienda del Cerezo, Ltd.; Philip Saltz, Esq., Santa Fe, New Mexico, for
+Santa Fe Northwest Advisory Council, Inc.; Walter E. Stern, Esq., and Joan E. Drake,
+Esq., Albuquerque, New Mexico, for S. Zannie Hoyt; Stephen C. Ross, Esq., County
+Attorney, and Sophia Collaros, Esq., Assistant County Attorney, Office of the County
+Attorney, Santa Fe, New Mexico, for the County of Santa Fe, New Mexico; Arthur
+Arguedas, Esq., Office of the Field Solicitor, U.S. Department of the Interior,
+Santa Fe, New Mexico, for the Bureau of Land Management.
+OPINION BY ADMINISTRATIVE JUDGE ROBERTS
+The Santa Fe Northwest Information Council, Inc. (SNIC), and others 1 have
+appealed from a September 16, 2004, Finding of No Significant Impact and Decision
+                                          
+1  The four consolidated appeals subject to this opinion were docketed by the Board
+as follows:  IBLA 2005-27 (SNIC); IBLA 2005-28 (Hacienda del Cerezo, Ltd.
+(HDC)); IBLA 2005-29 (Barbro Kirschenbaum); and IBLA 2005-30 (Santa Fe
+Northwest Advisory Council, Inc. (SNAC).  We dismissed appeals from the same
+decision filed by Tom Blog (IBLA 2005-31) and Anne Blog (IBLA 2005-32) by order
+dated Jan. 26, 2005.
+174 IBLA 94
+[[page 4]]
+IBLA 2005-27, et al.
+Record (FONSI/DR) of the Field Office Manager, Taos Field Office, New Mexico,
+Bureau of Land Management (BLM).  In this FONSI/DR, BLM selected the Proposed
+Action alternative, as analyzed in the El Monte Roads Right-of-Way Environmental
+Assessment (El Monte EA), and as described infra, authorizing utility lines within an
+existing right-of-way (ROW) (NMNM-97059), and access roads and utility lines in a
+new ROW (NMNM-95859), all crossing public lands situated in secs. 1, 3, 11 through
+14, 20, 21, and 22, T. 18 N., R. 8 E., New Mexico Principal Meridian (NMPM),
+Santa Fe County, New Mexico, almost 10 miles northwest of downtown Santa Fe,
+New Mexico.
+From the beginning of the lengthy process leading to preparation of the
+El Monte EA, BLM has sought to balance the competing and often conflicting
+interests inherent in structuring a project intended “to establish legal access for roads
+and utilities to four parcels of private land adjacent to the project area while
+minimizing new disturbance.”  EA at 1.  Moreover, in placing the subject appeals into
+perspective, it is important to bear in mind that the FONSI/DR approves a total of
+4.67 miles of ROWs, the placement of utilities within an existing ROW, and a new
+ROW for additional utility placement.  Of the total 4.67 miles of ROWs, only 0.43
+miles of new gravel road would be constructed, and 4.24 miles of existing dirt roads
+would be improved to gravel roads.  The ROWs generally would be 50 feet wide,
+with a 
+24-foot-wide driving surface.
+  
+I.  BACKGROUND
+These appeals arise out of several years of efforts by a number of private
+landowners to obtain access across public lands to their landlocked properties. 
+These private landowners, notably the Ortiz and Garcia/Hoyt families, had been
+involved in a number of disputes over access to their properties.  As BLM explained
+in the FONSI/DR, the proposed project area has long been used by members of the
+Ortiz and Garcia/Hoyt families, who comprise the El Monte Roads Association
+(Association), “to graze their cattle and to access their private properties.”  They
+accessed their properties “by using a road that crossed land owned by the Horcado
+Ranch before traveling over BLM land to reach their properties.”  However, “[i]n
+1991, the road across the Horcado Ranch was closed off by new owners, Lawrence
+and Gabrielle Burke, and since then the Association members have used existing
+roads [jeep trails] on BLM land to reach their properties.”  EA at 2.
+BLM provided the following legal and factual background leading to
+preparation of the El Monte EA:   
+As a result of a dispute involving the closing off of access across the
+Horcado Ranch, the Burkes filed a civil action No. CIV 98-01110
+SC/DJS-ACE in the United States District Court for the District of
+174 IBLA 95
+[[page 5]]
+IBLA 2005-27, et al.
+New Mexico asserting certain claims against Suzanne and Eloy Garcia
+and seeking a decree quieting title to certain private property (Horcado
+Ranch lands).  As a means of settling the dispute, a mediated
+settlement agreement (Agreement) between the Burkes, Garcias, and
+BLM was signed on April 3, 2000.  The Agreement provided that the
+Burkes and Garcias would dismiss their claims against each other and
+that BLM would provide a right-of-way(s) for roads and utilities across
+BLM land to the Garcia family land as well as to lands belonging to the
+Ortiz families and La Luz Group.  The granting of rights-of-way by BLM
+would be subject to Federal regulations at 43 CFR 2800 and 40 CFR 1500. 
+The Agreement specifically identified routes across BLM land . . . that
+would provide legal access to the respective Association members’
+properties.  These routes constitute the Proposed Action as described
+and analyzed in the environmental assessment (EA) for the project.[2] 
+There are eight other Action Alternatives or alternative routes that have
+been identified and analyzed in the EA as well as the No Action
+Alternative.  If authorized, two rights-of-way would be issued to the
+Association.  One right-of-way would be issued for the access roads and
+the other right-of-way would be issued for utilities.  [Emphasis added.]
+Id.
+Subsequent to execution of the Settlement Agreement, Ortiz and Garcia/Hoyt
+adopted a Joint Road Maintenance Declaration to address the allocation of costs for
+construction and maintenance of the proposed roads, and to form the Association. 
+AR 173, Attachment 3.  Thereafter, the Association submitted an application to BLM 
+for a 2.5 mile ROW.  AR 173, Attachment 2.  As explained by BLM, the ROWs are 
+                                           
+2  After the access dispute in 1991, Anthony Ortiz applied for 1.5 miles of ROW to
+their property.  BLM brought to the attention of Ortiz the plans of Garcia/Hoyt for
+possible access routes in 1996, suggesting some combining of the ROWs.  See
+Administrative Record (AR) 128.  Although Ortiz was not a party to the quiet title
+litigation, BLM hosted a meeting that included Ortiz and Garcia/Hoyt in March of
+2000, prior to consummation of the Settlement Agreement, to discuss the ROWs and
+BLM’s requirements.  See AR 125.  Again, although Ortiz was not a party, the possible
+grant of an ROW to Ortiz is discussed in the Settlement Agreement in a way that
+makes it clear that BLM, together with Ortiz and the parties to the Agreement, were
+considering the requested ROWs as a single project.  See AR 173, Attachment 5
+(Settlement Agreement) ¶¶ 1, 3, 4, 5.  Adding the requested 1.5 miles of ROW in the
+Ortiz application to the later El Monte application request of 2.5 miles of ROW
+constitutes the 4.0 miles of roads identified in the Settlement Agreement and
+corresponds generally with the 4.67 miles of ROW authorized by BLM in this FONSI. 
+The ROW applications can be found in the Road Plan of Development, AR 173.
+174 IBLA 96
+[[page 6]]
+IBLA 2005-27, et al.
+intended to allow members of El Monte “to use lands administered by BLM to
+construct a new road segment and improve existing roads to access the Association
+members’ properties, as well as authorize the placement of utilities.”3  FONSI/DR at 2
+(emphasis omitted).
+BLM made clear that its EA was intended to address only those issues
+associated with granting ROWs for use of public lands, and that it viewed matters
+concerning the potential development of the private properties owned by Association
+members as outside the scope of BLM’s jurisdiction.  In its DR/FONSI, BLM defined
+the scope and nature of the project in the following terms:
+Actions connected to this proposal but outside BLM’s jurisdiction
+include the potential development of the El Monte Road Association
+members’ private properties.  Private property development within
+Santa Fe County is guided and controlled by the Santa Fe Land
+Development Code which determines, based on zoning and other
+factors, the type and level of development that is allowed.  The
+potential for development of private properties for residential use is
+also subject to water availability and decisions on these matters rest
+with the New Mexico Office of the State Engineer and the County of
+Santa Fe . . . .  BLM has no jurisdiction over roads on private land
+whether they be for private or public use or for roads that cross public
+lands not under the jurisdiction of BLM.
+As discussed infra, BLM nevertheless included a discussion of the possible impacts to
+the public lands resulting from hypothetical levels of development of the private 
+                                          
+3  The Association members who would be benefitted by the new and improved
+access roads and utility lines are Suzanne Hoyt (formerly Garcia), Paul G. Ortiz,
+Lillian Ortiz Walker, and the La Luz Group LLC (La Luz), which is composed of
+8 members of the Ortiz family.  The FONSI/DR states that these Association
+members own 4 parcels of private land to which the approved ROWs will provide
+access, containing a total of 1,678.82 acres in T. 18 N., R. 8 E., NMPM (1,280 acres
+in 3 adjoining parcels in secs. 10 (Ortiz and Walker) and 15 (La Luz), and
+398.82 acres in a separate parcel in sec. 2 (Hoyt)).  The EA “[a]nticipat[es] that a
+minimum of 11 lots (La Luz Group, L. Walker, P. Ortiz and eight heirs of S. “Zannie”
+Hoyt)” would be improved on the private lands once access is acquired . . . .”  EA
+at 84.  The Joint Road Maintenance Declaration identifies ownership of 11 separate
+lots, by legal description, whose owners are participants in the Declaration.  AR 173,
+Attachment 3 Recitals.  The Road Plan of Development, submitted by Ortiz and
+Garcia/Hoyt at BLM’s request, specifically identifies 11 “legally recognized lots”
+owned by 4 separate entities.  Of the total of 11 lots, the Santa Fe Ranch consists of
+8 separate lots owned by Zannie Garcia and her children.  AR 173 Section 1.G.
+174 IBLA 97
+[[page 7]]
+IBLA 2005-27, et al.
+lands, recognizing that whether the private parcels will be subdivided and developed,
+and at what level of density, depends upon a number of variables controlled by other
+State or county agencies, such as water availability and other zoning factors.
+II.  THE EL MONTE EA
+In order to assess the potential environmental impacts of the Proposed Action
+and alternatives thereto, BLM retained SWCA Environmental Consultants (SWCA), a
+private environmental consulting firm, to prepare the El Monte EA, which BLM issued
+in September 2004.  BLM considered eight action alternatives, the Proposed Action
+(Alternative A) and seven other alternatives (Alternatives B through H), each of
+which would provide an alternative configuration of the proposed permanent roads.4 
+Each proposed road system would begin at an existing road and dead-end at more
+than one (but not all) of the private-land parcels.  BLM states that the private-land
+parcels are currently being used primarily for livestock grazing and other ranching
+purposes.
+Six of the alternatives (Alternatives A, B, C, D, G, and H) would provide one or
+more road segments that would initially branch off the existing Horcado Ranch Road,
+near where it reaches the Mariah Ranch in sec. 13, T. 18 N., R. 8 E., NMPM.5  The
+Horcado Ranch Road is situated south of the public and private lands at issue.  Four
+of these six alternatives would involve the construction of new roads (0.43 miles (A),
+0.43 miles (B), 0.85 miles (G), and 0.46 miles (H)) and existing road improvements
+(4.24 miles (A), 3.65 miles (B), 2.62 miles (G), and 3.01 miles (H)), and the other
+two alternatives would only involve the improvement of existing roads (4.63 miles
+(C) and 4.04 miles (D)).  The two remaining alternatives (Alternatives E and F)
+would provide one or more road segments that would initially branch off the existing 
+                                          
+4  Each of the action alternatives provided for an ROW for new underground utility
+lines in sec. 3 and an amended ROW for new underground utility lines in secs. 20
+and 21, all in T. 18 N., R. 8 E., NMPM, thereby extending existing utility service from
+the Buckman Road to the four private-land parcels at issue.  There was no difference
+between these alternatives, so far as concerned utility lines.  Under the No Action
+Alternative (Alternative I), no ROW would be granted or amended to accommodate
+any new utility lines.
+5  The Horcado Ranch Road runs south from the vicinity of the Mariah Ranch in
+sec. 13, becoming the Paseo de la Tierra, which then intersects with the Camino
+Tierra, which continues on to State Route 599.  This entire access route passes along
+or through three residential subdivisions which are in the process of being developed
+(La Tierra Nuevo, La Tierra, and Las Campanas).
+174 IBLA 98
+[[page 8]]
+IBLA 2005-27, et al.
+Buckman Road in sec. 20, T. 18 N., R. 8 E., NMPM.6  Buckman Road is situated west
+of the public and private lands at issue.  Each of these alternatives would involve new
+(0.71 miles (E) and 1.1 miles (F)) and existing road improvement (6.33 miles (E)
+and 4.56 miles (F)).
+The ROWs would, in accordance with the Santa Fe County Land Development
+Code (Development Code) (AR 195), generally be 50 feet wide, encompassing a
+24-foot-wide roadway with two driving lanes.7  The road surfaces would be graveled. 
+The alternative road routes would vary in total length from 3.47 to 7.04 miles, and
+disturb a total of from 16.7 to 37.8 acres, during construction and improvement, and
+from 5.7 to 11.3 acres, during operation.  The Proposed Action would itself provide
+for 7 road segments extending a total of 4.67 miles, and disturbing a total of
+22.4 acres, during construction and improvement, and 7.4 acres, during operation. 
+Road construction and improvement would generally take 1 year, except in the case
+of Alternatives E and F, which would require a bridge across the Calabasa Arroyo in
+sec. 22, T. 18 N., R. 8 E., NMPM.8
+                                           
+6  Buckman Road runs southwest from sec. 20, becoming the Camino Tierra where it
+intersects with the Paseo de la Tierra, and then continuing on to State Route 599. 
+This entire access route also passes along or through the La Tierra Nuevo, La Tierra,
+and Las Campanas residential subdivisions.  The Buckman Road is described as “an
+unpaved County maintained, rural road.”  “The Buckman Roadway Study for the
+Buckman Water Diversion Project” (AR 174), dated August 2003, at I-1.
+7  The ROW application submitted by the Association requests a 50-foot ROW
+(AR 173, Attachment 2), and the Road Plan of Development states that the width
+of the ROW will be 50 feet, except for a short section that will be 100 feet wide. 
+AR 173, Section 1.C.  The Settlement Agreement states that new construction will
+satisfy Santa Fe County standards (AR 173, Attachment 5 ¶ 5), as does the Joint
+Road Maintenance Declaration, with respect both to new construction and
+improvements (AR 173, Attachment 3, II.4).  “Those standards call for a 50 foot
+right-of-way with a gravel base course driving surface of 24 feet.”  EA, Appendix B
+(Comment Resolution) Response to Comment on Transportation Planning (23). 
+The Development Code states that a local road is a gravel road with either a 20-foot
+or 24-foot-wide driving surface.  AR 64, AR 195 Appendix 5-A.  The need for a 
+50-foot-wide ROW was explained by BLM and is confirmed by the record.  A short
+210-foot-long section of the proposed ROWs would involve a 100-foot ROW where
+the road would cross a ridge in order to accommodate new road cuts.  EA at 12.
+8  BLM states that the bridge, which would be placed at the “narrowest crossing
+point” across the arroyo, would be 250 feet long and 24 feet wide with a 5-foot
+clearance over the arroyo.  Memo to John R. Fox, Esq., from Clif Walbridge,
+C.R. Walbridge & Associates, LLC (AR 2), dated June 16, 2003; see EA at 28.
+174 IBLA 99
+[[page 9]]
+IBLA 2005-27, et al.
+BLM also considered the No Action Alternative (Alternative I), under which
+no ROWs would be issued to the Association, no new roads would be constructed,
+and no existing roads would be improved across public lands.  Rather, the
+Association would continue to obtain access to its private lands over existing jeep
+trails.9
+The purpose of the EA was to allow BLM to determine whether any of the
+impacts from the authorized activity was likely to be significant, and requiring, in
+accordance with section 102(2)(C) of the National Environmental Policy Act of
+1969 (NEPA), 42 U.S.C. § 4332(2)(C) (2000), preparation of an environmental
+impact statement (EIS).  Based on the EA, the Field Office Manager issued his
+September 2004 FONSI/DR, adopting the Proposed Action alternative, subject to
+mitigation measures intended to minimize resource impacts.  He also determined,
+in his FONSI, that the proposed action was not likely to significantly impact the
+environment and that BLM was not required to prepare an EIS.
+Appellants appealed timely from the Field Office Manager’s September 2004
+FONSI/DR.10
+III.  APPELLANTS’ ARGUMENTS ON APPEAL
+In their SOR, appellants contend primarily that BLM’s selection of the
+Proposed Action alternative violates section 102(2)(C) of NEPA because BLM failed
+to adequately consider the likely environmental impacts in the El Monte EA, and
+since such impacts are likely to be significant, to do so in an EIS.  According to
+appellants, “[t]he project will have significant direct effects on the environment, and
+will also have significant indirect, growth-inducing[] effects because it will facilitate
+significant new development in the area.”  SOR at 4.  They argue that BLM also
+violated NEPA by failing to consider reasonable alternatives to the proposed action.  
+                                           
+9  In their Statement of Reasons (SOR), appellants state that access to the
+Association’s private lands at issue is currently afforded over “‘jeep trails’ that are
+negotiable with four-wheel drive vehicles, and vary in width from eight to ten feet.” 
+SOR at 1; see EA at 80; Memo to Field Solicitor from Field Office Manager, dated
+Jan. 13, 2004, at 2.  Hoyt describes the trails as “primitive ranch roads[.]”  Response
+to SOR (Response), dated May 11, 2005, at 12.
+10  By orders dated May 3 and June 23, 2005, we permitted S. Zannie Hoyt, who is
+evidently also known as Suzanne Hoyt (Hoyt), to participate in the present
+proceeding as an intervenor, and the County of Santa Fe, New Mexico, to participate
+as an amicus curiae (County).  By order dated July 13, 2005, we denied a motion to
+intervene by the Pueblo of Tesuque, Santa Fe County, New Mexico (Pueblo).  The
+Pueblo did not seek reconsideration of our July 2005 order, and has made no further
+effort to participate in the proceeding.
+174 IBLA 100
+[[page 10]]
+IBLA 2005-27, et al.
+They request the Board to reverse the Field Office Manager’s September 2004
+FONSI/DR and remand the case to BLM for preparation of an EIS or, at least, a
+new EA, and for reconsideration of the decision to approve the proposed action.11
+Appellants present their argument that in approving the subject ROWs BLM
+acted contrary to section 102(2)(C) of NEPA in the context of a view of the
+Association, acting in concert with BLM, as deeply involved in an effort to consciously
+mislead the public about their real motivation for seeking the ROWs, i.e., to hide
+their plan for residential development of their private property.  The appellants
+would require the Association to disclose a development plan that does not exist, thus
+holding BLM to a standard that is unrealistic under section 501(a) of FLPMA,
+43 U.S.C. § 1761(a) (2000), and section 102(2)(C) of NEPA.  In reviewing the
+record in a balanced way, it is abundantly clear that BLM confronted a controversial
+and complex access dilemma, reviewed numerous alternatives, and, based upon all
+relevant factors, approved the one that will best serve the public interest.  We
+conclude that the record amply supports BLM’s decision.
+IV.  APPELLANTS HAVE STANDING TO APPEAL THE FONSI/DR
+[1]  In her response to appellants’ SOR, Hoyt moves for dismissal of all four
+remaining appeals on the basis that appellants lack standing under 43 C.F.R.
+§ 4.410(a) to appeal from the Field Office Manager’s September 2004 FONSI/DR. 
+She asserts that appellants have failed to demonstrate that they will be “adversely
+affected” by BLM’s decision to authorize construction/improvement, operation, and
+maintenance of roads and utility lines across the public lands at issue, as required by
+43 C.F.R. § 4.410(a).12
+                                           
+11  Hoyt filed a May 11, 2005, response to appellants’ SOR, in which she requests the
+Board to affirm BLM’s September 2004 FONSI/DR.  BLM also filed a response, dated
+Aug. 12, 2005, in which it adopts Hoyt’s response to appellants’ SOR as its own,
+asserting that the response “properly and adequately addresses all of the matters at
+issue.”  BLM Response, dated Aug. 12, 2005, at 11.
+12  Hoyt notes that information obtained from the New Mexico Public Regulation
+Commission (PRC), which “regulates corporations in New Mexico,” discloses that
+“aside from SNAC[,] . . . this appeal fundamentally is pursued by the Kirschenbaum
+family.”  Response at 5, 6.  She points out that on May 2, 2005, the PRC website
+identified Stephen and Barbro Kirschenbaum, who are husband and wife, as the sole
+officers of both SNIC and HDC.  See Exs. A and B (attached to Hoyt Response).  In
+addition, they are the only directors of SNIC, along with Leif Kirschenbaum, and
+Stephen Kirschenbaum is the sole director of HDC.  The same address is given for all
+three Kirschenbaums.
+174 IBLA 101
+[[page 11]]
+IBLA 2005-27, et al.
+In order to have standing under 43 C.F.R. § 4.410(a) to appeal from a BLM
+decision, an appellant must be a “party to the case” and be “adversely affected” by
+the decision within the meaning of 43 C.F.R. § 4.410(b) and (d).  As we said in
+Southern Utah Wilderness Alliance, 140 IBLA 341, 346 (1997):  “If either element is
+lacking, an appeal must be dismissed.”  Further, it is the responsibility of the
+appellant to demonstrate the requisite elements of standing.  Colorado Open Space
+Council, 109 IBLA 274, 280 (1989).
+Hoyt does not challenge appellants’ status as a “party to a case.”  Rather,
+she contends that appellants have not shown that they are likely to be “adversely
+affected” by BLM’s decision to authorize construction/improvement, operation,
+and maintenance of the roads and utility lines:  “Appellants have not alleged, for
+example: (a) that they own property in the area or otherwise use the area where
+the rights-of-way are located; or (b) if they do own property, where that property
+is located in relation to the rights-of-way at issue in this proceeding.”  Response
+at 1, n.1.
+Appellants responded to Hoyt’s motion to dismiss their appeals, asserting that
+they will be adversely affected by BLM’s decision to authorize construction/
+improvement, operation, and maintenance of the roads and utility lines to the
+Association’s private lands.  They note that HDC owns a “guest ranch with some
+private dwellings” on 336 acres of private land which are “access[ed] . . . via [the]
+Horcado [Ranch] Road.”  Reply at 2.  They also note that HDC “form[ed] the entity
+known as SNIC,” which holds the ROW for the Horcado Ranch Road, and that HDC
+originally constructed the road and now pays SNIC to repair and maintain the road. 
+Id.  Appellants point out that the Horcado Ranch Road will be used by traffic
+accessing the new and improved roads created as a consequence of BLM’s decision: 
+“All traffic for [the] El Monte [Road Association] would come north on Paseo de La
+Tierra, and then travel approximately five miles on Horcado [Ranch] Road, on the
+SNIC ROW, to reach the newly granted Right[s]-of-Way to the El Monte lands.”  Id. 
+They also state that subsequent residential development of private lands by the
+Association will result in increased traffic on the road, both during and after housing
+and other construction, and that this increased traffic will interfere with HDC’s use of
+the road, and result in increased expenses to repair and maintain the road.  Id. at 3.
+Moreover, appellants assert that SNAC constitutes an “‘umbrella’ organization”
+which “represent[s] the various homeowners, residential developments, businesses,
+homeowners associations, etc., that inhabit the Northwest area of Santa Fe County.” 
+Reply at 3.  They also note that SNAC has written documents concerning the area,
+specifically part of the County’s “Master Plan,” known as the “Northwest Sector Plan,”
+and in connection with BLM’s proposal to designate the area as an “Area of Critical
+Environmental Concern” (ACEC), pursuant to section 202(c) of FLPMA, 43 U.S.C. 
+174 IBLA 102
+[[page 12]]
+IBLA 2005-27, et al.
+§ 1712(c) (2000).  Reply at 3.  They also state that SNAC has challenged past efforts
+to site utilities and other facilities in that area.
+It is well settled that an appellant will be deemed to be “adversely affected” by
+a BLM decision only where he demonstrates that he has suffered or is substantially
+likely to suffer some sort of injury or harm to a legally cognizable interest. 
+Regulation 43 C.F.R. § 4.410(d) provides:  “A party to a case is adversely affected . . .
+when that party has a legally cognizable interest, and the decision on appeal has
+caused or is substantially likely to cause injury to that interest.”  See The Coalition of
+Concerned National Park [Service] Retirees, 165 IBLA 79, 82 (2005).  There must be
+colorable allegations of adverse effect and there is a causal relationship between the
+action undertaken and the injury alleged, which allegations are supported by specific
+facts.  Southern Utah Wilderness Alliance, 127 IBLA 325, 327 (1993); Colorado Open
+Space Council, 109 IBLA at 280.  The appellant need not prove that an adverse effect
+will, in fact, occur as a result of the BLM action.  E.g., Donald K. Majors, 123 IBLA
+142, 145 (1992).  However,
+the threat of injury and its effect on a party appellant must be more
+than hypothetical.  Missouri Coalition for the Environment, 124 IBLA
+211, 216 (1992); George Schultz, 94 IBLA 173, 178 (1986).  Standing
+will only be recognized where the threat of injury is real and
+immediate.  Laser, Inc., 136 IBLA [271,] 274 [(1996)]; Salmon River
+Concerned Citizens, 114 IBLA 344, 350 (1990).
+Legal & Safety Employer Research Inc., 154 IBLA 167, 172 (2001).
+We are persuaded that SNIC, SNAC, HDC, and Barbro Kirchenbaum have
+identified a legally cognizable interest that is substantially likely to be injured by
+BLM’s decision to authorize the construction/improvement, operation, and
+maintenance of new and existing roads.  They have shown that these parties may
+be “adversely affected” by BLM’s decision.  We therefore deny Hoyt’s motion to
+dismiss the appeals for lack of standing to appeal.
+V.  THE MERITS OF THE APPEALS
+We now turn to the merits of the appeals, which, as we have observed,
+principally concern whether BLM complied with section 102(2)(C) of NEPA in
+selecting the Proposed Action alternative.  Before turning, however, to the specifics
+of appellants’ NEPA challenges to BLM’s decision approving the Proposed Action
+alternative, we will evaluate the ROW grants under section 501(a) FLPMA, 43 U.S.C.
+§ 1761(a) (2000).
+174 IBLA 103
+[[page 13]]
+IBLA 2005-27, et al.
+A.  BLM’s Selection of the Proposed Action Alternative Complies with FLPMA
+[2]  We begin with the rule that under section 501(a)(6) of the FLPMA,
+43 U.S.C. § 1761(a)(6) (2000), a decision to accept or reject an ROW application for
+a road is discretionary.  See, e.g., Wiley F. & L’Marie Beaux, 171 IBLA 58, 66 (2007);
+Mark Patrick Heath, 163 IBLA 381, 388 (2004); Douglas E. Noland, 156 IBLA 35, 39
+(2001).  The Board will affirm a BLM decision approving or rejecting an ROW
+application where the record shows that the decision represents a reasoned analysis
+of the factors involved, made with due regard for the public interest, and where no
+reason is shown to disturb BLM’s decision.  James Shaw, 130 IBLA 105, 115 (1994);
+Mark Patrick Heath, 163 IBLA at 388; Fallini v. BLM, 162 IBLA 10, 34 (2004);
+James M. Chudnow, 70 IBLA 225, 226 (1983); James E. Sullivan, 54 IBLA 1, 2
+(1981).  As we have said, to successfully challenge a discretionary decision,
+[t]he burden is upon an appellant to demonstrate, by a preponderance
+of the evidence, that BLM committed a material error in its factual
+analysis or that the decision generally is not supported by a record
+showing that BLM gave due consideration to all relevant factors and
+acted on the basis of a rational connection between the facts found and
+the choice made.
+International Sand & Gravel Corp., 153 IBLA 293, 299 (2000); Utah Trail Machine
+Association, 147 IBLA 142, 144 (1999).
+In looking at the language of section 501(b) of FLPMA, we see that it requires
+an applicant for a ROW to “disclose those plans, contracts, agreements, or other
+information reasonably related to the use, or intended use, of the right-of-way . . .
+which he [the Secretary] deems necessary to a determination . . . as to whether a
+right-of-way shall be granted . . . and the terms and conditions which should be
+included in the right-of-way.”  43 U.S.C. § 1761(b).  The language “use, or intended
+use” indicates the specific use in the mind of the applicant, not possible or speculative
+uses.  See Sol. Op., “Federal Land Policy and Management Act’s Effect on the Right-
+of-way Application for the Middle Fork Reservoir on the Powder River, Wyoming,” 
+M-36900, 86 I.D. 293, 298-99 (Jan. 12, 1979).
+BLM very clearly and consistently articulated the purpose and need of the
+project analyzed in the EA:  “The purpose of and need for the project is to establish
+legal access for roads and utilities to four parcels of private land adjacent to the
+project area while minimizing new disturbance.  Improvements to currently
+unimproved roads and construction of new roads will assure that they are passable
+and will address ongoing erosion problems on those roads.”  EA at 1 (Need for the
+Project).  In BLM’s notice of the Public Scoping Meeting to be held on February 5,
+2003, the purpose of the project was described as follows:  “The purpose and need 
+174 IBLA 104
+[[page 14]]
+IBLA 2005-27, et al.
+for this project is to re-establish access for applicants to private lands located west
+and north of the project area off of Horcado Ranch Road approximately 8 miles
+northwest of Santa Fe.”  AR 26.  A similar description was used for the individual
+notice letters to members of the interested public announcing the availability of the
+final EA and requesting comments:
+The purpose and need for the project is to establish legal access for
+roads and utilities to four parcels of private land adjacent to the project
+area while minimizing new disturbance.  Improvements to currently
+unimproved roads and construction of new roads will assure that they
+are passable and will address ongoing erosion problems on those roads.
+AR 219.  These descriptions of the project accurately describe the ROW applications
+before BLM and BLM’s intentions to fulfill its obligations under the Settlement
+Agreement. 
+In this case, in response to regulatory requirements, Ortiz and Garcia/
+Hoyt submitted to BLM a Road Plan of Development, dated November 12, 2001. 
+See AR 173.  As to the intended use of the requested ROWs, the Plan states:
+Until residential structures are built, the property will continue to be
+used for grazing purposes.  Thereafter, at such time as residential
+structures are built on the property, the traffic use will be residential in
+nature. . . . Initially, very little road traffic is anticipated.  If all 11 lots
+were sold and built on, the average daily traffic two-way 24-hour (ADT)
+would be 99 vehicles per day at Horcado Ranch Road.  At some point in
+time the land might be sub-divided.  It is difficult to project the total
+number of lots that might be created.  However, it would seem
+reasonable that an ultimate typical lot size would be 20 acres, given the
+location and terrain.  At this density, 80 lots would be created, and the
+ADT would be 720 vehicles per day at the Horcado Ranch Road.
+AR 173 at 3.  In the absence of any immediate specific plan pending with Santa Fe
+County to either sell or subdivide the property, BLM clearly thought that this
+information, together with other information presented in the Plan, was sufficient to
+initiate processing the ROW applications.
+While the EA does state, for example, that “[t]he project area is rural and is
+currently used only by people who are managing cattle grazing on BLM lands or who
+use those lands for recreation” (EA at 79), it also states that “traffic rates on
+roadways would depend on the number of residences built on the private lands if the
+properties are subdivided.”  EA at 80.  This type of reference to ranching and cattle
+grazing is not inappropriate, because it is accurate as to the current uses of the 
+174 IBLA 105
+[[page 15]]
+IBLA 2005-27, et al.
+properties.  There is no evidence in the record that there was any specific plan for
+development of the properties at the time of the ROW applications.  There are
+indications that Ortiz and Garcia/Hoyt were considering either selling their
+properties or possibly developing them.  But, it is equally clear that during the time
+the ROW applications were pending through the date of issuance of the FONSI, there
+were no specific plans filed with Santa Fe County to sell or develop the properties. 
+See, e.g., AR 69.
+What this case comes down to is the fact that appellants oppose ROW grants
+that might result in some level of traffic increase in the vicinity where they
+themselves own property.  This is the classic “not-in-my-backyard” case.  We reject a
+reading of section 501 of FLPMA that leads to scuttling an EA that resolves a complex
+set of circumstances, and represents the culmination of years of negotiation and
+litigation involving the granting of access across public land to privately-owned
+inholdings, all because the appellants want to prevent development in an area where
+they themselves own property.  The fact that they disagree with BLM’s decision does
+not render it contrary to section 501 of FLPMA.
+The record makes clear that the Association and BLM did not disclose the
+Association’s development plans because there were none.  Appellants ask that we
+accept as reality what they fear, i.e., that the private landowners will either develop
+their property or that the purchasers (unknown) of the property will.  The fact is that
+the Association’s members have no control over, and are in no better position, to
+predict how future owners of the property might or might not manage the property. 
+It is possible that a purchaser will choose not to develop the property.  As we show in
+more detail, infra, the Association disclosed what it could about possible future
+development of the inholdings.
+A review of the “Proposed Action/Purpose and Need” section of the El Monte
+EA, as well as the record in this matter, shows a clear “rational connection between
+the facts found and the choice made.”  International Sand & Gravel Corp., 153 IBLA
+at 299.  The decision to approve the Proposed Action for the upgrading of existing
+gravel roads and the construction of a short new connection to provide access to
+landlocked privately owned properties rests upon a solid basis.  Rather than reflecting
+deceit and subterfuge on the part of BLM and the Project proponents, as appellants
+allege, we are convinced that, to the contrary, the record shows them to have been
+completely candid in their proposal.
+As the following discussion concerning BLM’s measures to comply with NEPA
+in developing the EA will demonstrate, BLM thoroughly evaluated several reasonable
+alternatives and selected the Proposed Action alternative as best balancing the need
+to provide reasonable access to the private properties of the Association members
+against the objective of minimizing environmental impacts to the surrounding public 
+174 IBLA 106
+[[page 16]]
+IBLA 2005-27, et al.
+lands.  BLM’s decision, reflecting as it does the sometimes conflicting factors
+involved, was clearly made with due regard for the public interest.  E.g., James Shaw,
+130 IBLA at 115.
+B.  BLM’s Selection of the Proposed Action Alternative Complies With NEPA
+[3]  A BLM decision to proceed with a proposed action, absent preparation
+of an EIS, will be upheld under section 102(2)(C) of NEPA, where the record
+demonstrates that BLM has considered all relevant matters of environmental concern,
+taken a “hard look” at potential environmental impacts, and made a convincing case
+that no significant impact will result therefrom or that any such impact will be
+reduced to insignificance by the adoption of appropriate mitigation measures. 
+Cabinet Mountains Wilderness v. Peterson, 685 F.2d 678, 681-82 (D.C. Cir. 1982);
+Nez Perce Tribal Executive Committee, 120 IBLA 34, 37-38 (1991).  An appellant
+seeking to overcome such a decision must carry its burden of demonstrating, with
+objective proof, that BLM failed to consider a substantial environmental question
+of material significance to the proposed action, or otherwise failed to abide by
+section 102(2)(C) of NEPA.  Southern Utah Wilderness Alliance, 127 IBLA 331, 350,
+100 I.D. 370, 380 (1993); Red Thunder, 117 IBLA 167, 175, 97 I.D. 203, 267 (1990);
+Sierra Club, 92 IBLA 290, 303 (1986).
+In deciding whether BLM has taken a hard look at the likely environmental
+consequences of a proposed action, we will be guided by the “rule of reason,” as
+expressed in Don't Ruin Our Park v. Stone, 802 F. Supp. 1239, 1247-48 (M.D. Pa.
+1992):
+An EA need not discuss the merits and drawbacks of the
+proposal in exhaustive detail.  By nature, it is intended to be an
+overview of environmental concerns, not an exhaustive study of all
+environmental issues which the project raises.  If it were, there would
+be no distinction between it and an EIS.  Because it is a preliminary
+study done to determine whether more in-depth study analysis is
+required, an EA is necessarily based on “incomplete and uncertain
+information.”  Blue Ocean Preservation Society v. Watkins, 767 F.Supp.
+1518, 1526 (D. Hawaii 1991) . . . .  So long as an EA contains a
+“‘reasonably thorough discussion of . . . significant aspects of the
+probable environmental consequences,’” NEPA requirements have been
+satisfied.  Sierra Club v. United States Department of Transportation,
+664 F.Supp. 1324, 1338 (N.D. Ca. 1987), . . . quoting Trout Unlimited
+v. Morton, 509 F.2d 1276, 1283 (9th Cir. 1974).  [Footnote deleted.]
+174 IBLA 107
+[[page 17]]
+IBLA 2005-27, et al.
+See 40 C.F.R. § 1508.9; 46 Fed. Reg. 18026, 18037 (Mar. 23, 1981);13 Scientists’
+Institute for Public Information v. Atomic Energy Commission, 481 F.2d 1079, 1092
+(D.C. Cir. 1973); Missouri Coalition for the Environment, 124 IBLA at 219-20.  As we
+said in Oregon Natural Resources Council, 116 IBLA at 361 n.6:
+[Section 102(2)(C) of NEPA] does not direct that BLM take any
+particular action in a given set of circumstances and, specifically, does
+not prohibit action where environmental degradation will inevitably
+result.  Rather, it merely mandates that whatever action BLM decides
+upon be initiated only after a full consideration of the environmental
+impact of such action.
+1.  BLM Considered the Indirect Effects of the Proposed Action
+As noted, appellants’ primary argument is that BLM violated section 102(2)(C)
+of NEPA by failing to consider the “full indirect, growth-inducing effects” which are
+likely to be engendered by authorizing new and improved roads, specifically by
+facilitating new development of the private lands accessed by the roads.14  SOR at 7. 
+While acknowledging that BLM considered the indirect effects associated with the
+potential development of the 1,678.82 acres of private land owned by Hoyt, Ortiz,
+Walker, and La Luz, appellants argue that BLM failed to consider the true extent of
+development of that land and the resulting impacts on the environment given the 
+                                           
+13  The Federal Register publication consists of a Mar. 17, 1981, memorandum,
+entitled “Forty Most Asked Questions Concerning CEQ’s National Environmental
+Policy Act Regulations,” issued by the Council on Environmental Quality (CEQ).  The
+memorandum is considered to be “persuasive authority offering interpretive
+guidance” regarding NEPA’s implementing regulations.  Davis v. Mineta, 302 F.3d
+1104, 1125 n.17 (10th Cir. 2002).
+14  Among other things, appellants argue that BLM “should have” declined to approve
+road construction/improvement across the public lands at issue because such activity
+would undermine BLM’s ability to designate these and other public lands, totaling
+close to 18,000 acres, as an ACEC pursuant to a pending proposal by SNAC.  SOR
+at 13 n.22.  For whatever reason, ACEC designation had not occurred by the time of
+BLM’s September 2004 FONSI/DR.  See EA, Appendix B (Comment Resolution) at 4. 
+This Board has clearly and consistently rejected the idea that BLM is required to
+manage public lands according to citizens’ proposals for certain land uses, including
+proposals for designation of ACECs.  See Biodiversity Conservation Alliance, 171 IBLA
+313, 318 (2007), and cases cited therein.  Even were the lands to be so designated,
+Hoyt correctly points out that the proposed ACEC “expressly allows for new roads
+required to access private land.”  Response at 18; see Letter to BLM from SNAC
+(AR 192), dated Jan. 21, 2000, at 8.
+174 IBLA 108
+[[page 18]]
+IBLA 2005-27, et al.
+possible number of houses and related traffic.  Appellants assert that BLM relied upon
+the expected construction of up to 128 houses, based upon a minimum lot size of
+12.5 acres, when the reality is that up to 134 and even 671 houses may be built,
+based upon a minimum lot size of 12.5 and even 2.5 acres.  SOR at 8; see County
+Brief, dated July 14, 2005, at 4.  They note that this will result in traffic on the order
+of up to 1,208 and even 6,039 vehicle trips per day, rather than the 704 vehicle trips
+per day projected by BLM.
+Appellants further assert that “far more land” than envisioned by BLM may be
+developed as a consequence of the proposed action, pointing to the fact that
+members of the Association actually own or control other lands “in the immediate
+area totaling many more thousands of acres,” or close to 3,692 acres.  SOR at 7, 8. 
+They state that development of this additional private land will result in a total of
+1,476 houses, and traffic on the order of “over 15,734 vehicle trips per day.”  Id. at 9. 
+Appellants argue that, by failing to take into account the true scope of development
+stemming from BLM’s authorization of new and improved roads, BLM failed to
+consider the actual potential impacts of road construction and improvement.  In their
+view, an increase in the number of lots developed and the number of daily vehicle
+trips expected to occur would, under the County’s Development Code, fundamentally
+alter the nature of such activity.  They point out that the Development Code provides
+that, when lots exceed 200 and daily trips exceed 2,000, the access road (then
+considered a minor arterial road) must be a minimum of 66 feet wide and have from
+2 to 4 driving lanes, and that, when daily trips exceed 5,000, the access road (then
+considered a major arterial road or highway) must be a minimum of 100 feet wide
+and have from 2 to 6 driving lanes, including acceleration and deceleration lanes. 
+SOR at 9, citing Development Code, Article V, Appendix 5.A (“Road Classification and
+Design Standards”); see County Brief at 4.
+Regulation 40 C.F.R. § 1508.25 requires BLM to consider the “indirect” effects
+of its proposed action, which are defined, by 40 C.F.R. § 1508.8(b), as those
+which are caused by the action and are later in time or farther removed
+in distance, but are still reasonably foreseeable.  [They] may include
+growth inducing effects and other effects related to induced changes in
+the pattern of land use, population density or growth rate, and related
+effects on air and water and other natural systems, including
+ecosystems.  [Emphasis added.]
+ 
+See Sierra Club v. Marsh, 769 F.2d 868, 877-78 (1st Cir. 1985); Mullin v. Skinner,
+756 F. Supp. 904, 920-23 (E.D. N.C. 1990).  In order to conclude that a particular
+indirect effect is “cause[d]” by a proposed action, within the meaning of 40 C.F.R.
+§ 1508.8(b), it must be shown that there is a “reasonably close causal relationship
+between a change in the physical environment [wrought by that action] and the 
+174 IBLA 109
+[[page 19]]
+IBLA 2005-27, et al.
+effect at issue.”  James Shaw, 130 IBLA at 114, citing Metropolitan Edison Co. v. People
+Against Nuclear Energy, 460 U.S. 766, 774 (1983).  Further, indirect effects must be
+considered even where they would be the consequence of non-Federal action that
+would take place solely on private property.  Sierra Club v. Hodel, 544 F.2d 1036,
+1037-38, 1043-44 (9th Cir. 1976); City of Davis v. Coleman, 521 F.2d 661, 677
+(9th Cir. 1975).
+These principles, specifically the “indirect effects” standard embodied in
+40 C.F.R. § 1508.8(b), were involved in James Shaw, a case that we find instructive. 
+In that case, the appellants objected to a BLM decision approving an ROW.  Their
+objections related not so much to the ROW itself but to the “impact of increased
+residential development in the Mink Creek area.”  130 IBLA at 112.  The appellants
+warned of the impacts on public land of the planned subdivision, particularly the
+potential for increased off-road vehicle use and increased housing density in the area.
+They asked that BLM prepare a more extensive EA, focusing on the impacts of
+possible residential development on water quality and wildlife habitat, as well as
+the impact of additional housing in the area generally.  Id. at 111-12.
+Although the Board generally confirmed in James Shaw that BLM must address
+the indirect effects of reasonably foreseeable changes in land use or population
+density resulting from BLM’s action, we found that BLM’s decision to grant the ROW
+was not the cause of any indirect effects associated with the construction of the
+anticipated subdivision.  “This is evident when one realizes that the subdivision
+would very likely proceed even if BLM denied [the ROW]. . . . Appellants have not
+demonstrated that the subdivision would not be developed if BLM denied the right-
+of-way application.  In these circumstances, we conclude that BLM was not required
+to address the environmental effects of the subdivision, as those effects were not
+‘caused by the action’ within the meaning of 40 CFR 1508.8(b).”  Id. at 114-15.
+In this case, BLM rightly states that its jurisdiction extends to whether to
+approve the Proposed Action, but that it has no control over whether and to what
+extent the private properties will be developed.  The Board in James Shaw made
+clear, however, that BLM is required by NEPA to consider the environmental impacts
+of foreseeable development resulting from the ROW.  Appellants have not
+demonstrated that development resulting from the disputed ROWs is foreseeable,
+much less inevitable, nor ave they shown that denial of the ROW will result in the
+private lands remaining unsubdivided and undeveloped, or conversely, that granting
+the ROWs will necessarily result in the subdivision and development of those lands to
+the extent claimed by appellants.  BLM’s objective with the EL Monte EA was to study
+the foreseeable environmental impacts of approving the Proposed Action.  Actual
+development of the private lands is a speculative matter, depending, as noted, upon a
+number of factors related to water rights and zoning.  Development of those lands
+will materialize, if at all, independent of whether BLM issues the disputed ROWs.  
+174 IBLA 110
+[[page 20]]
+IBLA 2005-27, et al.
+See EA at 70 (“Communities to the south of the project area would be visually
+impacted by changes from increased traffic under either the Horcado Ranch Road
+[access] alternatives or the Buckman Road [a]ccess alternatives”), 84-85, 128.  But
+both are ROWs which, if denied, might-could prevent development.
+Moreover, the El Monte EA in fact provides a detailed assessment of the
+indirect effects of the Proposed Action occasioned by the likely development of the
+four parcels of private land accessed by the roads at issue in the El Monte EA.  See,
+e.g., EA at 42-43, 53, 71, 72, 77, 78-79, 80, 84-85, 86, 108, 128, 129-31; FONSI/DR
+at 2.  BLM noted that the likely extent of development would be determined “by the
+owners, the terrain of the property, and State of New Mexico and Santa Fe County
+laws and ordinances.”  EA at 130.  It stated that the private landowners could build
+up to 11 houses, without County or State review and approval, once the new and
+improved access roads were built, but that the “most likely” development would be
+80 houses, based on a minimum lot size of 20 acres, given the practical limitations of
+the “rough terrain” encompassed by these parcels.15  Id.; see id. at 131; EA,
+Appendix B at 7.  The existence of rough terrain is borne out by the record.  See, e.g.,
+EA at 5 (Figure 2.2), 61 (Figure 3.3).  However, BLM further recognized that, “[i]f
+problems with rough terrain could be overcome,” development on the order of
+128 houses might occur, given the County’s minimum lot size of 12.5 acres for that
+area of the county, as determined by the availability of water.  EA at 131; see BLM
+Response at Attachment B (Declaration of Kevin Wellman, Senior Project Manager,
+SWCA, dated Aug. 10, 2005) (“[T]he minimum lot size allowed under the Santa Fe
+Land Development Code [was] found to be 12.5 acres”).  BLM based its assessment
+of the indirect effects of the proposed action on reasonably expected development,
+given a 12.5-acre minimum lot size.16
+Since we are concerned with what may be “caused” by a proposed action, and
+particularly what is “reasonably foreseeable” as a consequence of that action, we do
+not think that it is appropriate to assess the likely extent of development based 
+                                           
+15  BLM also indicated, in its EA, that the four private-land parcels would generally be
+served by a “dead-end road” or “only one access road,” thus restricting the number of
+houses that could be built:  “[A] total of 90 houses could be developed on Sections 2,
+10 and 15 under Alternatives A, C, and E.  Only 60 houses, total, could be placed on
+the private lands under Alternatives B, D, F, G, and H.”  EA at 130, 131.  This is not
+contradicted by appellants.
+16  BLM properly designed the proposed roads at issue to comply with the County’s
+Development Code, providing that they would be 50 feet wide with two driving
+lanes, because the roads, considered to be collector roads, were expected to serve
+from 60 to 199 houses and generate from 601 to 1,999 vehicle trips per day. 
+See Development Code at 150.
+174 IBLA 111
+[[page 21]]
+IBLA 2005-27, et al.
+strictly on the absolute minimum lot size of 2.5 acres.  See 40 C.F.R. § 1508.8(b).  We
+recognize that it might be possible to determine the full extent of development which
+ might occur under ideal circumstances, were all the potential lots in a given area to
+be developed, thus engaging in a purely mathematical calculation.  However, that
+calculation would be a matter of extreme speculation, given that the likely extent of
+development is not dependent solely, or even necessarily, on the maximum number
+of lots which may be developed, under ideal circumstances.  It is also dependent, to
+a great extent, on the mutual needs and desires of potential buyers and sellers/
+developers, as well as zoning, water availability, and other concerns of local and
+State authorities.  Moreover, the ROWs, as granted, would not support such
+development, as recognized by appellants.  Thus, BLM had a reasoned and rational
+basis for assessing effects from 128 houses, rather than engaging in pure speculation
+of what could happen under possible, ill-defined and not yet realized circumstances.
+Perhaps most important in the present case is the matter of water availability. 
+The Development Code states that “future population growth in the County should
+be supported by adequate long term water availability,” and provides that minimum
+lot size will be determined by two methods, depending on whether expected
+development will “Utilize Permitted Water Rights” or “Not Utilize Permitted Water
+Rights.”  Development Code at 106.  In the former case, the “minimum lot size” here
+would be “2.5 acres,” since the private lands at issue do not appear to be “within an
+Urban, or Metropolitan Area or a Traditional Community[.]”  Id.  In the latter case,
+the “minimum lot size” is determined using a formula, in which U, denoted as the
+anticipated water needs for a lot (measured in acre-feet per year), is multiplied by
+the acreage of the lot and then divided by A, denoted as the amount of water
+available in the aquifers underlying the lot (measured in acre-feet per acre per year). 
+Absent evidence to the contrary, the County provided for “standard values” for U and
+A, respectively, of 1.0 acre-feet per year and 0.02 acre-feet per acre per year for the
+Basin Fringe Zone, thus resulting in a minimum lot size of 50 acres.  Id. at 107, 108. 
+Were U adjusted to 0.5 or 0.25 acre-feet per year, in order to take into account the
+effect of water conservation measures to reduce anticipated water needs, the
+resulting minimum lot size would be, respectively, 25 or 12.5 acres.  Id. at 109. 
+However, the Development Code provides:  “The maximum reduction in U which
+shall be considered achievable [by normal means] . . . shall be a reduction of U to no
+less than 0.25 acre feet per year per dwelling unit.”  Id. at 108.  Thus, the minimum
+lot size which BLM considered to be achievable is 12.5 acres.
+Neither appellants nor the County have offered any evidence that water or
+water rights are sufficient to permit development with a minimum lot size less than
+12.5 acres, or that development is otherwise likely to proceed in that manner, in the
+case of the private lands at issue.  See, e.g., County Brief at 4.  Absent any evidence
+that the maximum number of houses is likely to be built, based on the absolute
+minimum lot size of 2.5 acres, we will not require BLM to assess the environmental 
+174 IBLA 112
+[[page 22]]
+IBLA 2005-27, et al.
+consequences of such development, since it is not reasonably foreseeable.  Appellants
+have provided no evidence that the maximum development of the four private-land
+parcels at issue is likely to occur, or even that BLM’s actual assessment of the likely
+extent of development deviated from what is reasonably foreseeable.  See EA at 128;
+County Brief at 4; Hoyt Response at 9.
+In fact, the County stated in its Brief that “any development of th[e] [private]
+properties (even the construction of a single family dwelling) requires applications,
+permits, . . . and review of the Board of County Commissioners and Local
+Development Review Committees [and their staff] for conformance with regulations,”
+that the “development potential” of this area of the County is “low” given the
+“minimal” infrastructure and services, and that the County “would prefer” that
+development not occur there.  Brief at 2-3, 9.  Rather than detract from the El Monte
+EA as not addressing the consequences of the Association members’ development
+plans, this assertion supports the contrary view, i.e., that the likelihood of the private
+parcels being subdivided and extensively developed in the foreseeable future is fairly
+remote.
+Appellants also charge that BLM erred by failing to consider the indirect
+effects of the additional development which appellants expect to occur “in the
+immediate area” of the four private-land parcels at issue.  SOR at 8.  It is clear that
+appellants are referring to private land which can only be accessed by crossing these
+parcels, once the roads at issue are constructed and improved, or which is situated
+along the Horcado Ranch Road, which already brings traffic to the area of the
+parcels.  See SOR at 8, 9.  The four parcels will only be developed once the members
+of the Association obtain approval to construct and improve roads across these
+parcels.  Thus, additional development is dependent on these additional roads. 
+However, the private land will be developed regardless of whether the roads at issue,
+which extend beyond the terminus of the Horcado Ranch Road, are constructed and
+improved, or whether other access is approved.17  As in James Shaw, in neither
+instance can we say that the additional development will occur as a consequence of
+construction and improvement of the roads at issue, or that such roads will “cause[]”
+the development.  40 C.F.R. § 1508.8(b).
+                                           
+17  It is well established that development cannot be considered to be “caused” by a
+proposed ROW, within the meaning of 40 C.F.R. § 1508.8(b), when that develop-
+ment is predicted to occur regardless of whether BLM approves the ROW.  See
+Landmark West! v. U.S. Postal Service, 840 F. Supp. 994, 1009-10 (S.D. N.Y. 1983),
+aff'd, 41 F.3d 1500 (2d Cir. 1994); Citizens Committee Against Interstate Route 675
+v. Lewis, 542 F. Supp. 496, 561-65 (S.D. Ohio 1982); San Carlos Apache Tribe,
+149 IBLA 29, 46-47 (1999); James Shaw, 130 IBLA at 114-15.  Development of
+private lands along the Horcado Ranch Road will take place, if at all, regardless of
+BLM’s approval of the Proposed Action alternative.
+174 IBLA 113
+[[page 23]]
+IBLA 2005-27, et al.
+Appellants have failed to demonstrate that BLM underestimated the indirect
+effects of the proposed approval of road construction/improvement, or to otherwise
+show that this action might result in a significant environmental impact which BLM
+was required by section 102(2)(C) of NEPA to consider in an EIS.  In Howard B. Keck,
+Jr., 124 IBLA 44 (1992), aff’d, Keck v. Hastey, No. S92-1670-WBS-PAN (E.D. Cal.
+Oct. 4, 1993), involving a land exchange, we held that BLM’s consideration of the
+expected impacts of development on a Federal parcel need only be commensurate
+with the known or anticipated level of detail concerning such development.  The
+Board stated:  “Absent formulation of a precise plan for the development of public
+land, it is virtually impossible for BLM, at the time it is deciding whether to proceed
+with a proposed exchange, to assess the specific environmental impact of
+development.  It cannot realistically engage in a reasoned analysis of the likely
+impact of such development.  That is the case here.”  124 IBLA at 48.  It is not
+feasible for BLM to require El Monte “to prepare development plans so that BLM may
+consider them in the course of its environmental review of the [ROW application].” 
+Id. at 48-49.  Such an exercise is no more appropriate in this case than it was in Keck. 
+The Board’s analysis, as quoted below, places these appeals into proper perspective:
+In these circumstances, it is clear that the intended development
+of the selected public land is not sufficiently definite to permit a full
+review of its likely environmental impact.  See Park County Resource
+Council, Inc. v. U.S. Department of Agriculture, 817 F.2d 609, 624
+(10th Cir. 1987).  Therefore, BLM need not concern itself with the
+particular nature and scope of development.  As the court indicated in
+Sierra Club v. Marsh, supra at 870, an agency will not be required to
+analyze the “precise details” of potential development where it would
+be “pointless” to do so, since the development plans are not detailed
+enough.  Rather, it may content itself with analyzing the “type of
+development likely to occur.”  Id. (emphasis in original); see also
+[Conservation Law Foundation of New England, Inc. v. GSA (CLF v. GSA),
+707 F.2d 626, 634 (1st Cir. 1983)], (“[b]ecause the [environmental
+analysis] will necessarily be in terms of estimates of probabilities, no
+exhaustive detail is required”).  That is what BLM did here.
+ 
+Accordingly, we conclude that to require BLM to assess the
+environmental impacts of development, beyond those already
+addressed in the EA, would constitute an exercise in “‘crystal ball
+inquiry,’” which is not required by NEPA.  Scientists’  Institute for Public
+Information, Inc. v. Atomic Energy Commission, 481 F.2d 1079, 1092
+(D.C. Cir. 1973).  We will not require BLM to undertake such an
+endeavor, especially where there is no evidence that the environmental
+impacts of actual development cannot adequately be analyzed by the
+appropriate county authorities at the time a proposal for such
+174 IBLA 114
+[[page 24]]
+IBLA 2005-27, et al.
+development is advanced by Travertine.  As the court observed in CLF v.
+GSA, supra at 636:  “Any []use of the . . . lands . . . will be fully subject
+to the substantive constraints of local zoning laws and local and federal
+environmental standards.”
+124 IBLA at 50. 
+The point of the Board’s holding in Keck is that BLM need only consider the
+effects of development that are reasonably foreseeable.  A review of the El Monte EA
+shows that it is replete with discussions of the possible effects of reasonably
+foreseeable development.  See, e.g., EA at 33, 37, 42, 43, 52, 53, 60, 66, 68, 69, 70,
+71, 72, 73, 74, 75, and similarly thereafter.  Our review confirms that BLM accurately
+described the purpose of the proposed ROWs, and then analyzed the possible direct
+and indirect effects of reasonably foreseeable development, to the extent possible
+given the complete absence of any plan, or even clear intention, of the proponents to
+subdivide or otherwise develop their private properties.  
+BLM placed its analysis into the context of the procedural and zoning hurdles
+any developer must address and overcome for any development to occur, whether
+involving 2-acre or 200-acre lots.  It would be futile, not to mention wasteful, to set
+aside this EA so that BLM can engage in a more detailed analysis of what might occur
+if the hypothetical variables are changed.  Appellants proffer the worst case
+development scenario as inevitable, and it is this unbalanced, and ultimately unfair,
+approach that informs the modus operandi of the appellants that we now reject.  The
+paramount question here is whether granting the ROWs is in the public interest, not
+whether El Monte and BLM should have disclosed more detail about possible, but by
+no means certain, development of the private parcels.  It is this portrayal that we
+correct in this majority opinion.
+2.  BLM Considered a Range of Reasonable Alternatives
+Next, appellants contend that BLM violated NEPA by failing to consider
+reasonable alternatives to the proposed action.  They refer to BLM’s decision not to
+fully consider two alternatives (original Alternatives G and H), which had been
+proposed during scoping, but which they contend were improperly “eliminated” from
+consideration without sufficient justification.18  SOR at 18.  According to appellants,
+                                             
+18  Appellants also object to BLM’s decision not to adopt either of the alternatives
+(Alternatives E and F) affording access from Buckman Road on the basis that each
+alternative requires construction of a bridge across the Calabasa Arroyo, at a cost of
+$937,500, thus rendering the alternatives cost-prohibitive.  See EA at 28.  They argue
+that a bridge is not necessary, noting that the Santa Fe County Public Works
+(continued...)
+174 IBLA 115
+[[page 25]]
+IBLA 2005-27, et al.
+these alternatives, by providing access from Buckman Road to the four parcels of
+private land, are preferable, given that the Buckman Road area is “slated for further
+improvement.”  Reply at 4; see County Brief at 11.  The two alternatives would also
+have provided access primarily by crossing private rather than public land.
+BLM is required by section 102(2)(E) of NEPA, 42 U.S.C. § 4332(2)(E)
+(2000), to consider “appropriate alternatives” to a proposed action, as well as their
+environmental consequences.  See 40 C.F.R. § 1501.2(c) and 1508.9(b); City of
+Aurora v. Hunt, 749 F.2d 1457, 1466 (10th Cir. 1984); Howard B. Keck, Jr., 124 IBLA
+at 53; Powder River Basin Resource Council, 120 IBLA 47, 55-56 (1991).  Such
+alternatives should be deemed reasonable alternatives to the proposed action, will
+accomplish its intended purpose, are technically and economically feasible, and
+yet have a lesser or no impact.  40 C.F.R. § 1500.2(e); 46 Fed. Reg. at 18027;
+Headwaters, Inc. v. BLM, 914 F.2d 1174, 1180-81 (9th Cir. 1990); City of Aurora v.
+Hunt, 749 F.2d at 1466-67; Defenders of Wildlife, 152 IBLA at 9-10; Howard B. Keck,
+Jr., 124 IBLA at 53-54.  All this ensures that the BLM decisionmaker “has before him
+and takes into proper account all possible approaches to a particular project.”  Calvert
+Cliffs' Coordinating Committee, Inc. v. U.S. Atomic Energy Commission, 449 F.2d 1109,
+1114 (D.C. Cir. 1971).
+BLM declined to formally consider the original Alternative G because it would
+provide for a longer route and require new road construction across lands where the
+terrain is “heavily dissected and easily eroded,” resulting in a greater environmental
+impact than the proposed action.  EA at 10.  Appellants assert that BLM is mistaken
+regarding the terrain crossed by this alternative, noting that it is “no more difficult
+than the terrain in general in this area.”  SOR at 18.  However, they present no
+evidence in support of their assertion, offering only a difference of opinion, which is 
+                                           
+18 (...continued)
+ Department “informs us that no one has used a bridge for a Minor Arterial Road or
+Arterial Road to cross an arroyo” and that the Horcado Ranch Road has already been
+constructed across the arroyo, with County approval, even though, as they state: 
+“There is no bridge.”  SOR at 19; see County Brief at 11.
+Appellants present no evidence specifically disputing BLM’s assessment that a
+bridge is needed to cross the Calabasa Arroyo, because it is an “ephemeral
+waterway[],” in sec. 22.  EA at 43; see id. at 47 (Figure 3.1); Letter to BLM from
+SNIC, dated Jan. 12, 2004, at 3.  Further, the record indicates that a bridge is
+necessary in order to permit any subdivision of the private lands at issue accessed by
+that means.  BLM states that, according to the County, “[s]ubdivisions cannot be
+placed on roads with grades in excess of 10% or with temporary drainage crossings,”
+noting that the Horcado Ranch Road itself must be “upgraded” in order to permit the
+subdivision of these lands.  EA at 131; see Letter to Walbridge from Knox, dated
+Apr. 27, 2001, at 1; EA at 85; Development Code at 150.
+174 IBLA 116
+[[page 26]]
+IBLA 2005-27, et al.
+not sufficient to show error in BLM’s analysis and conclusion.  Great Basin Mine
+Watch, 148 IBLA 1, 6 (1999).
+As its reason for declining to formally consider the original Alternative H, BLM
+cited the refusal of the owners of the four parcels of private land crossed by the route
+to authorize road access across their respective lands.  EA at 10-11.  Appellants note
+that BLM had “doubts” about whether these private landowners could, by precluding
+access across their private lands, “dictate” that BLM only consider alternatives which
+provide access across public lands, and whether BLM could instead require that they
+provide access across their private lands.  SOR at 18.  Appellants note that BLM
+pursued a legal opinion from the Solicitor, but that, receiving none, “the matter was
+dropped.”  Id.  We find no fault.  BLM is not required to consider an alternative that
+is not likely to occur.  Moreover, it is clear that the alternative does not meet the
+purpose and need for the project, i.e., “to establish legal access for roads and utilities
+to four parcels of private land . . . while minimizing new disturbance.”  EA at 1.  BLM
+was not required to consider an alternative which primarily crossed private lands
+where the landowners had already decided or even might decide to preclude access.
+3.  BLM Consulted With Appropriate Parties
+Next, appellants contend that BLM “failed to consult” with appropriate parties,
+“in violation of NEPA and its own regulations,” invalidating the EA.  SOR at 14.  They
+do not identify any specific provision of NEPA or its implementing regulations
+(40 C.F.R. Chapter V) which was violated.  Rather, they refer to the directive in
+43 C.F.R. § 2800.0-2, which states that “in granting rights of way, ‘[i]t is the objective
+of the Secretary of the Interior to . . . [c]oordinate, to the fullest extent possible, all
+actions taken pursuant to this part [43 C.F.R. Part 2800] with State and local
+governments, interested individuals and appropriate quasi-public entities.’”  SOR
+at 14, quoting 43 C.F.R. § 2800.0-2.  Appellants assert that BLM failed to fulfill its
+obligation under 43 C.F.R. § 2800.0-2 in the manner of its consultation with the
+County.
+We find no express mandate in 43 C.F.R. § 2800.0-2 that BLM “consult” with
+“State and local governments, interested individual and appropriate quasi-public
+entities” in granting ROWs.  SOR at 16,  quoting 43 C.F.R. § 2800.0-2.  More
+precisely, the regulation states that BLM’s objective is “to grant rights-of-way . . . and
+to regulate, control and direct the use of said rights-of-way on public land so as to . . .
+[c]oordinate, to the fullest extent possible, all actions taken pursuant to this part
+[43 C.F.R. Part 2800] with State and local governments, interested individuals and
+appropriate quasi-public entities.”  (Emphasis added.)  The regulations do not define
+what is meant by the phrase to “[c]oordinate . . . all actions taken.”  However, it is
+reasonable to expect BLM, in deciding whether and where to grant an ROW, and
+under what terms and conditions, to consult with such entities by contacting them 
+174 IBLA 117
+[[page 27]]
+IBLA 2005-27, et al.
+and obtaining their input, such that their interests and concerns can be taken into
+account in reaching its decision.  Further, the County correctly notes that 43 C.F.R.
+§ 2802.4(d) specifically provides that,
+[p]rior to issuing a right-of-way grant . . . , the authorized [BLM] officer
+shall . . . [c]onsult with all other Federal, State, and local agencies
+having an interest, as appropriate and . . . [t]ake any other action
+necessary to fully evaluate and make a decision to approve or deny the
+[ROW] application and prescribe suitable terms and conditions for the
+grant . . . .  [Emphasis added.]
+Our review of the record shows that BLM met this standard in consulting with
+appropriate State agencies and the Pueblo.  It also contacted New Mexico State
+University (NMSU), as a grazing rights holder, and the Pueblo during the NEPA
+process.  See Mailing List (AR 24); Letter to President, NMSU, from BLM (AR 24),
+dated June 11, 2004; Letter to Governor, San Ildefonso Pueblo, from BLM (AR 229),
+dated June 18, 2004.
+Under CEQ regulations, BLM was required to involve the public “to the extent
+practicable” in preparing the El Monte EA.  See 40 C.F.R. § 1501.4(b).  BLM
+conducted two public meetings on the subject of providing access to the proponents
+of the Proposed Action alternative.  The first of those meetings was publicized in
+radio spots, letters to interested parties, fliers were posted in public places, and
+publication took place in three newspapers, the Albuquerque Journal North, the Sante
+Fe New Mexican, and the Los Alamos Monitor.  Moreover, despite appellants’
+assertions to the contrary, the record substantiates the fact that BLM consulted with
+appropriate County agencies in the course of its NEPA review process.  See EA at 139;
+EA, Appendix B at 9; BLM Response at 2, 3.  To the extent that the County believes
+that other matters should have been brought to BLM’s attention, the County had
+ample opportunity to do so during the public scoping process, which began
+February 5, 2003, leading to promulgation of the EA, and during the public comment
+period, from June 16 to August 2, 2004, following promulgation.19
+Moreover, BLM apparently contacted Santa Fe County first in 2001, initiating
+discussions with Robert Martinez of the Santa Fe County Public Works Department
+about road construction requirements.  AR 121.  Both the Santa Fe County Manager
+and Santa Fe County Open Space and Trails were included on the BLM public
+scoping address list for notification of public meetings and information relating to the 
+                                           
+19  The record reflects the fact that the Santa Fe County Manager was on BLM’s initial
+mailing list (AR 24), and thus would have received copies of BLM’s original public
+scoping notice.  In addition, BLM published, in local newspapers, notices announcing
+the public comment period and the availability of the final EA and FONSI/DR.
+174 IBLA 118
+[[page 28]]
+IBLA 2005-27, et al.
+proposed ROWs.  AR 24.  Charles Gonzales, Director of the Permits and Inspection
+Division for Santa Fe County, contacted the EA contractor on February 3, 2003, and
+discussed the upcoming February 5, 2003, scoping meeting (he was considering
+attending and bringing another person).  AR 293.  Later, on March 10, 2003, the EA
+contractor contacted Emilio Gonzalez of the Santa Fe County Land Use Department
+to discuss zoning requirements, buildable areas, minimum lot sizes, and roadway
+requirements.  AR 293, AR 4.  Contacts with various employees of the Santa Fe
+County Land Use Department also were initiated in July 2003 and in March 2004. 
+Agency [BLM] Response to Santa Fe County’s Amicus Curiae Brief and Agency
+Response to Appellant’s [sic] Reply Brief, attached Affidavits of Nancy Kastning and
+Kevin Wellman.  A number of these direct personal contacts with Santa Fe County
+employees are documented in the EA.  See, e.g., EA § 3.8.1.6; Appendix B Comment
+Resolution at 9.  
+These direct contacts, the notices and information provided through the public
+scoping address list, the opportunity to attend the public scoping meeting on
+February 5, 2003, the NEPA process meeting on April 17, 2003, and the availability
+of the EA for review, together clearly demonstrate that BLM engaged in sufficient
+consultation with Santa Fe County.  The EA also references many times that Santa Fe
+County would be responsible for reviewing and approving any development or
+subdivisions on the private lands in the area.  See, e.g., EA §§ 3.2.1.14, 3.2.2.14,
+3.2.3.14, 3.2.5.14, and thereafter; Appendix B Comment Resolution at 5, 6, 7, 10. 
+For example, BLM explains that:
+If the applicant’s private lands were to be developed, developers could
+be required by Santa Fe County to file an environmental impact
+statement in conjunction with a development plan which assesses all
+impacts to the Santa Fe County environment from the proposed
+development.  This would include an analysis of the impacts of
+increased traffic to existing roads and neighborhoods which could in
+turn determine the scale of a proposed development.
+EA Appendix B Comment Resolution at 6.  The record simply does not support
+appellants’ charge that BLM failed to comply with the public involvement
+requirements that derive from either FLPMA or NEPA. 
+We conclude that the record establishes that the Field Office Manager properly
+determined, in his September 2004 FONSI/DR, that there will be no significant
+impact from approving the Proposed Action, since BLM has, considering all relevant
+matters of environmental concern, taken a hard look at potential environmental
+impacts and made a convincing case that no significant impact will result therefrom
+or that any such impact will be reduced to insignificance by adoption of the identified 
+174 IBLA 119
+[[page 29]]
+IBLA 2005-27, et al.
+mitigation measures.  Nez Perce Tribal Executive Committee, 120 IBLA at 37-38.  He
+properly found that no EIS was required.
+Appellants have simply not carried their burden of demonstrating, with
+objective proof, that BLM failed to consider a substantial environmental question of
+material significance to the proposed actions, or otherwise failed to abide by
+section 102(2)(C) of NEPA.  See Southern Utah Wilderness Alliance, 127 IBLA at 350,
+100 I.D. at 380; Red Thunder, 117 IBLA at 175, 97 I.D. at 267; Sierra Club, 92 IBLA at
+303.  The fact that appellants have a differing opinion about likely environmental
+impacts or prefer that BLM take another course of action does not show that BLM
+violated the procedural requirements of NEPA.  See San Juan Citizens Alliance,
+129 IBLA 1, 14 (1994).
+ VI.  THE DISSENT
+Our colleague, in the dissenting opinion, offers three bases for disagreement
+with our analysis and conclusion.  We address them below.
+A.  The ROW Application
+The concern about the technical nature of the application for the El Monte
+ROW is, we believe, unfounded.  In footnote 2, supra, we describe how the EA
+approving 4.67 miles of improved and new roads came about.  When the Burkes
+closed access across Horcado Ranch, the Ortiz family filed an ROW application with
+BLM covering 1.5 miles to their property.  The quiet title litigation that ensued
+involved the Ortiz and Garcia families, as well as the Burkes and BLM.  An ROW
+application amendment was filed for 2.5 miles on behalf of the El Monte Association
+in 2001, subsequent to execution of the Settlement Agreement.  The ROW
+amendment states that it is for a 50' ROW and that it “is in the Horcado Ranch area
+and its use will be similar to what is already there.”  The Settlement Agreement
+provides that, subject to compliance with 43 C.F.R. Part 2800, BLM would grant the
+Ortiz and Garcia families ROWs across public lands as shown on Exhibit A.  Among
+the three maps included with the Settlement Agreement is one labeled Exhibit B.  A
+memorandum from C.R. Walbridge & Associates states that “[w]hen the settlement
+occurred, the group used this map and called it Exhibit A.”  Exhibit A (or B)
+delineates the main road segment connecting the Burke property with the “old road
+on the NW side of the arroyo,” as well as the two spurs leading to the private
+inholdings.  These maps correspond with Figure 2.3 (Alternative A, or the Preferred
+Alternative) in the El Monte EA.  BLM considered the original Ortiz ROW and the El
+Monte ROW amendment together as Alternative A.
+In short, we find no ambiguity as to the location or nature of the ROW sought
+by the Association that would justify a remand.
+174 IBLA 120
+[[page 30]]
+IBLA 2005-27, et al.
+B.  The Buckman Road Alternatives
+We have previously explained our reasons for concluding that the El Monte EA
+reflects a range of reasonable alternatives as required by section 102(2)(E) of NEPA,
+42 U.S.C. § 4332(2)(E) (2000).  The dissent faults BLM for not exercising its
+discretion to consider an additional Buckman Road alternative while acknowledging
+the inferiority of the two Buckman Road Alternatives addressed in detail in the EA
+(Alternatives E and F).
+Alternative A involves constructing 0.45 miles of new roads, and the
+rehabilitation of 4.24 miles of existing two-track roads.  The ROW would be 50 feet
+wide through most of the alignment, with a 100-foot-wide segment along 200 feet
+of the alignment where it crosses a low ridge.  The total project will disturb
+approximately 22.4 acres, with 7.4 acres of new roadway impacts.
+Alternative E involves building and improving 7.04 miles of 24-foot-wide dirt
+roads across BLM lands.  Segment 11 would consist of a new road built across broken
+and rough terrain and would require a 100-foot-wide ROW to accommodate road
+cuts.  The total ROW would be 7.04 miles, including 0.75 miles of new road
+construction, and 6.33 miles of rehabilitated existing road.  Alternative E would
+further require construction of a new bridge with 6,250 square feet of bridge deck
+and a 5-foot clearance under the bridge cross Calabasa Arroyo within Segment 10.20 
+Alternative E would involve 37.8 acres of new construction disturbance, with
+11.3 acres of new roadway impacts.
+Alternative F, the other Buckman Road alternative that was considered,
+would involve building and improving 5.66 miles of 24-foot-wide dirt roads across
+BLM lands.  Segments 11 and 12 would again require new roads across broken
+terrain, requiring a 100-foot-wide ROW to accommodate wider road cuts.  This
+alternative would involve dam stabilization and floodplain crossing for safety
+considerations at Segment 12.  Under this alternative, neither the Walker parcel nor
+the Ortiz parcel would have direct access from BLM land.  This alternative would
+also require construction of a new bridge with 6,250 square feet of bridge deck and a
+5-foot clearance under the bridge across Calabasa Arroyo within Segment 10.
+Alternative A involves the recontouring of an existing two-track road,
+involving only one hill where a 100-foot-wide ROW is needed in Segment 1 at the
+south end, and the construction of a bridge across Calabasa Arroyo.  By contrast,
+Alternatives E and F would require recontouring on six and seven hills, respectively,
+to address safety and stabilization problems.  Alternative F would have the greatest 
+                                          
+20  See supra note 18 and accompanying text.
+174 IBLA 121
+[[page 31]]
+IBLA 2005-27, et al.
+impact to arroyos, affecting 26, including two main-stem arroyos that cross the road
+along Segment 9.
+Table 2.2 of the El Monte EA provides a summary comparison of the effects
+of each alternative.  The projected cost of upgrading the existing road under
+Alternative A is $990,996.00.  By contrast, the anticipated cost of implementing
+Alternative E, including the cost of building a new bridge across Calabasa Arroyo and
+building the new road across the rough terrain in Segment 11, is $2,675,132.00.  The
+cost of implementing Alternative F would be $2,497,624.00, including the cost of
+building the bridge across Calabasa Arroyo, dam stabilization and floodplain crossing
+in Segment 12, and the cost of building the new road across Segment 11.  The new
+bridge would have to meet FEMA Zone A flood zone requirements.  See EA at 56.
+The long-term level of use under Alternative A or the Buckman Road
+Alternatives depends upon the number of residences built on the private lands if the
+private properties are subdivided.  EA at 83.  The increase under either Alternative
+will be the same.  The EA uses as models an 11-lot minimum on the private lands,
+and a maximum of 128 lots based on subdivision of the private property into 12.5
+acre parcels.  Both Buckman Road and Horcado Ranch Road are classified as sub-
+collector roads based on the existing and potential houses that could be served by the
+roads.  EA at 84-85.  Increased traffic under either Alternative A or the Buckman
+Road Alternatives will impact the residents along either Road.  The density of
+development will take place regardless of means of access.
+We are convinced that Alternative A involves less disturbance and far less
+expense than either of the Buckman Road Alternatives.  The EA supports BLM’s
+decision to reject the Buckman Road Alternatives in favor of the Alternative A.
+The EA, on pages 10-11, discusses two additional Buckman Road alternatives
+that were considered but eliminated from further evaluation.  The first would have
+required construction of 3.33 to 3.72 miles of new road over heavily dissected and
+easily eroded terrain, and would involve 2.62 miles of new road to reach the same
+access points as Alternatives E and F.  BLM was right to eliminate this alternative
+from further study.  The second alternative that was eliminated from further
+evaluation involved following an existing utility and road ROW used by PNM Gas
+Services of New Mexico.  Presumably this is the ROW that leads directly to
+Section 16, which is owned by the La Luz Group.  This alternative would require
+the owners of the La Luz property to grant ROWs across its property to the Walkers,
+the Ortizes, and Zannie Hoyt.  It is this alternative that the dissent concludes should
+have been considered in detail by BLM.
+There are two short answers to why BLM rejected further study of the PNM
+ROW:  (1) This is not the ROW that El Monte applied for; and (2) This ROW would 
+174 IBLA 122
+[[page 32]]
+IBLA 2005-27, et al.
+not meet the stated need, i.e., to provide access to privately owned inholdings. 
+Further, this ROW would not have settled the quiet title litigation, since it does not
+address the consequences of the Burkes having closed access across Horcado Ranch
+Road.  Given the existing condition and use of Horcado Ranch Road, BLM will have
+to restrict or close the affected public lands.  There is a serious question as to whether
+BLM has the authority to take such action, given the historic and current use of the
+Horcado Ranch Road.  Any such action raises the litany of issues that faced the Board
+in Bear River Development Company, 157 IBLA 37 (2002), and that are resolved by
+granting the El Monte ROW.  Moreover, it is clear that limiting access to the PNM
+ROW would have required the construction of many miles of new roads, rather than
+the 0.45 miles of new road construction under Alternative A.
+ C.  Development of the Private Property
+The dissent appears to recognize that predicting the level of future
+development of the private property is speculative, but then suggests that the EA
+should have been more specific about the impacts of that development.  This
+quandary forms the basis for the Board’s decision in Howard B. Keck, Jr., supra.  We
+reject the argument that the Association was required to prepare a development plan
+to address a fictional worse-case-development scenario argued by the appellants.  Nor
+was BLM required to analyze the impacts of such development.  As we stated in Keck: 
+Here, however, BLM cannot reasonably forecast the impact of any
+particular development of the public land since such development is
+dependent on a multitude of factors (many of which cannot be
+predicted), particularly the financial fortunes and business judgments
+of Travertine.  No plans have been drawn up.  Nor is there any evidence
+that any are being formulated.
+124 IBLA at 50.  In this case, there was only an intent to sell the land at some future
+date for development.  There was no developer and no plan of development filed
+with the County.
+The ROWs, as granted, do not support the development feared by the
+appellants and the dissent.  Appellants assert that development of the private land
+will result in a total of 1,476 houses, and traffic on the order of over 15,734 vehicle
+trips per day.  SOR at 9.  They then state that the Development Code provides that
+when lots exceed 200 and daily trips exceed 2,000, the access road must be a
+minimum of 66 feet wide and have from 2 to 4 driving lanes, and that when daily
+trips exceed 5,000, the access road (then a major arterial road or highway), must be
+a minimum of 100 feet wide and have from 2 to 6 driving lanes.  Thus, in evaluating
+appellants’ argument, we see that development at the level they fear is not permitted
+under the Development Code.  The ROW as approved will not accommodate 
+174 IBLA 123
+[[page 33]]
+IBLA 2005-27, et al.
+development at that level.  The development asserted by appellants would require a
+new ROW grant to widen the road, in addition to approval by the County under the
+Development Code.  This leaves us with the question of how much analysis is enough
+in a matter that is by definition speculative.  BLM chose as its model subdividing the
+private property into 12.5 acre lots, consistent with its grant of an ROW of 50 feet
+wide.  BLM then analyzed the impacts of development at that level.  This was an
+eminently reasonable approach.
+VII.  CONCLUSION
+This case began with a dispute over access to private lands that then escalated
+into a quiet title action to which BLM was a party.  The litigation was resolved, with
+BLM agreeing to grant ROWs generally along a route agreed to by all of the parties to
+the settlement, subject to 43 C.F.R. Part 2800.  Although there may have been
+aspirations by the ROW applicants to develop their private lands (or, more likely, to
+sell the lands as developable properties) in the future, no specific plans had been filed
+with Santa Fe County at the time of their applications.21  As a result, BLM described
+the purpose and need of the project accurately, i.e., to provide legal access to private
+lands.  The NEPA process conducted by BLM involved initial contacts with Santa Fe
+County, a public scoping meeting, a public NEPA process meeting, circulation of the
+EA to interested members of the public with a request for comments, and responses
+to those comments.  BLM’s description of the project clearly did not mislead the
+public, considering a significant number of comments during the scoping process and
+in the EA itself dealt with possible future development.  As a result of this extensive
+public process, the EA addressed, to the extent possible, indirect effects of reasonably
+foreseeable development of the private property.  More specific plans for
+development or subdivision on the private property would be evaluated, regulated,
+and ultimately approved or rejected by Santa Fe County.  We are hard-pressed to
+determine what more BLM could have done.
+We, therefore, conclude that the Field Office Manager, in his September 2004
+FONSI/DR, properly authorized the construction, operation, and maintenance of
+access roads and utility lines across public lands to the Association’s private lands in
+Santa Fe County, New Mexico.
+                                           
+21  There were no plans for years after the applications were submitted.  The
+2006 Sales Notice confirms that Ortiz and Garcia/Hoyt did not intend to develop
+their properties, electing instead to market them.  Even appellants admit that as of
+November 2006, there was no viable plan of residential development by Ortiz and
+Garcia/Hoyt filed with Santa Fe County. 
+174 IBLA 124
+[[page 34]]
+IBLA 2005-27, et al.
+To the extent not addressed herein, all other assertions of error in the Field
+Office Manager’s September 2004 FONSI/DR are rejected as contrary to the facts and
+law, or immaterial.
+Accordingly, pursuant to the authority delegated to the Board of Land Appeals
+by the Secretary of the Interior, 43 C.F.R. § 4.1, Hoyt’s motion to dismiss the appeals
+for lack of standing is denied and the decision appealed from is affirmed.
+           /s/                                          
+James F. Roberts
+Administrative Judge
+I concur:
+          /s/                                        
+H. Barry Holt
+Chief Administrative Judge
+          /s/                                         
+Bruce R. Harris
+Deputy Chief Administrative Judge
+           /s/                                         
+James K. Jackson
+Administrative Judge
+174 IBLA 125
+[[page 35]]
+IBLA 2005-27, et al.
+          /s/                                           
+Christina S. Kalavritinos
+Administrative Judge
+           /s/                                           
+R. Bryan McDaniel
+Administrative Judge
+174 IBLA 126
+[[page 36]]
+IBLA 2005-27, et al.
+ADMINISTRATIVE JUDGE HEMMER, DISSENTING:
+I agree that BLM has broad discretion to grant or deny an ROW application. 
+And, as an administrative body deciding for the Secretary, this Board may adopt
+additional information contained in the full record of an appeal beyond that
+considered by BLM to cure perceived deficiencies in its analysis.  In re Lick Gulch, 
+72 IBLA 261, 273 n.6, 90 I.D. 189, 196 n.6 (1983).  But, where BLM has failed to
+comply with the statutory obligations of NEPA section 102(2) or FLPMA section
+501(b), and deficiencies are not corrected by material that can be found in the
+record, the Board must remand the matter for BLM to supply what is missing.  I
+would set aside and remand for that purpose here.  I agree that it would be futile and
+wasteful to remand solely to add “more detail” into a bulky record.  Majority Opinion
+(Maj.) at 32.  I do not seek a threshold of detail weighty enough to prove that BLM
+considered many things; to the contrary, this EA is already weighted down with
+details regarding implausible alternatives the law did not require BLM to consider.  I
+would require record facts necessary to show that BLM adhered to requirements of
+the two statutes it was implementing in rendering its decision.1  
+I find three legal defects.  First, the Association never submitted a complete
+ROW application for the proposed project.  The majority explains how what it
+construes to be the application “came about.”  Maj. at 96 n.1, 120.  I am aware of no
+case where this Board has constructed a final ROW application under FLPMA out of
+documents filed at random times which, in part, pre-date even the existence of the
+applicant Association.  Even so, in lieu of a missing record element I would accept a
+set of incomplete documents if, together, those documents comprised a complete
+ROW application.  The partial applications in the record do not; they fail, together or
+separately, to “disclose those plans, contracts, agreements or other information
+reasonably related to the use, or intended use, of the [ROW] . . . ,” as required by
+FLPMA, 43 U.S.C. § 1761(b) (2000).  This gap leads to our different positions.  The
+majority reads the application as one for ROWs to four private parcels, assuming
+development of the parcels is speculative and unforeseeable.  As I read it, the record
+shows that the applicants’ purpose in obtaining road ROWs large enough for collector
+roads to a subdivision was to fulfill plans to sell land in the northwest sector of Santa
+Fe for residential development.  An application disclosing “plans, contracts,
+agreements or other information reasonably related to the use, or intended use” of
+the ROW, id., would have avoided any confusion and this dispute.
+Second, BLM failed to consider, for alternative access to the private lands, a
+pre-existing route and utility ROW (NM-97059), sufficiently under Hoyt’s control that
+she granted use of it to PNM for utilities.  BLM presents no legal justification for 
+                                           
+1  I do not restate the citations and quotations from law, regulation, and precedent,
+which are accurately presented in the majority opinion.  I also adopt its acronyms.
+174 IBLA 127
+[[page 37]]
+IBLA 2005-27, et al.
+failing to consider, for roads, that part of the ROW route already granted across
+public lands and used as a road.  Two maps attached to this dissent, taken from the
+EA, depict the problem.  Figure 2.3 Alternative A shows relevant land sections and
+roads, and ROWs chosen by BLM.  Figure 2.7 Alternative E shows an alternative
+considered and rejected by BLM.  BLM considered lengthy and costly Segment 10 as
+alternative access to the “La Luz Group” parcel from Buckman Road, instead of the
+shorter “Existing Utility ROW/Road” to the north from Buckman Road to sec. 16.  An
+existing ROW should have been an alternative considered by BLM.2 
+Finally, BLM refused to consider the indirect impacts of the proposed action on
+neighboring lands to the south, through which hundreds of drivers are projected to
+travel daily.  The EA considered as a connected action development of the Association
+lands into 128 houses on 12.5-acre lots, acknowledging that 704 daily vehicle trips
+through residential subdivisions to the south would result.  But when residents of
+those developments asked BLM to address indirect impacts on them in the EA, BLM
+refused to do so, stating that, although 128 new residences would be a “connected
+action,” residential development was speculative.  This conclusion is unsupportable.3
+The challenged decision authorized (a) utility lines within the pre-existing
+road and utility ROW 97059 from Buckman Road across public lands to the west of
+the private inholdings; (b) ROW NM-95859 for new roads from Horcado Ranch
+Road, crossing public lands to the east; and (c) construction of roads 24 feet wide in
+a 50-foot roadbase across the ROW for roads.  Appellants contend that the decision
+regarding roads was preordained and that BLM failed to entertain plausible
+alternatives outside those defined in the Settlement Agreement among the Burkes,
+Garcias, and BLM.  Santa Fe County appears as amicus curiae claiming inadequate
+consultation and lack of notification of decisionmaking that will control County
+infrastructure.  Zannie Hoyt (also in the record with first name Suzanne and
+surnames Weil and Garcia), is a member of the Association and intervened in support 
+                                           
+2  I do not object to the majority’s comparison of Alternative A to Alternatives E and
+F.  Maj. at 121-22.  I agree that Alternatives E and F are inferior environmentally,
+technologically, or economically.  Under NEPA, therefore, they need not have been
+considered.  The failure to consider an alternative plainly feasible because it already
+exists as a BLM-granted ROW, and could have reduced the needed mileage of the
+ROW, is the basis for my conclusion that BLM’s alternatives analysis violates NEPA.
+3  I do not quarrel with the majority’s refusal either to expand consideration of direct
+impacts on the public lands or to require BLM to consider effects of a potential
+increase in houses on the Association lands, based on 2.5-acre lots or water access. 
+Appellants’ speculation that lot size would be reduced and housing would be
+increased is refuted by the Association’s plans, clearly articulated in this record, to
+sell their inholdings to developers for large-lot-size, high-end residential development
+and by the EA’s focus on tax consequences to the County of such high-end housing.
+174 IBLA 128
+[[page 38]]
+IBLA 2005-27, et al.
+of the decision.  BLM mostly adopts Hoyt’s brief.  BLM Response at 11.  On 
+November 20, 2006, appellants submitted an internet Sales Notice advertising the
+sale of Association lands as a “Santa Fe Land Empire.”  
+This case is unequivocally about development of Santa Fe County.  Members
+of the Association plan to sell private lands in the northwest sector of the County to
+real estate developers complete with fully approved ROWs across public lands for
+roads sufficient to serve large-lot residential development, so as to maximize use of
+private lands that can be sold for high-end housing.  Appellants hope to protect the
+same public land from development impacts.  I have no opinion about what should
+happen in the northwest sector; the only question before us is whether, when BLM
+granted the ROWs, it implemented the law correctly.
+BACKGROUND
+Northwest Santa Fe County Development.  Development of the northwest sector
+of Santa Fe County began in the mid-1970s, beginning with the 1975 sale of land by
+Suzanne and Bob Weil for “La Tierra.”  “La Tierra Nueva followed in 1980 and the
+first phases of Tierra de Oro and Salva Tierra in subsequent years.  All were designed
+and marketed by Zannie Garcia and Bob Weil, who operated as La Tierra Ltd.”  
+AR 203, “Santa Fe Northwest Sector Plan,” March 1997, at 13.4  Between 1987 and
+1991, a Phoenix company combined the final subdivision phases into “Las
+Campañas,” a golf, spa, tennis, and equestrian residential development comprising
+1,717 lots.  Id.  The median value of homes in the sector is $512,800, triple the
+County median of $169,100.  EA at 109.  
+In 2000, SNAC proposed to designate an ACEC in the northwest sector.  
+AR 192, Jan. 21, 2000, ACEC Recommendation, Figures 1, 2 (maps).  In 2001, BLM
+denied an application submitted by PNM for a pipeline ROW within proposed ACEC
+boundaries.  Feb. 28, 2001, Decision entitled “Application Rejected,” PNM Gas
+Services, Aug. 1, 2005, Appellants’ Reply Ex. C.  It explained that the proposed
+pipeline was “in an area of high public interest,” based on SNAC’s 1997 Santa Fe
+Northwest Sector Plan, and that the Taos Field Office (TAFO) was preparing to
+designate an ACEC where public lands would “remain undeveloped and in the public
+domain.”  Id.  BLM suggested PNM substitute a nearby pipeline route, asserting that
+PNM did not “gain entitlement to a particular right-of-way because alternative access
+may be difficult or expensive.”  Id. at 2, citing Kirk Brown, 151 IBLA 225 (1999).
+                                           
+4  The Santa Fe Comprehensive Extraterritorial Plan, Aug. 3, 1988, directed SNAC to
+prepare this Sector Plan.  SNAC submitted it to the County Board of Commissioners
+on Apr. 30, 1997.  Zannie Garcia was a SNAC Member Executive and Delegate, who
+provided editing and maps and “recorded the history of early ranching and land
+development in the sector” for the Sector Plan.  AR 203 at 33, 36. 
+174 IBLA 129
+[[page 39]]
+IBLA 2005-27, et al.
+Association Lands.  The 1,678.82 acres to which the Association seeks utility
+service and road access represent four landlocked parcels of private land surrounded
+by public land.  The inholdings are 9.7 miles northwest of Santa Fe; west of the
+Tesuque Pueblo; and north and northwest of the Las Campañas, La Tierra Nueva, and
+La Tierra residential developments.  Los Dos subdivision lies north of La Tierra.  See
+Fig. 2.1, attached.  Hoyt owns the southern 398.82 acres of sec. 2 (the 399-acre
+parcel).  Section 10 (640 acres), southwest of and cornering sec. 2, is held by Paul
+Ortiz (north half) and Lillian Ortiz Walker (south half).  The La Luz Group LLC, owns
+sec. 15 (640 acres) south of and abutting sec. 10.  See maps.  Hoyt and her family
+also own adjacent and nearby private lands.  Sec. 16, abutting sec. 15 to the west,
+was put in trust for her heirs as the “Suzanne Hoyt Garcia Trust.”  This is the land
+which ROW 97059 connects to Buckman Road.  Hoyt also owns a smaller private
+180-acre inholding in sec. 17.  AR 37.  Hoyt controls the 2,050-acre “Santa Fe
+Ranch,” and the Ortiz family controls the 1,600-acre “Ortiz Ranch,” all near Buckman
+Road.  AR 174, August 2003 “The Buckman Roadway Study for the Buckman Water
+Diversion Project,” prepared by Tierra, LopezGarcia Group, at III-4 and 5, Table IV. 
+Identification of the Ranches is not possible from the EA, which does not address
+Association members’ total ownership in the northwest sector.  See AR 192, Figure 2. 
+For years, owners grazed the lands.  At least the Garcias accessed their lands
+by two-track roads that connected to Santa Fe through the nearby Horcado Ranch. 
+The Association members’ interest in finding access routes to the private inholdings in
+order to sell the inholdings for residential development spans a decade.  In 1996,
+Hoyt expressed interest in an ROW to lands for which “some subdivision is planned.”
+AR 128.  On November 12, 2001, the Association created a “Plan of Development for
+Access Roads to Four Properties” (POD), which stated a plan to sell the lands to a
+residential developer after acquiring ROW access, with grazing being maintained
+until the sale.  AR 173, Sec. 1.B (current use is grazing; planned use is residential)
+and Sec. 1.G (four owners use land for livestock, plan is to sell lots which purchasers
+may then subdivide).  In an April 28, 2006, letter to BLM, Gloria Ortiz reported that
+the La Luz Group was marketing its property and “trying to get our property
+subdivided.”  May 25, 2006, BLM filing.5  The families offer the lands for sale in a 
+                                           
+5  The EA states:  “The project area encompasses 1,600 acres in the northwest part of
+Santa Fe County.  Currently there are 11 property owners who own a total of 11 lots,
+eight of them contiguous parcels held by members of one family.”  EA at 118.  The
+EA implies that 11 lots would be improved once the ROW is approved.  Id. at 84.  The
+“project area” is the public lands considered for ROWs surrounding the 1,678.82 acres
+of private lands.  The “11 lots” are elusive; no map identifies them.  The record states
+that the 11 lots are owned by the four members of the Association and 7 Hoyt
+children (AR 173 Sec. 1.G; EA at 3), but also that they are owned by Walker, Ortiz,
+(continued...)
+174 IBLA 130
+[[page 40]]
+IBLA 2005-27, et al.
+unit including Association lands and the sec. 16 parcel which ROW 97059 connects
+to Buckman Road.  The Sales Notice, “Santa Fe Land Empire,” shows that the ROWs
+permit the Association to market unencumbered private lands to developers with pre-
+existing access.  The families offer to sell together secs. 15 (part of the land to which
+the Association seeks access) and 16 (Hoyt Tract accessed by ROW 97059).  See Sales
+Notice, Nov. 13, 2006, www.santafelandempire.com, attached to Appellants’ Nov. 20,
+2006, Response to Ex Parte Communication.  The “Ortiz, La Luz Tract,” sec. 15, is
+offered at $8,320,000, or $13,000/acre; the “Hoyt Tract,” sec. 16, is offered at
+$6,400,000, or $10,000/acre.  The EA values sec. 15 at $500/acre and sec. 16 at
+$8,600/acre.  EA at 109.  The Sales Notice asserts that “there are 180 and 400 acre
+tracts that could be purchased with” the Hoyt tract.  These must be Hoyt’s isolated
+parcel in sec. 17 and her 399-acre tract in sec. 2.  See EA at 5, Fig. 2.2.  “[O]ne more
+section could be added” which “would, in effect, be all the private land in this part of
+the County and would leave you with a private in-holding, surrounded by
+government lands.”  Sales Notice at 2.  This section must be the Ortiz and Walker 
+sec. 10.  The Sales Notice advises purchasers that County subdivision requirements
+apply, that the “families are very aware of development avenues” and will not “allow
+the land to be further encumbered,” and that “these tracts are virtually all quite
+useable land.”  Id.  The Sales Notice advises purchasers that 10- to 15- acre lots in
+nearby La Tierra “can top $400,000 to $500,000 and homes are commensurate, with
+$4,000,000 to $5,000,000 being the top echelon.”  EA at 110 (based on median
+house value, aggregate value of houses to be built on Association inholdings could
+reach $65,638,400 on 128 lots).  
+Access to the Inholdings.  Buckman Road, running northwest/southeast through
+secs. 20 and 17 west of the “Hoyt Tract” in sec. 16 is closest to the inholdings, and is
+“an unpaved County maintained, rural road.”  AR 174, “Buckman Roadway Study for
+Buckman Water Diversion Project” at I-1.  A road runs 1,500 meters from Buckman
+Road through secs. 20 and 21 along ROW 97059 to Hoyt land in sec. 16.6  It is the
+shortest distance and the only pre-existing ROW between a road to Santa Fe and any
+part of the private inholding block.  See maps.  The 2006 Sales Notice advertises
+Buckman Road as the route to the Hoyt Tract, and states that it will become an all-
+weather road.  By October 5, 2004, letter, Hoyt, acting as trustee for the Suzanne
+Hoyt Garcia Trust, agreed to provide utility service across the ROW to Association
+members.  File NM-109922 contains an application for the utility ROW to Association
+lands.  AR 298.  The cover letter asserts that Hoyt owns the sec. 16 parcel.  Id.
+                                           
+5 (...continued)
+Hoyt, and 8 members of La Luz Group.  AR 173 Attachment Recitals.  The majority
+opinion cites both options.  Maj. at 97 n.2.  The POD refutes any suggestion that the
+land is expected to be divided into 11 lots for use by current owners.  AR 173.
+6  The Suzanne Hoyt Garcia Trust submitted application NM-97059 in June 1997, for
+a road and utility ROW to secs. 16 and 17.  AR 168.  BLM approved it July 8, 1997.
+174 IBLA 131
+[[page 41]]
+IBLA 2005-27, et al.
+To the east, the closest road is Estrada Calabasa West, formerly Horcado
+Ranch Road.  This road dead-ends at Mariah Ranch.  See attached maps.  This road,
+running to the north through secs. 24 and 13 and/or between the La Tierra Nuevo
+and La Tierra subdivisions, at its closest point, is approximately 1.3 miles east of the
+La Luz Group lands in sec. 15 and 2 miles from each of secs. 10 (Ortiz/Walker) and 2
+(Hoyt).  Both Buckman Road and Estrada Calabasa West (Horcado Ranch Road)
+connect with Santa Fe from Camino la Tierra off of Route 599.  See attached maps. 
+They diverge at a junction in Las Campañas, where Paseo de la Tierra heads north
+and then northwest, becoming Estrada Calabasa West.  See EA Figure 2.1.7
+On April 19, 1996, Anthony Ortiz submitted an ROW application for a 
+1.5-mile access road from Horcado Ranch Road across BLM lands to sec. 15, later
+identified as owned by the La Luz Group.  The application does not specify a location
+for the ROW.  See ROW File 95859 and AR 126-27, AR 173 (POD).  In Lawrence J.
+and Gabrielle Burke v. U.S. Dept. of the Interior; BLM; Board of County Commissioners,
+County of Santa Fe, Eloy and Suzanne H. Garcia, Civ. 98-01110 (D. N.M.), the Burkes
+sued the Garcias, BLM, and the County to quiet title to the route over the Mariah
+Ranch that the Garcias had used for access to the 399-acre (Hoyt) parcel in sec. 2.  By
+letter dated March 14, 2000, BLM proposed to Zannie Garcia that she, Paul and
+Anthony Ortiz, and the Walkers meet to discuss ROW issues.
+On April 3, 2000, the Garcias, Burkes, and BLM (but not the County) entered
+into a Settlement Agreement.  The parties agreed that BLM would “grant the Garcia
+and the Ortiz family [‘Susanita Ortiz, La Luz Group LLC, Paul Ortiz, Lillian Ortiz
+Walker, and Charles A. Walker’] Rights-of-Way over the public lands West of the
+Burkes’ property, along the route shown in Exhibit ‘A’ attached hereto, in order to
+obtain access to lands owned by the Garcias in Section 2 . . . and to the Ortiz family
+Property.”  Settlement Agreement at ¶¶ 1, 3, 4.  The parties agreed to an access route
+to the Garcias’ land, as depicted in Exhibit A, from which “spurs” would lead to lands
+owned by non-parties in secs. 10 and 15.  Id. at ¶ 5.  As the Majority notes, there is
+confusion over Exhibit A, which never appeared in the EA, and seems actually to be
+labeled Exhibit “B.”  See AR 173, POD (map); AR 116, Apr. 22, 2002, memorandum
+from Clif Walbridge to BLM; AR 287, Oct. 29, 2004, letter post-dating the FONSI/DR
+from Assistant U.S. Attorney Zavitz to U.S. District Court attaching Ex. B (“should be
+Exhibit ‘A’”).  This map approximates ROW Alternative A and includes a principal
+winding road across BLM land between Horcado Ranch Road in sec. 13, running
+through secs. 11, 12, and 14, to Hoyt’s land at the corner of secs. 1 and 2.  Spurs lead
+across sec. 11 to the Ortiz/Walker parcel in sec. 10, and across sec. 14 to the La Luz 
+                                           
+7  SWCA added a new and corrected Fig. 2.1 (EA at 4) in front of EA text, to identify
+subdivisions through which residents would travel to get to the road ROWs, after
+public complaint.  E.g., AR 245, e-mail regarding EA from Stanley E. Logan (asserting
+that EA concealed that ROWs would funnel traffic through residential development). 
+174 IBLA 132
+[[page 42]]
+IBLA 2005-27, et al.
+Group parcel in sec. 15.  The routes cover over 4 miles of public land.  The “Ortiz
+family” was not party to the suit or settlement.  The Garcias committed to “request
+and encourage” the Ortiz family to relinquish any claim for access across the Mariah
+Ranch.  EA Appendix C, Settlement Agreement (absent Ex. A or B) ¶ 4.  
+The Burkes agreed to pay for the design and construction of a 1,200-foot
+segment of the road running south of the Ranch from Horcado Ranch Road.  AR 287;
+see attached Figure 2.3 Alternative A (Segment 1); AR 173, POD Attachment (Ex. B)
+(points L1, L14-15).  It would have a driving surface 22 feet wide and meet
+“minimum Santa Fe County standards.”  EA Appendix C, Settlement Agreement at 
+¶ 5.a.  The Garcias agreed to pay for the cost and design of the main roadway to 
+sec. 2, and took responsibility for “all environmental clearance documentation for the
+main right of way” and “BLM’s direct administrative costs in accordance with 43 CFR
+Part 2800” (rules governing FLPMA ROWs).  Id. at ¶ 3.  The private landowners
+formed the Association; the La Luz Group, Paul Ortiz, and Lillian Walker agreed to
+share costs for spurs to secs. 10 and 15.  AR 101, Joint Road Maintenance
+Declaration at 4, with May 5, 2003, cover letter to BLM. 
+The Application and EA.  The record contains 2-3 faxed pages of an undated
+application under the names Suzanne Garcia and Lillian Walker for 2.5 miles of road,
+with a 50-foot ROW in the “Horcado Ranch area.”  AR 117.  If any specification for
+the ROW, its location, or routes was provided, it was in attachments not in the
+record.  A copy of this appears as POD Attachment 1.  AR 173.  A November 28,
+2001, letter from Hal Knox, BLM, to Garcia documents that BLM received an
+application to amend the 1996 Ortiz application NM-95859 which appears as POD
+Attachment 2.  This letter advised Garcia that BLM would proceed to process the
+application under FLPMA and that it required an EA under NEPA. 
+Scoping Process.  BLM publicly described the proposed action as one to provide
+ROWs to four private parcels to make roads passable for the current landowners’ use
+of private parcels for rural livestock grazing.  EA at 79.  “The purpose of and need for
+the project is to establish legal access for roads and utilities to four parcels of private
+land adjacent to the project area while minimizing new disturbance.  Improvements to
+currently unimproved roads and construction of new roads will assure that they are
+passable and will address ongoing erosion problems on those roads.”  Id. at 1 (emphasis
+added); see, e.g., AR 102 and 103, Apr. 13, 2003, Public Meeting notices; AR 273, EA
+Comment Period notice; AR 296, Sept. 27, 2004, Notice of EA Availability.  BLM
+conducted public meetings on February 5 and April 17, 2003, focusing on ROW sites
+derived from the lawsuit settlement.  See AR 46, Apr. 17, 2003, Meeting Agenda;  
+Jan. 21, 2003, Scoping Notice Project Map.  Publications stated that the ROW’s
+purpose was “to re-establish access to private lands” formerly available through
+Horcado Ranch.  AR 34, EA Project Information Handout; AR 26, Newspaper Notice.
+174 IBLA 133
+[[page 43]]
+IBLA 2005-27, et al.
+The public objected to suggestions that the ROWs related to grazing.  See AR
+39, Feb. 15, 2003, article, “Los Dos Residents Fight Developers.”  Contractor Tetra
+Tech, Inc., prepared a Scoping Meeting Report, EA Appendix A, summarizing 460
+comments from 75 participants.  (A Table of Contents lists the report as comprising  
+6 topics in 39 pages, but the report ends at heading 4.2 on page 23.)  A majority of
+comments appeared under the “alternatives” heading.  Participants claimed Buckman
+Road would provide superior pre-existing access with fewer environmental impacts. 
+The La Tierra Neighborhood Association Board complained that directing traffic up
+Estrada Calabasa West would divert hundreds of vehicles through their subdivision.  
+See EA Appendix A, Scoping Meeting Report at 18; 20-23.  Others pointed out that
+the project proponents already had plans for development of the last open lands in
+the northwest sector.  AR 29, Jan. 29, 2003, Letter from HDC; see AR 32 (map). 
+Participants expressly recommended, with maps submitted to SWCA, Buckman Road
+alternatives using existing ROW 97059, employing the “existing road to Garcia” in 
+sec. 16.8  AR 37, Feb. 11, 2003, SWCA Memorandum, maps (notation “Map from
+Gabrielle Burke”).  Many participants favored use of the ROW combined with some
+internal access among the private landowners, which would reduce public lands
+needed for subdivision roads.  Eight commenters opposed an ROW crossing ACEC
+lands, apparently in omitted portions of the Report.  EA Appendix A; see, e.g., AR 43,
+letter of Thomas Blog.  Others complained about public safety from use of roads
+through existing subdivisions.  EA Appendix A; AR 41, calls from Knopfer, Drousin.  
+Project proponents spoke in favor of the project.  See AR Binder 2, “Public
+Scoping.”  It could only be Hoyt who commented, orally:  “We reached a settlement
+in court that I should get new access and I am obligated to abide by and fulfill all the
+existing federal regulations to get such a road.  I intend to do so.”  EA Appendix A,
+Scoping Meeting Report at 23.  It appears that Association members objected to
+expectations that the landowners should provide internal access among parcels,
+claiming the “Ortizes are not prepared to give each other any access on their own
+deeded land.”  Id. at 17.  The proponents objected to addressing development.  Id. 
+ROW 97059 and Indirect Effects.  BLM and SWCA subsequently contemplated
+providing access from Buckman Road along the existing Hoyt ROW to sec. 16, then
+traveling east along the southern boundary of secs. 15 and 16.  AR 12, undated 
+“El Monte Roads Map” Alternative 6, and “2003 Figure Xx” Alternative 4, “El Monte
+study area arroyo locations.”  (Oddly, AR 12 is a folder entitled “El Monte Roads Tree
+Counts.”)  BLM sought the Association’s cooperation in limiting use of public lands, 
+                                           
+8  This 2003 map indicates that Association lands were part of a planned county
+housing development, for which lots were publicly marked.  It contains handwritten
+notations:  Sec. 2 (“Zannie Garcia, marked for development”); Sec. 10 (“Walker, to
+be sold to developer”); sec. 15 (“Ortiz, to be sold to developer”); sec. 16 (“Zannie
+Garcia, Roads already, Lots marked for development”).  
+174 IBLA 134
+[[page 44]]
+IBLA 2005-27, et al.
+and also an accurate statement of environmental impacts from housing development
+expected to occur from the planned sale of the private lands.  In a May 14, 2003,
+meeting, BLM and SWCA discussed, inter alia, the road POD and the fact that the EA
+must address traffic pattern changes and “use realistic numbers for traffic increase
+based on most dense possible development.”  AR 67, May 14 Meeting notes; AR 118,
+2001 cover letter enclosing POD.  “BLM asked various members of the El Monte
+Roads Association if they would give access across their lands to other members of
+the . . . Association and access was denied so access to each private landowner has to
+be given to the landowners across BLM lands.”  Id. at 3.  On July 11, 2003, BLM
+NEPA Specialist Churchill stated that reasonable development scenarios and
+Buckman Road alternatives must be addressed.  AR 68, E-Mail from Churchill to
+Knox.  Describing a discussion with SWCA regarding anticipated development of
+12.5- to 20-acre parcels, she stated:  “the important point is that the EA includes a
+reasonable development analysis in indirect and cumulative impacts discussions.”  Id. 
+“[W]e also committed to going back out to the public to discuss the alternatives prior
+to releasing the EA for public comment. . . .”  Id.  PNM demanded to bring utilities to
+Association lands from Buckman Road accross Zannie Hoyt’s pre-existing ROW to 
+sec. 16.  PNM explained that the western Buckman Road access route was 10,000
+feet shorter than from Horcado Ranch Road, and the utilities could then cross Hoyt’s
+private lands.  AR 288, Jan. 1, 2004, E-mail of Hal Knox re “PNM meeting.”
+Project proponents objected to further public meetings, to recognizing their
+plans to sell their lands to developers, and to including the POD with the EA.  See
+Scoping Meeting Report.  In 2003, Paul Ortiz objected to the inclusion of “connected
+actions” in the EA, complaining that BLM had “absolutely no jurisdiction” over
+development of private lands and that any plans for development were “not in the
+scope” of the EA.  AR 69, Aug. 3, 2003, Comments of Paul Ortiz (¶¶ 2, 6).  He
+asserted that the Association “must have a road to the property prior to any
+development plans,” that the POD “must not be part of the EA,” and that “any plans
+of development be included somewhere else.”  Id. (¶ 2).  He objected to any more
+public meetings.  Id. (¶ 4).  Ortiz insisted on a Buckman road alternative with
+“tremendous costs and the major damage to the environment,” rather than an
+alternative that would use the existing ROW.  Id. (¶ 5).  “The Western Alternatives
+consist of 100% new roads of about 80% new roads plus a $1,000,000.00 cost for a
+bridge and improvements on smaller arroyos.”  Id. (¶ 3) [sic].9 
+                                           
+9  EA photographs and text plainly refute the assertion that eastern alternatives used
+“100% of existing roads,” in particular with respect to the La Luz tract owned by the
+Ortizes.  See, e.g., EA Figure 3.8 (segment 7, spur road to sec. 15); EA at 80.  Further,
+the 2001 POD called for “all new construction” of roads across public lands east of
+the private parcels.  AR 173, POD at 1, “location map.”
+174 IBLA 135
+[[page 45]]
+IBLA 2005-27, et al.
+In September 2003, BLM employees objected to the proponents’ approach and
+advised that BLM was considering use of the existing “two track” road from Buckman
+Road.  AR 19, Sept. 29, 2003, Chavez comments; see also AR 152, Sept. 30, 2003,
+Memorandum from TAFO Manager, BLM, to State Director, BLM.  On October 8,
+2003, BLM proposed alternatives.  A cover letter under that date appears in the
+record and describes a set of enclosed alternatives including some from Buckman
+Road.  AR 144.  The enclosure is missing.  (In an October 14, 2003, letter, Lillian
+Walker objected to alternatives.  AR 91.)  In an October 30, 2003, letter to SWCA,
+BLM’s Churchill advised SWCA that “it makes sense to consolidate road and utility
+corridors and we want sufficient information in order to examine that.”  AR 86.  BLM
+employee Gustina questioned whether Association members could refuse internal
+access to each other.  AR 17, Nov. 25, 2003, comments.  He asserted that an ROW
+from the west was a “more likely approach,” given that utilities will “come from
+Buckman Road.”  Id. 
+Given BLM’s evident misgivings, TAFO issued a Request for Solicitor’s Opinion
+Regarding Legal Access to Private Land, on January 13, 2004.  BLM provided
+background and asserted that the landowners were refusing internal access: 
+The central question BLM would like answered in this request, is
+whether the TAFO would be obligated to adhere to the proposed action
+which would be to provide per the [ROW] for separate access roads
+leading to the respective private lands owned by Paul Ortiz, Lillian
+Ortiz Walker and La Luz group?  Or as the Ortiz family lands are
+contiguous, does BLM have the discretion under FLPMA to provide for only
+one route to these lands utilizing one of the aforementioned spur roads. 
+This alternative would provide access to one or possibly two of the
+private properties but not all of them.  The owner(s) of this parcel(s)
+would then provide access across their private land(s) to the other
+members’ lands.  [Emphasis added.]
+AR 82, Request for Solicitor’s Opinion at 2.  “[G]ranting [an ROW] over only one
+spur road leading to the Ortiz properties would potentially have less impact to the
+public land than granting the [ROW] over multiple spur roads, each leading to an
+individual member’s property.”  Id. at 3.  No response appears in the record.
+The project proponents sought Congressional intervention.  E.g., AR 119, 
+Oct. 31, 2001, letter from Ortizes to Sen. Domenici, at 3; AR 92, Sept. 2003 letter
+from Ortizes to Sen. Domenici; AR 138, 277, Apr. 29, 2003, “Congressional Courtesy
+Briefing”; AR 84, Nov. 9, 2003, letter to Rep. Udall from Ortizes; see AR 85, letter
+from Rep. Udall to BLM; AR 83, BLM letter to Rep. Udall; AR 93, Oct. 17, 2003, letter
+from Sen. Domenici to BLM.  In a Congressional inquiry response, BLM discussed
+impacts on nearby communities and defended its plan to consider ROW 97059:
+174 IBLA 136
+[[page 46]]
+IBLA 2005-27, et al.
+The [February 5, 2003, scoping] meeting was conducted as an initial
+step in the development of any [EA] for the project.  The BLM’s goal
+was to inform the public of the proposed action and to initiate public
+input and participation in the EA process.  A number of key concerns
+and issues arose as part of the scoping process.  Those issues concern
+what effect the granting of [an ROW], as proposed, would have on
+neighborhoods south of the Garcia-Ortiz lands.  Access to the public
+land and Garcia and Ortiz private lands is initially off of Camino La
+Tierra and then along Santa Fe county roads to Horcado Ranch Road,
+which flanks the public land.  These roads pass through several
+communities that potentially could be impacted by the granting of [an
+ROW].  Because the private lands can be developed in the future there
+is great concern among residents of these neighborhoods that
+development will greatly increase traffic and congestion, raise security
+issues, lower land values, and generally impact their quality of life.
+In response to the issues raised by residents of these communities at the
+scoping meeting, the BLM is currently considering several routes.  One
+option, in particular, would avoid the communities lying further east.  It
+is an existing two-track road leading off of Buckman Road that crosses
+public lands and connects to the Garcia-Ortiz lands.
+AR 109, Mar. 12, 2003, letter from BLM to Sen. Domenici.
+Draft EA.  BLM issued a Draft EA for public comment (possibly in June 2004).
+No draft EA appears in the record.  I agree with and need not repeat the description
+in the Majority Opinion of the eight action alternatives and “no action” alternative
+(I), in the Final EA.  AR 275.  Action alternatives related only to route location. 
+Common to all alternatives, the EA amended Hoyt’s existing ROW 97059 extending
+new utility lines and service from Buckman Road to the Association parcels.  EA at
+11.  BLM did not consider a road alternative along that ROW.  See Figure 2.3
+Alternative A, attached.  
+Alternatives B, D, G, and H, with a single access route to secs. 10 and 15,
+proposed shorter total routes across the public lands than Alternatives A and C, which
+were permutations similar to Exhibit “B” to the Settlement Agreement.  Alternatives B
+and D posited road segment 9 along a drainage flow-way making them “technically
+undesirable.”  AR 131, May 3, 2004, Louis Berger Group alternatives cost analysis. 
+Alternatives G and H posited road segment 13 with a large concrete culvert structure
+at a major arroyo crossing, adding $80,000 to $100,000 in costs.  Id.  Alternatives A
+and C, duplicating the Settlement Agreement’s Horcado Ranch routes, posed the
+longest mileage and highest acreage use, but were less expensive or more feasible
+than eastern alternatives added in response to public demand.  See EA Table 2.1.  
+174 IBLA 137
+[[page 47]]
+IBLA 2005-27, et al.
+The two Buckman Road Alternatives E and F proposed a Segment 10 crossing
+2.83 miles of public lands south of and bypassing ROW 97059, and required an
+increase in mileage in roads to the east.  See attached Map EA Figure 2.7 Alternative
+E.  Though beginning to the west, Alternatives E and F access sec. 15 near its
+southeastern corner.  They would require a bridge across the Calabasa Arroyo costing
+$1 million.10  They propose a route up the east side of sec. 15 and then more roads
+crossing public lands in secs. 11, 14, 12, and 1 to access the Ortiz/Walker and Hoyt
+parcels.  The Buckman Road alternatives considered were not the alternatives the
+public urged, but were the lengthiest of the 8 alternatives considered, and doubled or
+tripled the cost of all other options.
+The western Buckman Road alternatives ignored any internal access among
+properties owned by the Association members or their relatives.  The EA defended its
+refusal to analyze ROW 97059 as a road alternative:  the “property in Section 16
+cannot be used as a right-of-way because it is currently owned by multiple heirs of
+Zannie Hoyt, some of them underage, and it is not possible to gain permission from
+every heir.”  EA at 1-2.  BLM also defended not considering internal access, at 10-11: 
+“This alternative is not implementable because the four members of the Association
+decided in the fall of 1999, while working on a roads maintenance agreement, that
+they would not give each other access across their holdings.”  
+The EA’s road design considered only one set of road specifications.  Wherever
+the ROW was to be located, it would be 50 feet in width and roads would have a 
+24-foot two-lane gravel roadbed “for houses that may be built on the private lands.” 
+EA at 3, 11.  The design derived from the “Santa Fe County Land Development Code”
+(Development Code) which addresses planned development.  AR 195.  Appendix 5.A
+establishes different road standards based on “Subdivision Design Standards,” which
+depend on the average daily traffic and number of lots served.  See id. at 139, sec. 8. 
+The Development Code allows “local roads” for less than 30 residences as a “lane or
+place” with a 20-foot width, designed to “discourage through traffic.”  Id. at 142, 143,
+150 n.17.  The EA never considered construction of local roads or mentioned
+specifications required by the County for non-residential access to four parcels of
+ranch lands or for access to 11 lots.11  The only roads considered in the EA would
+serve a subdivision.  The EA’s roads are “collector roads” under the Development
+Code, AR 195, Appendix 5.A, designed to serve from 60 to 199 houses generating 
+                                           
+10  BLM’s Chavez stated that a “bridge is not an option at this or any location along
+these routes for obvious cost reasons.”  AR 133, Mar. 14, 2004, Memorandum. 
+Appellants contend that “Santa Fe Public Works” has advised that “[i]n all of Santa
+Fe County no one has used a bridge to cross an arroyo.”  SOR at 19. 
+11  If the point of the ROWs was to provide access for the landowners, the number of
+units served would be 4 or 11.  This access would be a place or lane in the
+Development Code.
+174 IBLA 138
+[[page 48]]
+IBLA 2005-27, et al.
+from 601 to 1,999 vehicle trips daily.  Id. at 150.  The EA anticipates that the ROW
+may ultimately be declared “a county road,” at which time “the responsibility for
+maintenance and operations may devolve upon Santa Fe County.”  EA at 10. 
+Chapter 3 of the EA addressed direct impacts resulting from construction and
+use of the roads.  The EA addressed as “connected actions”12 and “secondary impacts”
+development of a subdivision with “12.5-acre lots or 128 households” and
+acknowledged long-term impacts on such things as water usage, visual and air
+quality, and noise.  EA at 3.2.3.14 Connected Action; see also id. at 60, 69 (long-term
+impacts if subdivisions are built); at 70-78.  Discussing “secondary impacts” common
+to all alternatives, the EA explains that increased traffic will occur with “subdivision
+of the private properties on Sections 2, 10, and 15 once legal access is acquired.”  Id.
+at 70.  “Workers would commute in to build on properties; residents would commute
+out to go to work.”  Id.  The EA described development ranging from of a minimum
+of 11 lots to 128 lots with subdivision development.  For maximum development, the
+EA projected 704 traffic trips/day, increasing weekday traffic by a factor of 59.6,
+based on the Santa Fe Model Trip Generation Standards, which averages 5.5 trips per
+day per household (5.5 x 128 = 704).  EA at 84-85; see also id. at 110 (increase in
+property value and County revenue from development); at 115 (“private lands served
+by the chosen alternative would have a maximum housing density no greater than
+that of La Tierra or Los Dos”).  The EA did not, however, describe indirect effects of
+the “connected actions” on the neighboring residential areas.
+The Final EA and FONSI/DR.  The TAFO Manager issued the FONSI/DR
+adopting Alternative A.  BLM included in the Final EA a “Comment Resolution” in
+which it addressed 279 comments contained in 30 letters.  Appendix B.  Despite
+describing development of a residential subdivision based on 12.5-acre lots as a
+“connected action,” the Comment Resolution refused to consider indirect effects of
+the connected action on lands to the south.  BLM denied that the ROWs bore any
+relation to sale of private land for development. 
+Response:  there is no proposed development associated with the project. 
+The proposal is to provide access to private land-locked lands.  There is
+no clear link between expansion in previously-approved developments and
+possible future development on the lands held by El Monte Roads
+Association members.  It would be speculative to link those actions and 
+effects.  All development will be subject to Santa Fe County approval.
+EA Appendix B at 5 (emphasis added).  Residential development “is outside the scope
+of this document.”  Id.  “At this time, with no development proposed, traffic impacts 
+                                           
+12  “Connected actions” are normally one of three types of actions to be considered in
+an EIS.  40 C.F.R. § 1508.25(a)(1).
+174 IBLA 139
+[[page 49]]
+IBLA 2005-27, et al.
+to the neighborhoods south of the applicant’s private lands are speculative.”  Id. at 6. 
+BLM changed the “maximum” action foreseeable to 11 houses built by Association
+family members; the project “could result in a maximum of 11 new residents[13]. . . . 
+If the private lands are subdivided or developed, the County planning process will
+consider impacts . . .”  Id. at 7, 10 (emphasis added); compare EA at 84-85
+(“maximum” of 128 lots).  The ROWs “will not substantially increase traffic,” because
+they will only “permit a maximum of 55 extra trips (from 11 lots),” and BLM stated,
+“[t]his level of development was judged not to be a significant impact to local
+residents.”  EA Appendix B at 10 (emphasis added).  The Comment Resolution
+contended that assessing “indirect impacts” was the responsibility of the County.  Id.  
+ANALYSIS
+BLM’s FLPMA obligation was to require a complete and accurate application
+for the ROWs sought, as well as responsive information about the intended use of the
+ROWs it was asked to grant.  Its NEPA role was to identify the proposed action, its
+impacts, and alternatives.  Despite BLM employees’ efforts to do both, it ultimately
+did neither in a way that met legal requirements.
+  
+1.  The Association Did Not Submit an Application Which Properly
+Defined the Intended Use of the Public Lands as Required by FLPMA.
+The following things are true:  the County Development Code does not require
+collector roads for access to 4 or 11 lots; the Code would not require collector roads
+for rural grazing use; the Association members did not intend to take up residence on
+their lands; and the Settlement Agreement did not mention construction of
+subdivision roads north of Mariah Ranch.  Had the intended use of the ROWs been to
+access four parcels for grazing, it would have been unnecessary to consider road
+specifications for subdivisions set out in the County Development Code.  Had the
+intended use been to access a potential residential subdivision, the County’s role in
+developing its own best infrastructure would have been obvious. 
+FLPMA section 501(b) ensures that the Secretary must require an ROW
+applicant to submit and disclose plans or information reasonably related to its use or
+intended use.  43 U.S.C. § 1761(b)(1) (2000).  The agency must know and identify
+the intended use of an ROW before it can weigh the public interest and make a 
+                                           
+13  A “maximum of 11 new residents” is an acknowledgment that none of the
+Association members currently resides on the private lands, and an assertion that the
+only foreseeable result of granting the ROWs would be residence by family members. 
+The POD refutes this, explaining that the property owners do not reside on the lands
+and that residential development will occur only after the land is sold.  AR 173 at 3.  
+174 IBLA 140
+[[page 50]]
+IBLA 2005-27, et al.
+reasoned decision whether to grant it.  See 43 C.F.R. § 2802.3(b)(3) (2004)
+(statement of need).
+The record contains no signed, dated, or accurate application, depicting the
+road ROWs applied for.  The plan to sell the lands for which access was sought was a
+clear element of the roads POD, but was never articulated in an application which, by
+law, must disclose the intended use of the requested ROW.  The application form
+requires applicants, at question 15, to provide a statement of the “need for the
+project,” the “next best alternative,” and the “expected public benefits.”  The only
+conceivable answer to these questions on the 1996 form filled out by Ortiz is “only
+access to our property.”  The undated 2001 form filled out by Garcia and Walker
+avoids answering these questions at all.14  The absence of a clear statement of need
+which embraced the intended use, or a plain answer to simple questions on the
+application form, permitted the EA’s Comment Resolution to deny the plainly
+anticipated sale for subdivision development associated with the ROWs, even when
+the EA acknowledged the sale as a connected action, and the POD explained the
+intended purpose to sell the lands to residential developers.
+BLM routinely requires an applicant to fully disclose the intended use of and
+plans for an ROW before granting the application.  We regularly affirm BLM’s denial
+of ROW applications when an applicant’s information is incomplete or erroneous. 
+Pete Zanetti, 113 IBLA 239, 241 (1990) (applicant “presented nothing with th[e]
+appeal to persuade us that the facility he seeks to construct on public land is a
+needed improvement that will benefit the public as much as it will enhance the value
+of his mobile home park.”); Farm Development Corporation, 105 IBLA 353, 356
+(1988) (“nothing in the record to indicate how any entryman has used or will use the
+roads, nor are the entrymen identified as users of any of the roads identified.”);
+Edward J. Connelly, 94 IBLA 138, 145-46 (1986) (BLM properly insisted on proof of
+access across private lands before considering access across public lands); John W.
+Barbee, 60 IBLA 81, 84 (1981) (applicant failed to supply critical data about ROW’s
+use and applications for “use should only be made after . . . plans have coalesced”).  
+The applicants here contended that their plans were private business.  While it
+may be that the project proponents did not properly understand their obligations in
+applying for ROWs, BLM should have demanded the same information in this case 
+                                           
+14  The complete response to question 15 on this application is:  “To provide access to
+land locked property, a New Mexico State University permit and BLM land.  Cost to
+be determined.  Maintenance to be provided by the Home Owners A[ss]ociation.”   I
+know of no case where we have affirmed BLM’s failure to require conformance to 
+43 C.F.R. § 2802.3 (2004) (application content).  In Southern Utah Wilderness
+Alliance, 172 IBLA 183, 185 (2007), we refused BLM’s request to correct errors in a
+BLM decision, because we do not “manage the public lands as a proxy for BLM.”
+174 IBLA 141
+[[page 51]]
+IBLA 2005-27, et al.
+that it demands in others.  What an applicant must submit with an ROW application
+should be guided by rules that are consistently applied by BLM.
+Whether a decision granting an ROW in the absence of a direct statement of
+the intended use of an ROW should be set aside may be a matter of first impression
+for this Board.  It is clear, however, that a complete ROW application with responses
+to questions on the form, or even just a statement in the application of plans or
+agreements reasonably related to the intended use of the ROW under FLPMA would
+have avoided the battles in this appeal.  The Association members are already using
+two-tracks to access their lands for grazing.  A need for an ROW across public lands
+to get there is evident, but the need to improve them into the size of collector roads
+necessary to serve a large-sized-lot development (50-foot wide with a 24-foot driving
+surface) is inconsistent with the EA Comment Resolution’s denial of any “link”
+between the ROW and residential development.  From the time of the 2001 POD, the
+proponents’ purpose has been to take grazing land and sell it for residential
+development at a level of 60-199 houses, thus requiring collector roads.  Moreover,
+the EA asserts that the “revenue base available to Santa Fe County would increase
+with the level of subdivision in the landlocked properties,” and the “beneficial impact
+to the county property tax revenue base, based on value per acre, could be
+$30,400,000.00 if legal access is gained and the property is developed.”  EA at 110. 
+BLM provides no basis for denying this information at the decision point. 
+BLM’s decision will only lead to later conflict over the ROW’s actual use.  Any
+use of an ROW beyond the scope and specific limitations of the authorization is
+prohibited.  43 C.F.R. § 2801.3(a) (2004); see Southwest Wireless Networks, 167 IBLA
+327, 344 (2006); Tom Watson, 154 IBLA 140, 146 (2001) (rejecting ROW holder’s
+claim that ROW allows uses not applied for or addressed by BLM).  I agree with the
+Majority that it is in no one’s interest for us to doom the parties to continued debate. 
+See, e.g., Bear River Development Corporation, 157 IBLA 37 (2002).  I would therefore
+not leave any issue open as to whether the ROWs could provide access to hundreds of
+residents, a question of critical importance to the Association members and their
+purchasers, and to their neighbors to the south. 
+The simple answer is to require a complete application which complies with
+the plain terms of FLPMA section 501(b) and its implementing rules, with plain
+answers to application form questions.  At a minimum, to the extent this Board
+constructs an application from documents in the record, the entire POD, and not just
+portions of it, should be considered an element of a complete application.  This
+would include the proponents’ stated intentions never to reside on the lands, but to
+sell them once access across public lands sufficient for subdivisions was acquired. 
+Either way, NEPA analysis, public response, and County involvement obviously would
+have followed and BLM would have been forced to resolve under FLPMA and NEPA
+how development is both a connected action and yet unforeseeable in the same EA.
+174 IBLA 142
+[[page 52]]
+IBLA 2005-27, et al.
+II. BLM Should Have Addressed an Environmentally Superior
+Alternative Using ROW 97059 and Internal Access. 
+There is no dispute that alternatives to a proposed action must be considered
+in an EA.  40 C.F.R. §§ 1508.9(b), 1501.2(c); see also 516 DM 3.4(A).  The agency
+must “identify and assess the reasonable alternatives to proposed actions that will
+avoid or minimize adverse effects . . . .”  40 C.F.R. § 1500.2(e).  Alternatives “must
+accomplish the intended purpose of the proposed action, be technically and
+economically feasible, and have a lesser impact than the proposed project.”  Bales
+Ranch, Inc., 151 IBLA 353, 363 (2000).  “Project alternatives derive from [a] ‘Purpose
+and need’ section . . . [which] dictates the range of ‘reasonable alternatives’ and an
+agency cannot define its objectives in unreasonably narrow terms.”  Carmel-By-The-
+Sea v. U.S. Dept. Of Transportation, 123 F.3d 1142, 1155 (9th Cir. 1997).  
+It is in the alternatives analysis that the lack of a full application explaining the
+intended use of the ROW becomes critical.15  Alternatives for family members to
+access 4-11 parcels would, presumably, be different from those that would best serve
+as access to lands marked for subdivision development.  Accuracy on this point would
+govern the County’s interest in the outcome as well.  The EA did not consider the
+County’s or the public’s interest.  Rather, the EA preparers did not intend to include
+alternatives because the Settlement Agreement established pre-chosen routes.  When
+the public demanded the alternatives analysis that NEPA requires, the EA preparers
+devised environmentally, technologically, and economically inferior routes to
+consider, without deference to the best infrastructure as the County might identify it.
+I see several problems with the alternatives analysis.  The alternatives added
+were inferior choices as a matter of economic and technical feasibility, and increased
+impacts to the public lands, thus failing the legal test for upholding them:  (a) they
+will “avoid or minimize adverse effects,” 40 C.F.R. § 1500.2(e); and (b) they are
+“technically and economically feasible.”  Bales Ranch, Inc., 151 IBLA at 363.  Despite
+a simple option to use existing ROW 97059 and avoid the Calabasas Arroyo, the only
+Buckman Road alternatives (E and F) propounded and addressed in the EA required
+a prohibitive $1 million bridge.  Finally, BLM did not address, under either test,
+alternatives that would best serve County infrastructure needs, an issue that BLM was
+necessarily deciding. 
+Alternatives analysis does not allow a project proponent to develop options so
+onerous that the only possible outcome is to choose its preference.  At least as to the
+Buckman Road alternatives in the EA, this was the point.  E.g., AR 69, Ortiz 
+                                          
+15  As noted above, the ROW application form question 15 required the applicants to
+provide the “next best alternative.”  Ortiz denied the existence of any alternative in
+1996, and Garcia and Walker failed to answer that question at all.
+174 IBLA 143
+[[page 53]]
+IBLA 2005-27, et al.
+comments.  I might give no weight to these comments if I could see a single reason,
+other than to make Buckman Road alternatives cost-prohibitive, why the Calabasas
+Arroyo Bridge options were added and a shorter, cheaper, pre-existing route along an
+existing ROW (used by PNM) was ignored.  But I cannot.  This should be “fatal” to
+the EA.  State of Wyoming Game & Fish Commission, 91 IBLA 364, 369 (1986). 
+I have factual and legal problems with the EA’s explanation for BLM’s failure
+to consider use of pre-existing ROW 97059 for a road.  The EA cites two reasons
+entirely within the control of the project proponents, and unrelated to the purpose of
+NEPA:  (1) Hoyt denied that she could obtain legal authority from her heirs in sec. 16
+to allow use of the ROW; and (2) the project proponents entered into an agreement
+refusing access to each other across their private lands, to force all access onto public
+lands and thereby shift the burden thereof to the public.  But the point of NEPA
+alternatives analysis is a “fully informed” decision comparing effects of technically or
+economically feasible options; it is not properly a vehicle for project proponents to
+wrest administrative control of the use of public lands from the Secretary.
+Hoyt’s assertion that use of ROW 97059 is not possible because she cannot
+compel or persuade her underage heirs to agree to allow it is repudiated by the fact
+that she did just that to allow utility access across that ROW by PNM.  AR 168, 298. 
+Either she misstated information about her heirs, or she exercised authority she did
+not have.  Likewise, the Sales Notice indicates that the “Hoyt Tract” in sec. 16 is for
+sale with the remaining inholdings; clearly someone has authorized sale of those 
+lands.  If it is another representative of the heirs, Hoyt’s authority is irrelevant.
+As a legal matter, I would not excuse BLM’s obligation to comply with NEPA
+section 102(2)(E), 42 U.S.C. § 4332(2)(E) (2000), based on private agreements
+among applicants seeking an ROW for use of the public lands.  The project
+proponents agreed among themselves to refuse each other access to avoid obvious
+alternatives reducing public land use.  Such agreements cannot be interposed to
+deflect NEPA’s requirements with respect to alternatives analysis in a way that forces
+BLM to ignore environmentally superior alternatives.  I believe we have generally
+resolved this issue in rulings that, when BLM must provide access to inholdings, the
+choice of access may not be controlled by the landowner where other options are
+available.  D.J. Laughlin, 154 IBLA 159, 165 (2001), cited in Ronald Malone, 173 IBLA
+332 (2008); Kirk Brown, 151 IBLA 221, 228 (1999); Edward J. Connelly, 94 IBLA at
+145-46; see also Union Telephone Company Inc., 173 IBLA 313 (2008).  To the extent
+the issue of BLM’s obligation to provide use of public land to uncooperative private
+parties has not been fully resolved by this Board, I would resolve it now and rule
+against the project proponents.  I would reject a principle establishing that ROW
+applicants, clearly acting in concert relative to use and disposal of their properties,
+can agree among themselves to orchestrate an outcome that delivers use of the public
+land of their choosing for their own benefit.  I would remand this case.
+174 IBLA 144
+[[page 54]]
+IBLA 2005-27, et al.
+This is also my answer to the Majority’s complaint that the BLM need not
+consider ROW 97059 because “[t]his is not the ROW that El Monte applied for.”  Maj.
+at 122.  That may be a FLPMA answer, but it is not an answer under NEPA.  Under
+NEPA, BLM is obligated to consider alternatives that are technologically,
+environmentally, and economically superior.  ROW 97059 is unequivocally such a
+possibility and BLM cannot dispense with such an obvious option merely because the
+applicants apply for access elsewhere.  Under NEPA law, “all reasonable alternatives
+must be considered (North Slope Borough v. Andrus, 486 F.Supp. 326, 330 (D.D.C.
+1979)), and obvious alternatives may not be ignored (California v. Bergland, 483
+F.Supp. 465, 488 (E.D. Cal. 1980)).”  State of Wyoming Game & Fish Commission, 91
+IBLA at 369.  This does not mean BLM has to adopt the ROW 97059 alternative; it
+has discretion to grant whatever ROWs it believes are proper under the
+circumstances.  But for its decision to be “fully informed,” obvious alternatives must
+be considered.   
+Nor does the Settlement Agreement change this conclusion.  The Burkes and
+Garcias were parties.  BLM signed the agreement; the County and the other
+proponents did not.  The Settlement Agreement fully acknowledged that compliance
+with NEPA and FLPMA was required.  In the face of claims that the EA was drafted to
+justify routes established in the Settlement Agreement, the EA responded that the
+settlement was “not binding on BLM.”  EA Appendix B at 8.  I query whether, under
+the Attorney General’s Settlement Guidelines, the Department of Justice would have
+entered into an agreement that would circumvent BLM’s discretion under or
+obligation to implement either statute.  BLM did not contend that the Settlement
+Agreement allowed it to ignore a NEPA obligation to consider alternatives; otherwise,
+it would not have considered 8 of them.  Once BLM acted on NEPA’s requirement to
+consider alternatives, it was required to consider reasonable and obvious ones such as
+a road using ROW 97059.  
+I disagree with the Majority that, should BLM consider ROW 97059, it “will
+have to restrict or close the affected public lands” due to the Burkes’ closure of
+Horcado Ranch Road.  Maj. at 123.  This strikes me as a non-issue.  I do not know the
+combination of routes from the west and east that actually could have minimized,
+rather than maximized, impacts on the public lands because BLM did not consider
+such an alternative.  Noting that the Settlement Agreement purported to resolve
+issues for non-parties to it, I have no basis for concluding what pre-litigation access
+was actually used by the project proponents other than the Garcias.  Even in its
+Request for Solicitor’s Opinion, TAFO sought authority to limit, to one, the number of
+eastern spurs, not to foreclose eastern access.  AR 82 at 2-3.16  I would leave those
+                                          
+16  Thus, I also disagree with the majority (at 123) that use of the PNM ROW would
+necessarily require “many miles of new roads.”  TAFO did not believe this was the
+(continued...)
+174 IBLA 145
+[[page 55]]
+IBLA 2005-27, et al.
+issues for BLM to decide in the first instance.17  I would not excuse BLM’s obligation
+to consider obvious alternatives under NEPA because it might raise a “serious
+question” regarding Horcado Ranch Road.  It seems to me that such questions are
+already sufficiently joined.18 
+III. The EA Should Have Considered Indirect Impacts of the Action on
+Neighboring Developments to the South.
+The only way for future residents of the Association lands (the intended
+market for the “connected action”) to get there, other than by helicopter, is by driving
+from Santa Fe through the residential subdivisions to the south.  These subdivisions
+are described as semi-rural, but high-end, large-lot, new developments.  When
+residents there pointed out that their own roads are not sufficient to meet County
+standards (as set forth in the Development Plan) for handling the additional 704
+daily traffic trips from the connected action, stated that their own Infrastructure is
+not sufficient to meet additional needs for police, fire and medical care, and asked
+BLM to describe the indirect effects of the development to the north on themselves,
+BLM refused.  The Comment Resolution, at 7-10, denied any BLM obligation to
+address indirect impacts (contending that doing so would be the County’s job) on
+grounds that residential development is not “linked” with granting the ROWs and is
+entirely speculative.  BLM must employ the same development parameters that it 
+                                           
+16 (...continued)
+case when it recommended to the Solicitor “a single spur road” to the east, in the
+Horcado Ranch Road area.  Id. at 3. 
+17  As noted above, in 2000, TAFO denied a PNM request for an ROW across the same
+public lands based on stated plans to establish an ACEC there.  BLM must act
+consistently and consider ways to minimize impacts on lands it had previously
+endeavored to protect.  Westar Energy, Inc., v. Federal Energy Regulatory Commission,
+473 F.3d 1239, 1241 (D.C. Cir. 2007) (agencies must treat like cases alike).  While
+appellant’s claims may be a NIMBY issue, as the majority contends, consistency in
+actions taken by a single agency is not.  
+18  Appellants contend that the Horcado Ranch Road runs through private lands
+owned by Ed and Donna Klopfer, and that SNIC owns an ROW for Horcado Ranch
+Road.  SOR at 19.  The Klopfers claim that Hoyt “insisted” that the road be “legally
+declared private” in 1991, that they have never given easements to the Ortizes, and
+that they would not willingly grant easements for subdivision development.  AR 247,
+July 4, 2004, Klopfer comments; AR 260, Klopfer phone call; AR 27, Nov. 7, 2003,
+E-Mail to Nancy Kastning, SWCA.  According to the POD, the road may be an
+R.S. 2477 public highway.  AR 173 at 2.  In response to comments, the EA notes: 
+“Members of the El Monte Roads Association have a ‘prescriptive easement’ over the
+Klopfer . . . portion[] of Horcado Ranch Road.”  EA Appendix B at 7. 
+174 IBLA 146
+[[page 56]]
+IBLA 2005-27, et al.
+used in its connected actions analysis, which it already assumed was not speculative. 
+In fact, reviewing the EA’s description of the number of houses in subdivisions to the
+south, along with the map of them at Figure 2.1, and the Development Code
+Appendix 5.A, the residents to the south may be correct in surmising that residential
+development of the Association lands will ultimately compel expansion of roads to
+the south to meet County Development Code standards.  I cannot determine this
+from the record, but BLM can do so with knowledge plainly in its possession.  As a
+matter of NEPA law and foreseeability, it is BLM’s (not the County’s) obligation to
+consider indirect effects in its EAs.  I would require BLM to analyze indirect effects of
+the “connected actions” on public lands to the north, as they can readily be expected
+to be felt on the subdivisions to the south.
+This does not mean an ROW would not ultimately be granted.  Addressing its
+effects would have included indirect effects of traffic on neighboring landowners, not
+just direct impacts in the form of traffic on private/public lands to the north.  But
+acknowledging indirect impacts would not be a major undertaking. The majority
+misconstrues my dissent when it presumes that I would expect an EA, in these
+circumstances, to consider fully direct impacts of subdivision development that will
+occur in the future, as in Howard B. Keck, Jr., 124 IBLA at 44.  My point is only that
+CEQ rules require consideration of indirect impacts “caused by the action . . . later in
+time or farther removed in distance” that are reasonably foreseeable.  40 C.F.R. 
+§ 1508.8(b).  The EA did not do this, and the Comment Resolution refused to do so. 
+Conclusion
+BLM easily ascertained what it should have done to comply with the law.  BLM
+employees sought to address publicly the project proponents’ plans to sell their
+inholdings for anticipated residential development.  BLM employees sought to devise
+and consider alternatives that would “avoid or minimize adverse effects” from
+Buckman Road following the same ROW allowed PNM for its utilities.  BLM
+employees sought a clear statement of indirect effects.  BLM employees obviously did
+not anticipate that performing such tasks would be seriously difficult, burdensome, or
+time-consuming.  What has consumed so much time is that they ultimately did not
+persevere.  I would remand this matter to BLM to require an application fully
+compliant with FLPMA, consider a realistic alternative utilizing the ROW corridor
+Hoyt and her heirs have already been granted, and identify, for those residents to the
+south who will bear the brunt of the infrastructure changes resulting from the 
+174 IBLA 147
+[[page 57]]
+IBLA 2005-27, et al.
+Association’s sale of private parcels for residential development, indirect impacts that
+will occur. 
+          /s/                                                
+Lisa Hemmer
+Administrative Judge
+I concur:
+          /s/                                           
+Sara B. Greenberg
+Administrative Judge
+I concur:
+           /s/                                          
+Geoffrey Heath
+Administrative Judge
+I concur:
+           /s/                                         
+T. Britt Price
+Administrative Judge
+174 IBLA 145
+[[page 58]]
+IBLA 2005-27, et al.
+ Figure 2.1 . Overview of Project area.
+174 IBLA 149
+
+[[page 59]]
+IBLA 2005-27, et al.
+Figure 2.3. Alternative A.
+174 IBLA 150
+
+[[page 60]]
+IBLA 2005-27, et al.
+ 
+174 IBLA 151

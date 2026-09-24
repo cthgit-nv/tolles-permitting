@@ -1,0 +1,109 @@
+SOURCE: https://www.blm.gov/policy/pim-2018-023 RETRIEVED: 2026-09-24
+[BLM Permanent Instruction Memorandum No. 2018-023, Sept. 10, 2018, full text as posted]
+PIM 2018-023
+Permanent Instruction Memorandum
+UNITED STATES DEPARTMENT OF THE INTERIOR
+BUREAU OF LAND MANAGEMENT
+WASHINGTON, D.C. 20240
+http://www.blm.gov
+September 10, 2018
+In Reply Refer To:
+1610 (210) P  
+EMS TRANMISSION 09/14/2018
+Permanent Instruction Memorandum No. 2018-023
+To:                   All Assistant Directors, State Directors, and Center Directors
+From:               Assistant Director, Resources and Planning
+Subject:           Analysis of Connected Actions under the National Environmental Policy Act (NEPA)
+Program Area:
+ All Programs.
+Purpose:
+ This instruction memorandum (IM) transmits guidance on the analysis of connected actions in NEPA documents.
+Administrative or Mission Related:  
+Mission.
+Policy/Action:
+ The Bureau of Land Management (BLM) NEPA Handbook (H-1790-1) is under revision.  Until the complete revision is published, the following text amends the existing handbook to clarify the definition and consideration of connected actions, consistent with current case law.
+The following paragraphs revise BLM NEPA Handbook (H-1790-1) Section 6.5.2.1 (page numbers 45-48):
+Connected actions are those proposed Federal actions that are “closely related” and “should be discussed” in the same NEPA document (40 CFR 1508.25 (a)(1)). Proposed actions are connected if they automatically trigger other actions that may require an environmental impact statement; cannot or will not proceed unless other actions are taken previously or simultaneously; or if the actions are interdependent parts of a larger action and depend upon the larger action for their justification (40 CFR 1508.25 (a)(1)). Connected actions are limited to Federal actions that are currently proposed (ripe for decision). Actions that are not yet proposed are not connected actions but may need to be analyzed in the cumulative effects analysis if they are reasonably foreseeable.
+If the connected action is also a proposed BLM action, we recommend that you include both actions as aspects of a broader “proposal” (40 CFR 1508.23), analyzed in a single NEPA document. You may either construct an integrated purpose and need statement for both your proposed action and the connected action, or you may present separate purpose and need statements for your proposed action and the connected action. Regardless of the structure of the purpose and need statement(s), you must develop alternatives and mitigation measures for both actions (40 CFR 1508.25(b)), and analyze the direct, indirect, and cumulative effects of both actions (40 CFR 1508.25(c)).
+For example:
+The BLM proposes prescribed burning to attain desired vegetation characteristics. The BLM also proposes subsequent seeding of the same site to contribute to attaining those same desired vegetation characteristics, which is a connected action. We recommend that you include the prescribed burning and seeding as aspects of a broader proposal, analyzed in a single NEPA document.
+If the connected action is an action proposed by another Federal agency, you may include both actions as aspects of a broader proposal analyzed in a single NEPA document, as described above. In making the determination to include both actions in a single NEPA document, evaluate whether a single NEPA document would improve the quality of analysis and efficiency of the NEPA process and provide a stronger basis for decision-making. Also, consider the timing of the other agency action and the capabilities of the other agency to act as a cooperating agency or joint lead agency (see sections
+ 12.1 
+Cooperating Agency Status in Development of NEPA Documents 
+and 
+12.2 
+Joint Lead Agencies in Development of NEPA Documents
+).
+For example:
+The BLM proposes constructing a trail to provide recreation access to BLM-managed lands from a campground the Forest Service proposes to construct on adjacent Forest Service lands. The Forest Service campground construction is a connected action. You and the Forest Service may elect to include the BLM trail construction and the Forest Service campground construction as aspects of a broader proposal, analyzed in a single NEPA document, either as joint lead agencies, or with one agency as lead and the other as cooperating
+.
+If you do not include the connected action with your proposed action as aspects of a broader proposal analyzed in a single NEPA document, a separate NEPA document would need to be prepared for the connected action.  It may be useful to incorporate by reference portions of the NEPA document for the connected action, if available, into the NEPA document for the proposed action.  At a minimum, you must demonstrate that you have considered the connected action in the NEPA document for the proposed action (40 CFR 1508.25). That is, you must describe the connected action and its relationship to the proposed action, including the extent to which BLM decision-making on the proposed action may prevent or modify the connected action and its effects.
+The NEPA process is focused on agency decision-making (40 CFR 1500.1(c), 40 CFR 1508.18, 40 CFR 1508.23).  Therefore, a non-Federal action, even if “closely related” to a proposed BLM action, will not be a connected action pursuant to the Council on Environmental Quality regulations, because connected actions are limited to Federal actions.  Rather, if the non-Federal action or its effects can be prevented or modified by BLM decision-making, then the effects of the non-Federal action are properly considered indirect effects of the BLM action and must be analyzed as effects of the BLM action (40 CFR 1508.7, 40 CFR 1508.25(c)) (see section
+ 6.8.2, 
+Direct and Indirect Effects
+). Effects of the non-Federal action that cannot be prevented or modified by BLM decision-making may still need to be analyzed in the cumulative effects analysis for the BLM action, if they have a cumulative effect together with the effects of the BLM action (see section
+ 6.8.3 
+Cumulative Effects
+).
+The following paragraphs revise BLM NEPA Handbook (H-1790-1) Section 7.3 on page number 73:
+Note that connected and cumulative actions are limited to Federal actions (see sections 
+6.5.2.1, 
+Connected Actions
+and
+ 6.5.2.2, 
+Cumulative Actions
+). Nevertheless, the effects of non-Federal actions may be indirect effects of the BLM proposed action if the other action and its effects can be prevented or modified by BLM decision-making on the proposed action (see section
+ 6.8.2, 
+Direct and Indirect Effects
+). If the effects of another action are properly considered an indirect effect of the BLM proposed action, the effects of the other action must be counted towards the significance of the BLM proposed action. For example:
+The BLM receives a right-of-way request for access for timber harvest on adjacent private land. Even though the timber harvest and the right-of-way request are interdependent parts, the timber harvest on private land would not be a connected action, because connected actions are limited to Federal actions (see section
+ 6.5.2.1, Connected Actions
+). Whether you count the effects of the timber harvest in determining the significance of the right-of-way grant would depend on whether the effects of the timber harvest could be prevented or modified by BLM decision-making (see section 
+6.5.2.1, Connected Actions
+). In this example, that determination would likely depend on whether the private party has other reasonable access for timber harvest (see section 
+6.6.3, Alternatives Considered but Eliminated from Detailed Analysis 
+for discussion of “reasonable”).
+Alternatively, effects of non-Federal actions that cannot be prevented or modified by BLM decision-making on the proposed action may still need to be analyzed in the cumulative effects analysis for the BLM action (see section 
+6.8.3, 
+Cumulative Effects
+).
+The following paragraph revises the definition for connected action in the Glossary (page number 130) of the BLM NEPA Handbook (H-1790-1):
+connected action-
+those proposed Federal actions that are “closely related” and “should be discussed” in the same NEPA document (40 CFR 1508.25 (a)(1)). Proposed actions are connected if they automatically trigger other actions that may require an environmental impact statement; cannot or will not proceed unless other actions are taken previously or simultaneously; or if the actions are interdependent parts of a larger action and depend upon the larger action for their justification (40 CFR 1508.25 (a)(1)). Connected actions are limited to Federal actions that are currently proposed (ripe for decision). Actions that are not yet proposed are not connected actions, but may need to be analyzed in the cumulative effects analysis if they are reasonably foreseeable.
+Budget Impact:
+ None.
+Background:
+ The BLM NEPA Handbook (H-1790-1) guides compliance with the NEPA, the Council on Environmental Quality’s and the Department of the Interior’s NEPA regulations (40 CFR Parts 1500-1508 and 43 CFR 46), and the Department of the Interior Departmental Manual Part 516 Chapter 11. The handbook is under revision to aid analysis and clarify the BLM’s policies and procedures relating to its compliance with the NEPA. This IM is intended to clarify the BLM’s policy relating to connected actions under the NEPA and to align that policy with recent federal case law about the scope of connected actions, pending publication of the full revision to the handbook.
+[1]
+Pages of Manual/ Handbook Sections Affected:
+ The BLM Handbook H-1790-1 (Rel. 1-1710) of 2008 is under revision.  This IM amends page numbers 45-48, 73, and 130 pending publication of the full revision.
+Instruction Memorandums Affected:
+ None.
+Coordination:
+ This IM was coordinated with all Washington Office Directorates and with the Office of the Solicitor.
+Contact:
+ For further information, please contact Anthony Bobo, Acting Chief, Division of Decision Support, Planning and NEPA, (202) 912-7282.
+ 
+Signed by:                                                       Authenticated by:
+Kristin Bail                                                      Robert M. Williams
+Assistant Director                                           Division of IT Business Resources,WO-850
+Resources and Planning
+ 
+1 Attachment
+     1 - Redline of Revisions (5 pp)
+[1]
+ 
+See, e.g.
+, 
+Big Bend Conservation Alliance v. FERC
+, 2018 WL 3431729, *4 (D.C. Cir. 2018) (“The connected-actions doctrine does not require the aggregation of federal and non-federal actions”); 
+Sierra Club v. U.S. Army Corps of Eng’rs
+, 803 F.3d 31, 49–50 (D.C. Cir. 2015)
+ (“The point of the connected actions doctrine is to prevent the government from segmenting its own federal actions into separate projects . . . thereby failing to address the true scope and impact of the activities that should be under consideration”) (internal quotations omitted); 
+Sierra Club v. BLM
+, 786 F.3d 1219 (9th Cir. 2015) (upholding the BLM’s determination that a wind energy project sited on private land and a BLM right-of-way authorization to access that project are not “connected actions” under NEPA).
+ 
+View All Policies
+Attachments
+PIM2018-023_att1.pdf
+(PDF / 316 KB)

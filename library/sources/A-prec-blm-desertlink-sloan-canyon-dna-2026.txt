@@ -1,0 +1,676 @@
+SOURCE: https://eplanning.blm.gov/Project-Home/?id=9691df34-a05e-f111-bec6-001dd8084607 RETRIEVED: 2026-09-24
+[BLM National NEPA Register project page, Project Information section]
+Project Information 
+NEPA Number
+DOI-BLM-NV-S010-2026-0068-DNA
+Project Name
+DesertLink - Sloan Canyon 500kV Loop-in
+Project Type
+DNA
+NEPA Status
+Completed - Completed
+Lead Office
+Las Vegas Field Office
+Last Updated
+08/13/2026 - 12:00 AM
+Project Description
+DesertLink, LLC has applied for a right-of-way (ROW) to construct, operate, and maintain the Sloan Canyon 500 kV Loop Project, which includes both permanent and temporary disturbances. The project involves the installation of 12 self-supporting steel pole structures, the construction of approximately 1 mile of new permanent access roads, and approximately one half (0.5) mile of temporary access roads. The Project is designed to interconnect the expanded Sloan Canyon Substation with the existing Harry Allen–Eldorado 500 kV transmission line. In total, the Project will cause 5.7 acres of permanent disturbance and 37.1 acres of temporary disturbance on public and private lands in Clark County, Nevada, within a Designated Utility Corridor. More details can be found in Table 1 below.
+Project Location
+City
+State/Territory
+Zip Code
+County(ies)
+Boulder City
+Nevada
+89005
+Clark
+Application Information
+Applicant
+DesertLink, LLC
+Case File Number
+NVNV105885659 (N-86359)
+Program
+Lands and Realty
+Sub-Program
+Rights-of-Way
+Project Dates
+Start Date
+5/20/2026
+Decision Date
+5/22/2026
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /ebfb4bec-8c54-f111-bec6-001dd804183b/Documents/DOI-BLM-NV-S010-2026-0068-DNA_updated_508.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction, first 30000 characters]
+
+[[page 1]]
+ 
+ 
+ 
+ 
+ 
+ 
+Determination of NEPA Adequacy  
+DOI-BLM-NV-S010-2026-0068-DNA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DesertLink - Sloan Canyon 500kV Loop -in 
+DesertLink LLC  
+N-86359 
+ 
+ 
+ 
+ 
+ 
+PREPARING OFFICE 
+U.S. Department of the Interior 
+Bureau of Land Management 
+4701 N. Torrey Pines Drive 
+Las Vegas, Nevada 89130 
+702-515-5000  
+  Las Vegas Field Office 
+Determination of NEPA Adequacy  
+ 
+
+[[page 2]]
+DOI-BLM-NV-S010-2026-0068-DNA  2 
+UNITED STATES DEPARTMENT OF THE INTERIOR 
+Bureau of Land Management 
+Las Vegas Field Office/Pahrump Field Office 
+4701 N Torrey Pines Drive 
+Las Vegas, NV 89130 
+ 
+DETERMINATION OF NEPA ADEQUACY WORKSHEET 
+DOI-BLM-NV-S010-2026-0068-DNA 
+ 
+Proposed Action Title/Type: DesertLink - Sloan Canyon 500kV Loop-in 
+Lease/Serial/Case File No (if any): NVNV105885659 (N-86359)  
+Location of Proposed Action:  
+Mount Diablo Meridian, Nevada 
+T. 24 S., R. 62 E.,  
+  sec. 24, SE1/4NE1/4SW1/4, and S1/2SW1/4; 
+  sec. 25, NW1/4, and E1/2SW1/4; 
+  sec. 26, SE1/4NE1/4; 
+  sec. 36, NW1/4NE1/4NW1/4 
+Applicant: DesertLink, LLC 
+ 
+A.  DESCRIPTION OF THE PROPOSED ACTION 
+DesertLink, LLC has applied for a right-of-way (ROW) to construct, operate, and maintain the 
+Sloan Canyon 500 kV Loop Project, which includes both permanent and temporary disturbances. 
+The project involves the installation of 12 self-supporting steel pole structures, the construction 
+of approximately 1 mile of new permanent access roads, and approximately one half (0.5) mile 
+of temporary access roads. The Project is designed to interconnect the expanded Sloan Canyon 
+Substation with the existing Harry Allen–Eldorado 500 kV transmission line. In total, the Project 
+will cause 5.7 acres of permanent disturbance and 37.1 acres of temporary disturbance on public 
+and private lands in Clark County, Nevada, within a Designated Utility Corridor. More details 
+can be found in Table 1 below.  
+Additionally, prior to the commencement of construction, geotechnical borings will be 
+completed on Boulder City owned property. A total of 2 borings will be completed on Boulder 
+City owned lands. Borings will drilled up to 70 feet deep. More details can be found in Table 2 
+and the access section below. 
+ 
+[[page 3]]
+DOI-BLM-NV-S010-2026-0068-DNA  3 
+Table 1 – Detailed Disturbance Breakdown 
+Project Component Facility Type Dimensions 
+(feet) 
+Number of 
+Each 
+Permanent 
+Disturbance 
+(acres) 
+Temporary 
+Disturbance 
+(acres)  
+Temporary Work 
+Areas 
+Guard Structure 55'x175' 2  0.4  
+Laydown Yard 200'x400' 3  6.5  
+Pullsite 200'x600' 8  16.6  
+Structure Work 
+Areas 200'x200' 9  
+13.6 
+ 
+Access Roads 
+New Permanent 0.7 miles x 
+24’ 0.7 miles 2  
+ 
+Temporary* N/A 0.38 miles  
+ 
+ 
+Permanent Structure 
+Pads 
+2PDC-DE-SS 100'x100' 2 0.5  
+ 
+3PDE 100'x100' 6 1.4  
+ 
+4PDE 200'x100' 4 1.8  
+ 
+Subtotal (acres) 5.7 37.1  
+*Temporary access roads are not included in the total acreage disturbance, due to all instances occurring 
+within temporary structure work area. The project will have approximately 0.38 miles of temporary 
+access roads.  
+ 
+Table 2 – Geotechnical Boring Disturbance Breakdown 
+Project 
+Component 
+Facility 
+Type 
+Dimensions 
+(feet) 
+Number 
+of Each 
+Permanent 
+Disturbance 
+(acres) 
+Temporary 
+Disturbance 
+(acres) 
+ 
+Temporary 
+Work Areas 
+Temporary 
+Work Pad 100x100 3   0.69  
+Access Roads Temporary N/A 0.402 
+miles   1.17  
+Subtotal (acres) 0 1.86*  
+*This disturbance falls within the temporary or permanent disturbance already outlined for the 
+project, and as such is not considered additional for the purposes of the disturbance calculation 
+ 
+[[page 4]]
+DOI-BLM-NV-S010-2026-0068-DNA  4 
+Access: 
+Access to the Project site is via U.S. Highway 95, exiting west on Eldorado Valley Drive, paved 
+roads near the Sloan Canyon Substation, transitioning to an unpaved road that leads directly to 
+the project area.  These roads will be used throughout the construction phase and for subsequent 
+operation and maintenance. No road widening of existing assets is expected as part of 
+maintenance activities.  Approximately 1 mile of new access will be established to support 
+construction, operation, and maintenance of the loop-in project and approximately one half (0.5) 
+mile of temporary access will be used to support construction. The standard design for access 
+roads, in general, shall be twenty-four (24) feet wide, which will include a 20-foot drivable 
+surface and a 2-foot berm or ditch on either side. 
+For geotechnical evaluations, overland access will be used to reach the boring locations. This 
+overland access will be drive-and-crush with a 24 foot wide drivable area used for disturbance 
+calculations. This will be for approximately 0.4 miles total, as shown in Table 2.  
+Construction: 
+Construction is expected to occur in phases to accommodate existing utility outage restrictions.  
+The line will cross multiple high-voltage lines in the utility corridor.  Initial construction is 
+scheduled to begin in Q3 2026 and conclude in Q4 2027, with long durations of no activity. The 
+total construction period will span approximately 12 - 16 months and will likely occur in phases 
+due to utility outage sequence requirements. The construction workforce is expected to average 
+15 to 25 personnel, with peak numbers reaching up to 40. Daily construction activities will occur 
+6 days per week, 10–12 hours per day, with potential for night shifts in extreme heat conditions. 
+If noxious weeds are found prior to construction, a BLM approved herbicide will be used if 
+necessary.  
+During construction, staging areas will occur on the previously outlined temporary disturbance 
+areas, or at one of the designated laydown yards. 
+The equipment required for construction is similar to that used to construct the existing Harry 
+Allen – Eldorado Transmission Line, including pick-up trucks, motor graders, dozers, rollers, 
+excavators, front loaders, pier foundation augers, cranes, bucket trucks, trenching machines, 
+helicopters, concrete trucks, water trucks, and pull and tension machines.  
+Construction sequence: 
+• Site survey and staking 
+• Sensitive biological species clearance 
+• Grading and excavation 
+• Structure foundation installation 
+• Structure assembly and erection 
+[[page 5]]
+DOI-BLM-NV-S010-2026-0068-DNA  5 
+• Line stringing and tensioning 
+• Cleanup and reclamation 
+Waste: 
+All construction-related waste will be managed per federal, state, and local regulations. Waste 
+materials, including concrete washout, packaging, used equipment, and trash, will be stored in 
+covered dumpsters and transported to approved disposal facilities. No open burning will occur. 
+Spill response and stormwater pollution prevention plans will be implemented. Portable toilets 
+will be used and serviced regularly. 
+Reclamation: 
+Reclamation will occur upon construction completion and will include regrading, topsoil 
+redistribution, and reseeding with a BLM-approved, weed-free seed mix. Vegetation removed 
+during construction may be reused as mulch. Temporary disturbance areas will be restored to 
+approximate adjacent conditions to support vegetation regrowth. 
+Maintenance and Operation: 
+DesertLink will perform or contract with an experienced utility company to operate and maintain 
+the facilities.  For example, NV Energy currently operates and maintains the Harry Allen to 
+Eldorado Line. Maintenance activities will include routine inspections (via vehicles or drones), 
+component replacements, and road upkeep within the authorized ROW. Equipment that may be 
+used includes backhoes, graders, utility trucks, cranes, water trucks, and specialized electrical 
+tools. All O&M activities will remain within the authorized ROW. 
+This Determination of NEPA Adequacy is being updated to reflect updates to the Existing NEPA 
+Best Management Practices (Appendix B), specifically further refinement for those applicable 
+Best Management Practices based on consultation conclusions and updates. 
+B.  LAND USE PLAN (LUP) CONFORMANCE 
+LUP Name: Las Vegas Resource Management Plan Date Approved: October 1998 
+The Project is in conformance with the applicable LUP because the emphasis of the Las Vegas 
+Resource Management Plan (RMP), October 1998 is to protect unique habitats for threatened, 
+endangered, and special status species while providing areas for community growth, recreation, 
+mineral exploration and development, and other resource uses. The specific objectives and 
+management directions that allow for the Project can be found in Appendix A of the 1998 Las 
+Vegas RMP Record of Decision. 
+See Land Use Authorizations Objectives (page 18) and Rights-of-Way Management Objectives 
+(page 19): 
+“LD-2. All public lands within the planning area, unless otherwise classified, segregated 
+or withdrawn, and with the exception of Areas of Critical Environmental Concern and 
+Wilderness Study Areas, are available at the discretion of the agency, for land use leases 
+and permits under Section 302 of Federal Land Policy and Management Act and for 
+airport leases under the authority of the Act of May 24, 1928, amended.”  
+[[page 6]]
+DOI-BLM-NV-S010-2026-0068-DNA  6 
+Management Direction: 
+“RW-l. Meet public demand and reduce impacts to sensitive resources by providing an 
+orderly system of development for transportation, including legal access to private 
+inholdings, communications, flood control, major utility transmission lines, and related 
+facilities.”  
+C.  NEPA AND OTHER RELATED DOCUMENTS 
+Multiple NEPA documents analyze substantially the same or similar actions as proposed in the 
+Project: 
+Programmatic Environmental Assessment for Eldorado Valley Transmission and Utility 
+Corridor (DOI-BLM-NV-S010-2012-0024-EA)       Date Approved: November 23, 2012 
+A copy of this document can be found on the BLM National NEPA Register at:  
+https://eplanning.blm.gov/Project-Home/?id=e67d9f83-a7f2-f011-8407-001dd803d7d3 
+Biological Opinion: Southern Nevada District’s Programmatic Biological Opinion 
+(08ENVS00-2019F-0153/ 2022-0027339-S7-001) 
+A copy of this document can be found on the U.S. Fish and Wildlife Service website at: 
+https://ecos.fws.gov/tails/pub/document/15398105 
+D.  NEPA ADEQUACY CRITERIA 
+1. Is the new Project a feature of, or substantially the same as an alternative analyzed in 
+the existing environmental document(s)?  
+Yes, the Project is substantially similar the same as an alternative analyzed in DOI-BLM-
+NV-S010-2012-0024-EA. The existing NEPA analyzed a programmatic approach to 
+development of the utility corridors within Eldorado Valley, and one of the uses analyzed 
+included transmission lines similar to the Proposed Action.  
+2. Is the Project within the same analysis area, or if the location of the proposed action is 
+different, are the geographic and resource conditions sufficiently similar to those 
+analyzed in the existing environmental document(s)? If there are differences, can you 
+explain why they are not substantial? 
+Yes, the Project is within the same analysis area as what has been previously analyzed in 
+DOI-BLM-NV-S010-2012-0024-EA The Project area for the Proposed Action overlaps 
+with the analysis of the existing NEPA. Resource conditions described in Chapter 3 of 
+the EA are sufficiently similar to those of the Project, based on resource surveys 
+performed in support of the current Project and the absence of new environmental 
+concerns or resource values since the existing NEPA was finalized. 
+3. Is the range of alternatives analyzed in the existing environmental document(s) 
+appropriate with respect to the new proposed action, given current environmental 
+concerns and resource values? 
+Yes, the range of alternatives analyzed in Chapter 2 of the existing NEPA is appropriate 
+with respect to the proposed Project.  
+[[page 7]]
+DOI-BLM-NV-S010-2026-0068-DNA  7 
+The proposed Project area is located among numerous existing high voltage transmission 
+lines in a designated utility corridor for which analysis was provided for in the existing 
+NEPA. Engineering standards governing the crossing of existing transmission facilities 
+limits the ability to consider technically viable alternative locations for the current 
+Project. However, due to the location and no environmental concerns or resource values 
+beyond those already analyzed in the existing NEPA documents necessitate evaluation of 
+additional Project alternatives.  
+4. Is existing analysis valid considering any new information or circumstances relevant to 
+the proposed action (such as, rangeland health standards assessment, recent 
+endangered species listings, updated list of BLM sensitive species)?  Can you reasonably 
+conclude that new information and new circumstances do not warrant substantial 
+change to the analysis of the new proposed action? 
+Yes, the existing analysis is valid considering current information and circumstances. No 
+new information or circumstances have arisen since the existing NEPA was finalized. 
+There are no new environmental factors that warrant a substantial change to the analysis. 
+The Proposed Action would be required to adhere to those applicable best management 
+practices from the 2012 EA related to special-status species. The Endangered Species Act 
+Section 7 consultation for this project regarding the Federally Listed Mojave desert 
+tortoise is covered under the current Programmatic Biological Opinion (File no. 
+08ENVS00-2019-F-0153), as appended (File no. 2022-0027339-S7-005) contingent on 
+compliance with the Terms and Conditions therein. Terms and conditions and 
+minimization measures in the Append to the Programmatic Biological Opinion contain 
+measures to avoid and minimize potential impacts, including take, to Mojave desert 
+tortoise. A copy of the terms and conditions have been provided with this document (Sec 
+7 Log # NV-052-26-082). 
+5. Are the environmental effects that would result from implementation of the new 
+proposed action similar (both quantitatively and qualitatively) to those analyzed in the 
+existing NEPA document? 
+Yes, the environmental effects that would result from implementing the proposed Project 
+are similar to those analyzed in the existing NEPA. The facilities and actions being 
+proposed in the proposed Project are nearly identical to those described and analyzed, but 
+limited in scope. The environmental resources present in the proposed Project area 
+remain consistent with those described and this was verified by resource surveys 
+conducted for the proposed project. Implementing the current Project would not change 
+the results of the impact analysis described in the existing NEPA.  
+6. Are the public involvement and interagency review associated with existing NEPA 
+document(s) adequate for the current proposed action? 
+Yes, agency, interagency, and public reviews completed during the NEPA process for the 
+analysis of the EA/FONSI for the existing are adequate for the current Project. The 
+existing NEPA was made available as a preliminary Environmental Assessment during a 
+30 day comment period. There were five comment letters received during this period and 
+can be found along with BLM responses in Chapter 9 of the existing NEPA. Additionally 
+multiple agencies were contacted were contacted during the preparation of the existing 
+[[page 8]]
+DOI-BLM-NV-S010-2026-0068-DNA  8 
+NEPA. These can be found in Chapter 6 of the EA. The methods and efforts to invite 
+public and interagency involvement reviews remains consistent with methods currently 
+used. 
+E. CONCLUSION 
+Determination of NEPA Adequacy: 
+☒ Based on the review documented above, I conclude that this proposal conforms to the 
+applicable land use plan and that the NEPA documentation fully covers the proposed 
+action and constitutes BLM’s compliance with the requirements of the NEPA. 
+ 
+ 
+Responsible Official: ____________________________________ Date: _______________ 
+ 
+Note: The signed CONCLUSION on this worksheet is part of an interim step in the BLM’s 
+internal decision process and does not constitute an appealable decision. However, the lease, 
+permit, other authorization, or action based on this DNA may be subject to protest and/or appeal 
+under 43 CFR Part 4 or program-specific regulations. 
+ 
+ATTACHMENTS 
+Appendix A. Maps 
+Appendix B. Southern Nevada District Office (SNDO) Stipulations and Mitigation Measures  
+Appendix C. Applicant Proposed Measures 
+ 
+[[page 9]]
+Appendix A. Maps 
+ 
+
+[[page 10]]
+DOI-BLM-NV-S010-2026-0068-DNA  10 
+  
+
+[[page 11]]
+DOI-BLM-NV-S010-2026-0068-DNA  11 
+Appendix B. Existing NEPA Best Management Practices 
+The following practices would reduce impacts as stated in the existing NEPA these should be 
+used when applicable to the Proposed Action.  
+Land Use Best Management Practices 
+LAND-1: Minimize Restricted Access to Existing Land Uses. To the extent possible, 
+applicants shall not restrict access to existing land uses in or near the study area during 
+construction or operation. 
+LAND-2: Comply with Land Use Restrictions in the Study Area. Applicants shall comply 
+with all land use restrictions in the study area, such as speed limits, and shall fully comply 
+with the Amendment to the Interlocal Agreement between Clark County and Boulder City, 
+including Exhibit D, regarding the BCCE. 
+LAND-3: Obtain Approval from Appropriate Jurisdiction for Activities Outside of BLM 
+Transmission and Utility Corridors in the Study Area. Applicants shall obtain approval from 
+Clark County and the City of Boulder City for activities outside of BLM’s transmission and 
+utility corridors in the study area. 
+Special Status Species Best Management Practices 
+BIO-1: Avoidance. Final tower, spur road, and pipeline trench locations shall be adjusted to 
+avoid sensitive biological resources to the greatest extent feasible. 
+BIO-2: Preconstruction Surveys. The applicant shall conduct preconstruction surveys using 
+BLM-approved biologists according to the most current BLM protocols (with USFWS 
+protocols applied for desert tortoise), where available by species. These surveys shall include 
+surveying brush clearing areas and ground disturbance areas within habitat deemed suitable 
+for sensitive species by a qualified biologist. These surveys shall be conducted for the 
+presence of special-status plants, and the presence of general and special status wildlife 
+species to prevent direct loss of vegetation and wildlife. 
+BIO-3: Flagging. Biological monitors shall be assigned to construction zones containing 
+sensitive biological resources. The monitors shall be responsible for ensuring that impacts on 
+special-status species, native vegetation, wildlife habitat, or unique resources would be 
+avoided to the fullest extent possible. Where appropriate, monitors shall flag the boundaries 
+of areas where activities would need to be restricted in order to protect native plants and 
+wildlife or special-status species. Those restricted areas shall be monitored to ensure their 
+protection during construction. A minimum of one monitor per crew is needed for 
+construction crews using heavy equipment (e.g., backhoes, large trucks). One roving monitor 
+shall monitor multiple times per day in other active construction zones where heavy 
+equipment is not in use. 
+BIO-4: Worker Environmental Awareness Program (WEAP). The applicant shall design 
+a WEAP, and all construction crews and contractors shall participate in WEAP training prior 
+to starting work on any project. The WEAP training shall include a review of the special-
+status species and other sensitive resources that could exist in the project area, the locations 
+of sensitive biological resources and their legal status and protections, and measures to be 
+implemented for avoidance of these sensitive resources. A record of all trained personnel 
+shall be maintained. 
+[[page 12]]
+DOI-BLM-NV-S010-2026-0068-DNA  12 
+BIO-5: Desert Tortoise Measures. The applicant or a qualified consultant shall provide for 
+the following to reduce impacts on desert tortoise: 
+• The applicant cannot begin construction until confirmation that the Project is authorized 
+under the existing Southern Nevada District Programmatic Biological Opinion 
+(08ENVS00-2019-F-0153); or a new project-specific appended Biological Opinion and 
+NDOW authorization. Additionally, compliance discussions with Clark County and 
+Boulder City must occur prior to construction that resolve and outline the specific 
+compensation fees or additional mitigation measures needed for loss of desert tortoise 
+habitat outside of BLM transmission and utility corridors within the BCCE. A copy of the 
+USFWS Biological Opinion and documentation of any compliance discussions with 
+Clark County and Boulder City should be provided to the BLM. 
+• Construction monitoring shall employ a designated field contact representative, approved 
+by the BLM during the construction phase. A field contact representative is defined as a 
+person designated by the project proponent who is responsible for overseeing compliance 
+with desert tortoise protective measures and for coordination with agency compliance 
+officer(s). The field contact representative shall also oversee all compliance 
+documentation including daily observation reports, non-compliance and corrective action 
+reports, and final reporting to any authorized agency upon project completion. 
+• Construction monitoring shall employ an authorized biologist(s) and qualified 
+biologist(s) approved by the USFWS during the construction phase. At a minimum, 
+qualified biologist(s) shall be present during all activities in which encounters with 
+tortoises could occur. A qualified biologist is defined as a person with appropriate 
+education, training, and experience to conduct tortoise surveys, monitor project activities, 
+provide worker education programs, and supervise or perform other implementing 
+actions. An authorized biologist is defined as a wildlife biologist who has been authorized 
+to handle desert tortoises by the USFWS. 
+• Qualified and/or authorized biologists shall conduct preconstruction surveys according to 
+the most current USFWS protocol at the time of construction. 
+• Qualified and/or authorized biologists shall monitor all construction activities year-round 
+in desert tortoise habitat, regardless of the time of year or weather conditions, as tortoises 
+are often active outside of their "active" season. 
+• Authorized biologists shall handle desert tortoises following the most current Desert 
+Tortoise Council handling guidelines (2009 or newer). 
+• All work area boundaries associated with temporary and permanent disturbances shall be 
+conspicuously staked, flagged, or otherwise marked to minimize surface disturbance 
+activities. All workers shall strictly limit activities and vehicles to the designated work 
+areas. 
+• Crushing/removal of perennial vegetation in work areas shall be avoided to the maximum 
+extent practicable. 
+• All trash and food items generated by construction and maintenance activities shall be 
+promptly contained and regularly removed from the project site(s) to reduce the 
+attractiveness of the area to common ravens. 
+[[page 13]]
+DOI-BLM-NV-S010-2026-0068-DNA  13 
+• Pets shall not be allowed in working areas unless restrained in a kennel. 
+• Where possible, motor vehicles shall be limited to maintained roads and designated 
+routes. Vehicle speed within the project area, along ROW maintenance routes, and along 
+existing access roads shall not exceed 20 miles per hour. Speed limits shall be clearly 
+marked and all workers shall be made aware of these limits. 
+• Preconstruction clearance surveys shall be conducted within 48 hours of initiation of site 
+specific project activities, following USFWS protocol (USFWS 2009). The goal of a 
+clearance survey is to find all tortoises on the surface and in burrows that could be 
+harmed by construction activities. Surveys shall cover 100 percent of the acreage to be 
+disturbed. All potential tortoise burrows within 100 feet of construction activity shall be 
+marked. 
+• Biological monitors shall clear ahead of construction crews in desert tortoise habitat 
+during all clearing and grading activities, or during activity where undisturbed vegetation 
+would be crushed. In addition, biological monitors shall clear ahead of larger, nonrubber-
+tired equipment when that equipment is being driven on access and spur roads. 
+• Biological monitors shall clear all active work sites located in desert tortoise habitat each 
+morning before construction begins and throughout the day if crews move from 
+construction site to construction site. 
+• Results of biological monitoring and status of construction shall be detailed in daily 
+reports by biological monitors. These reports shall be submitted to the authorized 
+biologist on a daily basis and to the field contact representative on a weekly basis (at 
+minimum). The authorized biologist shall notify the field contact representative within 24 
+hours of any action that involves harm to a desert tortoise. The authorized biologist shall 
+submit to the USFWS, NDOW, and the BLM a summary of all desert tortoises seen, 
+injured, killed, excavated, and handled at the end of each project or within 2 working 
+days of when desert tortoises are harmed. GPS locations of live tortoises shall be 
+reported. 
+• Should any desert tortoise be injured or killed, all activities shall be halted, and the field 
+contact representative and/or authorized biologist immediately contacted. The field 
+contact representative and/or authorized biologist shall be responsible for reporting the 
+incident to the authorizing agencies. 
+• Desert tortoise relocations shall only occur from an active construction zone to an area 
+that is not under active construction. Any tortoise found on the surface shall be relocated 
+to less than 1,000 feet away. Tortoises shall be handled carefully following the guidelines 
+given in USFWS Desert Tortoise Field Manual (USFWS 2009). Tortoises shall be 
+handled with new latex gloves each time to avoid transmission of disease, and handlers 
+shall especially note guidelines for precautions to be taken during high-temperature 
+periods. 
+• If a potential tortoise burrow were required to be excavated, the biologist shall proceed 
+according to the guidelines given in USFWS Desert Tortoise Field Manual (USFWS 
+2009). Tortoises removed from burrows shall be relocated to a natural unoccupied 
+burrow or an artificial burrow (USFWS 2009). The tortoise shall be block in the burrow 
+[[page 14]]
+DOI-BLM-NV-S010-2026-0068-DNA  14 
+in accordance to the guideline given in the USFWS Desert Tortoise Field Manual 
+(USFWS 2009). 
+• For activities conducted between March 15 and November 1 in desert tortoise habitat, all 
+activities in which encounters with tortoises might occur shall be monitored by a 
+qualified or authorized biologist. The biologist shall be informed of tortoises relocated 
+during preconstruction surveys so that he or she could watch for the relocated tortoises in 
+case they attempted to return to the construction site. The qualified or authorized 
+biologist shall watch for tortoises wandering into the construction areas, check under 
+vehicles, examine excavations and other potential pitfalls for entrapped animals, examine 
+exclusion fencing, and conduct other activities to ensure that death or injuries of tortoises 
+were minimized. 
+• No overnight hazards to desert tortoises (e.g., auger holes, trenches, pits, or other steep 
+sided depressions) shall be left unfenced or uncovered; such hazards shall be eliminated 
+each day prior to the work crew and biologist leaving the site. Large or long-term project 
+areas shall be enclosed with tortoise-proof fencing. Fencing shall be removed when 
+restoration of the site is completed. 
+• Any incident considered by the biological monitor to be in non-compliance with the 
+mitigation plan shall be documented immediately by the biological monitor. The field 
+contact representative shall ensure that appropriate corrective action was taken. 
+Corrective actions shall be documented by the monitor. The following incidents shall 
+require immediate cessation of the construction activities causing the incident, including 
+(1) imminent threat of injury or death to a desert tortoise; (2) unauthorized handling of a 
+desert tortoise, regardless of intent; (3) operation of construction equipment or vehicles 
+outside a project area cleared of desert tortoise, except on designated roads; and (4) 
+conducting any construction activity without a biological monitor where one was 
+required. If the monitor and field contact representative do not agree, the federal agency's 
+compliance officer shall be contacted for resolution. All parties could refer the resolution 
+to the federal agency's authorized officer. 
+• All construction personnel, including subcontractors, shall complete a WEAP. This 
+instruction shall include specific desert tortoise training on distribution, general behavior 
+and ecology, identification, protection measures, reporting requirements, and protections 
+afforded by state and federal endangered species acts. 
+• Parked vehicles shall be inspected prior to being moved. If a tortoise were found beneath 
+a vehicle, the authorized biologist shall be contacted to move the animal from harm’s 
+way, or the vehicle shall not be moved until the desert tortoise left of its own accord. The 
+authorized biologist shall be responsible for taking appropriate measures to ensure that 
+any desert tortoise moved in this manner was not exposed to temperature extremes that 
+could be harmful to the animal. 
+• No desert tortoise shall be captured, moved, transported, released, or purposefully caused 
+to leave its burrow for whatever reason when the ambient air temperature is above 95° 
+Fahrenheit (35° C). If the ambient air temperature exceeds 95° F during handling or 
+processing, desert tortoises shall be kept shaded in an environment which does not exceed 
+95° F, and the animals shall not be released until ambient air temp
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /ebfb4bec-8c54-f111-bec6-001dd804183b/Documents/DR_DOI-BLM-NV-S010-2026-0068-DNA_updated_508.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction, first 5000 characters]
+
+[[page 1]]
+ 
+Las Vegas Field Office  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decision Record 
+DOI-BLM-NV-S010-2026-0068-DNA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DesertLink - Sloan Canyon 500kV Loop-in  
+DesertLink LLC 
+N-86359 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PREPARING OFFICE 
+U.S. Department of the Interior 
+Bureau of Land Management 
+4701 N. Torrey Pines Drive 
+Las Vegas, Nevada 89130 
+702-515-5000  
+[[page 2]]
+Decision Record 
+DOI-BLM-NV-S010-2026-0068-DNA  2 
+UNITED STATES DEPARTMENT OF THE INTERIOR 
+Bureau of Land Management 
+Las Vegas Field Office 
+4701 N Torrey Pines Drive 
+Las Vegas, NV 89130 
+ 
+DECISION RECORD 
+for DesertLink - Sloan Canyon 500kV Loop-in 
+DOI-BLM-NV-S010-2026-0068-DNA 
+August 11, 2026 
+ 
+I. DECISION  
+The Bureau of Land Management Las Vegas Field Office authorizes the issuance of the Right-
+of-Way (ROW) as described in detail in DOI-BLM-NV-S010-2026-0068-DNA. All best 
+management practices and monitoring requirements are incorporated into this decision by 
+reference to DOI-BLM-NV-S010-2026-0068-DNA. 
+The Proposed Action is for DesertLink, LLC to obtain a Right-of-Way (ROW) to construct, 
+operate, and maintain the Sloan Canyon 500 kV Loop Project, which includes both permanent 
+and temporary disturbances. The project involves the installation of 12 self-supporting steel pole 
+structures, the construction of approximately 1 mile of new permanent access roads, and 
+approximately one half (0.5) mile of temporary access roads. The Project is designed to 
+interconnect the expanded Sloan Canyon Substation with the existing Harry Allen–Eldorado 500 
+kV transmission line. In total, the Project will cause 5.7 acres of permanent disturbance and 37.1 
+acres of temporary disturbance on public and private lands in Clark County, Nevada, within a 
+Designated Utility Corridor. More details can be found in Table 1 below.  
+Additionally, prior to the commencement of construction, geotechnical borings will be 
+completed on Boulder City owned property. A total of 2 borings will be completed on Boulder 
+City owned lands. Borings will drilled up to 70 feet deep. More details can be found in Table 2 
+and the access section below.  
+The Determination of NEPA Adequacy is being updated to reflect updates to the Existing NEPA 
+Best Management Practices (Appendix B), specifically further refinement for those applicable 
+Best Management Practices based on consultation conclusions and updates. 
+I. COMPLIANCE AND CONFORMANCE  
+The Project is in conformance with the applicable LUP because the emphasis of the Las Vegas 
+Resource Management Plan (RMP), approved October 1998, is to protect unique habitats for 
+threatened, endangered, and special status species while providing areas for community growth, 
+recreation, mineral exploration and development, and other resource uses. The specific 
+objectives and management directions that allow for the Project can be found in Appendix A of 
+the 1998 Las Vegas RMP Record of Decision. 
+[[page 3]]
+Decision Record 
+DOI-BLM-NV-S010-2026-0068-DNA  3 
+See Land Use Authorizations Objectives (page 18) and Rights-of-Way Management Objectives 
+(page 19): 
+“LD-2. All public lands within the planning area, unless otherwise classified, segregated or 
+withdrawn, and with the exception of Areas of Critical Environmental Concern and 
+Wilderness Study Areas, are available at the discretion of the agency, for land use leases and 
+permits under Section 302 of Federal Land Policy and Management Act and for airport leases 
+under the authority of the Act of May 24, 1928, amended.”  
+Management Direction: 
+“RW-l. Meet public demand and reduce impacts to sensitive resources by providing an 
+orderly system of development for transportation, including legal access to private 
+inholdings, communications, flood control, major utility transmission lines, and related 
+facilities.”  
+III. RATIONALE FOR DECISION  
+Based on my review of the Determination of NEPA Adequacy, I have determined that it supports 
+an informed and reasoned decision to authorize the ROW based on factors including, but not 
+limited to: 
+• The Proposed Action has been evaluated as a Determination of NEPA Adequacy (DNA) 
+in compliance with the National Environmental Policy Act (NEPA):  
+• The Proposed Action is a feature of, or essentially similar to, the actions analyzed in 
+Programmatic Environmental Assessment for Eldorado Valley Transmission and Utility 
+Corridor (DOI-BLM-NV-S010-2012-0024-EA ) Date Approved: November 23, 2012  
+• A BLM interdisciplinary team reviewed the Proposed Action, applicable BLM Southern 
+Nevada District standard stipulations and mitigation measures and the proposed action is 
+covered by Programmatic Biological Opinion (08ENVS00-2019-F-0153/ 2022-0027339-
+S7-001) terms and conditions.  
+• Approval of the Proposed Action is authorized by Title V of the Federal Land Policy and 
+Management Act of 1976 and 43 CFR Part 2800.  
+IV. RIGHT OF PROTEST AND/OR APPEAL:  
+This decision may be appealed to the Interior Board of Land Appeals (IBLA), Office of Hearings

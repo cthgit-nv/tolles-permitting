@@ -1,0 +1,164 @@
+SOURCE: https://www.doi.gov/sites/default/files/document_handbooks/doi-handbook-of-nepa-procedures-concluded-508-compliant.pdf RETRIEVED: 2026-09-24
+[DOI NEPA Handbook (516 DM 1), February 2026, Appendix 1, section 9, handbook pp. 47-49]
+9.  Applicant-Prepared and Contractor-Prepared EAs and EISs 
+NEPA as amended allows for an applicant or an applicant-directed contractor to prepare an EA 
+or EIS. Bureaus remain responsible for the accuracy, scope, and content of the EA or EIS and 
+must independently evaluate and approve each such analysis before the bureau may rely on it. 
+Bureaus may request more information, revise analysis methodologies, or choose not to rely on 
+an EA or EIS prepared by an applicant or its contractor at any time. If the bureau determines that 
+[[page 52]]
+ 
+48 
+ 
+the EA or EIS submitted by an applicant or applicant-directed contractor does not meet the 
+bureau’s standards, the bureau should work with the applicant or applicant-directed contractor to 
+improve the document with an objective of meeting the bureau’s standards while meeting 
+applicable statutory deadline. If necessary, the bureau may elect to complete the EA or EIS itself.  
+ 
+Applicant or applicant-directed contractor preparation of an EA or EIS occurs when the applicant 
+either directly prepares an EA or EIS or the applicant hires a contractor and directs the contractor 
+as its agent to prepare the EA or EIS. Applicant or applicant-directed preparation of an EA or 
+EIS is thus different from circumstances where a bureau uses a bureau-directed contractor who 
+may be funded by the applicant (an arrangement often referred to as “third party contracting”). 
+Bureaus may also select and fund their own contractors to prepare environmental documents for 
+bureau use.  
+ 
+For applicant or applicant-directed contractor prepared EAs and EISs, Responsible Officials 
+should consider implementing the following best practices: 
+• Early Coordination. Early coordination with the applicant improves efficiency both 
+before and after initiation of the NEPA process. Bureaus should coordinate with 
+applicants as soon as applicants present an initial version of an application (e.g., 
+application for permit to drill, application for a special recreation permit, application for a 
+right-of-way, etc.), plan of operation, or plan of development. Bureaus should invite 
+applicants to share drafts of their applications early for bureau input and suggestions for 
+refinement. Bureaus should hold a kick-off meeting with the applicant to identify the 
+information needed for a complete application package as well as respective roles and 
+responsibilities for the bureau and the applicant as soon as practicable after the 
+application is received. These meetings should be documented so changes in bureau 
+personnel do not cause these meetings to be repeated. As part of early coordination, the 
+bureau, cooperating agencies (if applicable) and the applicant should develop a schedule 
+for the applicant to provide information during the application process and the bureau to 
+complete data collection and to establish milestone steps in the NEPA process. Within 60 
+days of the initial review or meeting, the bureau should identify in writing any additional 
+information needed from the applicant or applicant-directed contractor to initiate the 
+NEPA process.  
+• Outlining Responsibilities. Early in the process, bureaus should engage with the applicant 
+and provide written documentation outlining the bureau’s expectations regarding roles, 
+responsibilities, the project schedule, coordination, deliverables (including environmental 
+information, draft and final documents), and supervision. It is recommended that bureaus 
+develop Memoranda of Understanding (MOUs) or other agreements with applicants and 
+applicant-directed contractors to outline roles and responsibilities for all entities involved 
+in the project. The MOU or other appropriate agreement should also describe the quality 
+standards for the environmental analysis as well as any other applicable bureau-specific 
+guidelines. These standards may require use of specific data sources or bureau-approved 
+methodologies. The MOU or other agreement must provide for the applicant or applicant-
+directed contractor to certify that it will provide the bureau with all relevant supporting 
+information, including all studies, surveys, and technical reports pertaining to the 
+environment prepared by the applicant or applicant-directed contractor for the proposed 
+action. The MOU or other agreement will also include a professional integrity statement 
+[[page 53]]
+ 
+49 
+ 
+from the applicant certifying that the environmental analysis will be prepared with 
+professional and scientific integrity, using reliable data and resources, and will meet any 
+relevant Federal information quality standards and bureau needs for decision-making. 
+Close coordination with the bureau throughout the NEPA process will increase efficiency 
+and improve the NEPA analysis. 
+• Environmental Information. Once bureaus have sufficient information to identify 
+preliminary issues for analysis and resources that would be potentially affected, bureaus
+
+SOURCE: https://www.ecfr.gov/api/versioner/v1/full/2026-09-22/title-43.xml?part=2800 RETRIEVED: 2026-09-24
+[43 CFR 2804.19(c), eCFR current as of 2026-09-22]
+(c) BLM retains the option to prepare any environmental documents related to your application. If BLM allows you to prepare any environmental documents and conduct any studies that BLM needs to process your application, you must do the work following BLM standards. For this purpose, you and BLM may enter into a written agreement. BLM will make the final determinations and conclusions arising from such work.
+
+SOURCE: https://www.blm.gov/sites/blm.gov/files/BLM%20NEPA%20Handbook%20h-1790-1.pdf RETRIEVED: 2026-09-24
+[BLM NEPA Handbook H-1790-1 (2008), section 13.5, pp. 124-125, pypdf text extraction]
+13.5  CONTRACTING NEPA WORK 
+ 
+Contracting may be used for the preparation of a NEPA document or for certain portions of the 
+analyses.  Contracting an environmental document does not eliminate the BLM’s active role in 
+the NEPA process; you must still put forth substantial efforts to develop the contract, meet 
+freq uently with the co ntracto r, review all p rod ucts, and d evelop necessary partnership s with 
+counties, the state, Tribes, other Federal agencies, and other BLM offices. The contractor-
+developed work becomes your work: you are responsible for all content within NEPA document 
+and the supporting materials, which must be included in the administrative record.  Additionally, 
+decisions and findings are those of the BLM, not of the contractor, and these must reflect a 
+review of underlying NEPA document.  As such, we recommend that you prepare the findings 
+and decision records, not the contractor. 
+ 
+The CEQ provides guidance for contracting EAs and EISs at 40 CFR 1506.5(b) and (c).  The 
+BLM may permit an applicant to prepare the EA.  An applicant may also pay a contractor to 
+prepare an EA (this is called third-party contracting).  When an applicant or contractor prepares 
+an EA, the BLM must indep endently evaluate the info rmatio n sub mitted and its accuracy, and 
+the environmental issues.  Though the applicant or contractor prepares the EA, the BLM is 
+responsible for the scope and content of the EA.   
+ 
+The CEQ provides more specific guidance for contracting an EIS.  The BLM remains 
+responsible for all of the content within the EIS.  Additionally, the BLM or a cooperating agency 
+(ies) must select the cooperator, and a conflict of interest disclaimer must be included in the EIS.  
+The CEQ speaks directly to this requirement at 40 CFR 1506.5(c): 
+ 
+It is the intent o f these regulatio ns that the co ntractor be chosen so lely b y 
+the lead agency, or by the lead agency in cooperation with cooperating 
+agencies, or where appropriate by a cooperating agency to avoid any 
+conflict of interest. Contractors shall execute a disclosure statement 
+prepared by the lead agency, or where appropriate the cooperating agency, 
+specifying that they have no financial o r other interest in the o utco me o f the 
+project. If the document is prepared by contract, the responsible Federal 
+official shall furnish guidance and participate in the preparation and shall 
+independently evaluate the statement prior to its approval and take 
+responsibility for its scope and contents. Nothing in this section is intended 
+to prohibit any agency from requesting any person to submit information to 
+it or to prohibit any person from submitting information to any agency. 
+ 
+While the CEQ only requires this disclaimer for EISs, we recommend including such statements 
+in yo ur co ntracto r-prepared EAs as well.  Additionally, when using third-party contracting, we 
+recommen d an  MOU between  the BLM and the app licant.   This MOU must: 
+ 
+• establish the roles and responsibilities of each party; and  
+• specify that all costs of using a contractor in the preparation of the NEPA document will 
+be borne by the applicant.   
+ 
+[[page 135]]
+ 125 
+H-1790-1 - NATIONA L ENVIRONM ENTA L POLICY ACT HA NDBOOK – (Public) 
+ 
+BLM MANUAL   Re l. 1-1710  
+Supersedes Rel. 1 -1547  01/ 30/ 2008 
+There are two principle approaches for contracting environmental documents:  standard federal 
+contracting procedures (competitive procurement), and third party co ntracting.  Procurement o f 
+contracts is subject to the Federal Acquisition Regulation (48 CFR 1.6).  Third party contracting 
+may  be u sed m ost effectiv ely for non-Bureau  en ergy  initiativ es (f or ex am ple, power pl ants an d 
+certain rights-of-way).  The key element in both approaches is the BLM control of analytical 
+standards used, of the products produced, and of the schedule.  Work with your procurement 
+personnel early in the process when considering contracting.  See the NEPA Web guide for more 
+informatio n and suggestio ns o n co ntracting.
+
+SOURCE: https://www.blm.gov/policy/im-2006-011 RETRIEVED: 2026-09-24
+[BLM IM No. 2006-011, Oct. 17, 2005, Expires 09/30/2007, excerpt]
+6-011
+Instruction Memorandum
+UNITED STATES DEPARTMENT OF THE INTERIOR
+BUREAU OF LAND MANAGEMENT
+WASHINGTON, D.C.  20240
+October 17, 2005
+In Reply Refer To:
+1790 (WO-210) P
+EMS TRANSMISSION 10/24/2005
+Instruction Memorandum No. 2006-011
+Expires:  09/30/2007
+To:                   State Directors
+From:               Director
+Subject:           National Environmental Policy Act (NEPA) Third Party Contracting Procedures
+Program Area:  
+The use of third party contracts for preparation of major environmental documents.
+Purpose: 
+ This Instruction Memorandum summarizes the responsibilities of the Bureau of Land Management (BLM) when using a third party contract for preparing major environmental documents under the NEPA.
+Background: 
+ This IM completes a task assigned to WO-210 by the Deputy State Directors (DSD’s).
+Policy/Action: 
+ The use of third party contracts to facilitate processing of proposals and applications through BLM NEPA processes is provided for in 40 CFR 1506.5, with clarification by the Council on Environmental Quality found in the “40 Questions.”    Agency policy and direction are found in BLM Handbook 1790-1, Appendix 7, with additional guidance available in the 1999 desk reference “Overview of BLM’s NEPA Process.”
+The key elements of third party contracting procedures are:
+(1)  For all environmental impact statements (EIS) and major environmental assessments (EA) the State Director and/or Field Manager must have a Memorandum of Understanding (MOU) between the agency and the proponent, establishing the roles and responsibilities of each party.  The MOU will specify that all costs of using a contractor to prepare environmental documents will be borne by the proponent. 
+(2)

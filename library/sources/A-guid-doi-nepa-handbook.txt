@@ -1,0 +1,193 @@
+SOURCE: https://www.doi.gov/sites/default/files/document_handbooks/doi-handbook-of-nepa-procedures-concluded-508-compliant.pdf RETRIEVED: 2026-09-24
+[DOI Handbook of NEPA Implementing Procedures (516 DM 1), February 2026, cover and citation note]
+
+[[page 1]]
+ 
+ 
+ 
+ 
+ 
+516 DM 1 – U.S. Department of the Interior 
+Handbook of National Environmental Policy Act 
+Implementing Procedures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2026 
+  
+
+[[page 2]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Citations to this Handbook should be styled in the following format, using these specific 
+citations as examples: DOI NEPA Handbook § 2.3(a)(3) or DOI NEPA Handbook Appendix § 2.
+
+[Section 0.1 and footnote 1, handbook p. 1]
+Section 0.1 Purpose and policy. 
+The purpose of these procedures is to integrate compliance with the National Environmental 
+Policy Act (NEPA) into bureau decision-making processes. Specifically, the procedures: 
+describe how bureaus determine what actions are subject to NEPA’s procedural requirements 
+and the appropriate level of NEPA review where applicable; ensure that relevant environmental 
+information, including, as appropriate, economic information, is identified and considered early 
+in the process to ensure informed decision-making; enable bureaus to conduct coordinated, 
+consistent, predictable and timely environmental reviews; reduce unnecessary burdens and 
+delays; and implement NEPA’s mandates regarding lead, joint-lead, participating Federal and 
+cooperating agency roles and responsibilities, page and time limits, and preparation of 
+environmental impact statements or environmental assessments by applicants or applicant-
+directed contractors under Federal agency supervision.1 
+(a) Procedural and Interpretive Guidance. This document, along with 43 CFR Part 46, sets 
+forth the Department of the Interior (DOI or Department) procedures for implementing NEPA. 
+It further explains the Department’s interpretation of certain key terms in NEPA. It does not, 
+nor does it intend to, govern the individual rights and obligations of either regulated entities or 
+persons. Additionally, this Handbook focuses only on the procedures governing bureau 
+compliance with NEPA; in addition to the procedures set forth in this Handbook, bureaus must 
+continue to comply with the requirements of other applicable laws and regulations and should 
+comply with applicable policies. 
+(b) Consultation with the Council on Environmental Quality. In addition to the process for 
+establishing or revising categorical exclusions set forth in section 1.4(b) and (d), the 
+Department will consult with the Council while developing or revising its NEPA 
+implementing procedures, in accord with NEPA section 102(2)(B), 42 U.S.C. section 4332(B).  
+Section 0.2 Applicability. 
+(a) Applicability. This Handbook is applicable to all DOI bureaus, as bureau is defined in 6.1.  
+(b) Authority. NEPA imposes certain procedural requirements on the exercise of the 
+Department’s legal authority in relevant circumstances. Nothing contained in these procedures 
+is intended or should be construed to abrogate or limit the Department’s other authorities or 
+legal responsibilities.  
+ 
+ 
+1 This Handbook is not intended to, and does not, create any right or benefit, substantive or procedural, 
+enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or 
+entities, its officers or employees, or any other person. Although the Handbook may in places restate statutory or 
+regulatory requirements, the procedures in this Handbook themselves do not have the force or effect of law.
+
+[Section 1.1(a)(6), handbook pp. 2-3]
+(6) The proposed action is not a “major Federal action.”  
+(i) The terms “major” and “Federal action,” each have independent force. NEPA 
+applies only when both criteria are met. Such a determination is bound up in the 
+facts and circumstances of each individual situation and is thus reserved to the 
+judgment of the bureau in each instance.  
+(ii) NEPA does not apply to non-Federal actions. Therefore, for example, under the 
+terms of the statute, NEPA does not apply to actions with no or minimal Federal 
+funding, or with no or minimal Federal involvement where a Federal agency cannot 
+control the outcome of the project. NEPA section 111(10)(B)(i), 42 U.S.C. section 
+4336e(10)(B)(i). Control over only a small part of an action is generally not 
+sufficient to make an action “Federal” such that a NEPA obligation attaches.  
+(iii) In addition to the illustrative general categories set forth in NEPA section 111(10), 
+42 U.S.C. section 4336 e (10), bureaus have determined that the following non-
+
+[Section 1.4, handbook pp. 6-7]
+Section 1.4 Categorical exclusions. 
+(a) Generally. This section describes the process that bureaus use for establishing and revising 
+categorical exclusions, for adopting other agencies’ categorical exclusions, and for applying 
+categorical exclusions to a proposed action. Categorical exclusions available to bureaus-
+including CEs established and substantiated consistent with Department NEPA procedures, 
+legislatively established or directed CEs, and CEs adopted from other agencies-are listed in 
+43 CFR 46.210 or in bureau-specific lists provided in Appendix 2.  
+(b) Establishing and revising categorical exclusions. See 43 CFR 46.205(h).  
+[[page 11]]
+7 
+(c) Adopting categorical exclusions from other Federal agencies. Consistent with NEPA 
+section 109, 42 U.S.C. § 4336c, a bureau may adopt a categorical exclusion listed in another 
+agency’s NEPA procedures. When adopting a categorical exclusion, the bureau will: 
+(1) Consult with the agency that established the categorical exclusion to ensure that the 
+proposed adoption of the categorical exclusion is appropriate; and 
+(2) Publish notice in the Federal Register that the bureau is adopting the categorical 
+exclusion, including a brief description of the proposed action or category of proposed 
+actions to which the bureau intends to apply the adopted categorical exclusion.  
+(d) Removal of categorical exclusions. See 43 CFR 46.205(i).  
+(e) Applying categorical exclusions. See 43 CFR 46.205. If a bureau modifies a proposed 
+action by incorporating design elements that reduce or eliminate adverse impacts to resource 
+values, the modified proposal is considered a new proposal for categorical exclusion 
+consideration under DOI NEPA procedures. Considering the modified proposal a “new 
+proposal” for purposes of categorical exclusion consideration does not require starting over 
+with other aspects of the NEPA review. A bureau must evaluate the proposed action for the 
+presence of any of the extraordinary circumstances listed at 43 CFR 46.215 before that bureau 
+relies on a categorical exclusion. 
+(f) Documentation of categorical exclusion determinations. When the Responsible Official 
+relies on a categorical exclusion to fulfill bureau obligations under NEPA, the Responsible 
+Official will document its evaluation of the applicability of a categorical exclusion if required 
+by law, regulation, or as specified in DOI or bureau policy.  
+(g) Reliance on categorical exclusion determinations of other agencies. See 43 CFR 46.205(e) 
+and Appendix 1 § 3. 
+(h) Applying multiple categorical exclusions. See 43 CFR 46.205(f) and Appendix 1 § 2.  
+(i) List of categorical exclusions. See 43 CFR 46.210 and Appendix 2. 
+(j) Appendix 2 of this Handbook lists categorical exclusions that are available for use by each 
+bureau.  
+(k) Use of other bureau categorical exclusions. See 43 CFR 46.205(g) and Appendix 1 § 2.
+
+[Section 6.1(g) Connected action, handbook p. 24]
+(g) Connected action means a separate Federal action within the authority of a Federal agency 
+that is closely related to the proposed action and should be addressed in a single environmental 
+document because the proposed agency action:  
+(1) Automatically triggers the separate Federal action, which independently would require 
+the preparation of additional environmental documents; 
+(2) Cannot proceed unless the separate Federal action is taken previously or simultaneously; 
+or 
+(3) Is an interdependent part of a larger Federal action that includes a separate Federal 
+action, which mutually depend on the larger Federal action for their justification. 
+(h) Cooperating Agency means any Federal, State, Tribal, or local agency that has been
+
+[Appendix 1, CE and Extraordinary Circumstances Review Protocol, handbook p. 32]
+component elements are covered by multiple CEs available to the bureau, unless exempt from 
+such review by statute, the bureau must review the proposed action for the presence of 
+extraordinary circumstances that would, if present, preclude use of the CE or CEs. DOI’s 
+extraordinary circumstances are listed in 43 CFR 46.215 and must be considered when using on 
+administratively established or adopted categorical exclusions; any exceptions to the 
+extraordinary circumstances review requirement is noted in the terms of the categorical exclusion 
+itself. If the proposed action, considered together with any connected actions, would implicate 
+any of the extraordinary circumstances, and the bureau cannot eliminate those extraordinary 
+circumstances by modifying the proposed action to reduce or remove potentially significant 
+impacts, then the bureau would need to develop an environmental assessment or environmental 
+impact statement. 
+ 
+If the proposed action or its component elements meet the terms of the CE (or CEs) and no 
+extraordinary circumstances are present for the proposed action, then the Responsible Official 
+can approve the proposed action using the CE(s). There are limited exceptions to the requirement
+
+SOURCE: https://www.doi.gov/document-library/handbook/516-dm-1-handbook-national-environmental-policy-act-implementing RETRIEVED: 2026-09-24
+[DOI Document Library landing page text]
+516 DM 1 - Handbook of National Environmental Policy Act Implementing Procedures
+Office of the Secretary
+516 DM 1
+February 23, 2026

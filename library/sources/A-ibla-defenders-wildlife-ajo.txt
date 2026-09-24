@@ -1,0 +1,324 @@
+SOURCE: https://www.oha.doi.gov/IBLA/Ibladecisions/152IBLA/152IBLA001.pdf RETRIEVED: 2026-09-24
+[Full decision text, pypdf extraction; [[page N]] markers are PDF pages, not reporter pages]
+
+[[page 1]]
+DEFENDERS OF WILDLIFE 
+IBLA 98-66 Decided  February 17, 2000 
+Appeal from a Decision Record/Finding of No Significant Impact of the Field Manager, Phoenix Field Office, Arizona,
+Bureau of Land Management, approving issuance of an electrical transmission line right-of-way grant.  AZ-020-97-049. 
+Motion to dismiss denied; decision affirmed; stay vacated. 
+1. Environmental Quality: Environmental Statements-- Federal Land Policy and Management Act
+of 1976: Rights-of-Way--National Environmental Policy Act of 1969: Environmental
+Statements--National Environmental Policy Act of 1969: Finding of No Significant
+Impact--Rights-of-Way: Federal Land Policy and Management Act of 1976 
+An EA for a proposed action properly considers the indirect effects caused by the action which,
+although later in time or further removed, are reasonably foreseeable.  Thus, the impacts of
+connected actions conducted by private parties which would not occur without the supporting
+Federal action are appropriately considered in an EA. 
+2. Environmental Quality: Environmental Statements-- Federal Land Policy and Management Act
+of 1976: Rights-of-Way--National Environmental Policy Act of 1969: Environmental
+Statements--National Environmental Policy Act of 1969: Finding of No Significant
+Impact--Rights-of-Way: Federal Land Policy and Management Act of 1976 
+A decision to issue a right-of-way for a power line to supply electricity for the reopening of an
+open pit mining operation on private land based on an EA and FONSI will be upheld when the
+record establishes a reasonable basis for the FONSI.  An appeal
+152 IBLA 1
+[[page 2]]
+IBLA 98-66 
+challenging the scope of the EA for failure to consider all the impacts of the mining operation
+will be denied when it appears from the record that the mining operation would proceed in the
+absence of approval of the right-of-way.  
+3. Environmental Quality: Environmental Statements--Federal Land Policy and Management Act
+of 1976: Rights-of-Way--National Environmental Policy Act of 1969: Environmental
+Statements--National Environmental Policy Act of 1969: Finding of No Significant
+Impact--Rights-of-Way: Federal Land Policy and Management Act of 1976 
+Pursuant to section 102(2) of the National Environmental Policy Act of 1969, as amended, 42
+U.S.C. § 4332(2) (1994), and its implementing regulations (40 C.F.R. Chapter V), BLM is
+required to consider a reasonable range of alternatives to a proposed action, including a no-
+action alternative.  An EA which considers a range of alternatives and gives reasons for BLM
+rejection of alternatives not selected will be upheld when it appears that BLM assessed
+alternatives in a manner that will avoid or minimize the adverse effects of the proposed action.  
+APPEARANCES:  Edward B. Zukoski, Esq., Land and Water Fund of the Rockies, Inc., Boulder, Colorado, for appellant;
+John S. Guttmann, Esq., and Fred R. Wagner, Esq., Washington, D.C., for intervenors Ajo Improvement Company and
+Phelps Dodge Ajo, Inc.; Richard R. Greenfield, Esq., Office of the Field Solicitor, U.S. Department of the Interior, Phoenix,
+Arizona, for the Bureau of Land Management.
+ OPINION BY ADMINISTRATIVE JUDGE GRANT 
+Defenders of Wildlife has appealed from an October 22, 1997, Decision Record/Finding of No Significant Impact
+(DR/FONSI) of the Field Manager, Phoenix, Arizona, Field Office, Bureau of Land Management (BLM), approving
+issuance of a right-of-way grant (AZA-29804).  The right-of-way was issued to the Ajo Improvement Company (AIC) for a
+230 kilovolt (kV) transmission line from Gila Bend to Ajo, Arizona.
+On September 19, 1996, AIC's predecessor-in-interest filed a right- of-way application seeking to construct, operate, and
+maintain a 230 kV transmission line on public lands in southern Arizona.  The 47.5-mile-long line would initially go 2.5
+miles across private lands from the existing Gila Bend Substation, followed by 40 miles across public lands withdrawn for
+military purposes (the Barry M. Goldwater Air Force Range), and ending with 5 miles across other public lands in the
+immediate vicinity of the
+152 IBLA 2
+[[page 3]]
+IBLA 98-66 
+town of Ajo to a new substation.  It would be situated in Ts. 6-8 S., R. 5 W., and Ts. 8-12 S., R. 6 W., Gila and Salt River
+Meridian, Maricopa and Pima Counties, Arizona.  The line would provide the necessary 45 megawatts of electrical service
+to the Ajo Copper Mine, which would be reopened, after 12 years, by Phelps Dodge Ajo, Inc. (PDAI) on private lands near
+the town of Ajo in Pima County, Arizona.  The line, which would generally be strung between single wooden poles
+82-feet-high and 500 feet apart, would be constructed mostly within an existing 1-mile-wide right-of-way corridor,
+designated by BLM pursuant to section 503 of the Federal Land Policy and Management Act of 1976 (FLPMA), 43 U.S.C.
+§ 1763 (1994), and 43 C.F.R. Subpart 2806.  It would be located parallel to and between the Gila Bend/Ajo 69 kV
+transmission line and State Highway 85, near the Tucson- Cornelia-Gila Bend Railroad. 
+In his October 1997 DR/FONSI, the Field Manager approved the proposed action, thus authorizing issuance of a
+right-of-way grant for the Gila Bend/Ajo 230 kV transmission line, pursuant to Title V of FLPMA, as amended, 43 U.S.C.
+§§ 1761-1771 (1994).  Approval was based on an April 1997 Environmental Assessment (EA), which considered the
+environmental consequences of adopting the proposed action (Alternative A) and alternatives thereto, including the no-
+action alternative.  The analysis was undertaken pursuant to section 102(2)(C) of the National Environmental Policy Act of
+1969 (NEPA), as amended, 42 U.S.C. § 4332(2)(C) (1994).  In his FONSI, the Field Manager specifically found, relying on
+the EA, that BLM was not required by section 102(2)(C) of NEPA to prepare an environmental impact statement (EIS),
+since no significant environmental impact would likely result from approving the proposed action. 
+This appeal was subsequently brought from the Field Manager's October 1997 DR/FONSI.  By Order dated December
+12, 1997, we granted appellant's request for a stay of the effect of the BLM decision pending a review of the merits of the
+appeal by the Board. 
+As a preliminary matter, we note that BLM has moved to dismiss the appeal on the basis that appellant lacks standing,
+under 43 C.F.R. § 4.410(a), to appeal from the Field Manager's October 1997 DR/FONSI.  With respect to the requirement
+that appellant participate as a party to the case before BLM, the sufficiency of the comments provided by appellant's
+counsel in a letter to BLM is challenged.  Regarding the requirement that appellant has been adversely affected by the BLM
+decision, BLM contends that appellant is very vague about the impacts to appellant's members and focuses instead on the
+asserted injury to the public interest of the town of Ajo.  Further, BLM charges that appellant lacks standing because it is
+representing the interests and concerns of its members and not the interest of anyone arguably adversely affected by the
+project.  
+Appellant opposes that motion.  Appellant contends that it has members whose use of the public lands involved would
+be adversely affected by construction of the power line and that this interest is sufficient to 
+152 IBLA 3
+[[page 4]]
+IBLA 98-66 
+confer standing.  Additionally, appellant argues that its informational interest in the impacts of the project is sufficient to
+sustain standing. 
+The Board has held that allegations of injury to environmental informational interests do not establish that an appellant
+is adversely affected within the meaning of 43 C.F.R. § 4.410(a).  Powder River Basin Resource Council, 124 IBLA 83, 89
+(1992).  In reaching this conclusion, we found that "standing on this basis cannot be squared with the rule, adopted by this
+Board, that a mere general interest in a problem, absent colorable allegations of adverse effect, is insufficient to confer
+standing.  Donald Pay, 85 IBLA 283, 285-86 (1985)."  124 IBLA at 89.  We find, however, that this is not dispositive of the
+issue of appellant's standing in this case. 
+Appellant has made a colorable allegation that its legally cognizable interests will be "adversely affected" by BLM's
+decision.  43 C.F.R. § 4.410(a).  It asserts that the use and enjoyment by its staff and members (local and national) of both
+the public lands crossed by the new transmission line and of the town of Ajo and its environs will be negatively impacted by
+the decision to construct and operate the line as well as by the reopening of PDAI's open pit mining/milling operation. 
+(Notice of Appeal and Request for Stay (NA) at 1 n.1; Response to BLM Motion to Dismiss at 5 n.4.)  It has also presented,
+in its NA and statement of reasons (SOR), what it anticipates will be the adverse consequences of constructing/operating the
+line and reopening the mine which will impact its staff and members.  Finally, appellant has provided the affidavit of one of
+its employee-members, attesting to the anticipated adverse impact on his recreational use of the public lands crossed by the
+line.  (Ex. 2 (Affidavit of Craig L. Miller, dated Jan. 6, 1998, attached to Response to BLM Motion to Dismiss).) 
+Further, appellant qualifies as a party to the case.  It submitted comments during the environmental review process and
+thus actively participated in BLM's decisionmaking process.  (Letter to BLM from Edward B. Zukoski, Esq., attorney for
+appellant, dated Jan. 10, 1997; BLM Meeting Minutes, dated Jan. 21, 1997, at 1.)  43 C.F.R. § 4.410(a); Animal
+Protection Institute of America, 118 IBLA 63, 66 (1991). 
+We conclude that appellant has standing to appeal from the Field Manager's October 1997 DR/FONSI, since it satisfies
+the two prongs of the test for standing established by 43 C.F.R. § 4.410(a).  Accordingly, the BLM motion to dismiss the
+appeal is denied. 
+Appellant's challenge to the propriety of the FONSI in this case focuses on the failure to consider indirect and
+cumulative impacts and the asserted inadequacy of the analysis of alternatives.  Appellant asserts that BLM must analyze the
+indirect environmental effects which the Federal action will have, including those on non-Federal lands.  (NA at 7.)  Since
+the purpose of the transmission line is to support reopening of the PDAI open pit copper mine near Ajo, appellant contends
+BLM is required to analyze the impacts of reopening the mine as either indirect or cumulative
+152 IBLA 4
+[[page 5]]
+IBLA 98-66 
+impacts of the power line project.  (SOR at 17-19.) 1/  With respect to alternatives to the transmission line right-of-way,
+appellant contends BLM should have conducted a more complete analysis of alternatives including on-site power
+generation, use of a smaller capacity line, and use of alternative routes for the right-of-way.  (NA at 9-14.)  Further, appellant
+contends that in considering alternatives BLM failed to carefully analyze the costs of on-site power generation as well as the
+costs of using power generated elsewhere and conveyed over the transmission line.  (SOR at 9.) 
+In its answer, BLM contends that indirect impacts are limited to effects which are caused by the proposed action and
+notes that the mine is expected to reopen regardless of the BLM decision.  (Respondent's Answer at 34; Respondent's Reply
+at 13.)  Further, BLM asserts that consideration of the cumulative effects of reasonably foreseeable future actions does not
+require analysis of the impacts of a future event which will occur regardless of the BLM decision at issue.  (Respondent's
+Reply at 14.)  In addition, BLM argues that it considered a range of reasonable alternatives as required.  (Respondent's
+Answer at 26-30; Respondent's Reply at 15-21.) 
+Intervenors PDAI and AIC assert that the Ajo mine will be reopened regardless of BLM action on this powerline right-
+of-way application and, hence, full analysis of the impacts of mine operation is not required.  (AIC/PDAI Response to
+Request for Stay at 5-6.)  Thus, mining operations are not an indirect effect of the right-of-way decision.  Id. at 6-7;
+AIC/PDAI Answer at 3-4.  Further, intervenors also assert that BLM considered a range of reasonable alternatives, noting
+that BLM properly eliminated certain alternatives which were impractical or entailed undesirable impacts from detailed
+consideration.  (AIC/PDAI Answer at 13-14.) 
+Thus, the threshold issue in the case before us is the proper scope of BLM's environmental analysis and whether it was
+inadequate for failure to consider the effects of reopening and operating the Ajo mine as indirect and cumulative impacts of
+granting the right-of-way. 
+_________________________________
+1/  Appellant notes that the mine is expected to initially produce 38,000 tons of processed ore per day, over a period of more
+than 10 years, in the case of the existing "New Cornelia" mine pit.  (NA at 18 (citing Ex. 4 attached to NA (Article, The
+Arizona Daily Star, dated May 8, 1997)); see Ex. L attached to BLM Answer (Letter to BLM from Phelps Dodge Morenci,
+Inc., dated Feb. 14, 1997).)  It further states that "[o]perating giant rock-crushers, trains, trucks, blasting dynamite, and housing
+and feeding up to 800 workers[] will have impacts 24 hours a day, 365 days a year on Ajo and its environs."  (NA at 17; see
+Ex. L attached to BLM Answer.)  Appellant argues that BLM did not consider the resulting impacts on air and
+groundwater resources, vegetation, wildlife, visual and audio resources, public health and safety, recreational use of nearby
+Federal lands, and the socioeconomic character of the local community of Ajo, from activity associated with reopening the
+mine, including mining, transporting, and smelting the copper ore.  Appellant asserts that these impacts are likely to be
+significant, thus requiring preparation of an EIS.  (SOR at 25.) 
+152 IBLA 5
+[[page 6]]
+IBLA 98-66 
+Section 102(2)(C) of NEPA requires BLM to consider the potential environmental impacts of a proposed action in an
+EIS prior to authorizing "major Federal actions significantly affecting the quality of the human environment."  42 U.S.C. §
+4332(2)(C) (1994); Sierra Club v. Marsh, 769 F.2d 868, 870 (1st Cir. 1985).  In order to determine whether to prepare an
+EIS, BLM prepares an EA.  40 C.F.R. § 1501.4.  Thereafter, when BLM decides, in a DR/FONSI, to proceed with a
+proposed action without preparation of an EIS, that decision will be held to comply with section 102(2)(C) of NEPA where
+the record demonstrates that BLM has, considering all relevant matters of environmental concern, taken a "hard look" at
+potential environmental impacts, and made a convincing case that no significant impact will result therefrom or that any such
+impact will be reduced to insignificance by the adoption of appropriate mitigation measures.  Cabinet Mountains Wilderness
+v. Peterson, 685 F.2d 678, 681-82 (D.C. Cir. 1982); Nez Perce Tribal Executive Committee, 120 IBLA 34, 37!38 (1991). 
+An appellant seeking to overcome the decision must carry its burden of demonstrating, with objective proof, that BLM failed
+to adequately consider a substantial environmental question of material significance to the proposed action or otherwise failed
+to abide by section 102(2)(C) of NEPA.  Southern Utah Wilderness Alliance, 127 IBLA 331, 350, 100 I.D. 370, 380 (1993);
+Red Thunder, Inc., 117 IBLA 167, 175, 97 I.D. 263, 267 (1990); Sierra Club, Inc., 92 IBLA 290, 303 (1986). 
+An EA is required under NEPA to analyze the environmental impacts of a proposed action and connected actions.  40
+C.F.R. § 1508.25(a)(1); Save the Yaak Committee v. Block, 840 F.2d 714, 719-20 (9th Cir. 1988); Southern Utah
+Wilderness Alliance, 122 IBLA 165, 168 (1992).  Actions are deemed connected "if they: (i) Automatically trigger other
+actions * * * [;] (ii) Cannot or will not proceed unless other actions are taken previously or simultaneously[; or] (iii) Are
+interdependent parts of a larger action and depend on the larger action for their justification."  40 C.F.R. § 1508.25(a)(1). 
+Thus, BLM is precluded from segmenting a project into separate actions which might have an insignificant impact
+individually but a significant environmental impact collectively.  Thomas v. Peterson, 753 F.2d 754, 758 (9th Cir. 1985);
+Southern Utah Wilderness Alliance, 122 IBLA at 168. 
+[1]  Although consideration of impacts of connected actions in defining the scope of an EA generally applies to Federal
+connected actions related to the proposal, environmental effects to be considered in an EA include indirect effects.  40 C.F.R.
+§ 1508.8(b).  Indirect effects are defined as those 
+which are caused by the action and are later in time or farther removed in distance, but are still reasonably
+foreseeable.  [They] may include * * * effects related to induced changes in the pattern of land use, population
+density or growth rate, and related effects on air and water and other natural systems, including ecosystems. 
+40 C.F.R. § 1508.8(b) (emphasis added).  Appellant notes that the courts have required consideration of the impact of
+connected actions conducted
+152 IBLA 6
+[[page 7]]
+IBLA 98-66 
+by private parties in some cases.  Such cases include, e.g., a planned development of an industrial complex on a private island
+made possible by permits authorizing construction of a dock and a causeway and road connecting the island to the mainland. 
+Sierra Club v. Marsh, 769 F.2d at 877-79.  Generally, the courts have required a showing that the private development is the
+likely result of the Federal action and that there is a "functional interdependence" of the Federal and private actions.  See
+Alpine Lakes Protection Society v. U.S. Forest Service, 838 F. Supp. 478, 482 (W.D. Wash. 1993) (granting road access
+across Federal lands for access to private lands for purposes of logging).  Thus, approval of a Federal permit to fill 11 acres of
+wetlands to facilitate construction of a golf course did not require consideration of the effects of an entire private resort
+complex which could be built without the golf course.  Sylvester v. U.S. Army Corps of Engineers, 884 F.2d 394, 400-401
+(9th Cir. 1989).  A "reasonably close causal relationship" between the Federal action and the effects at issue is critical, and
+where the "causal chain" is unduly lengthened, NEPA does not apply.  James Shaw, 130 IBLA 105, 114 (1994), citing
+Metropolitan Edison Co. v. People Against Nuclear Energy, 460 U.S. 766, 774-75 (1983). 
+[2]  We find no evidence that construction and operation of the Gila Bend/Ajo 230 kV transmission line itself will itself
+cause the reopening of the Ajo Copper Mine.  The record shows that there are alternatives to the proposed transmission line
+for the provision of electricity, including refurbishing an existing electrical generating facility at the minesite, which PDAI can
+and will pursue.  (EA at 2-7 to 2-8; Addendum to EA, dated Sept. 5, 1997, at 5; Ex. B attached to BLM Reply at 2-3.)  While
+BLM and PDAI report that the refurbishment alternative would be more costly to PDAI than the proposed transmission line
+(EA at 2-7 and Addendum to EA at 3), we find no evidence that it could not be undertaken, from a practical standpoint. 
+Indeed, intervenors assert that "PDAI will reopen the mine regardless of * * * whether the proposed transmission line is ever
+built," even though the alternatives are "not as friendly to the environment * * * [and] more costly."  (Response to Stay
+Request at 3.)  This was recognized by BLM at the time it prepared its EA:  "The future mine operation was [considered] as a
+reasonably foreseeable future project that would occur irrespective of the proposed action. * * * [Absent approval of that
+action,] AIC would pursue other power options for operations at the PDAI Mine."  (Addendum to EA at 5.) 
+The fact that construction/operation of the transmission line at issue here is not likely to stimulate, induce, or otherwise
+cause mine operations, within the meaning of 40 C.F.R. § 1508.8(b), and that the two activities are not connected in the sense
+that mine operations cannot or will not proceed without construction/operation of the line, within the meaning of 40 C.F.R. §
+1508.25(a)(1), distinguish this case from the cases cited by appellant.  See Sierra Club v. Marsh, 769 F.2d at 872, 878-79
+(building causeway and road to undeveloped island and erecting related port facilities will likely stimulate industrial
+development on island); Port of Astoria, Oregon v. Hodel, 595 F.2d 467, 473, 477 (9th Cir. 1979)
+152 IBLA 7
+[[page 8]]
+IBLA 98-66 
+(contract to supply electricity, by means of new transmission line, to allow construction of aluminum processing plant
+dependent on the power source); Sierra Club v. Hodel, 544 F.2d 1036, 1037-38, 1044 (9th Cir. 1976) (similar); City of Davis
+v. Coleman, 521 F.2d 661, 674-77 (9th Cir. 1975) (building highway interchange is an "essential catalyst" of planned nearby
+industrial development); Mullin v. Skinner, 756 F. Supp. 904, 921-23 (E.D. N.C. 1990) (building improved bridge to island
+will likely spur residential and commercial development on island). 
+Further, the factual context of the transmission line at issue here is materially different from the lines involved in Port of
+Astoria, Oregon v. Hodel and Sierra Club v. Hodel, relied upon by appellant.  (SOR at 18-19.)  In the cited cases the courts
+held that since the lines were indispensable factual prerequisites for construction/operation of the proposed private facilities,
+the Federal agency was required to consider the impacts of those facilities in the environmental review of the impacts of the
+lines.  See 595 F.2d at 477; 544 F.2d at 1044; see also National Forest Preservation Group v. Butz, 485 F.2d 408, 411-12 (9th
+Cir. 1973).  The instant case is more akin to James Shaw in which we held that BLM was not required to consider the
+indirect effects of development of a private subdivision in an EA concerning a proposal to build an access road across public
+lands to the proposed subdivision since the development would very likely proceed even if the road right-of-way were not
+granted.  130 IBLA at 114-15. 
+As appellant notes, NEPA also mandates consideration in an EA of the cumulative impact of proposed actions.  40
+C.F.R. § 1508.25(c).  Cumulative impact is defined as:  
+[T]he impact on the environment which results from the incremental impact of the action when added to other past,
+present, and reasonably foreseeable future actions regardless of what agency (Federal or non-Federal) or person
+undertakes such other actions.  Cumulative impacts can result from individually minor but collectively significant
+actions taking place over a period of time. 
+40 C.F.R. § 1508.7.  As appellant notes, this regulation invokes consideration of the effects of the proposed action when
+added to the impact of reasonably foreseeable future actions of others, including private parties such as PDAI.  It has been
+held that the obligation to examine the incremental impact of the Federal action when added to the past, present, and
+reasonably foreseeable future actions of others does not require that the impact of the actions of other parties be weighed in
+assessing the significance of the Federal agency's actions, but rather that the marginal impact of the Federal agency's actions
+be weighed.  Landmark West! v. United States Postal Service, 840 F. Supp. 994, 1010-11 (S.D.N.Y. 1993), aff'd, 41 F.3d
+1500 (2d Cir. 1994).  In this respect, appellant has failed to show error in the BLM analysis.  We, therefore, conclude that
+BLM did not, by
+152 IBLA 8
+[[page 9]]
+IBLA 98-66 
+failing to fully consider the environmental impacts of the mine reopening in its EA, improperly limit the scope of its
+environmental analysis, in violation of 40 C.F.R. § 1508.25. 
+Appellant also challenges the adequacy of BLM's consideration of a range of alternatives to the proposed transmission
+line which would have a lesser impact on the environment.  Particularly, appellant contends BLM should have conducted a
+more complete analysis of alternatives such as on-site generation of power and that BLM should have developed detailed
+data for comparison purposes.  Appellant argues that the mere fact that PDAI would actually undertake to secure electricity
+by means other than the proposed 230 kV transmission line, in order to go forward with its proposed mining operation,
+renders these other means reasonable alternatives which BLM was required, by section 102(2)(E) of NEPA, to consider in its
+EA.  (Response to BLM Motion to Dismiss at 11.) 
+[3]  Under section 102(2)(E) of NEPA, BLM is required to consider a reasonable range of alternatives which includes
+the no-action alternative.  Southern Utah Wilderness Alliance, 122 IBLA 334, 338-40 (1992).  Thus, BLM is required by
+section 102(2)(E) of NEPA, as amended, 42 U.S.C. § 4332(2)(E) (1994), to consider "appropriate alternatives" to the
+proposed action, as well as their environmental consequences.  See 40 C.F.R. §§ 1501.2(c) and 1508.9(b); City of Aurora v.
+Hunt, 749 F.2d 1457, 1466 (10th Cir. 1984); Howard B. Keck, Jr., 124 IBLA 44, 53 (1992), aff'd, Keck v. Hastey, Civ. No.
+S92!1670!WBS!PAN (E.D. Cal. Oct. 4, 1993).  Such alternatives should include reasonable alternatives to a proposed
+action, which will accomplish the intended purpose, are technically and economically feasible, and yet have a lesser impact. 
+40 C.F.R. § 1500.2(e); Headwaters, Inc. v. BLM, 914 F.2d 1174, 1180-81 (9th Cir. 1990); City of Aurora v. Hunt, 749 F.2d
+at 1466-67; Howard B. Keck, Jr., 124 IBLA at 53. 
+Appellant has not established that BLM failed to consider reasonable alternatives to the proposed action.  The EA
+reflects that BLM considered the use of on-site generation of power for the mining operation but rejected it because of the
+substantially greater costs, water requirements, and air emissions involved with this alternative.  (EA at 2-7; Letter to BLM
+from Phelps Dodge Morenci, Inc., dated May 23, 1997.)  This alternative was eliminated from further consideration for these
+reasons and appellant has not shown that this was unreasonable.  The alternative of building the new transmission line on the
+same right-of-way as the existing 69 kV transmission line was considered and rejected because it would require taller
+structures that would conflict with ground clearance requirements for military aircraft and because construction and
+maintenance of the new line in such close proximity would require temporarily deenergizing both lines, causing power
+outages in Ajo.  (EA at 2-8.)  Alternative routes for the proposed 230 kV transmission line were also considered and rejected
+because of greater impacts resulting from failure to follow the designated utility corridor and greater costs.  Id.  Statutory and
+regulatory authority provides for designation of right-of-way corridors in order to minimize the adverse environmental
+impacts resulting from the proliferation of separate
+152 IBLA 9
+[[page 10]]
+IBLA 98-66 
+rights-of-way.  Section 503, FLPMA, 43 U.S.C. § 1763 (1994); 43 C.F.R. § 2806.1(a); see Paul Herman, 146 IBLA 80, 104
+(1998) (deviation from a right-of-way corridor may be authorized when a good reason is shown.)  Thus, BLM consideration
+of alternatives to the proposed action was consistent with the regulatory policy to "[u]se the NEPA process to identify and
+assess the reasonable alternatives to proposed actions that will avoid or minimize adverse effects of these actions upon the
+quality of the human environment."  40 C.F.R. § 1500.2(e); see Great Basin Mine Watch, 148 IBLA 1, 7-8 (1999); National
+Wildlife Federation, 145 IBLA 348, 375 (1998). 
+Appellant also asserts that BLM failed, in its EA, to adequately address the impact of construction activities on the
+Federally-listed endangered Sonoran pronghorn antelope (Antilocapra americana sonoriensis), whose habitat would be
+crossed by the transmission line, thus violating section 102(2)(C) of NEPA.  (SOR at 1-2.)  We find no violation.  BLM
+considered the impact in the EA and in a September 10, 1997, Revised Biological Evaluation, concluding that, while there
+might be an effect on the antelope, any and all activity associated with construction, operation, and maintenance of the
+transmission line would not, given adopted project design features and mitigation measures, adversely affect the antelope. 
+(EA at 3-9, 4-7; Revised Biological Evaluation, dated Sept. 10, 1997, at 4-6.)  In particular, BLM has provided that no
+construction activities will occur while antelope are close enough to be disturbed thereby, as determined by a PDAI wildlife
+biologist who will be present each day at the site of such activities.  (DR/FONSI at 1.)  The Fish and Wildlife Service
+(FWS), which was informally consulted by BLM pursuant to section 7 of the Endangered Species Act of 1973, as amended,
+16 U.S.C. § 1536 (1994), and 50 C.F.R. §§ 402.12(k) and 402.13(a), concurred in BLM's conclusion.  (Letter to BLM from
+FWS, dated Sept. 12, 1997, at 2.)  Appellant has failed to demonstrate any error in BLM's assessment of the anticipated
+impacts of right-of-way activity on the antelope, in terms of its underlying facts or analysis, or in BLM's ultimate conclusion
+of no adverse effect. 
+Appellant has simply not carried its burden to demonstrate, with objective proof, that BLM failed to adequately consider
+a substantial environmental problem of material significance to the proposed action or otherwise failed to abide by section
+102(2)(C) of NEPA.  Southern Utah Wilderness Alliance, 127 IBLA at 350, 100 I.D. at 380; Red Thunder, Inc., 117 IBLA at
+175, 97 I.D. at 267; Sierra Club, Inc., 92 IBLA at 303.  The fact that appellant may have a differing opinion about likely
+environmental impacts or prefers that BLM take another course of action does not show that BLM violated the procedural
+requirements of NEPA.  San Juan Citizens Alliance, 129 IBLA 1, 14 (1994). 
+To the extent that they have not been expressly or impliedly addressed in this decision, all other grounds of error asserted
+by appellant are rejected on the ground that they are not supported by the record or the law. 
+152 IBLA 10
+[[page 11]]
+IBLA 98-66 
+Accordingly, pursuant to the authority delegated to the Board of Land Appeals by the Secretary of the Interior, 43 C.F.R.
+§ 4.1, the decision appealed from is affirmed and the stay previously entered is vacated. 
+__________________________________
+C. Randall Grant, Jr. 
+Administrative Judge 
+I concur: 
+_________________________________
+Will A. Irwin
+Administrative Judge 
+152 IBLA 11
+[[page 12]]

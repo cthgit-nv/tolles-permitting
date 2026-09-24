@@ -1,0 +1,2272 @@
+SOURCE: https://www.oha.doi.gov/IBLA/Ibladecisions/181IBLA/181IBLA325.pdf RETRIEVED: 2026-09-24
+[Full decision text, pypdf extraction; [[page N]] markers are PDF pages, not reporter pages]
+
+[[page 1]]
+CENTER FOR BIOLOGICAL DIVERSITY, ET AL. 
+181 IBLA 325                                                       Decided January 10, 2012 
+
+[[page 2]]
+United States Department of the Interior
+Office of Hearings and Appeals
+Interior Board of Land Appeals
+801 N. Quincy St., Suite 300
+Arlington, VA 22203
+CENTER FOR BIOLOGICAL DIVERSITY, ET AL. 
+IBLA 2010-86 Decided January 10, 2012 
+Appeal of a record of decision by the Ely (Nevada) District Office, Bureau of
+Land Management, approving the construction, operation, and maintenance of a
+water conveyance system known as the Lincoln County Land Act Groundwater
+Development and Utility Right-of-Way Project in order to provide water resources
+to Lincoln County, Nevada.  N-79734.
+Affirmed. 
+1. Administrative Procedure: Standing--Appeals: Standing--
+Environmental Quality: Environmental Statements--
+National Environmental Policy Act of 1969:
+Environmental Statements--Rules of Practice: Appeals:
+Standing to Appeal
+In order to show organizational standing, an appellant
+group must show that the interests it seeks to protect are
+germane to its organizational purposes, that it has
+suffered redressible injuries from BLM’s decisions, and
+that one or more of its members has an interest in their
+own right that is or may be adversely affected by the
+decision. 
+2. Administrative Procedure: Hearings--Environmental
+Quality: Environmental Statements--National
+Environmental Policy Act of 1969: Environmental
+Statements--Rules of Practice: Hearings
+The Board will not order a hearing under 43 C.F.R.
+§ 4.415 when the record does not present a material issue
+of fact requiring resolution based upon testimony and
+evidence in order for the Board to decide the appeal. 
+Where the appeal involves issues concerning whether
+BLM took a “hard look” under NEPA, the Board will deny
+a request for a hearing for purposes of resolving matters
+181 IBLA 325
+[[page 3]]
+IBLA 2010-86
+of scientific disagreement regarding data and
+methodology. 
+3. Environmental Quality: Environmental Statements--
+National Environmental Policy Act of 1969:
+Environmental Statements
+  
+BLM properly approves construction and operation of a
+groundwater development and utility right-of-way project
+that includes a buried water pipeline and ancillary
+infrastructure, following preparation of an EIS, where, in
+accordance with section 102(2)(C) of NEPA, 42 U.S.C.
+§ 4332(2)(C) (2006), it has taken a hard look at the
+potentially significant environmental consequences of
+doing so.  BLM’s decision will be affirmed where the
+appellants do not demonstrate by a preponderance of
+the evidence that BLM failed to consider a substantial
+environmental problem of significance to the proposed
+action, or otherwise failed to abide by the statute.
+4. Environmental Quality: Environmental Statements--
+National Environmental Policy Act of 1969:
+Environmental Statements
+A rule of reason applies when reviewing new
+information regarding a proposed action analyzed in an
+EIS and considering whether a supplemental EIS is
+required.  A supplemental EIS is not required when new
+information based upon changed circumstances does not
+show that the proposed action will affect the quality of
+the human environment in a significant manner or to a
+significant extent not already considered.
+5. Environmental Quality: Environmental Statements--
+National Environmental Policy Act of 1969:
+Environmental Statements
+BLM’s alternatives analysis will be upheld where an
+appellant fails to demonstrate that a reasonable
+alternative existed and was not considered, in addition to
+the proposed action and no action alternative, and where
+the record adequately documents other alternatives that
+were identified and the reasons for eliminating them from
+181 IBLA 326
+[[page 4]]
+IBLA 2010-86
+further consideration.  In challenging an EIS for
+construction and operation of a groundwater
+development and utility right-of-way project on the basis
+that the alternatives analysis should have included a
+project that would transport less water, appellants must
+point to likely impacts not already considered in
+connection with the alternatives analyzed in the EIS
+because they will accomplish the intended purpose of the
+proposed action, are technically and economically
+feasible, and will avoid or minimize adverse effects. 
+6. Environmental Quality: Environmental Statements--
+National Environmental Policy Act of 1969:
+Environmental Statements
+An EIS does not violate NEPA for failure to adequately
+consider impacts and failure to treat as connected actions
+a groundwater development project and a natural gas and
+water fueled power plant that will share a portion of an
+underground water pipeline and related infrastructure,
+where the potential environmental impacts of the
+respective projects have been studied in separate EISs and
+the actions are independent, i.e., where either action will
+proceed whether the other action proceeds or not.
+7. Environmental Quality: Environmental Statements--
+National Environmental Policy Act of 1969:
+Environmental Statements  
+When making a determination as to whether a proposed
+action will have a significant effect on the human
+environment, the cumulative effects of the proposed
+action and other actions not connected with the proposed
+activity must be taken into consideration.  A cumulative
+impact is one which results from the incremental impact
+of the action when added to other past, present, and
+reasonably future actions and can result from individually
+minor but collectively significant actions taking place over
+time.
+8. Environmental Quality: Environmental Statements--
+National Environmental Policy Act of 1969: Environmental
+Statements
+181 IBLA 327
+[[page 5]]
+IBLA 2010-86
+In considering the adequacy of an EIS, the Board will
+examine the mitigation measures proposed for
+ameliorating the environmental consequences of the
+proposed action.  The EIS must contain a reasonably
+thorough discussion that explains the effectiveness of the
+specific mitigation measures.
+APPEARANCES:  Sarah Uhlemann, Esq., Seattle, Washington, and Lisa T. Belenky,
+Esq., San Francisco, California, for the Center for Biological Diversity and other
+Appellants; Luke Miller, Esq., Office of the Regional Solicitor, U.S. Department of the
+Interior, Sacramento, California, for the Bureau of Land Management; John T.
+Lemaster, Esq., Jenny J. Winkler, Esq., and Sean T. Hood, Esq., Phoenix, Arizona, and
+James R. Cavilla, Esq., and Karen Peterson, Esq., Carson City, Nevada, for Vidler
+Water Co., Inc. (Intervenor); Dylan V. Frehner, Esq., Pioche, Nevada, for Lincoln
+County Water District (Intervenor).  
+OPINION BY ADMINISTRATIVE JUDGE ROBERTS
+The Center for Biological Diversity (CBD), the National Parks Conservation
+Association (NPCA), Post Carbon Salt Lake, the Sierra Club–Toiyabe Chapter (Sierra
+Club), and Utah Physicians for a Healthy Environment (UPHE) (collectively,
+Appellants) have jointly appealed a January 8, 2010, decision by the Ely (Nevada)
+District Manager, Bureau of Land Management (BLM), approving the Record of
+Decision (ROD) for the Lincoln County Land Act Groundwater Development and
+Utility Right-of-Way Project (LCLA Project or the Project).1  See 75 Fed. Reg. 1408
+                                           
+1  At the request of counsel, Bristlecone Alliance and Citizens for Dixie’s Future were
+dismissed as parties to this action.  See Order, IBLA 2010-86 (May 12, 2010).  By
+order dated Mar. 18, 2010, the Board granted motions to intervene by the Lincoln
+County Water District (LCWD) and the Vidler Water Company, Inc. (VWC), co-
+applicants for the ROW permit.  They have filed an Answer to Appellants’ Statement
+of Reasons (SOR) in which they argue that the appeal should be dismissed for lack of
+standing (Intervenors’ Answer).  BLM has responded to the SOR and moved to
+dismiss the appeal for lack of standing (BLM’s Response).  Appellants submitted a
+response to the motions (Appellants’ Response), to which both BLM and the
+Intervenors filed replies (BLM’s Reply, Intervenors’ Reply).  By order dated Oct. 29,
+2010, the Board granted Appellants’ request to file a reply brief and allowed filing a
+further response, which they have done (Appellants’ Consolidated Brief).  The Board’s
+order allowed BLM and the Intervenors to submit responses to Appellants’ pleadings,
+and to address issues related to placement of water wells and groundwater
+connectedness, and they have done so (BLM’s Response to Order, Intervenors’
+(continued...)
+181 IBLA 328
+[[page 6]]
+IBLA 2010-86
+(Jan. 11, 2010).  Briefly stated, the decision approves issuance of a right-of-way
+(ROW) permit to LCWD for the construction, operation, and maintenance of 73 miles
+of a buried water pipeline, a fiber optic line to be placed in the same trench, and
+73 miles of electrical transmission and distribution lines.  ROD at unpaginated
+(unp.) 3.  The pipeline would be used to convey up to 23,820 acre-feet of
+groundwater per year (AFY) to the LCLA Development Area just north of Mesquite,
+Nevada, to be pumped from wells in the Tule Desert and Clover Valley Hydrographic
+Basins.  ROD at unp. 1.  The ROW grant is to be issued under the Lincoln County
+Land Act of 2000 (LCLA), Pub. L. No. 106-298, 114 Stat. 1046 (2000), the Lincoln
+County Conservation, Recreation, and Development Act of 2004 (LCCRDA),
+Pub. L. No. 108-424, 118 Stat. 2403 (2004), and Title V of the Federal Land Policy
+and Management Act of 1976 (FLPMA), 43 U.S.C. §§ 1761-1771 (2006).
+  
+BLM’s decision was based upon a final environmental impact statement
+(FEIS) dated May 2009 prepared pursuant to section 102(2)(C) of the National
+Environmental Policy Act of 1969 (NEPA), 42 U.S.C. § 4332(2)(C) (2006).  The
+LCCRDA specified that, before granting an ROW for the LCLA Project, the
+Department was to comply with NEPA “including the identification and consideration
+of potential impacts to fish and wildlife resources and habitat.”  Pub. L. No. 108-424,
+§ 301(b)(3), 118 Stat. at 2413; see FEIS at 1-3.  Appellants argue on numerous bases
+that the FEIS prepared by BLM prior to issuance of the ROD fails to meet the
+requirements of NEPA.2   
+I.  BACKGROUND 
+A.  Events Preceding the ROW Application
+In 1998, Lincoln County (LC) and VWC (LC/VWC) filed application
+Nos. 64692 and 64693 (subsequently modified by application No. 66932) with
+                                           
+1 (...continued)
+Response to Order).  In addition, the order directed the parties to supplement the
+Administrative Record (AR) as necessary regarding well placement within the
+Project area.
+2  The AR consists of eight notebooks of documents to which BLM has assigned
+unique identifying numbers and a copy of the FEIS labeled as volume eight.  Except
+for the ROD and FEIS, documents will be cited by their BLM-assigned numbers.  In
+compiling the AR, BLM became aware of information concerning the location of an
+archeological site, a matter usually not subject to disclosure; BLM accordingly
+prepared modified documents for release to the parties.  See 16 U.S.C. § 470hh(a)
+(2006); 43 C.F.R. § 7.18.  On Nov. 9, 2010, BLM filed a request that the Board limit
+disclosure of the information.  BLM’s request is granted.
+181 IBLA 329
+[[page 7]]
+IBLA 2010-86
+the Nevada State Engineer (NSE) seeking to extract approximately 14,480 AFY from
+the Tule Desert Hydrographic Basin, with half that volume to be used to supply the
+Toquop Energy Project (TEP), and the remainder to be used for municipal purposes
+in Lincoln County.  FEIS at 1-6; see FEIS App. A1 at 1-2, 8-9 (NSE Ruling No. 5181).3 
+The TEP was to be a 1,100-megawatt (MW) natural gas-fired and water-cooled
+facility at a site approximately 50 miles south-southeast of Caliente, 12 miles north-
+northwest of Mesquite, and 70 miles northeast of Las Vegas, on land crossed by
+existing natural gas and electric power transmission lines.4  The proposal included
+drilling 15 wells in the Tule Desert Hydrographic Basin, with the anticipated
+production of approximately 7,000 AFY to be conveyed to the power plant by
+a 24-inch-diameter, 12.5-mile pipeline.  TEP 2003 FEIS at ES-7, 2-14, 2-24 to 2-26, 4-
+1.
+The National Park Service (NPS) protested LC/VWC’s applications, asserting
+that the proposed groundwater withdrawals risked adversely impacting springs in the
+Lake Mead National Recreation Area and depleting flows of the Virgin River within
+it.  FEIS App. A2 at 1-2 (Stipulations for Dismissal of Protest).  The protests were
+resolved in 2002 by stipulations under which the NPS withdrew its protests and
+LC/VWC adopted a plan for the monitoring, management, and mitigation of
+impacts resulting from extracting groundwater in the Tule Desert.  FEIS App. A2.  
+The NSE addressed LC/VWC’s applications in Ruling No. 5181, dated
+November 26, 2002.  FEIS App. A-1.  The NSE stated that “additional study is needed
+before [it could] make a final determination on the entire quantity applied for under
+these applications,” due to the fact that the applicants were “requesting a quantity of
+water far in excess of the established perennial yield and due to the uncertainties of
+                                           
+3  The applications are not part of the record before the Board.  Although the FEIS
+credits them to LCWD, NSE Ruling No. 5181 appears to correctly state that they were
+filed by LC on its own behalf.  FEIS App. 1 at 1.  The LCWD was not created as a
+political subdivision of the State of Nevada for the purpose of providing water in
+Lincoln County until 2003.  2003 Nev. Stat. Ch. 474; see FEIS at 1-4.
+4  A Notice of Intent (NOI) to prepare an EIS on the TEP was published in the Federal
+Register on July 22, 2001.  An NOI to amend the Caliente Management Framework
+Plan and prepare an EIS for the Toquop Land Disposal Amendment to the Caliente
+Management Framework Plan/Toquop Energy Project was published in the Federal
+Register on Nov. 7, 2001.  In March 2003, BLM issued a Proposed Toquop Land
+Disposal Amendment to the Caliente Management Framework Plan and Final
+Environmental Impact Statement for the Toquop Energy Project (TEP 2003 FEIS).  The
+description of the power plant is from FEIS at 1-2 and 2-10 and Executive Summary
+(ES) at 1.
+181 IBLA 330
+[[page 8]]
+IBLA 2010-86
+the carbonate-rock aquifer system.”5  Id. at 11.  In particular, the NSE required the
+studies to include a “recharge analysis that is peer reviewed and accepted by the
+United States Geological Survey [USGS] in conjunction with the [Nevada]
+Department of Conservation and Natural Resources, Division of Water Resources,
+and studies of the impacts of pumping the amount granted in this ruling.”  Id.
+While LC/VWC’s applications were pending before the NSE, Congress
+enacted the LCLA which authorized the sale by competitive bidding of 13,500 acres
+of public lands in Lincoln County to allow the City of Mesquite, located in Clark
+County about two miles south of the Lincoln County line, to expand to the north. 
+Pub. L. No. 106-298, §§ 2(a)(3), 4(a)(1), 114 Stat. 1046, 1047 (2000); see 43 C.F.R.
+§ 2711.3-1.  The sale of three parcels totaling 6,478 acres was challenged in
+the U.S. District Court for the District of Nevada, which concluded that an EIS
+was required to assess whether impacts on the desert tortoise would be significant,
+to develop a monitoring plan and mitigation measures for that species, to more
+fully address reasonably foreseeable cumulative impacts of the sale, and to consider
+a wider range of alternatives.  Western Land Exchange Project v. BLM, 315 F. Supp. 2d
+1068, 1072, 1092, 1094, 1096-97 (D. Nev. 2004).6  As of the date of the District 
+Court’s decision, BLM had yet to transfer at least 10,540 acres of additional
+land to the City of Mesquite as authorized by the Mesquite Lands Act of 1986, 
+Pub. L. No. 99-548, 100 Stat. 3061 (1986).  Id. at 1095.  The court noted that
+the various actions contemplated by BLM would, “[t]aken together, . . . open 
+                                           
+5  The NSE defines perennial yield as the “amount of usable water from an aquifer
+that can be economically withdrawn and consumed each year for an indefinite period
+of time.  Perennial yield cannot exceed the natural recharge to that aquifer and
+ultimately is limited to the maximum amount of discharge that can be utilized for
+beneficial use.”  AR 3.1.5 at 1 (citing http://water.nv.gov/WaterPlanning/wat-
+fact/define.cfm as accessed July 28, 2008); see FEIS at 3-41.
+6  The court enjoined sale and patenting of the lands at issue prior to completion of
+the EIS.  Western Land Exchange Project, 315 F. Supp. 2d at 1099.  Appeals to this
+Board, docketed as IBLA 2002-7 and IBLA 2002-29, were consolidated and later
+dismissed when BLM established that the parcels at issue had been patented on
+Nov. 19, 2003, and Aug. 8, 2005.  Order, Western Land Exchange Project, IBLA 2002-7
+(Oct. 16, 2007).  The FEIS refers to an auction of unspecified acreage held on Feb. 5,
+2005, and states that the lands in the LCLA Area “are currently undeveloped but are
+being planned by Lincoln County as a Planned Unit Development.”  FEIS at 1-4;
+see FEIS at 4-66. 
+181 IBLA 331
+[[page 9]]
+IBLA 2010-86
+36,747 acres for development and support a population in excess of
+200,000 residents.”7  Id.
+Also during this period, Toquop Energy, Inc. (TEI), filed its ROW application
+with BLM for the TEP, and BLM issued the TEP 2003 FEIS in March 2003.  On
+November 3, 2003, BLM issued an ROW permit (N-77484, N-77484-01, N-77484-02,
+N-77484-03), based upon a ROD issued previously in April 2003, authorizing the
+construction, maintenance, and operation of a 1,100 MW natural gas-fired, water-
+cooled power generating plant on 80 acres; the permanent use of an additional
+20 acres for a 1,300 linear foot overhead electric transmission line to the plant from
+the Navajo-McCullough Electric Transmission Line; a 2,400-foot-long 20-inch natural
+gas pipeline to the plant from the Kern River Gas Pipeline; and construction of an
+access road to the plant.  Intervenors’ Response, Ex. B; TEP 2003 FEIS at ES-6, ES-7,
+2-15 to 2-16.  An additional permit (N-77486, N-77486-01) granted a 30-foot wide
+ROW (45 acres) for the construction of a buried 12.5-mile, 24-inch water pipeline
+running from the Tule Desert Hydrographic Basin to the TEP power plant and an
+adjacent underground electric power line from the power plant to supply well pumps
+in the Tule Desert.  Intervenors’ Response, Ex. B; TEP 2003 FEIS at ES-8, 2-14, 2-25. 
+The proposal included drilling up to 15 wells in the Tule Desert Basin area to supply
+approximately 7,000 AFY to the power plant.  See TEP 2003 FEIS at ES-7, 2-14, 2-24. 
+In addition to addressing the sale of Federal lands in Lincoln County,
+the LCCRDA, enacted in 2004, mandated that, notwithstanding requirements
+of 43 U.S.C. §§ 1711 and 1763, “the Secretary . . . shall establish on public land a 
+2,640-foot wide utility corridor for utilities in Lincoln and Clark County, Nevada, as
+generally depicted on a map entitled ‘Lincoln County Conservation, Recreation, and
+Development Act’, and dated October 1, 2004.”  Pub. L. No. 108-424, § 301(a)(1),
+118 Stat. at 2413.  Subject to valid existing rights, the legislation required the
+Secretary to grant to the Southern Nevada Water Authority (SNWA) and the LCWD
+“nonexclusive rights-of-way to Federal land in Lincoln and Clark County, Nevada for
+any roads, wells, well fields, pipes, pipelines, pump stations, storage facilities, or
+other facilities and systems that are necessary for the construction and operation of a
+water conveyance system, as depicted on the map.”  Id. § 301(b)(1).  The LCCRDA
+specified that the Department must comply with NEPA before issuing any ROWs, and
+required the Secretary, acting through the USGS and other agencies, to “conduct a
+                                           
+7  The FEIS provides varying reports as to population growth.  It states that indirect
+socioeconomic impacts would include the addition of 24,000 dwelling units and an
+increase of 60,000 residents, a 14-fold increase over Lincoln County’s 2005
+population.  FEIS at 4-49.  However, elsewhere it puts the number of new dwellings
+in the LCLA Area at 44,000 and projects the population of Lincoln County to increase
+from 4,165 in 2000 to over 345,000 by 2040.  FEIS at 4-66, 4-77; see also FEIS
+at 3-80 (estimated population of 4,391 in 2005).
+181 IBLA 332
+[[page 10]]
+IBLA 2010-86
+study to investigate ground water quantity, quality, and flow characteristics in the
+deep carbonate alluvial aquifers of White Pine County, Nevada, and any groundwater
+basins that are located in White Pine County, Nevada, or Lincoln County, Nevada,
+and adjacent areas in Utah.”  Id. § 301(e)(1).
+B.  The ROW Application and Related History
+LCWD and VWC filed their ROW application with BLM on February 9, 2005 
+(N-79734).  AR 1.1.1.  The application contemplated two projects.  One, the Kane
+Springs Valley Groundwater Development Project (Kane Springs Project), was to
+consist of seven water production wells and up to 13.8 miles of a water transmission
+pipeline in a 20-foot wide easement with accompanying electric and communication
+lines.  The other, the LCLA Project, was to have eight 16-inch diameter water
+production wells in the South Tule Desert Basin in an area previously permitted for
+the TEP power plant, and a 24-inch water transmission pipeline in a 30-foot wide
+easement that would extend 12.9 miles parallel to the approved pipeline for the TEP
+and then extend eastward an additional 7.3 miles to the LCLA Area.  The ROW
+corridor would also be used for power transmission lines and communication lines.  
+Subsequently, the two projects were made the subject of separate applications.  See
+AR 1.5.5, 3.2.1.1 through 3.2.1.5.  
+In March 2006, BLM published in the Federal Register separate notices of
+intent to prepare separate EISs for the Kane Springs Project and the LCLA Project. 
+71 Fed. Reg. 16340 (Mar. 31, 2006).  The eight groundwater production wells were
+described as located in both the Tule Desert Hydrographic Basin and further north in
+the Clover Valley Hydrographic Basin.  Id. at 16341.  The notice, however, also stated
+that the “proposed production wells would be located in the well field area
+authorized for the [TEP], which is a 1100 MW gas-fired powerplant[,]” and the
+“water pipeline would follow the same alignment as the approved water pipeline for
+the power plant” and then “proceed to the LCLA development area.”  Id.  CBD
+submitted comments on behalf of itself and other organizations, including the Sierra
+Club, which submitted additional separate comments.  AR 5.4.2, SC32B and SC35B;
+AR 5.4.3, SC16L, SC17L, and SC19L.
+A year later, in March 2007, LCWD submitted an expanded Plan of
+Development (POD) for the LCLA Project.  AR 1.3.1.  It specified that 15 wells would
+be drilled in the Tule Desert to produce 9,340 AFY and an additional 15 wells would
+be drilled in Clover Valley with an anticipated production of 14,480 AFY.  AR 1.3.1
+at 1-2, 26.8  The wells in the Tule Desert would be drilled to depths of 2,000 to
+                                           
+8  The FEIS refers to an additional six applications the LCWD filed with the NSE in
+March 2007, but does not identify whether they are for wells in the Tule Desert or
+(continued...)
+181 IBLA 333
+[[page 11]]
+IBLA 2010-86
+2,500 feet below the surface and are described as drawing water from a regional
+carbonate rock aquifer, while wells in Clover Valley would apparently be drilled to
+shallower depths of 1,200 to 1,500 feet below the surface.  AR 1.3.1 at 26, AR 1.4.1
+at 4-8.  In addition, the POD specified that the pipelines would consist of two
+collection pipelines in Clover Valley totaling approximately 24 miles, a main
+transmission pipeline of approximately 47 miles, and approximately 30 miles of
+lateral pipelines to the wells; each pipeline would have a 60-foot wide permanent
+easement and a 100-foot wide temporary construction easement.  AR 1.3.1 at 8, 11. 
+Both BLM and the Environmental Protection Agency (EPA) published notices of the
+availability of a Draft EIS (DEIS) for the LCLA Project in the Federal Register on
+May 23, 2008.  73 Fed. Reg. 30099, 30148; see AR 6.1 (DEIS).
+On June 24, 2008, Peter Mock Groundwater Consulting, Inc., completed a
+report entitled Projection of Groundwater Impacts in Response to Proposed Pumping
+from Beneath the Tule Desert in Southeastern Nevada Using MODFLOW-2000 (the
+Mock Report), examining the projected impacts of pumping 9,340 AFY from 6 wells
+in the Tule Desert.  The Mock Report found that “[t]he Paleozoic carbonate system
+beneath the Tule Desert appears to be adequate to produce this amount of
+groundwater and the impacts do not appear to reach surface water discharge points
+of interest in the model area in significant magnitudes.”  AR 1.4.4 at 21-22
+(Version 3).  The report was one of five documents reviewed by the USGS in 
+Open-File Report 2008-1354 as called for by NSE Ruling No. 5181.  AR 3.1.5 at 1, 3,
+17.  The USGS criticized the Mock Report because “little attempt was made to
+calibrate the model” in order to be “more accurate as a predictive tool and useful in
+terms of understanding the conceptualization of the ground-water flow system in the
+Tule Desert” by, among other matters, modifying “input data so the model more
+closely matches measured ground-water levels and flows.”  AR 3.1.5 at 14 (citation
+omitted).
+The USGS also reviewed a report dated January 8, 2008, by Daniel B.
+Stephens & Associates, Inc., entitled Mean Annual Recharge for the Tule Desert
+Hydrographic Basin Lincoln County, Nevada (DBS Report).  AR 3.4.3.1.  The
+DBS Report reviewed prior studies and evaluated various methods for estimating
+groundwater recharge rates and 
+determined that groundwater recharge originating from within the Tule
+Desert basin ranges from roughly 3,500 to 10,000 acre-feet per year
+(ac-ft/yr) by a variety of techniques and with a range of different
+precipitation rates (Table ES-1).  Most of the analyses fall in the range
+                                          
+8 (...continued)
+the Clover Valley.  It is unclear whether the applications include the 30 wells
+addressed by the FEIS.  FEIS at 3-41.
+181 IBLA 334
+[[page 12]]
+IBLA 2010-86
+of about 4,000 to 8,000 ac-ft/yr, centering on about 6,000 ac-ft/yr. 
+Additional data collection may increase the estimated recharge.  The
+recharge rates calculated in this investigation are greater than the value
+previously predicted in the reconnaissance investigation, 2,100 ac-ft/yr.
+3.4.3.1 at ES-1 (citation omitted).
+On April 29, 2009, the NSE issued Ruling No. 5986.  In that Ruling, the NSE
+stated that the recharge data presented in the DBS Report “are rigorous
+investigations into the mechanisms involved in ground-water recharge, and represent
+a significant advancement in the understanding of precipitation and recharge in the
+Tule Desert”; however, the NSE found that DBS’ investigations were “of a regional
+nature and do not adequately meet the goal” of NSE Ruling No. 5181 to “provide
+additional studies to demonstrate additional recharge in the Tule Desert.”  Ruling No.
+5986 at 14.  The NSE concluded that “Applicant’s reported recharge estimates of
+3,900 to 8,000 afa [acre-feet annually], with an average of 5,400 afa are higher than
+the provided data supports,” and determined “that ground-water recharge in the Tule
+Desert Hydrographic Basin, as supported by the available data, is likely in the range
+of 2,500 to 5,000 afa.”  Id. at 15.  The NSE also noted that the USGS had criticized
+the impacts analysis of the Mock Report because it was not calibrated due to a lack of
+data, but, nevertheless, found that the model employed in the Mock Report “provides
+a reasonable, first order estimate of drawdown due to pumping in the Tule Desert.” 
+Id. at 16.  The NSE concluded that by limiting pumping to the perennial yield, as
+shown in the Mock Report model, there would “not be unreasonable impacts to
+existing water rights in adjacent basins, including the Virgin River Valley.”  Id.  The
+Ruling then stated that “the perennial yield of the Tule Desert Hydrographic Basin is
+2,500 acre-feet, which is equal to one-half of the upper range of the basin recharge of
+5,000 afa.”  Id.  The NSE found that there were 396 AFY of unappropriated water in
+the Tule Desert Hydrographic Basin and awarded that amount to LCWD and VWC. 
+Id. at 16, 20. 
+LCWD and VWC appealed Ruling No. 5986 in the Nevada courts and also filed
+an action against the NSE in Federal court.  The parties resolved the litigation by a
+Settlement Agreement dated April 15, 2010.  Intervenors’ Response, Ex. A.  It
+provides that:
+The State Engineer shall grant Application 64692 in the amount
+of 7,240 acre feet annually.  The total combined duty of Permits 64692
+and 66932 shall not exceed 9,340 acre-feet annually.  However, the
+State Engineer finds, in order to gather the necessary information to
+more accurately determine the additional water available to
+appropriate under N.R.S. § 533.370, development of water will occur in
+stages in
+181 IBLA 335
+[[page 13]]
+IBLA 2010-86
+conjunction with the updated June 2005 Monitoring Plan approved by
+the State Engineer.
+Id. at 3; see FEIS App. A3 (June 2005 Monitoring Plan).  Accordingly, the Settlement
+Agreement provided that “[t]he initial use of water under Permit 64692 is limited
+to 2,900 acre-feet annually (a total of 5,000 acre-feet annually including permit
+66932).”  Intervenors’ Response, Ex. A at 3.  Prior to obtaining additional water,
+LCWD and VWC are to “calibrate to actual field conditions the Tule Desert
+Goundwater Flow Model” provided in the Mock Report and collect additional
+hydrologic data throughout the Tule Desert, to be submitted at least annually to the
+NSE.  The parties are to meet annually to review the data and LCWD and VWC “may
+at any time seek the use of additional water up to the full amount under Permit 64692
+to the extent that the additional studies and evidence demonstrate to the satisfaction
+of the State Engineer that additional water is available for appropriation under
+N.R.S. § 533.370.”  Id. at 3-4 (emphasis added).  In the meantime, LCWD and VWC
+are to implement a staged pumping program over 8 years, pumping at least an
+average of 2,500 acre-feet annually and a minimum of 2,000 acre-feet.  Id. at 4. 
+C.  The ROD and the Scope of the Appeal
+BLM issued the ROD on January 8, 2010, and published its notice of
+availability of the ROD in the Federal Register on January 11, 2010.  75 Fed. Reg.
+1408.  The ROD states that the LCLA ROW grant will consist of three components: 
+(1) approximately 73 miles of a main water transmission pipeline and lateral
+pipelines in the Clover Valley within a 100-foot temporary construction ROW and a
+60-foot wide permanent ROW; (2) up to 73 miles of electrical transmission and
+distribution lines within a permanent 100-foot ROW; and (3) a fiber optic line to be
+placed within the same trench as the pipeline with its own 10-foot permanent ROW. 
+ROD at unp. 3.  In addition, the ROD states that a separate ROW will be issued for a
+15-mile natural gas pipeline running from the Kern River Natural Gas Pipeline
+following the water pipeline ROW to the LCLA Area.  Id.
+  
+The ROD notes that BLM had previously issued to LCWD a series of ROW
+grants for 9 exploration well sites in Clover Valley and 18 monitoring and test well
+sites in Tule Desert, along with 1 production well site.  ROD at unp. 2.  The FEIS
+reviews the environmental impacts of drilling up to 15 production wells within the
+“bounded well field area” in the Clover Valley and an additional 15 production wells
+in the “bounded well field area” of the Tule Desert.  See FEIS Map 2-1 (dotted red
+lines).  Thus, BLM defined the general well fields where any future production wells
+would be located.  Id.  In response to the Board’s October 29, 2010, order requesting
+additional briefing with regard to well location, BLM explained that the Board has
+previously allowed BLM to undertake an analysis of environmental impacts without
+identifying specific drilling sites and to later perform a site-specific evaluation of
+181 IBLA 336
+[[page 14]]
+IBLA 2010-86
+surface impacts when drill sites are identified.  BLM’s Response to Order at 8 (citing
+Biodiversity Conservation Alliance, 174 IBLA 1, 16-17 (2008) (involving oil and gas
+wells).9  Further, the FEIS included “in its impact analysis the total potential volume
+of water that the project proponent is seeking through the NSE.”  BLM’s Response to
+Order at 8; see Intervenors’ Response to Order at 7 (groundwater pumping, wellsites,
+and pipeline were component parts of the same project).
+II.  PROCEDURAL ISSUES
+Prior to turning to the merits of Appellants’ various arguments concerning the
+adequacy of BLM’s NEPA analysis, we will resolve two procedural matters.  First, BLM
+and the Intervenors have argued that the appeal should be dismissed for lack of
+standing.  Second, Appellants note that the Board’s October 29, 2010, order describes
+the issue of hydrological connectivity as “highly technical” and they request that, if
+the Board does not decide to set aside BLM’s decision and remand the case, it
+schedule an evidentiary hearing on factual issues.  Appellants’ Consolidated Brief
+at 8 n.7, 26.  BLM and the Intervenors object to a hearing.  BLM’s Response to
+Order at 3; Intervenors’ Response to Order at 13-17.
+                                           
+9  In its Oct. 29, 2010, order, the Board noted that approval to drill the 30 wells and
+to produce a specified quantity of water is the exclusive responsibility of the NSE, but
+that BLM must consent to their placement on Federal land.  The Board was
+concerned about “whether . . . these matters will be subject of future decisions based
+upon further NEPA review and possible appeals.”  Order, IBLA 2010-86, at 3.  In
+response to the Board’s order, BLM explained that, for the purpose of NEPA analysis
+of potential impacts, it identified a “bounded well field area” and analyzed “the
+environmental impacts of disturbing the total acres associated with the project” in the
+two hydrographic basins “while waiting to grant rights-of-way to particular sites
+within the bounded area of analysis” as allowed by NSE rulings.  BLM’s Response to
+Order at 5-6; see Map 2-1.  Consequently, while the “ROD does not grant rights-of-
+ways to all of the possible 30 production wells, and associated facilities,” the FEIS
+analyzes “the general environmental impacts on the portions of the Clover Valley and
+Tule Desert hydrographic basins which would include any necessary production wells
+and associated facilities.”  BLM’s Response to Order at 6; see also Intervenors’
+Response to Order at 4-6.  BLM points to the portion of the ROD, which states that
+various “well field elements” identified in the EIS would be “specifically identified by
+LCWD in future ROW applications which would then be reviewed and considered in
+subsequent NEPA analyses,” and that these could include well sites for which LCWD
+already has ROW permits.  BLM’s Response to Order at 6; ROD at unp. 2; see FEIS
+at ES-2.
+181 IBLA 337
+[[page 15]]
+IBLA 2010-86
+A.  Appellants, Except UPHE, Have Standing to Appeal
+[1]  As discussed in The Coalition of Concerned National Park [Service] Retirees,
+165 IBLA 79, 81-82 (2005), the Board’s rules governing standing have been codified
+at 43 C.F.R. § 4.410(a).  The regulation states that, except as otherwise provided,
+“[a]ny party to a case who is adversely affected by a decision of an officer of the
+Bureau of Land Management or of an administrative law judge shall have a right to
+appeal to the Board.”  To pursue an appeal from a BLM decision, an appellant must
+be a “party to a case” within the meaning of subsection 4.410(b) and be “adversely
+affected” by the decision within the meaning of subsection 4.410(d).  See Theodore
+Roosevelt Conservation Partnership, 178 IBLA 201, 206-07 (2009), and cases cited.  If
+either of the two requirements is not met, an appeal must be dismissed for lack of
+standing.  See, e.g., id.; Western Aggregates, LLC, 174 IBLA 280, 288-89 (2008);
+Colorado Environmental Coalition, 173 IBLA 362, 367-70 (2008) (citing Southern
+Utah Wilderness Alliance, 140 IBLA 341, 346 (1997)). 
+A party to a case “is one who has taken action that is the subject of the
+decision on appeal, is the object of that decision, or has otherwise participated in the
+process leading to the decision under appeal.”  43 C.F.R. § 4.410(b).  “A party to a
+case is adversely affected . . . when that party has a legally cognizable interest, and
+the decision on appeal has caused or is substantially likely to cause injury to that
+interest.”  43 C.F.R. § 4.410(d).  “The interest need not be an economic or a property
+interest; use of the land involved or ownership of adjoining land suffices, but mere
+interest in a problem or concern with the issues involved does not.”  Kendall’s
+Concerned Area Residents, 129 IBLA 130, 136-37 (1994).  A party may also establish
+that it is adversely affected by setting forth interests in resources or in other land or
+its resources, including adjacent land, “and showing how the decision has caused or
+is substantially likely to cause injury to those interests.”  Board of Comm’rs of Pitkin
+County, 173 IBLA 173, 178 (2007); The Coalition of Concerned National Park [Service]
+Retirees, 165 IBLA at 84, and cases cited.  Such interests may include the cultural,
+recreational, and aesthetic use and enjoyment of the affected public lands.  Colorado
+Environmental Coalition, 173 IBLA at 367; Board of Comm’rs of Pitkin County,
+173 IBLA at 178; The Coalition of Concerned National Park [Service] Retirees,
+165 IBLA at 80.
+When an organization appeals a BLM decision, it must demonstrate that one
+or more of its members has a legally cognizable interest in the subject matter of the
+appeal, coinciding with the organization’s purposes, that is or may be adversely
+affected by the decision.  Concerned Citizens for Nuclear Safety, 175 IBLA 142,
+146 (2008); The Coalition of Concerned National Park [Service] Retirees, 165 IBLA
+at 86-87; Legal and Safety Employer Research, Inc., 154 IBLA 167, 172-73 (2001);
+Laser, Inc., 136 IBLA 271, 273-74 (1996).  The Board has long held that it is the
+responsibility of an appellant to demonstrate the requisite elements of standing.
+181 IBLA 338
+[[page 16]]
+IBLA 2010-86
+See Board of Comm’rs of Pitkin County, 173 IBLA at 178 (citing Colorado Open Space
+Council, 109 IBLA 274, 280 (1989); Mark S. Altman, 93 IBLA 265, 266 (1986)).
+BLM and the Intervenors do not claim that any of the five Appellants fails to
+qualify as a party to the case.  A review of the record establishes that each is a party
+because it participated in the decisionmaking process by submitting comments in
+response to the published scoping notice or to the DEIS.  See AR 5.4.2 SC32B, AR
+5.4.3 SC 17L, AR 7.6.8, AR 7.6.13, AR 9.4.1, AR 9.4.2.  Instead, BLM and the
+Intervenors contend that the declarations submitted by members of the appellant
+organizations to show standing do not establish that each group qualifies as
+“adversely affected” by the decision on appeal.  BLM’s Response at 2-4; BLM’s Reply
+at 5-7; Intervenors’ Answer at 5-7.  In particular, the Intervenors contend, based on
+Summers v. Earth Island Institute, 555 U.S. 488, 494 (2009), that the declarations are
+insufficient because they “fail to describe specific, concrete plans to visit specific areas
+that will be directly impacted by the Project in the future.”  Intervenors’ Answer at 6;
+see Intervenors’ Reply at 5, 9-10.
+Intervenors’ reliance on Summers v. Earth Island Institute is somewhat
+exaggerated.  In responding to other arguments based upon U.S. Supreme Court
+decisions about standing, the Board has pointed out that it is not an Article III court,
+and has discussed the difference between judicial standing and administrative
+standing.  See The Coalition of Concerned National Park [Service] Retirees, 165 IBLA
+at 86-87; Marathon Oil Co., 139 IBLA 347, 354-56 (1997), and cases cited;
+Laser, Inc., 136 IBLA at 273, and cases cited; cf. Headwaters, Inc., 116 IBLA 129, 132
+(1990) (the Board does not conduct “judicial review” under Article III).  The Board,
+however, has recognized that judicial decisions can “provide a useful guide as to the
+types of interests which have been deemed relevant and the concerns which are
+properly considered in adjudicating administrative appeals.”  In re Pacific Coast
+Molybdenum, 68 IBLA 325, 332 (1982).   
+In regard to the Intervenors’ specific reason for citing Summers v. Earth Island
+Institute, the Board has never required a party to establish that it is adversely affected
+by identifying a specific plan to visit a particular site at a definite future date.  To the
+contrary, we have uniformly required parties to establish that they have used the
+land or area affected by a decision prior to issuance of the decision being appealed. 
+See The Center for Tribal Water Advocacy v. BLM, 173 IBLA 165, 171 (2007) (citing
+Center for Native Ecosystems, 163 IBLA 86, 90 (2004)).  An intent or plan to visit
+an area in the future may be relevant, but is neither required nor controlling. 
+See Theodore Roosevelt Conservation Partnership, 178 IBLA at 204, 208 (appeal
+dismissed because appellant had not established that any member “has used or in the
+future will use any of the protested parcels”).  The Intervenors misread Summers v.
+Earth Island Institute to require that a declaration supporting standing must specify a
+date when the affected land will be visited after construction of the Project appealed
+181 IBLA 339
+[[page 17]]
+IBLA 2010-86
+has begun, even though the Project’s proponent has not identified such a date.  See
+Intervenors’ Reply at 6, 8.  Neither judicial nor administrative standards for standing
+require such an assertion.
+BLM’s initial challenge to Appellants’ standing correctly pointed out that
+supporting declarations had been submitted on behalf of only CBD and Post Carbon
+Salt Lake.  BLM’s Response at 3; see Intervenors’ Answer at 5-6.  When responding to
+the motions to dismiss, Appellants provided additional declarations to support
+standing by the Sierra Club, NPCA, and UPHE.10  See Appellants’ Response at 3-4, 26,
+36; BLM’s Reply at 5, 7.  In reviewing the declarations, we are guided by the standard
+expressed in Santa Fe Northwest Information Council, Inc., 174 IBLA 93, 103 (2008): 
+“There must be colorable allegations of adverse effect and . . . a causal relationship
+between the action undertaken and the injury alleged,” and “[t]he appellant need not
+prove that an adverse effect will, in fact, occur as a result of the BLM action.” 
+Accord Fred E. Payne, 159 IBLA 69, 73 (2003); Missouri Coalition for the Environment,
+124 IBLA 211, 216 (1992); California State Lands Commission, 58 IBLA 213, 217
+(1981).
+Upon review of the declarations, the Board finds that CBD, Post Carbon Salt
+Lake, the Sierra Club, and NPCA each has standing to appeal and the motions to
+dismiss them as parties are denied.  The declaration of Dr. Brian Moench submitted
+on behalf of UPHE, however, does not withstand scrutiny.  He clearly has a personal
+and professional interest in the subject of air pollution and he believes that
+withdrawing groundwater in southeastern Nevada will negatively affect native
+vegetation, result in dust, and affect air quality throughout Utah.  See Moench
+Declaration, ¶¶ 2, 5, 6.  However, an intellectual or academic interest is not sufficient
+to support standing.  Although Moench has resided in Salt Lake City for 40 years and
+claims that he has “traveled across Utah and Nevada where the Lincoln Project will
+be constructed,” as well as other areas that will be affected by groundwater pumping,
+the only instance he offers is that he “traveled by car through Nevada on [his] way to
+and from college in California.”  Moench Declaration, ¶¶ 3, 19, 20.  His assertion of
+travel through an unspecified portion of Nevada during unidentified years is too
+broad and potentially too remote in time to support standing.  UPHE lacks
+standing to appeal and the motion to dismiss it as a party is granted, but the
+                                           
+10  BLM claims the additional declarations should not be accepted by the Board,
+and the Intervenors have filed a motion to strike them as untimely.  See BLM’s Reply
+at 7-8; Intervenors’ Motion to Strike and Intervenors’ Reply at 5 (“untimely
+declarations”).  The motion is denied.  Contrary to the arguments presented, neither
+the Board’s regulations nor its prior decisions limit a party to providing supporting
+documents with its notice of appeal or SOR.  See Intervenors’ Motion to Strike at 3.
+181 IBLA 340
+[[page 18]]
+IBLA 2010-86
+organization will remain as an amicus.  See Kendall’s Concerned Area Residents,
+129 IBLA at 136-37.
+B.  The Request for a Hearing is Denied
+[2]  The regulation at 43 C.F.R. § 4.415 (2009), which was in effect when
+Appellants filed their notice of appeal and SOR, provided that a party could request,
+within 30 days of when an answer is due, that an appeal be referred to an
+administrative law judge (ALJ) for the purpose of conducting a hearing on an issue
+of fact and that the Board had discretion to “on its own motion refer any case to an
+administrative law judge for a hearing on an issue of fact.”  See 75 Fed. Reg. 64655,
+64667 (Oct. 20, 2010) (revised regulation).11  Thus, a hearing, if one were
+appropriate, would be conducted by an ALJ, not the Board.  
+Appellants are asking the Board to refer this matter for a hearing for purposes
+of resolving issues that are the subject of scientific dispute.  What they overlook is the
+principle that our objective is not to decide whether an EIS or environmental
+assessment is based upon the best scientific data and methodology available or to
+resolve disagreements in the scientific community as to those issues.  See Wyoming
+Audubon, 151 IBLA 42, 51 (2000) (citing Greenpeace Action v. Franklin, 14 F.3d 1324,
+1333 (9th Cir. 1992), and Friends of Endangered Species, Inc. v. Jantzen, 760 F.2d
+976, 986 (9th Cir. 1985)).  Our concern is whether “BLM’s analysis of the available
+data was reasonable and provides an adequate basis for its decision.”  Wyoming
+Audubon, 151 IBLA at 51.  The Intervenors correctly assert that “Appellants’ attempt
+to turn this appeal into a battle of the experts, raising conflicting scientific opinions,
+is not a basis to challenge an EIS.”  Intervenors’ Response to Order at 14.  Further,
+“[w]hen specialists express conflicting views, an agency must have discretion to rely
+on the reasonable opinions of its own qualified experts.”  Id.; see Marsh v. Oregon
+Natural Resources Council, 490 U.S. 360, 378 (1989); Fred E. Payne, 159 IBLA at 77. 
+We agree with Intervenors that the EIS “‘need not achieve scientific unanimity on the
+desirability of proceeding with the proposed action.’”  Intervenors’ Response to Order
+at 14 (quoting Life of the Land v. Brinegar, 485 F.2d 460, 472-73 (9th Cir. 1973)
+(internal citations omitted), and citing Arizona Past and Future Foundation, Inc. v.
+Lewis, 722 F.2d 1423, 1428 (9th Cir. 1983)).
+While the subject of hydrological connectivity is a central concern to the
+parties herein, that concern does not present a material issue of fact requiring
+resolution based upon testimony and other evidence in order for the Board to decide
+the appeal.  See Peter J. Mehringher, 177 IBLA 152, 169 (2009); General Chemical
+                                           
+11  Appellants erroneously refer to 43 C.F.R. §§ 4.118 and 4.122, regulations of the
+Interior Board of Contract Appeals.  That Board has been abolished, with its functions
+transferred to the Civilian Board of Contract Appeals.  See 75 Fed. Reg. at 64656.
+181 IBLA 341
+[[page 19]]
+IBLA 2010-86
+(Soda Ash) Partners, 176 IBLA 1, 6-7 (2008).  The reason is relatively
+straightforward.  As has been frequently said, NEPA does not mandate any particular
+substantive result, but rather imposes procedural obligations to ensure that an agency
+is fully informed of the possible environmental consequences when it exercises its
+substantive decision-making authority.  See Robertson v. Methow Valley Citizens
+Council, 490 U.S. 332, 349-50 (1989); Vermont Yankee Nuclear Power Corp. v. Natural
+Resources Defense Council, Inc. (Vermont Yankee v. NRDC), 435 U.S. 519, 558 (1978);
+Biodiversity Conservation Alliance, 174 IBLA at 13-14; Wyoming Audubon, 151 IBLA at
+51.  The FEIS for the LCLA Project acknowledges that issues related to groundwater
+flow and availability, as well as hydrological connectivity of the potentially affected
+water basins, are the subject of differences of opinion among scientists, hydrologists,
+and other experts.  FEIS at 4-2.  Rather than attempt to arrive at a resolution of those
+issues, we will defer to the reasonable opinions of BLM’s own qualified experts. 
+Marsh v. Oregon Natural Resources Council, 490 U.S. at 378.  Our task is to decide
+whether BLM took a hard look at the available data, albeit conflicting, and issued a
+decision that is supported by the record.  As discussed below, we conclude that BLM’s
+ROD and FEIS meet that standard.
+III.  ANALYSIS:  BLM’S ENVIRONMENTAL REVIEW COMPLIES WITH NEPA 
+A.  Standard of Review
+[3]  We will begin our NEPA analysis, as did BLM, by quoting from Wyoming
+Outdoor Council, 176 IBLA 15 (2008), in which the Board set forth the following
+legal framework for evaluating challenges to NEPA compliance:  
+NEPA is a procedural statute designed to “insure a fully informed
+and well-considered decision.”  Vermont Yankee Nuclear Power Corp.
+v. Natural Resources Defense Council, Inc., 435 U.S. 519, 558 (1978).  
+NEPA does not bar actions which affect the environment, even
+adversely.  Rather, the process assures that decisionmakers are
+fully apprised of likely effects of alternative courses of action so that
+selection of an action represents a fully informed decision.  In re Bryant
+Eagle Timber Sale, 133 IBLA 25, 29 (1995).  When BLM has satisfied
+the procedural requirements of section 102(2)(C) of NEPA, it will be
+deemed to have complied with NEPA, regardless of whether a different
+substantive outcome would be reached by appellants, this Board, or a
+reviewing court.  National Wildlife Federation, 169 IBLA 146, 155
+(2006).  
+An EIS is judged by whether it constitutes a “detailed
+statement” that takes a “hard look” at the potentially significant
+environmental consequences of the proposed Federal action and
+181 IBLA 342
+[[page 20]]
+IBLA 2010-86
+reasonable alternatives thereto, considering all relevant matters of
+environmental concern.  Kleppe v. Sierra Club, 427 U.S. 390, 410 n.21
+(1976); Western Exploration Inc., 169 IBLA 388, 399 (2006); Southwest
+Center for Biological Diversity, 154 IBLA 231, 236 (2001); see 40 C.F.R.
+§ 1502.2(a).  We are guided by a “rule of reason.”  IMC Chemical, Inc.,
+155 IBLA 173, 195 (2001).  The EIS must contain a “reasonably
+thorough discussion of the significant aspects of the probable
+environmental consequences” of the proposed action and alternatives. 
+California v. Block, 690 F.2d 753, 761 (9th Cir. 1982), quoting
+Trout Unlimited, Inc. v. Morton, 509 F.2d 1276, 1283 (9th Cir. 1974). 
+Significant impacts are expected when an agency prepares an EIS. 
+Western Exploration Inc., 169 IBLA at 399, citing 40 C.F.R. § 1502.16
+(EIS must include discussion of “adverse environmental effects which 
+cannot be avoided”); 42 U.S.C. § 4332(2)(C) (2000) (EIS required
+when significant impacts are found).  [Footnote omitted.]
+176 IBLA at 25 (quoting Biodiversity Conservation Alliance, 174 IBLA at 13-14).  
+An appellant bears the burden to show, by a preponderance of the evidence,
+with objective proof, that “BLM failed to adequately consider a substantial question
+of material significance to the proposed action, or otherwise failed to abide by
+section 102(2)(C) of NEPA.”  Id.  Further, when issues of a highly technical nature
+are involved, BLM may rely upon the opinions of its technical experts concerning
+matters within their expertise, and a challenge to those opinions, which are
+reasonable and supported by the record, must demonstrate, by a preponderance of
+the evidence, error in data, methodology, analysis, or conclusions of the experts. 
+Id. (citations omitted).  Mere differences of opinion, even expert opinions, do not
+suffice to prove a failure by BLM to comprehend the nature or scope of a significant
+impact.  Id. (citing Fred E. Payne, 159 IBLA at 78).
+B.  BLM is Not Required to Prepare a Supplemental EIS (SEIS)
+[4]  Appellants argue that the change in the TEP from a coal-fired power
+plant to one which will generate electricity from both a natural-gas-fired plant and
+solar panels is a significant new circumstance under 40 C.F.R. § 1502.9(c)(1)(ii)12
+requiring BLM to supplement the FEIS because the plant’s water consumption will be
+reduced by 60-70%.  SOR at 8; see FEIS at 1-18.  They contend that the change is
+directly relevant to both the decision to route the pipeline through the TEP site and
+the size of the pipeline ROW.  Id.  They also point out that, after the FEIS was
+                                           
+12  The regulation requires an SEIS when “[t]here are significant new circumstances
+or information relevant to environmental concerns and bearing on the proposed
+action or its impacts.”  40 C.F.R. § 1502.9(c)(1)(ii).
+181 IBLA 343
+[[page 21]]
+IBLA 2010-86
+prepared, the NSE issued Ruling No. 5986 granting only an additional 396 AFY,
+“much less water than applied for and accounted for by BLM in evaluating reasonable
+alternatives for the Project and the size of the pipeline.”  SOR at 8.
+As BLM notes in its Response, the Board recently set forth the standard to be
+applied in determining whether preparation of an SEIS is required under NEPA:
+[A]n agency need not supplement an EIS every time new information
+comes to light after the EIS is finalized.  To require otherwise would
+render agency decisionmaking intractable, always awaiting updated
+information only to find the new information outdated by the time a
+decision is made.  On the other hand, . . . NEPA does require that
+agencies take a “hard look” at the environmental effects of their
+planned action, even after a proposal has received initial approval . . . . 
+Application of the “rule of reason” thus turns on the value of the new
+information to the still pending decisionmaking process.  In this respect
+the decision whether to prepare a supplemental EIS is similar to the
+decision whether to prepare an EIS in the first instance:  If there
+remains “major Federal actio[n]” to occur, and if the new information is
+sufficient to show that the remaining action will “affec[t] the quality of
+the human environment” in a significant manner or to a significant
+extent not already considered, a supplemental EIS must be prepared.
+Southern Utah Wilderness Alliance, 177 IBLA 29, 36 (2009) (quoting Marsh v. Oregon
+Natural Resources Council, 490 U.S. at 373-74 (footnotes omitted; quoted in BLM’s
+Response at 11)).  “[W]hether more NEPA analysis based on new information is
+required depends on the nature of the NEPA analysis already completed, and the
+nature of the information available at the time of the agency action.”  Center for
+Native Ecosystems, 170 IBLA 331, 346 (2006).  The primary question is whether the
+new information presents “‘a seriously different picture of the likely environmental
+consequences of the proposed action not adequately envisioned by the original EIS.’” 
+Forest Guardians, 170 IBLA 80, 96 (2006) (quoting Wyoming Outdoor Council,
+159 IBLA 388, 410 (2003)).  In this case it does not.
+As discussed above, TEI originally proposed to construct a 1,100 MW natural
+gas-fired and water-cooled power plant and convey an anticipated 7,000 AFY
+of groundwater to it from 15 wells in the Tule Desert using a 24-inch-diameter, 
+12.5-mile pipeline.  BLM prepared an EIS and in 2003 issued an ROD approving the
+TEP.  FEIS at 4-64.  Sometime prior to issuance of the FEIS at issue in this appeal in
+May of 2009, the proposal was changed to the construction of a 750 MW coal-fired
+power plant that would use 2,500 AFY.  FEIS at 4-64 to 4-65.  The Intervenors
+explain that the reduction in the amount of water needed for the plant was due to
+the fact that the coal-fired plant would be dry-cooled rather than wet-cooled. 
+181 IBLA 344
+[[page 22]]
+IBLA 2010-86
+Intervenors’ Answer at 18; see id., Ex. D at 2-12 to 2-13, 2-16 (Chapter 2.0 of 
+DEIS).13  Because the FEIS for the LCLA Project reviewed the environmental impacts
+of producing and transporting up to 23,820 AFY, the reduction resulting from the
+change to a dry-cooled plant does not indicate that there would be a significant
+change in water consumption that would have fundamentally different
+environmental consequences from those of the Proposed Action reviewed in the FEIS. 
+The Intervenors explain clearly why a decrease in water consumption does not
+require an SEIS:
+The LCLA Project FEIS and the Toquop Energy Project FEIS each
+employed a bounded analysis that evaluated the maximum potential
+environmental impacts of the respective projects.  The BLM’s bounded
+analysis of the LCLA Project evaluated the potential environmental
+impacts based upon the maximum amount of water that might
+ultimately be appropriated to the District by the Nevada State
+Engineer-up to 14,480 acre-feet per year from the Clover Valley
+Hydrographic Area, and up to 9,340 acre-feet per year from the
+Tule Desert Hydrographic Area (23,820 acre-feet per year total). 
+FEIS at ES-6 to ES-7 and 1-7.  This bounded analysis was entirely
+appropriate and necessary because it is undisputed that the amount
+of water ultimately appropriated for transmission through the
+pipeline in the ROW is entirely within the jurisdiction of the Nevada
+State Engineer.  FEIS at ES-6 to ES-7 and 1-7; SOR at pp. 11-16.
+Intervenors’ Answer at 20.  
+We agree with the Intervenors that “[b]ecause Toquop’s reduced water needs
+obviously do not cause an increase beyond the upper threshold of the BLM’s bounded
+analysis in the LCLA Project FEIS, a[n] SEIS is unnecessary.”  Id. at 20-21 (citing
+                                           
+13  The Intervenors contend that Appellants’ argument is based upon a mistaken
+understanding of a telephonic press conference held by Senator Harry Reid of
+Nevada, Mesquite Mayor Susan Holecheck, and Tony James, President and Chief
+Operating Officer of the Blackstone Group (parent company of TEI), announcing that,
+rather than a coal-fired plant, the TEP would consist of a 700 MW natural gas plant
+and a solar power plant with up to 100 MW of photovoltaic panels.  Intervenors’
+Answer at 18, Ex. E at 2, 3 (transcript).  James stated that “the new plant uses 60%
+to 70% less water than the original plan.”  Id., Ex. E at 4.  The Intervenors explain
+that “[i]t was the change in cooling and ventilation technology in 2006, not the
+reversion to a gas-fired facility that was approved in 2003, that caused the Toquop
+Energy Project’s projected water needs to be reduced by 60-70%.”  Intervenors’
+Answer at 19.
+181 IBLA 345
+[[page 23]]
+IBLA 2010-86
+Hacienda Del Cerezo, Ltd., 135 IBLA 277, 279 (1996)).  “BLM is not required to
+prepare a[n] SEIS when the ‘new’ circumstances do not affect the environment in a
+manner or to an extent not already considered by the BLM.”  Id. at 21 (citing Friends
+of the Bow v. Thompson, 124 F.3d 1210, 1213 (9th Cir. 1997)).  The change in the
+nature of the TEP, with the anticipated reduction in groundwater use, does not
+present new circumstances requiring supplementation of the FEIS.14
+C.  The FEIS Addressed a Range of Reasonable Alternatives
+[5]  In addressing Appellants’ argument that BLM failed to consider a range of
+reasonable alternatives, we begin with the proposition that under section 102(2)(E)
+of NEPA, BLM is required to consider appropriate alternatives to a proposed action
+and its environmental consequences.  See, e.g., Biodiversity Conservation Alliance,
+169 IBLA 321, 347 (2006).  Such alternatives are deemed reasonable if they are able
+to accomplish the intended purpose, are technologically and economically feasible,
+and have a lesser impact on the environment.  Id. (citing 40 C.F.R. § 1500.2(e)).  As
+BLM states, under section 102(2)(E) of NEPA, “the intended purpose of a proposed
+action essentially defines the scope of alternatives analysis,” and when the range of
+alternatives is dictated by the stated goal of a project, “only those alternatives that
+accomplish the goal need be considered.”  BLM’s Response at 17-18; see Pit River
+Tribe v. BLM, 30 F. Supp. 2d at 239-40; Bristlecone Alliance, 179 IBLA 51, 65 (2010);
+Escalante Wilderness Project, 163 IBLA 235, 240 (2004).  BLM need not analyze
+environmental consequences of alternatives it has in good faith rejected as too
+remote, speculative, impractical, ineffective, or repetitive.  
+The Council on Environmental Quality (CEQ) regulations include a number of
+provisions which address the treatment of alternatives in environmental documents. 
+An agency is required to “[u]se the NEPA process to identify and assess the
+reasonable alternatives to proposed actions that will avoid or minimize adverse
+effects of these actions upon the quality of the human environment.”  40 C.F.R.
+§ 1500.2(e).  The section on alternatives “is the heart of the environmental impact
+statement.”  Id. § 1502.14.15  BLM’s consideration of likely environmental impacts of 
+                                             
+14  As we discuss infra, we do not view the LCLA Project and the TEP as “connected”
+actions.  Appellants’ argument that BLM must supplement its environmental review
+because of a change in the TEP should be made in relation to the EIS undertaken for
+that project, rather than in relation to the independent LCLA Project.
+15  BLM is required to:
+(a)  Rigorously explore and objectively evaluate all reasonable
+alternatives, and for alternatives which were eliminated from detailed
+study, briefly discuss the reasons for their having been eliminated.
+(continued...)
+181 IBLA 346
+[[page 24]]
+IBLA 2010-86
+a proposed action and its alternatives is subject to the “rule of reason.”  Center for
+Biological Diversity, 162 IBLA 268, 286 (2004).  
+In evaluating the alternatives considered by BLM, we recognize that the
+LCLA Project’s purpose and need, consistent with congressional mandates set forth in
+the LCLA and LCCRDA, is to provide Lincoln County with the “transport of the
+groundwater resources by allowing for the construction of a groundwater
+development and conveyance system on public lands managed by the BLM.” 
+FEIS at 1-3.  More specifically, the FEIS states that the purpose of the LCLA Project
+“is to provide facilities for the production and transportation of water resources on
+and across areas of federal land,” including “construction and operation of a natural
+gas pipeline and metering facility . . . to serve planned development in the LCLA
+development area.”  FEIS at 1-4 and ES-3; see id. at 2-1.
+In responding to LCWD’s ROW application, BLM considered two alternatives,
+the Proposed Action and Alternative 1, as well as the No Action alternative of not
+approving LCWD’s application.  FEIS at 2-1, 2-21.  Under both the Proposed Action
+and Alternative 1, two pipelines would be constructed in Clover Valley, an area north
+of the Tule Desert, to collect water pumped from 15 possible groundwater production
+wells.  FEIS at 2-1, 2-4, 2-5.  The two pipelines would form a “V” with its connecting
+points near the southern end of the valley.  See FEIS Map 2-1.  The branch on the
+western side is generally within the LCCRDA corridor and the other branch extends
+north from the corridor before turning east.  Id.  A 100,000-gallon storage tank
+would be constructed below the confluence of the pipelines and a second tank of the
+same size would be located near East Pass where the pipeline crosses the Clover
+Mountains.  FEIS at 2-7.  At that point the water transmission pipeline is within the
+LCCRDA corridor and extends south within a corridor to a point about halfway
+through the Tule Desert.  Id.  Under the Proposed Action, the pipeline would shift to
+a 
+                                                                       
+15  (...continued)
+(b)  Devote substantial treatment to each alternative considered
+in detail including the proposed action so that reviewers may evaluate
+their comparative merits.
+(c)  Include reasonable alternatives not within the jurisdiction of
+the lead agency.
+(d)  Include the alternative of no action.
+(e)  Identify the agency’s preferred alternative or alternatives, if
+one or more exists, in the draft statement and identify such alternative
+in the final statement unless another law prohibits the expression of
+such a preference.
+(f) Include appropriate mitigation measures not already included 
+in the proposed action or alternatives. 
+40 C.F.R. § 1502.14.
+181 IBLA 347
+[[page 25]]
+IBLA 2010-86
+southwesterly and then southeasterly trajectory until it reaches the proposed TEP
+power plant site, while under Alternative 1 the pipeline continues to follow and
+would remain entirely within the LCCRDA corridor.  Id.  Under both alternatives,
+groundwater also would be produced from 15 wells in the Tule Desert.  FEIS at 2-1,
+2-5.
+The electric transmission line and fiber optic line proposed for Alternative 1
+would be within the LCCRDA corridor and a new access road up to 5 miles in length
+would be constructed from the utility corridor to the northwest corner of the
+LCLA Area, also within the LCCRDA corridor, which would cross the Beaver Dam
+Slope Area of Critical Environmental Concern.  FEIS at 2-21.  In other respects
+Alternative 1 is like the Proposed Action.  The pipeline would be buried 3 to 4 feet
+below existing grade and three times scour depth in washes, although suspended
+pipeline might be used where there is near surface hard rock or for crossing washes. 
+FEIS at 2-5.  Additional lateral pipelines would be built in the Clover Valley and the
+Tule Desert as needed to convey the produced groundwater to the primary pipeline. 
+See FEIS at 1-2.  Additional access roads to the wellsites would be needed, although
+their location would necessarily be different under the two alternatives.  See FEIS
+at 2-10 to 2-11.  And both alternatives include the construction of essentially the
+same pump station structure at each well site, overhead transmission and distribution
+lines to them, and booster stations.  See FEIS at 2-2, 2-5, 2-6.
+The FEIS provided a description and brief analysis of alternatives considered
+by an interdisciplinary team of specialists convened for the purpose of identifying
+potentially feasible alternatives, but eliminated those alternatives from detailed
+analysis during the NEPA process.  BLM considered and rejected alternatives of
+constructing the water transmission pipeline above ground and burying the
+transmission and distribution lines.  FEIS at ES-13 to ES-14, 2-21 to 2-22; ROD
+at unp. 10.
+In addition, the FEIS includes an evaluation of a No Action alternative of not
+approving the application.  However, BLM rejected the No Action alternative, given
+that the NSE had already granted LCWD and VWC water rights of 2,496 AFY of
+groundwater from the Tule Desert Hydrographic Basin, and, as importantly, because
+the No Action alternative would neither preclude LCWD from pumping water on non-
+Federal land using their permitted water rights, “nor would it preclude another entity
+from constructing other projects within the same corridor.”  ROD at unp. 10; see FEIS
+at ES-13, 2-21.
+From the outset of the NEPA process, Appellants raised various concerns about
+the need to address a range of alternatives.  For example, in providing comments on
+the scope of the DEIS, the Sierra Club stated that the document “should take a hard
+look at the other water supply options for the proposed LCLA development,”
+181 IBLA 348
+[[page 26]]
+IBLA 2010-86
+including “groundwater from other sources than Tule Desert and Clover Valley.”  AR
+5.4.3 SC 17L (Apr. 20, 2006, scoping comment 7) at unp. 4.  They also proposed that
+“[t]he range of alternatives should include full build-out, 50% build-out and a
+development limited by actual water rights approved by the NV State Engineer.”  Id.;
+see also AR 7.6.13 at 2-3 (comments on DEIS).  In commenting on the DEIS, the
+Sierra Club pointed out that various members of the public had suggested other
+alternatives, “including different water sources for the LCLA parcel, a range of water
+amounts to be transported (from the 2,100 afy approved by the . . . NSE to the full
+amount requested by the proponent) through the ROW, and a phased in water-
+transport, corresponding with the phased in LCLA development.”  AR 7.6.13 at 2
+(July 14, 2008).  The CBD criticized the DEIS for not including “alternatives that will
+avoid or minimize impacts to rare, sensitive and special status species.”  AR 7.6.8 at 3
+(July 22, 2008).  In jointly commenting on the FEIS, Appellants asserted that BLM
+had an obligation to “consider a meaningful conservation alternative that protects
+groundwater resources,” and criticized the two alternatives in the document as
+“identical with regard to air and groundwater resources.”  AR 9.4.2 at 4.  They
+further asserted that “BLM must examine an alternative that represents the most
+protective alternative allowable under FLPMA and other non-discretionary
+statutes.”  Id.  
+In their SOR, Appellants again criticize the FEIS for considering only one
+alternative and for not including alternatives they and others had suggested “that
+would involve a smaller amount of permitted water rights or phased in water-
+transport” and “have fewer impacts on surface or ground water resources.”  SOR
+at 10-11.  They argue that such alternatives are reasonable because they “stake a
+middle ground between the No Action alternative, which essentially calls for no
+water-transport, and both the Proposed Action and Alternative 1, both of which
+propose the full pumping of [the] 23,820 afy requested” from the NSE.  SOR at 11. 
+They assert that the 9,340 AFY requested for the Tule Desert Hydrographic Basin “has
+since been drastically reduced as a result of rulings” of the NSE, and that the
+alternatives of pumping a lesser amount or a plan of phased-in development would
+be consistent with the ruling.  Id. (citing FEIS at 1-7).  Appellants go further in
+claiming that the NSE’s rulings not only show the reasonableness of their suggested
+alternatives, but also “show that there simply is not the amount of water available as
+contemplated by the proposed Project.”  Id.  They claim that a reduced-water
+alternative would “all but eliminate the need for a project at this scale,” id., and that
+a smaller pipeline would “minimiz[e] the Project’s adverse environmental
+consequences as a whole.”  Id. at 12.  Appellants argue that BLM has failed to explain
+why it rejected their suggested alternatives.  Id. at 12-13.  
+BLM defends the FEIS by pointing out that the selection of alternatives is
+controlled by the Proposed Action.  BLM’s Response at 17 (citing Biodiversity
+Conservation Alliance, 174 IBLA at 25; Biodiversity Conservation Alliance, 169 IBLA 
+181 IBLA 349
+[[page 27]]
+IBLA 2010-86
+at 347; Escalante Wilderness Project, 163 IBLA at 240); BLM’s Response to Order
+at 15.  BLM emphasizes, as we have noted, that “the intended purpose of a proposed
+action essentially defines the scope of alternatives analysis”; that “the range of
+alternatives is dictated by ‘the stated goal of a project’”; and that only those
+alternatives that accomplish the goal need be considered.  BLM’s Response at 17-18
+(quoting Pit River Tribe v. BLM, 30 F. Supp. 2d at 939-40).
+As we stated in Biodiversity Conservation Alliance, 174 IBLA at 25, an appellant
+is obligated to show that a viable alternative has been proposed.  The U.S. Supreme
+Court observed in Vermont Yankee v. NRDC, 435 U.S. at 551, that the alternatives
+analysis “cannot be found wanting simply because the agency failed to include every
+alternative device and thought conceivable by the mind of man,” and that “[t]ime
+and resources are simply too limited to hold that an impact statement fails because
+the agency failed to ferret out every possible alternative.”  With regard to the
+LCLA Project, BLM responded to each comment to the DEIS in the context of the
+intended purpose of the Project.  See FEIS App. F.  The fact that BLM rejected those
+alternatives does not mean that BLM failed to fully analyze reasonable alternatives in
+the FEIS, in light of the Project’s purpose and need, as required by NEPA.  See
+Northern Alaska Environmental Center v. Kempthorne, 457 F.3d 969, 978 (9th Cir.
+2006).  
+We agree with BLM that “none of the highly conceptual and inexact suggested
+‘alternatives’” offered by Appellants “led to a clear alternative that BLM should have
+considered.”  BLM’s Response at 18.  Thus, BLM is correct that Appellants’ first
+suggestion that BLM review an alternative that would lessen the environmental
+impacts “is an abstract statement, not an alternative.”  Id.  Likewise, the suggested
+“alternatives” on page 78 of Appendix F of the FEIS “are equally inexact and do not
+require further BLM review.”  Id.  For example, the suggestion that BLM should look
+for different water sources for the LCLA “parcel” contains no specificity as to what
+exactly the commenter intends as an alternative.  The comment does not explain
+what water sources would serve as a viable alternative to those identified in the
+Proposed Action, or should have received further review.  See FEIS App. F at 78.  As
+BLM notes, BLM “is not the project proponent and [is] not responsible for finding
+water sources for the LCLA Development Area.”  BLM’s Response at 20.  
+We fail to see the need to consider alternatives involving other amounts of
+water to be transported through LCWD’s proposed pipeline, as argued by Appellants,
+given that BLM’s analysis is based on the reasonably foreseeable impacts of LCWD’s
+proposal to transport up to 23,820 AFY of water.  Appellants assert that “a smaller
+water-transport alternative would still allow the development area to receive the full
+amount of water, and phased in water-transport would still allow the development
+area to grow because the construction and development would be tied together.” 
+SOR at 12.  The inherent weakness in the “smaller water-transport alternative” lies 
+181 IBLA 350
+[[page 28]]
+IBLA 2010-86
+in BLM’s obligation under NEPA to analyze alternatives that will meet the purpose
+and need of the project as proposed by LCWD.  As BLM notes, its primary area of
+review for the general route of the proposed ROW lies within a congressionally
+designated utility corridor.  BLM identified water sources that would potentially meet
+the needs of the LCLA Area as it experiences growth and development.  The rights to
+the necessary water is an issue to be resolved between the LCWD and the NSE,
+depending on such factors as water drawdown and perennial yield.  The Board’s role
+is to determine whether BLM took a hard look at the reasonably foreseeable impacts
+resulting from LCWD’s appropriation and use of the water for which it has projected
+a need.  
+The project proposed by LCWD is based upon the reasonably foreseeable
+development needs of the LCLA Development Area.  To correlate the size of the
+water pipeline ROW with the amount of currently available water would not meet
+the purpose and need of the project.  A “smaller water-transport alternative,” such as
+suggested but not cogently explained by Appellants, could very well prove inadequate
+over the long-term for the development needs in the LCLA Development Area,
+resulting in the re-disturbance of the ROW corridor for purposes of expanding its size
+and infrastructure.  LCWD framed its project in terms of how much development is
+reasonably anticipated, and how much water will be required for such development. 
+This bounded analysis reflects the need to construct a pipeline and associated utilities
+that will “help meet current and future municipal water needs in newly urbanizing
+areas . . . in the LCLA Development Area, north of Mesquite.”  FEIS at 2-1.  
+Appellants contend that the infrastructure needed for transporting a lesser
+amount of water to the LCLA Development Area would result in lesser impacts. 
+However, BLM makes the valid point that Appellants fail to show that this “smaller
+water-transport alternative,” SOR at 12, “would result in any substantively different
+environmental impacts not already analyzed.”  BLM’s Response at 19.  Thus, states
+BLM, “[i]f a lesser amount of water would still require the same type of water
+transport facilities, the basic environmental impacts would be akin to the proposed
+action.”  Id.  BLM asserts that Appellants have not pointed to likely impacts not
+already encompassed within the proposed action, and that “[a]n agency need not,
+therefore, discuss alternatives similar to alternatives already considered.”  Id.
+(quoting Northern Alaska Environmental Center v. Kempthorne, 457 F.3d at 978). 
+LCWD’s proposed action states the need for 23,820 AFY of water, and the Proposed
+Action envisions infrastructure capable of transporting up to that amount of water. 
+Whether LCWD’s application for that amount of water is approved is within NSE’s
+purview.  FEIS at ES-6, 1-6.  
+In responding to Appellants’ argument that BLM should have considered a
+pipeline that would transport only the water that was in fact approved by NSE, or 
+181 IBLA 351
+[[page 29]]
+IBLA 2010-86
+one that calls for phased construction, BLM provides the following analysis, with
+which we agree:
+[T]o a degree the BLM’s final decision does take into account the
+possibility of lesser amounts of water or phasing of water development
+construction.  Actions on BLM managed land will be in accordance with
+a BLM approved Plan of Development which could very likely call for
+phased construction of LCWD’s project in accordance with available
+water.  ROD at 4.  Also, BLM clearly identified the need for LCWD to
+attain the appropriate water appropriation and importation permits
+from the Nevada State Engineer as approvals necessary to implement
+the proposed action.  FEIS at 1-17.  The final Plan of Development
+should reflect such approvals and the nature of those approvals should
+be reflected in the final project design.  Based on this, and the
+alternative to the possible routing of the LCWD’s project, the BLM has
+reviewed alternatives that fostered informed decision-making and
+informed public participation, while staying true to the proposed action
+and the LCCRDA.  See Westland Water Dist. [v. Dep’t of the Interior],
+376 F.3d [853,] 872 [(9th Cir. 2004)].
+BLM’s Response at 20.     
+BLM and the Intervenors criticize Appellants’ suggested alternatives for failing
+to recognize that BLM has no control over the water sources selected by the project
+proponent and that the NSE has authority over the right to pump groundwater. 
+BLM’s Response at 19-20; Intervenors’ Answer at 24-25.  The Intervenors emphasize
+that the FEIS evaluated groundwater impacts by looking at the maximum amount of
+water that may be approved by the NSE, thereby including the possibility of
+transporting less water.  Intervenors’ Answer at 25-26.  BLM contends that its
+decision “does take into account the possibility of lesser amounts of water
+development” because construction will occur “in accordance with a BLM approved
+Plan of Development which could very likely call for phased construction of LCWD’s
+project in accordance with available water.”  BLM’s Response at 20.  BLM states that
+further water appropriation approvals by the NSE “should be reflected in the final
+project design” set forth in the final POD.  Id.     
+As the Intervenors point out, LCWD and VWC applied for an ROW “for the
+purpose of developing and conveying” water from wells in the Tule Desert and Clover
+Valley as permitted by the NSE.  FEIS at ES-3.  The POD they submitted to BLM
+identifies the elements of the Proposed Action reviewed in the FEIS.  See FEIS at 1-3. 
+We conclude that Appellants have not demonstrated that a reasonable alternative
+existed, which BLM failed to adequately consider.  See, e.g., Backcountry Against
+Dumps, 179 IBLA 148, 175 (2010).
+181 IBLA 352
+[[page 30]]
+IBLA 2010-86
+D.  BLM Took a Hard Look at Significant Environmental Impacts
+An EIS must “provide full and fair discussion of significant environmental
+impacts and shall inform decision-makers and the public of the reasonable
+alternatives which would avoid or minimize adverse impacts or enhance the quality
+of the human environment.”  40 C.F.R. § 1502.1; see Bristlecone Alliance, 179 IBLA
+at 73, and cases cited.  The required discussion must include an analysis of “direct
+effects,” which are “caused by the action and occur at the same time and place,”
+as well as “indirect effects” which are “later in time or farther removed in distance,
+but are still reasonably foreseeable.”  40 C.F.R. §§ 1502.16 and 1502.8; see Idaho
+Sporting Cong. v. Rittenhouse, 305 F.3d 957, 963 (9th Cir. 2002); Bristlecone Alliance,
+179 IBLA at 73.  Further, an EIS must consider the cumulative impacts of the
+proposed action together with past, present, and reasonable foreseeable future
+actions, including all federal and non-federal activities.  See 40 C.F.R. § 1508.7;
+Klamath-Siskiyou Wildlands Center v. BLM, 387 F.3d 989, 994 (9th Cir. 2004); Kern
+v. BLM, 284 F.3d 1062, 1075 (9th Cir. 2002); Bristlecone Alliance, 179 IBLA at 73.
+1.  BLM Properly Identified its Baseline for Water Resources
+An analysis of whether BLM took a hard look at the reasonably foreseeable
+environmental consequences of approving the LCLA Project properly begins with
+Appellants’ argument that BLM failed to establish a meaningful environmental
+baseline against which to predict and evaluate environmental impacts.  Relying upon
+Half Moon Bay Fisherman’s Marketing Ass’n v. Carlucci, 857 F.2d 505, 510 (9th Cir.
+1988), Appellants fault BLM for basing its estimated groundwater recharge in the
+Tule Desert (about 6,000 AFY) on a synthesis of conflicting studies ranging from
+2,100 AFY to 10,000 AFY, stating that “a synthesis of highly-variable data does not
+provide an accurate basis from which to assess an environmental baseline.”  SOR
+at 19 (citing FEIS at 3-30).  Further, they claim that the baseline defined in the FEIS
+is inaccurate because it fails to distinguish between groundwater recharge and
+perennial yield, with “[t]he perennial yield of a groundwater reservoir [being]
+defined as the amount of water that can be extracted in the long term without
+reducing the water level.”  SOR at 20.  Appellants argue that “BLM failed to calculate
+perennial yield and instead estimated water resources based solely on groundwater
+recharge rates,” so that “the EIS did not measure the amount of water that can be
+extracted from the area without draining groundwater levels.”  Id.
+Appellants state that based on additional studies, the NSE “established that the
+‘perennial yield of the Tule Desert Hydrographic Basin is 2,500 acre-feet’”; that
+“‘[c]urrent appropriations in the basin total 2,104 afy’”; and that “on that basis, the
+State Engineer granted the remaining 396 AFY to the applicants.”  Id. (quoting
+Ruling No. 5986 at 20).  Appellants claim that “[t]his new information was not
+considered by BLM in the environmental review which assumed a far higher amount 
+181 IBLA 353
+[[page 31]]
+IBLA 2010-86
+of water would be allocated to the applicant.”  Id.  They assert that “BLM has no firm
+basis for the variable position it has taken absent preparation of a full independent
+analysis, which is lacking here.”  Id. at 22.
+In addition, Appellants fault BLM for its failure “to give any consideration to
+federal reserved water rights in determining the environmental baseline.”  Id.  They
+state that “Federal reserved water rights may potentially be asserted at any time,”
+and that “[a]lthough Appellants have repeatedly urged BLM to do so, BLM has not
+yet asserted its reserved water rights in the affected areas.”  Id. at 21.  They claim
+that by failing “to discuss its duty to protect reserved rights and potential effects of
+the project on these potentially important federal reserved water rights,” BLM has
+“failed to identify a proper environmental baseline as regards water rights in
+violation of NEPA.”  Id.  Appellants conclude that BLM violated NEPA because it
+“failed to provide the necessary identification and analysis of water rights including
+the federal reserved rights in the baseline and failed to consider these issues in the
+alternatives analysis so as to avoid or minimize impacts that will result from the
+expected water extractions.”  Id. at 22.              
+ BLM responds that the FEIS presents a “very thorough analysis of available
+information to establish the general status quo of the water resources” related to the
+Proposed Action, noting that “Chapter 3 of the FEIS contains 30 pages of analysis and
+description of the status of water resources associated with LCWD’s project.”  BLM’s
+Response at 30; see FEIS at 3-12 to 3-42.  BLM disagrees with Appellants’ assertion
+that its estimate of groundwater recharge for the Tule Desert is based on information
+that is too “highly-variable,” stating that Appellants present an inaccurate summation
+of BLM’s AFY estimate.  BLM’s Response at 30.  Rather, BLM states that the FEIS
+“identified a potential range of between 3,500 and 10,000 AFY, which had been
+further refined through analysis to between 4,000 and 8,000 AFY, and most of the
+analysis BLM reviewed that looked at this range focused in on 6,000 AFY.”  Id.
+(citing FEIS at 3-30).  Further, the FEIS explained that the “recharge rates were
+calculated by physically based water balance models; by empirical models based on
+transfer equations . . .; by chloride measurements in precipitation, runoff, soil, and
+groundwater; and by analysis of infiltration from surface runoff.”  Id.  BLM
+distinguishes Half Moon Bay v. Carlucci, in which the Ninth Circuit found baseline
+information to be inadequate because it did not include specific quantitative
+information, on the basis that BLM clearly provided such information.
+A glance at Chapter 3 of the FEIS, which describes “the affected environment
+associated with the Proposed Action and alternatives,” FEIS at 3-1, shows the error in
+Appellants’ argument that BLM failed to establish an appropriate environmental
+baseline.  The FEIS states that the provided “information serves as a baseline from
+which to identify and evaluate environmental changes resulting from the Proposed
+Action and alternatives,” and that “the baseline conditions, for the purposes of
+181 IBLA 354
+[[page 32]]
+IBLA 2010-86
+analysis, are the conditions that currently exist.”  Id.; see Half Moon Bay v. Carlucci,
+857 F.2d at 510-511 (an agency complies with NEPA by establishing the baseline
+conditions which allow an agency to determine what effect the proposed action will
+have on the environment).  BLM analyzes the environmental impacts of the Proposed
+Action by comparing the baseline conditions to the conditions expected to result from
+implementation of the Proposed Action.  FEIS at 4-6 to 4-20.  BLM’s review of such
+environmental impacts includes data and information regarding surface water
+resources, local and regional springs, surface and groundwater quality in the four
+affected hydrographic basins, and issues related to recharge and perennial yield. 
+FEIS at 3-12 to 3-42.
+BLM disagrees with Appellants’ assertion that its baseline is inadequate
+because BLM failed to distinguish between groundwater recharge and perennial
+yield.  BLM states that its definition of perennial yield, which is provided by the NSE,
+can conveniently be found in the FEIS:
+The perennial yield of a groundwater reservoir may be defined as the
+maximum amount of groundwater that can be salvaged each year over
+the long term without depleting the groundwater reservoir.  Perennial
+yield is ultimately limited to the maximum amount of natural recharge
+that can be salvaged for beneficial use.  If the perennial yield is
+continually exceeded groundwater levels will decline.
+FEIS at 3-41 (citing NSE conclusions).  The FEIS sets forth the perennial yield
+and permitted annual duty of water for the four hydrographic basins related to
+LCWD’s proposed project, i.e., Clover Valley, Tule Desert, Virgin River Valley, and
+Lower Meadow Valley Wash.  BLM’s Response at 31; see FEIS at 3-41 to 3-42;
+id., Table 3-10.
+BLM explains that its analysis providing potential recharge rates for the Tule
+Desert Hydrographic Basin is based on new studies as of 2008.  See FEIS at 3-30. 
+BLM acknowledges that the information cited in the FEIS may “lead to different
+conclusions about the available perennial yield,” and may affect future decisions of
+the NSE regarding the appropriation of water rights for Tule Desert.  BLM’s Response
+at 32.  BLM further states that its analysis of current conditions explains why “further
+water applications by LCWD are currently being held in abeyance subject to further
+analysis and determination by the Nevada State Engineer.”  Id. 
+With regard to Appellants’ assertion that BLM failed to consider Federal
+reserved water rights, BLM states that it “is simply inaccurate or without support.” 
+BLM’s Response at 32.  Appellants’ argument must be viewed against the fact that no
+Federally reserved water rights in the project area have ever been asserted or
+181 IBLA 355
+[[page 33]]
+IBLA 2010-86
+adjudicated.16  See SOR at 21; FEIS App. F at Comment Letter 8.  BLM disagrees with
+Appellants’ contention, as do we, that “potential federal reserved water rights, which
+have not been previously asserted by the Federal government, must be specifically
+identified in a particular baseline to support a finding of an adequate hard look
+analysis.”  BLM’s Response at 33.  Appellants’ claim that they have “repeatedly urged”
+BLM to assert its reserved water rights is not supported by any citation to the record
+or any other evidence.  Appellants cite no authority for their argument that because
+BLM may someday assert a reserved water right to groundwater or surface water
+associated with public lands affected by the LCLA Project, BLM is required to hold the
+Project in abeyance.  We agree with Intervenors that this is an “incredible position.” 
+Intervenors’ Answer at 40.  
+In light of our review of the FEIS, we conclude that Appellants have not
+demonstrated that BLM failed to adequately establish baseline conditions for the
+Project area and to take a hard look at the environmental consequences reasonably
+expected to result from implementation of the Proposed Action.  Our review of the
+FEIS confirms BLM’s assertion that Appellants have “not shown that BLM failed to
+provide the necessary quantitative information to form a baseline on which to assess
+the proposed projects impacts against, or failed to take a hard look at that
+information.”  BLM’s Response at 32 (citing Half Moon Bay, 857 F.2d at 510;
+IMC Chemical, Inc., 155 IBLA at 195).  The FEIS provides an assessment of the
+updated information utilized by LCWD to support the water applications it has on
+file with the NSE, and has analyzed potential impacts based upon that assessment. 
+See FEIS at 4-6 to 4-21.   
+2.  The LCLA Project and the TEP are not “Connected Actions”
+[6]  Appellants argue at length that the FEIS should have included an analysis
+of the environmental impacts of the TEP as a connected action under 40 C.F.R.
+§ 1508.25(a)(1).17  They assert that “the pipeline is a necessary element of the
+                                              
+16  As noted by Intervenors, a Federal reserved water right arises in the following
+situation:  “[W]hen the Federal Government withdraws its land from the public
+domain and reserves it for a federal purpose, the Government, by implication,
+reserves appurtenant water then unappropriated to the extent needed to accomplish
+the purpose of the reservation.”  Intervenors’ Answer at 39-40 (quoting Cappaert
+v. United States, 426 U.S. 128, 138 (1976)).
+17  Actions are to be considered connected if they:
+(i) Automatically trigger other actions which may require
+environmental impact statements;
+(ii) Cannot or will not proceed unless other actions are taken
+(continued...)
+181 IBLA 356
+[[page 34]]
+IBLA 2010-86
+groundwater pumping proposals,” and that the TEP is one of the projects the water is
+intended to promote.  SOR at 22-23.  In particular, they note that the route chosen
+for the pipeline varies from the LCCRDA corridor in order to provide water for the
+TEP.  For support, they point to the FEIS, which states:  “Approval of the Proposed
+Action would eliminate the need for a separate water pipeline for the [TEP] and
+would allow for water from either the Clover Valley or Tule Desert Hydrographic
+Areas to serve the power plant.”  SOR at 23 and n.15 (quoting FEIS at 4-65).  This
+fact, they maintain, “supplies the primary rationale for the Agency’s preference for
+the Proposed Action over the other alternatives,” and shows that the LCLA Project
+and the TEP should have been considered together in a single EIS.  SOR at 23, 26-27
+(“the alignment in the Proposed Action would not have been selected but for the
+[TEP]”).  
+Appellants argue that the failure to provide a combined analysis of both
+projects is important because, according to the FEIS, the Proposed Action approved
+by BLM will have a number of environmental impacts that are greater than those for
+Alternative 1, in particular the disturbance of a larger area of desert tortoise habitat. 
+SOR at 23-25.  They further point out that the “technological advantages” the FEIS
+describes for the Proposed Action over Alternative 1 pertain to only the portion of the
+pipeline running east from the LCCRDA corridor to the LCLA Development Area,
+indicating that the routing of the pipeline to the TEP site means that the TEP is a
+connected action.  SOR at 25; see FEIS at ES-14, 2-23.   
+Appellants argue that the factual situation is similar to Thomas v. Peterson,
+753 F.2d 754, 758-59 (9th Cir. 1985), and Save the Yaak Committee v. Block,
+840 F.2d 714, 720 (9th Cir. 1988), cases in which the disputed actions were found to
+be “inextricably intertwined” and, therefore, were connected actions within the
+meaning of the CEQ regulations because one would not occur without the other. 
+SOR at 25-26.  They further argue that alignment of the ROW for the LCLA Project
+with that of the TEP establishes that the two projects do not have “independent
+utility,” as was the situation in Northwest Information Center, Inc. v. National Marine
+Fisheries Service, 56 F.3d 1060, 1068-69 (9th Cir. 1995), and Sylvester v. U.S. Army
+Corps of Engineers, 884 F.2d 394, 400 (9th Cir. 1989), in which each project could be
+undertaken without the other, “although each would benefit from the other’s
+presence.”  SOR at 26-27. 
+                                          
+17  (...continued)
+previously or simultaneously;
+(iii) Are interdependent parts of a larger action and depend on the
+larger action for their justification.
+40 C.F.R. § 1508.25(a)(1).
+181 IBLA 357
+[[page 35]]
+IBLA 2010-86
+BLM’s position is that, although the TEP plant may use water conveyed by the
+LCLA pipeline, the purpose of the LCLA ROW is to provide water for local
+communities, including the LCLA Development Area, and it asserts that neither
+LCWD nor BLM has identified the TEP as an “integral part of the proposed water
+pipeline project.”  BLM’s Response at 12-13.  BLM relies upon the Ninth Circuit’s
+“independent utility” test discussed in Earth Island Institute v. U.S. Forest Service,
+351 F.3d 1291, 1305 (9th Cir. 2003), and Native Ecosystems Council v. Dombeck,
+304 F.3d 886, 894 (9th Cir. 2002), and other cases, including those cited by
+Appellants.  BLM’s Response at 14-16.  Under the test, BLM argues, the TEP and the
+LCLA water pipeline are not connected actions because each project would go
+forward without the other.  BLM states that it approved the TEP ROW before the
+current LCWD request was submitted; that BLM’s approval “was obviously not made
+in contemplation of LCWD’s proposed project”; and that the TEP “can proceed under
+its own rights-of-way independent of the LCWD water pipeline proposal.”  Id. at 15. 
+Conversely, BLM claims, whether the TEP “is constructed or not does not control the
+future of the LCWD project.”  Id. at 16-17.  
+We agree with BLM that the only connection that Appellants can rely upon to
+make the argument is based upon BLM’s selection of the LCWD’s water line routing
+for approximately the last third of the line.  Id. at 15; see SOR at 26-27.  Routing the
+pipeline through the Tule Desert to the TEP site under the Proposed Action using the
+same corridor “to avoid future unnecessary environmental impacts,” rather than
+continuing within the LCCRDA corridor, does not establish that they are connected
+actions.  Id. at 16.  The FEIS reviews BLM’s rationale for selecting the preferred
+routing of the LCWD’s water pipeline rather than the route described in Alternative 1,
+which would have kept the pipeline within the LCCRDA utilities corridor to the point
+of the LCLA development.  See FEIS Map 1-1.  The FEIS explains that the proposed
+route would result in the delivery of water and power to the LCLA Development Area
+at a location on the ground that has technological advantages over Alternative 1. 
+FEIS at 2-23.  Those advantages include:  (1) the superior elevation of the proposed
+route offers better elevation, which is necessary and beneficial for engineering the
+water transmission and distribution system into the LCLA Development Area;
+(2) electrical power for the well fields could be routed out of an existing electrical
+substation located near the southeastern boundary of the LCLA Development Area;
+and (3) routing the water pipeline through the Tule Desert area, as proposed by
+LCWD, would eliminate the need for a separate water pipeline for the TEP.  Id. 
+at 4-65.
+BLM states that Appellants have “seized upon that last factor, and what most
+would likely consider smart land use planning and utilization, as a basis to establish
+the Toquop Plant and the LCWD water line as connected actions.”  BLM’s Response at
+16 (footnote omitted).  We agree with BLM that “[r]outing two similar rights-of-way
+into the same corridor to avoid future unnecessary environmental impacts does not
+181 IBLA 358
+[[page 36]]
+IBLA 2010-86
+establish the two right-of-way holders’ projects as connected actions.”  Id.  BLM is
+correct that the LCLA and TEP projects present “a situation much like the Sylvester
+case mentioned above,” in that “[t]he two projects may benefit each other, but the
+mere benefit does not establish the lack of independent utility.”  See Sylvester,
+884 F.2d at 400.  BLM’s reasoning is convincing:
+Nothing Appellant has argued results in finding that neither project
+would progress without the other.  Stated another way, the two
+projects are not so inextricably intertwined that they would not occur
+but for the other. . . .  The LCWD water pipeline is to provide water for
+public use and assist in the development of the LCLA Development
+Area.  FEIS at 1-4.  Whether the Toquop Energy Project is constructed
+or not does not control the future of the LCWD project.  The LCWD
+water pipeline project is a functionally independent project.
+BLM’s Response at 16-17.  In routing the LCWD project through the same previously
+approved TEP water pipeline ROW, BLM has sought to reduce the need for separate
+water pipelines and the related environmental impacts of additional projects.     
+Intervenors present arguments that are persuasive in showing that the LCLA
+Project and the TEP are independent.  They assert that the Proposed Action for the
+LCLA Project “provides the infrastructure necessary for groundwater delivery to the
+LCLA geographic area and was designed, planned, and sited in response to the
+congressional enactment of the LCCRDA in 2004,” while the ROW for the TEP
+was approved in 2003 and “has always been an independent project, with its
+own separate rights-of-way.”  Intervenors’ Response at 12-13.  They point out
+that the TEP ROW includes “a right to construct, maintain, operate, and terminate a
+buried 24-inch water pipeline that will supply water from the well field to the power
+plant.”  Id. at 13 (quoting Ex. B (one of three ROW permits effective Dec. 2, 2003)). 
+Intervenors assert that “if the LCLA Project ceased to exist tomorrow, the [TEP]
+would still go forward,” and that if the TEP were abandoned, there would be “no
+effect upon the purpose and need for the LCLA Project to provide for the conveyance
+of groundwater to the LCLA development area.”  Id.18  Intervenors discuss the cases 
+                                           
+18  We agree with Intervenors that Appellants’ reliance upon Save the Yaak Committee
+v. Block, 840 F.2d at 720, and Thomas v. Peterson, 753 F.2d at 758, is misplaced. 
+Both of those cases involved logging projects and corresponding logging roads meant
+to service the logging project.  In both cases, the logging roads would not have been
+built (Thomas v. Peterson) or improved (Save the Yaak Committee) had the logging
+project the road sought to service not been approved and developed.  These cases
+demonstrate the “but for” relationship required to render two projects “connected
+actions,” as a logging road would not be constructed or improved without the logging
+(continued...)
+181 IBLA 359
+[[page 37]]
+IBLA 2010-86
+cited by Appellants to conclude that none “support the notion that if the BLM elects
+to co-site two independent projects in order to reduce impacts, the projects are
+rendered connected actions.”  Id. at 16.  The record shows that “the Project will move
+forward and serve customers in the LCLA area regardless of what occurs with respect
+to the [TEP], and vice versa.”  Id. at 16-17.
+BLM admits that routing the pipeline through the Tule Desert to the TEP site
+under the Proposed Action “would eliminate the need for a separate water pipeline.” 
+BLM’s Response at 16.  Some components of the two Projects are to be coordinated in
+order to reduce unnecessarily duplicative environmental impacts.  However, BLM and
+Intervenors make a convincing case that such coordinated efforts are neither required
+nor necessary for either the LCLA Project or the TEP to go forward; in fact, the record
+makes clear that either project would go forward in the absence of the other.  See
+Earth Island Institute v. U.S. Forest Service, 351 F.3d at 1305; Native Ecosystems
+Council v. Dombeck, 304 F.3d at 894; Northwest Resource Information Center, Inc. v.
+National Marine Fisheries Service, 56 F.3d at 1064; Great Basin Mine Watch, 456 F.3d
+at 969.  BLM has considered the environmental impacts of each project through two
+separate EISs.  We conclude that Appellants have not shown that considering the two
+projects in a single NEPA document will show environmental impacts not already
+addressed in the separate environmental studies.
+3.  Cumulative Impacts of the Project and Other Groundwater Development
+Projects
+[7]  Appellants argue that “BLM failed to consider cumulative impacts of the
+proposed Project together with other past, present, and future water development
+projects in southern and eastern Nevada.”  SOR at 13.  They assert that “[a]lthough
+the FEIS acknowledges that there will be long term impacts from other groundwater
+development projects in the area, it does not discuss specific projects,” and that in
+order to comply with NEPA, “BLM was obligated to assess the cumulative impact of
+all groundwater pumping projects and pipeline projects in the area.”   Id. at 14.
+a.  Potential Hydrologic Connectedness of Groundwater Sources
+Appellants fault the cumulative impacts analysis in the FEIS because it “omits
+consideration [of] groundwater development water projects that could have
+hydrologic connections with water sources implicated by the Project,” including the
+Clark, Lincoln, and White Pine Counties Groundwater Development Project proposed
+                                          
+18 (...continued)
+project to service.  By contrast, the LCLA Project and the TEP can each go forward
+without the other.  See also, e.g., Western Watersheds Project, 175 IBLA 237, 253
+(2008). 
+181 IBLA 360
+[[page 38]]
+IBLA 2010-86
+by the Southern Nevada Water Authority (SNWA Project) and the Kane Springs
+Project proposed by the LCWD.  Id. (citing FEIS at 4-67).  Appellants argue that they
+have submitted evidence that shows that the groundwater sources for the SNWA and
+Kane Springs Projects are connected to the basins from which the Project will obtain
+its groundwater, and that BLM should have considered those interconnections in its
+cumulative impacts analysis.  According to Appellants, “[t]he development associated
+with these additional water pumping and pipelines projects may increase water
+demands by making industrial development and other development possible in areas
+that previously would not have been developed.”  SOR at 15.  They state that “[i]f, as
+the evidence indicates, these water basins are connected to those in the study area,
+there will likely be a cumulative lowering of water levels in conjunction with the
+proposed action that was not considered or analyzed in the FEIS.”  Id.  They complain
+that “[t]he FEIS indisputably does not address the all-but-inevitable development
+projects that will be made possible in part by the ROW, acknowledging only that the
+ROW may have the direct impact of lowering the water table, and indirect impacts
+related to lower water yield.”  Id. at 15-16 (citing FEIS 4-69 to 4-70).
+Our review of the FEIS shows that BLM’s cumulative impacts analysis with
+regard to the potential interconnectedness of groundwater projects meets the hard
+look standard of NEPA.  BLM set forth its cumulative impacts analysis in two
+comprehensive sections devoted to direct impacts and indirect impacts, respectively,
+of the various interrelated projects.  See FEIS at 4-69, 4-70.  Particular projects
+which BLM considered to have a combined impact with the proposed action included
+the Virgin and Muddy Rivers Surface Water Development Project, with existing
+and future groundwater pumping rights, and the potential construction of the TEP
+with its own water pipeline to serve the plant.  Id. at 4-69.  BLM obtained from the
+Nevada Department of Water Resources the total perennial yield, the total permitted
+water rights, plus the total of all pending water applications for each of the four
+hydrographic areas determined by BLM to be within the region of influence for the 
+cumulative impacts area.  Id. at 4-59, 4-70, and Table 4-6.  
+The FEIS included BLM’s assessment that the Kane Springs and SNWA Projects
+would likely have a “long-term impact” on water resources in the project area, id.
+at 4-67 and Table 4-5, and acknowledged that there could be a decline in local and
+regional groundwater levels and flows at down-gradient locations as a cumulative
+impact.  Id. at 4-69.  However, BLM emphasized that to date there was no completed
+modeling analysis related to groundwater developments in the four hydrographic
+areas.  Id. at 4-70.  BLM noted that the NPS was in the process of modeling regional
+flow systems in the area, and proceeded to describe the coordinated effort between
+LCWD and the NPS to monitor, manage, and mitigate unanticipated impacts due to
+LCWD’s proposed development in the Tule Desert Hydrographic Basin.  Id.
+181 IBLA 361
+[[page 39]]
+IBLA 2010-86
+We have noted Appellants’ principal argument with regard to cumulative
+impacts, i.e., that BLM improperly determined that the SNWA and Kane Springs
+groundwater development projects were in separate hydrologic basins with distinct
+groundwater flow systems.  See SOR at 14; FEIS at 4-70.  Appellants support their
+contention with “evidence,” submitted with their comments to BLM, that the basins
+may be connected.  SOR at 14.  According to Appellants, if there is a question about
+the hydrologic interconnection then the FEIS analysis should have defaulted to
+including the basins into the cumulative impacts section.  Id. at 15.  BLM responds
+that “Appellant’s default premise is not a recognized standard of which BLM must
+comply, and Appellant has provided no case law to support such premise.”  BLM’s
+Response at 22.
+In asserting that the hydrologic basins may be connected, Appellants rely
+upon an article by James E. Deacon, et al., entitled Fueling Population Growth in
+Las Vegas:  How Large-Scale Groundwater Withdrawal Could Burn Regional
+Biodiversity, 57 BIOSCIENCE 688 (September 2007) (Deacon Article).  While this
+article provides a general discussion about groundwater withdrawal in southern
+Nevada, Appellants do not explain its application to the LCLA Project.  The Deacon
+Article does not demonstrate error in BLM’s determination that groundwater
+withdrawals related to the SNWA and Kane Springs Projects would occur in
+hydrologic basins located in groundwater flow systems separate from the LCLA
+Project area.  Appellants do not show how the article undermines BLM’s
+consideration of the geology, hydrogeology, and the possible flow patterns of
+groundwater in the LCWD Project area.  We agree with BLM that the Deacon Article
+represents “a generalized opinion about the issue of groundwater flow and
+withdrawal,” and that “[t]o the extent this article may represent a different opinion,
+such opinion would not be a basis to overrule the BLM’s analysis.”  BLM’s Response at
+25.  
+In its October 29, 2010, Order, with regard to whether other groundwater
+development projects should have been addressed because of their hydrological
+connection to the LCLA Project, the Board requested “the parties . . . to precisely
+identify those statements in the FEIS which are at issue.”  Order, IBLA 2010-86, at 3. 
+In response to the Board’s Order, Appellants assert that “[t]he issue is . . . that all of
+the flow systems at issue are hydrologically connected up and down gradient-which
+is well established.”  Appellants’ Consolidated Brief at 9.  Appellants state that the
+Meadow Valley Wash and Virgin River Valley Flow Systems, where the LCLA Project
+is located, are both hydrologically connected to the lower part of the White River
+Flow System; that the White River Flow System, where the Kane Springs Project and
+part of the LCLA Project are located, is also hydrologically connected to the lower
+White River Flow System; and that 
+181 IBLA 362
+[[page 40]]
+IBLA 2010-86
+all of these proposed groundwater projects may have significant
+cumulative effects on the surface and groundwater on the lower White
+River flow system and the lower Virgin River, which are both areas that
+are already impacted by other groundwater pumping projects and
+support springs and surface waters on public lands that provide habitat
+for rare and imperiled species.
+Id. (footnote omitted).  Appellants quote extensively from their comments on the
+DEIS to demonstrate that they provided significant information and data regarding
+potential cumulative impacts of the LCLA Project together with impacts of other
+groundwater pumping projects on interconnected flow systems, and that the issues
+raised by Appellants were ignored by BLM.  The record shows otherwise.    
+BLM observes that the precise FEIS statement disputed by Appellants is the
+following:  “Groundwater withdrawals associated with these projects would occur in
+hydrologic basins located in separate groundwater flow systems (White River Flow
+System and Great Salt Lake Desert Flow System).  Therefore, these projects are not
+considered in the cumulative impacts analysis.”  BLM’s Response to Order at 10;
+see FEIS at 4-70.  BLM then provides a detailed review of relevant FEIS sections that
+describe the groundwater flow systems that may be impacted by the LCLA Project,
+based upon “geology, hydrology, and hydrogeology.”  BLM’s Response to Order at 10;
+see Chapter 3 of the FEIS, with accompanying Figures and Maps.  What seems clear
+from the highly technical review provided by BLM is that “these neighboring systems
+do not all commingle seamlessly.”  BLM’s Response to Order at 10.19  BLM provided
+detailed assessments of the direction of flows related to the Meadow Valley Wash and
+Virgin River Valley Flow Systems, relying upon many sources and reports relevant to
+the geographic areas in question.  Id. at 13 and authorities cited therein.  We agree
+with BLM’s conclusion that, at a minimum, BLM has presented “sufficient evidence”
+to support its conclusion that the Meadow Valley Wash and Virgin River Valley Flow
+Systems are geographically separated to some extent from the White River Flow
+System, and further that “BLM has provided a rational explanation as to why there
+would not likely be impacts to assess from groundwater projects pumping from the
+                                           
+19  BLM cites to a 1995 USGS Report by Michael D. Dettinger, Distribution of
+Carbonate-Rock Aquifers and the Potential for their Development, Southern Nevada and
+Parts of Arizona, California, and Utah, U.S. Geological Survey Water–Resources
+Investigations Report 91-4146 (1995), that 
+confirms that there is a geologic boundary preventing interconnection
+between the Tule Desert carbonate groundwater east of the Mormon
+Mountains (where the Meadow Valley Wash and Virgin River Valley
+Flow systems run) from easily moving west, which is where the White
+River Flow system is located.
+BLM’s Response to Order at 11.
+181 IBLA 363
+[[page 41]]
+IBLA 2010-86
+White River Flow System, and the proposed project which is to pump from the
+Meadow Valley Wash and Virgin River Valley Flow System.”  Id. at 14. 
+BLM provides a thorough discussion of the concepts of local, intermediate, and
+regional groundwater flow systems.  See FEIS at 3-24.  BLM then explains that the
+Clover Valley Hydrographic Basin is included in the broader Meadow Valley Wash
+Flow System, while the Tule Desert Hydrographic Basin is included in the Virgin
+River Valley Flow System.  These broader-based flow systems are related to the
+intermediate flow systems.  Id.  BLM uses a figure to illustrate the conceptual flow-
+path for local, intermediate, and regional groundwater flow paths as related to the
+geography and geology in and around the Project area.  Id., Figure 3-8.  
+Further, BLM employs a stratigraphic column figure to describe the
+generally understood breakdown of the geologic units and potential hydrological
+significance with respect to local springs and surface water in Clover Valley.  Id. 
+at 3-17; id., Figure 3-9.  BLM also provides a model depicting the north to south flow
+pattern of groundwater through the Clover Valley area, which is the same flow
+pattern in the Lower Meadow Valley Wash hydrographic area just south of Clover
+Valley.  Id. at 3-28.  
+Additionally, BLM reviews the Tule Desert Hydrographic Basin in light of
+geographical, geological, and hydrological factors.  Id.  More data related to this
+Basin was available for BLM to consider, given the presence of more drilled wells in
+the area.  BLM began by providing a general figure depicting a hydrogeologic cross-
+section.  Id. at Figure 3-10.  BLM found that most of the groundwater beneath Tule
+Desert is regional carbonate aquifer groundwater moving in a northerly to southerly
+direction.  Id. at 3-32; see also FEIS Figures 3-8 and 3-10.  BLM stated that
+groundwater in the regional aquifer likely enters the Tule Desert from the north
+through both volcanic rocks, on the eastern side of the Clover Mountains, and a deep
+section of Paleozoic carbonate rocks forming the regional deep carbonate aquifer
+system.  Id. at 3-33.  
+BLM incorporated into its analysis a review of recent modeling data that
+helped simulate groundwater movements through the complex geologic areas of the
+regional fracture-rock aquifer system.  Id. at 4-15.  BLM was aware that uncertainty
+exists in attempting to predict future effects on large-scale geologically complex flow
+systems, but that such uncertainty will be reduced when more complete hydrological
+data is produced and monitoring programs are implemented.  Id. at 4-16.  BLM
+further indicated that obtaining more detailed data would be highly cost prohibitive
+and would take large amounts of time.  BLM again emphasized that the ultimate
+amount of water available for LCWD to extract would be dependent on the NSE’s
+approval.  Id. at 4-6.
+181 IBLA 364
+[[page 42]]
+IBLA 2010-86
+In reviewing the available literature, BLM dealt with the inherent
+hydrogeologic complexity of the Project area that has resulted in a lack of unified
+agreement among water experts concerning the underground flow system.  Id.  In its
+Response, BLM emphasizes that “[c]ourts will find that an agency has taken the
+necessary hard look where the agency reviews what it considers the best available
+information and identifies where the information may be lacking.”  BLM’s Response
+at 24 (citing Methow Forest Watch v. U.S. Forest Service, 383 F. Supp. 2d 1263, 1273
+(D. Or. 2005)).  Given the level of detail in BLM’s analysis of the flow patterns and
+recharge areas, we find that BLM met the following standard:  “An agency takes an
+appropriate hard look in relation to cumulative impacts when it provides justification
+on why more definitive information could not be provided for what otherwise may
+be considered general statements about possible effects.”  BLM’s Response at 24
+(citing Ocean Advocates v. U.S. Army Corps of Engineers, 361 F.3d 1108, 1128
+(9th Cir. 2004)).
+Appellants offer one other criticism of BLM’s cumulative impacts analysis that
+bears mention.  They state that the EPA echoed their concern that the Kane Springs
+and SNWA development projects were erroneously excluded from the cumulative
+impacts analysis based on inaccurate assumptions.  SOR at 15 (citing EPA Comment
+7-2).  However, as BLM notes, “[t]his is wrong.”  BLM’s Response at 25.  BLM is
+correct that EPA did not mention either the SNWA or Kane Springs Project in
+Comment 7-2.  FEIS App. F, pdf. at 27.  Nor did EPA refer to inaccurate assumptions,
+but simply stated that there were uncertainties regarding the interconnection with
+other hydrographic basins.  Id. at 28.  BLM asserts that the sections of the FEIS
+devoted to water resources, and geohydrology related to those resources, provide the
+“best available snapshot of the relevant information related to hydrologic connections
+concerning directions of groundwater flow systems.”  BLM’s Response at 25; see FEIS
+at 3-22 to 3-40, 4-2, 4-6 to 4-21; id., Map 3-5.  We agree with BLM that neither the
+Deacon Article nor the EPA comment provides support for Appellants’ argument that
+BLM’s cumulative impacts analysis related to the “alleged” hydrologic connections is
+deficient or inaccurate.  BLM’s Response at 25-26; see also Wyoming Outdoor Council,
+176 IBLA at 25.         
+As BLM states, “[t]he Department is entitled to rely upon the reasoned
+analysis of its own experts, and a disagreement between experts does not show BLM
+failed to follow through with its NEPA obligations.”  BLM’s Response at 25 (citing
+IMC Chemical Inc., 155 IBLA 173, 197 (2001); Tucson Herpetological Society v.
+Salazar, 566 F.3d 870, 881-82 (9th Cir. 2009)).  We have considered the evidence
+offered by Appellants in terms of the rule that, with issues of a highly technical
+nature, when BLM relies on the opinions of its technical experts concerning matters
+within their expertise, and such opinions are reasonable and supported by the record,
+any challenge to such reliance must demonstrate, by a preponderance of the
+evidence, error in data, methodology, analysis, or conclusion of the experts.  See
+181 IBLA 365
+[[page 43]]
+IBLA 2010-86
+Wyoming Outdoor Council, 176 IBLA at 25; Fred E. Payne, 159 IBLA at 78.  We agree
+with BLM’s assertion that Appellants’ evidence, primarily the Deacon Article, “does
+not specifically address BLM’s FEIS analysis and does not show by a preponderance of
+evidence any error in BLM’s assessment of the groundwater flow systems.”  BLM’s
+Response at 25. 
+b.  Climate Change and Cumulative Impacts
+Appellants argue that “BLM was required to rigorously explore both how
+ongoing climate change has impacted the environmental baseline in the project area,
+and how those changes will combine with and exacerbate the impacts from the
+proposed project approval.”  SOR at 17.  They claim that “BLM merely acknowledged
+that climate change is occurring, but declined to meaningfully analyze the combined
+impacts of climate change and the proposed project or the impacts of climate change
+on the baseline, claiming instead that uncertainty precluded it from doing so, or that
+it was beyond the scope of the EIS.”  Id.; see FEIS App. F.  According to Appellants,
+“BLM’s attempt to hide behind uncertainty is unfounded.”  SOR at 17.  They state
+that they explained in their comments that 
+many impacts of global warming have been predicted with a high
+degree of certainty and precision, providing BLM with more than
+adequate information to analyze the combined impact of global
+warming and the Project’s impacts on resources such as water
+availability, as well as impacts to imperiled plants and animals.
+Id.
+Appellants assert that “[g]lobal warming is having and will continue to have
+well-established impacts on . . . water availability.”  Id.  They state that the decrease
+in streamflow and water availability is “human induced [and] ‘portend . . . a coming
+crisis in water supply for the western United States.’”  Id. (quoting Tim P. Barnett,
+et al., Human-Induced Changes in the Hydrology of the Western United States,
+319 SCIENCE 1080-83 (2008), and citing Tim P. Barnett and David W. Pierce,
+When Will Lake Mead Go Dry?, 44 WATER RESOURCES RESEARCH W03201 (2008)). 
+Also citing the U.S. Global Change Research Program, which they assert “coordinates
+and integrates federal research on changes in the global environment and their
+implications for society, as required by the Global Change Research Act of 1990
+(Pub. L. 101-606),” Appellants state that “the rate of rainfall has been declining over
+the last century in the Southwest.”  SOR at 18.  They assert that decreasing water
+availability, exacerbated by the Project’s proposed use of almost 14,480 AFY, should
+have been considered in the FEIS.  Id.
+181 IBLA 366
+[[page 44]]
+IBLA 2010-86
+In response to Appellants’ global warming argument, BLM states that “an
+agency has ‘taken the necessary hard look where the agency reviews what it considers
+the best available information and identifies where the information may be lacking.’” 
+BLM’s Response at 27 (citing Methow Forest Watch v. U.S. Forest Service, 383 F. Supp.
+2d at 1273).  BLM discounts as “unfounded” Appellants’ general assertions that it
+failed to evaluate the precipitation in the project area and to evaluate the potential
+implications of global warming in relation to the project.  BLM explains that Chapter
+3 of the FEIS “provide[s] a clear summary of known precipitation data for the areas
+in and around the project area,” that Table 3-3 places the data from the “period of
+record” into chart form, and that BLM evaluated the precipitation data by comparison
+to surface evaporation rates.  BLM’s Response at 28; see FEIS at 3-13 to 3-14.
+BLM further responds that the FEIS provides a “rational discussion” of the
+potential global warming impacts that are generally accepted by “the most
+recognized scientific body researching the issue,” the Intergovernmental Panel on
+Climate Change (IPCC).  BLM’s Response at 28; FEIS at 4-62 to 4-63.  BLM asserts
+that it sought to “clearly articulate the limitation of . . . very long-term climatic
+projections.”  BLM’s Response at 28.  The FEIS stated:
+The assessment of greenhouse gas emissions and climate change is in
+its formative phase, and the net impact to climate cannot yet be
+determined with an acceptable degree of certainty.  Predicting regional
+changes in streamflow and groundwater recharge due to climate
+change remains challenging particularly because of uncertainty in
+regional projections of how precipitation changes.
+FEIS at 4-63.  BLM argues that Appellants’ statements about “possible general
+precipitation or climatic trends for a geographic quarter of the United States hardly
+show ‘both certainty and precision’ that BLM somehow failed to appreciate in its own
+analysis.”  BLM’s Response at 29.  BLM states that “the degree of uncertainty in
+current modeling scenarios prevents a more detailed analysis as related to possible
+connections to this particular proposed project,” and that it evaluated “impacts in
+context of what it considered to be the best available and widely accepted
+information and identified where the information is lacking.”  Id. (citing Methow
+Forest Watch v. U.S. Forest Service, 383 F. Supp. 2d at 1273).20
+                                           
+20  In commenting upon the DEIS, the EPA recommended inclusion of “a separate
+discussion of climate change and its potential effects on the proposed groundwater
+development project and associated development.”  AR 7.6.7. at pdf. 8.  In response
+to BLM’s inclusion in the FEIS of a discussion of possible effects of the LCLA Project
+and climate change, the EPA stated that it “appreciate[d] . . . the additional
+information in the FEIS on groundwater resource effects and climate change.” 
+(continued...)
+181 IBLA 367
+[[page 45]]
+IBLA 2010-86
+Our review of the record, including relevant sections of the FEIS, shows that
+despite the present reality that the assessment of greenhouse gas emissions and
+climate change is in its formative phase, BLM nonetheless proceeded to consider the
+LCLA Project in the context of what is known about the subject, on the basis that
+“there is consensus that global temperatures have been increasing.”  FEIS at 4-62. 
+BLM recognized that “the future of climate change on water resources will depend on
+trends in both climatic and non-climatic factors including increased demands for
+water caused by population growth . . . and changes . . . in water management
+policies.”  FEIS at 4-64.  BLM took the requisite hard look at the combined impacts of
+climate change and the LCLA Project, in light of recent publications from the IPCC
+and other scientific literature.  BLM’s review was necessarily predicated upon a
+certain amount of scientific uncertainty.  See Intervenors’ Answer at 36 (citing
+North Slope Borough v. MMS, 343 Fed. App. 272, 275 (9th Cir. 2009); Conservation
+Northwest v. Rey, 674 F. Supp. 2d 1232, 1253 (D. Wash. 2009)).  We further
+conclude, as we did in Bristlecone Alliance, 173 IBLA at 81 (quoting BLM Answer
+therein), that “any incremental impact of emissions from the project in relation to
+global warming impacts on potential water availability, are simply too small to
+accurately quantify in relation to water resources.”  See also Powder River Basin
+Resource Council, 180 IBLA 119, 136 (2010).       
+c.  Impacts to Protected Plant and Animal Species
+Appellants argue that BLM failed to adequately analyze the cumulative
+impacts of the Project, together with past, present and reasonably foreseeable future
+water development actions, to special status plant and animal species and their
+habitats, including the desert tortoise, southwestern flycatcher, several Virgin River
+species (Virgin River chub, woundfin, Yuma Clapper rail, and Yellow billed cuckoo),
+and special status plants.  They assert that BLM failed to provide a meaningful
+analysis of (1) the cumulative impacts of the Project, in combination with other water
+development projects, on protected species and their habitats; (2) the direct, indirect,
+and cumulative impacts of the Project on the desert tortoise, which is listed as
+threatened under the Endangered Species Act; and (3) the cumulative impacts to
+species and habitats caused by desertification resulting from the Project.  SOR at 27.
+For purposes of clarity, we will address (1) and (3) in tandem, since they involve
+many of the same considerations, and then review Appellants’ desert tortoise
+argument.
+Appellants argue that the cumulative impacts to protected species and habitats
+resulting from the SNWA and Kane Springs Projects should have been evaluated in
+combination with the LCLA Project.  Appellants note that “BLM included the
+                                          
+20 (...continued)
+AR 9.4.6. EPA Comment to FEIS, pdf. at 2 (May 29, 2009).
+181 IBLA 368
+[[page 46]]
+IBLA 2010-86
+proposed project and these others on a map of ‘interrelated projects’ for the Kane
+Springs Valley Groundwater Pipeline that shows that they will have impacts on the
+same resources,” but that “BLM failed to fully consider the cumulative impacts of
+these projects in any of the environmental reviews.”  Id. at 28.  According to
+Appellants, although these other water projects “potentially extract groundwater
+from the same underground water source,” since “these water basins may be
+hydrologically interconnected.”  Id.  “If they are interconnected, pumping
+groundwater out from one basin may have impacts far from the site of pumping.” 
+Id. (citing FEIS at App. F (Comment 8-3)).  One impact identified by Appellants is to
+“reduce water available at springs, upon which protected species rely for survival.” 
+Id. at 29 (citing FEIS at 3-54 to 3-55).  Appellants state that when “too much water is
+pumped out of an aquifer, springs will be affected for part or all of the year,” and that
+“[s]prings and other surface water bodies are extremely vital to protected species and
+create areas with the highest species richness within the desert.”  Id.
+Appellants complain that “BLM acknowledged that it is possible that
+groundwater systems for these water projects may be interconnected and impacts to
+surface waters and springs could occur,” but failed to “provide a cumulative impact
+analysis of their converging effects claiming that it lacked the time to do so.”  Id.
+(citing FEIS at App. F (Comment 8-3)).  Appellants contend that BLM’s failure to
+conduct the required analysis cannot be excused, and that BLM is “still require[d] to
+explain why and summarize the information that is available now.”  Id.  Instead,
+Appellants assert, BLM “makes the unsupported conclusory assertion that
+groundwater pumping will have no impacts to surface water resources in the Tule
+Desert Hydrographic Area or in the Clover Valley Hydrographic Area.”  Id. at 30
+(citing FEIS at 4-10, 4-26 to 4-29).  Appellants state that they submitted several
+credible scientific studies to BLM “showing there could be a reasonably significant
+adverse impact on surface waters due to groundwater pumping.”21  Id.; see FEIS
+at App. F (Comment 8-6).  According to Appellants, these studies show, inter alia,
+that the “combination of large demand for usable water and the semi-arid climate in
+the Southwestern United States has led to groundwater overdrafts,” with resulting
+“declines in surface-water levels and streamflows, reduction or elimination of
+vegetation, and land subsidence.”  SOR at 30.  Appellants conclude that “at
+minimum, BLM was required to incorporate this highly-relevant data, a summary of
+the existing data showing how groundwater pumping can have these impacts, and
+evaluate these impacts based upon theoretical approaches or research methods
+generally accepted in the scientific community.”  Id. at 30-31.
+                                           
+21  Appellants cite to Igor S. Zekster, et al., Environmental Impacts of
+Groundwater Overdraft:  Selected Case Studies in the Southwestern United States,
+47 ENVTL. GEOLOGY 396 (2005); Marith C. Reheis, Owens (Dry) Lake, California:  a
+Human Induced Dust Problem (July 2008), accessed at
+http://geochange.er.usgs.gov/sw/impacts/geology/owens (last visited Jan. 9, 2012). 
+181 IBLA 369
+[[page 47]]
+IBLA 2010-86
+Appellants argue that they “provided BLM with extensive information showing
+that groundwater pumping leads to desertification,” and that the studies cited show
+that “desertification can lead to dire consequences for species and habitat as well as
+for other resources including soils and air quality, but that BLM failed to adequately
+address these impacts.”  Id.22  Appellants again assert that BLM “appears to assume
+that this issue will be addressed through a mitigation plan developed for the pumping
+projects,” an approach that they claim “fails to fulfill BLM’s duty to provide analysis
+and response pursuant to NEPA.”  Id. at 34-35 (citing 42 U.S.C. § 4332(2)(C)(i)
+(2006); 40 C.F.R. §§ 1508.7 and 1508.25).  Moreover, according to Appellants,
+“desertification as with other impacts cannot be mitigated on any meaningful
+timescale.”  SOR at 35 (citing Jayne Belnap, Surface Disturbances:  Their Role in
+Accelerating Desertification, 37 ENVTL. MONITORING AND ASSESSMENT 39 (1995)). 
+Appellants conclude that BLM’s claim that desertification can be mitigated is
+“inaccurate and misleading to the extent that it assumes without adequate analysis
+that protected species and other resources will not be significantly impacted from
+desertification associated with the Project and that if such impact[s] occurred they
+could be timely mitigated after the fact.”  SOR at 35.
+In responding to Appellants’ protected species arguments, BLM observes that
+they comprise “another version of Appellant[s’] previously deficient cumulative
+impacts claim, in which Appellant[s] allege [that] BLM did not properly include the
+Kane Springs and SNWA groundwater development projects within the evaluation of
+groundwater impacts associated with the current LCWD propose[d] project.”  BLM’s
+Response at 34.  With regard to the map relied upon by Appellants that identifies the
+location of water projects in relation to the Kane Springs Project pipeline, see SOR
+at 28, Attachment A, BLM states that the map does not depict “impacts” and does not
+represent BLM’s conclusion that the projects identified on the map will have impacts
+on the same resources.  Instead, BLM states that the map shows that the Kane
+Springs and SNWA Projects occur in separate and distinct hydrographic basins. 
+BLM’s Response at 35; see FEIS at 4-70 and Map 4-1 (depicting the separate
+hydrographic basins); see also Map 3-5.
+BLM disputes Appellants’ assertion that, based upon NSE Ruling No. 5181, 
+BLM was aware that the hydrologic basins with the other water projects may be
+hydrologically interconnected.  BLM’s Response at 35; see SOR at 28; FEIS App. A. 
+BLM emphasizes, however, that the ruling predates most of the new analysis
+                                           
+22  The studies cited by Appellants include Igor S. Zekster, et al., supra note 21;
+Marith C. Reheis, supra note 21; Andrew J. Elmore, et al., Decline in Alkali Meadow
+Vegetation Cover in California:  the Effects of Groundwater Extraction and Drought,
+43 Journal of Applied Ecology 770 (August 2006); Andrew J. Elmore, et al.,
+Groundwater Influences on Atmospheric Dust Generation in Deserts, 72 Journal of
+Arid Environments 1753 (October 2008).
+181 IBLA 370
+[[page 48]]
+IBLA 2010-86
+reviewed in the FEIS concerning geology, hydrogeology, and groundwater flow
+patterns as they pertain to potential basin interconnections.  See FEIS at 3-22 to 3-42,
+4-11 to 4-21, 4-69 to 4-70.  Thus, observes BLM, “it is Appellant who has not
+specifically shown that the volume of information BLM has provided is deficient in
+describing the hydrogeological features of the relative area to the extent provided in
+the best available data.”  BLM’s Response at 35 (footnote omitted).  Further, BLM
+argues that the pages of the NSE ruling cited by Appellants do not prove the
+“significant logical leap” they assert, and do not include “any formal position
+relative to the alleged interconnection between the Clover Valley and Tule Desert
+hydrographic basins and the actual groundwater basins related to the Kane Valley
+and SNWA groundwater developments.”  Id. at 35-36; see SOR at 28 (citing NSE
+Ruling No. 5181 at 16-18, 22, FEIS App. A).
+BLM further disputes Appellants’ argument that BLM acknowledged potential
+interconnections between groundwater resources and surface waters and springs, but
+failed to provide the required cumulative impacts analysis based upon a “lack of
+time” rationale.  BLM’s Response at 36; see SOR at 29-30.  We see no basis for
+Appellants’ claim that BLM admitted to not considering the cumulative impacts of the
+Project on protected species and their habitat because BLM lacked the time to study
+the issue.  In its response to Comment 8-3, BLM acknowledged “disagreement among
+scientists and policymakers on the details of the regional groundwater system,” and
+stated that each system “represents a discreet hydrological basin for which the
+allocation of water rights is within the purview of the Nevada State Engineer.”  FEIS
+App. F, Response to Comment 8-3.  In considering the various scientific views and
+available data with regard to the cumulative impacts of groundwater pumping, BLM
+found that “uncertainties exist and assumptions for analysis were required to analyze
+the impacts of granting the right of way.”  Id.; see Wyoming Audubon, 151 IBLA at 51. 
+The FEIS concluded that there were prohibitive resource costs, in terms of time and
+money, involved in attempting to arrive at definitive conclusions, for purposes of the
+subject FEIS, regarding the possible interconnectivity among hydrographic basins, an
+issue debated since 1915.  FEIS App. F, Response to Comment 8-3; FEIS at 4-2, 4-16. 
+Nonetheless, BLM includes in the FEIS a review of the possible interconnection of the
+hydrographic basins that may be affected by the LCLA Project, in light of recent
+scientific studies, and determines that the impacts of any interrelation on threatened
+species and their habitat were not substantial.  See FEIS at 3-15, 3-23, 3-33, 3-35, 
+3-36, and 4-14; Intervenors’ Answer at 46-47. 
+Our review confirms BLM’s observation that the citations to the FEIS cited by
+Appellants’ contain information that generally contradicts their arguments with
+regard to impacts to protected species and their habitat.  For example, as BLM
+explained in Section 4.3.1.2.3 of the FEIS, “[a]ll surface water features (including
+local springs) in the Tule Desert are ephemeral and do not appear to be recharged
+by regional groundwater,” and “water for the project would be pumped from the
+181 IBLA 371
+[[page 49]]
+IBLA 2010-86
+deep carbonate aquifer which, based on the isotope data discussed in Section 3.3,
+does not have a significant direct or indirect connection to surface water resources.” 
+FEIS at 4-10.  The FEIS explains that there are no anticipated impacts associated
+with the proposed project on springs or other surface waters in and around the
+Tule Desert, and further refers to Section 3.3 of the FEIS for a more complete
+outline of the relevant scientific information.  The FEIS further states that “pumping
+in the Clover Valley is not anticipated to impact surface water flows or springs . . .
+that contribute to surface flows in Clover Creek and the Meadow Valley Wash.”  FEIS
+at 4-27 to 4-28.  Thus, we agree with BLM that its “assessment . . . provides the basic
+finding by BLM of the lack of impacts to surface waters related to Clover Creek and
+Meadow Valley Wash, and further directs the reader back to previous water resources
+section[s] for a fuller description of the information supporting the assessment.” 
+BLM’s Response at 37.  Indeed, the FEIS provides additional discussion of the lack of
+connectivity between groundwater pumping in the basins at issue with surface
+waters, local springs, and regional springs.  See FEIS at 4-8 to 4-18.
+   
+With regard to the two scientific studies, cited in note 21 supra, that
+Appellants claim that BLM should have addressed in the FEIS, BLM states that “one
+related to the southwest in general and the other related to a particular issue in
+California.”  BLM’s Response at 38; see SOR at 30 nn.21 & 22, 34.  BLM states that
+“[n]either article explains how BLM’s current FEIS analysis is faulty, and BLM ‘need
+not respond to every single scientific study or comment’ provided by Appellants
+during the comment period.”  BLM’s Response at 38 (quoting Conservation Northwest
+v. Rey, 674 F. Supp. 2d at 1253).  We agree with BLM that Appellants have not
+provided evidence that shows by a preponderance any flawed analysis on behalf of
+BLM and its experts “related to the geohydrology of the applicable groundwater flow
+patterns and related washes, [or] that the applicable deep carbonate aquifers are also
+not likely interconnected with relevant surface waters.”  BLM’s Response at 38-39;
+see Wyoming Outdoor Council, 176 IBLA at 25; Biodiversity Conservation Alliance,
+174 IBLA at 13-14; Salinas Ramblers Motorcycle Club, 171 IBLA 396, 400 (2007).  A
+mere difference of opinion, even of expert opinion, will not suffice to show that BLM
+failed to fully comprehend the nature or scope of the significant impacts.  Fred E.
+Payne, 159 IBLA at 78. 
+We agree with BLM’s conclusion that it has taken a “hard look [at] water
+resource impacts related to ground water resources and surface waters, based [upon]
+best available data,” and that the “FEIS provided a ‘reasonably thorough discussion of
+the significant aspects of the probable environmental consequences.’”  BLM’s
+Response at 39 (quoting California v. Block, 690 F.2d at 761).  BLM has “explained
+impacts in context of what it considered to be the best available and widely accepted
+181 IBLA 372
+[[page 50]]
+IBLA 2010-86
+information and identified where the information is lacking.”  BLM’s Response at 39
+(citing Methow Forest Watch v. U.S. Forest Service, 383 F. Supp. 2d at 1273).23 
+d.  Impacts to Desert Tortoise
+      The arguments made by Appellant s regarding impacts of the LCLA Project on
+the desert tortoise are similar to those made regarding impacts to protected species
+and their habitats generally.  Appellants argue that “BLM failed to fully identify and
+analyze the Project’s impacts to the desert tortoise.”  SOR at 32.  In Appellants’ view,
+BLM “simply stated that it would adopt a ‘mitigation plan’ should the tortoise be
+negatively affected by the project.”  SOR at 32; see FEIS App. F (Comment 8-4). 
+Appellants state that “a mitigation plan cannot replace the mandate to conduct an
+impact analysis under NEPA.”  SOR at 32 (40 C.F.R. §§ 1508.7 and 1508.25; Kern v.
+BLM, 284 F.3d at 1062)).
+Appellants further contend that “BLM underestimated the amount of habitat
+loss that is reasonably expected to occur.”  SOR at 32.  Citing to the FEIS, Table C-3,
+Appellants note BLM’s prediction that 89 to 108 acres of tortoise habitat will be
+permanently lost and 697 to 848 acres will be temporarily disturbed, but caution that
+BLM’s “estimates depend on an assumption that all planned restoration will be
+achieved and fully mitigate impacts.”  Id.  Appellants state that “the relevant evidence
+shows that restored habitat does not achieve the same . . . habitat values as intact
+native habitat in the time horizon contemplated by BLM,” and that “BLM’s
+assumption that habitat recovery would be certain and complete is overstated and
+potentially misleading.”  Id.  Appellants cite to “numerous well-known studies [that]
+show that ‘temporarily disturbed’ habitat has many of the impacts of permanently
+disturbed habitat.”24  Id.  Appellants claim that BLM did not address any of the cited
+studies or Appellants’ comment challenging BLM’s assumptions regarding habitat
+recovery.  They claim that BLM improperly “assumed that its mitigation measures are
+                                           
+23  In this connection, we note that, contrary to Appellants’ assertion, BLM analyzed
+the impacts of the Project on the southwestern willow flycatcher (FEIS at 3-57 
+to 3-58, 4-30); the Yuma Clapper Rail (FEIS at 3-58, 4-30); the Yellow Billed
+cuckoo (FEIS at 3-58 to 3-59); and the Virgin River Chub and woundfin (FEIS 
+at 3-59 to 3-60, 4-31).  V
+24  To support its argument that BLM overstates its assumptions regarding habitat
+recovery, Appellants rely upon the following three articles from ENVIRONMENTAL
+EFFECTS OF OFF-ROAD VEHICLE USE (Robert H. Webb and Howard G. Wilshire, eds.
+1983):  Earl W. Lathrop & Peter G. Rowlands, Plant Ecology in Deserts:  An Overview;
+Burgess L. Kay & Walter L. Graves, History of Revegetation Studies in the California
+Deserts; and Robert H. Webb, Howard G. Wilshire & Mary Ann Henry, Natural
+Recovery of Soils and Vegetation Following Human Disturbance.
+181 IBLA 373
+[[page 51]]
+IBLA 2010-86
+adequate enough to address any adverse impacts to the desert tortoise, despite the
+existence of scientific, peer-reviewed studies to the contrary submitted to the agency
+by Appellants.”  Id. at 33; see FEIS 4.0, App. F, (Comment 8-1 and Response to
+Comment 8-1).       
+BLM provides a thorough response to Appellants’ arguments that BLM’s
+desert tortoise impacts analysis is deficient or faulty.  In particular, BLM counters
+Appellants’ reliance upon BLM’s Response to Comment 8-4, in which BLM indicated
+that once the U.S. Fish and Wildlife Service (USFWS) issues its biological opinion
+(BO) for the LCLA Project, BLM may need to impose additional terms and conditions
+or mitigation measures.  See FEIS App. F.  In BLM’s view, Appellants “attempt[] to
+twist this very reasonable statement into some form of admission by BLM that the
+only analysis of project impacts on tortoise would be these additional mitigation
+measures.”  BLM’s Response at 40; see SOR at 32.  BLM asserts that “noticeably
+absent” from Appellants’ argument are references to the sections of BLM’s FEIS
+analyzing the direct and indirect impacts (FEIS at 4-28 to 4-29), and the sections
+analyzing cumulative impacts (FEIS at 4-72 to 4-73), on the desert tortoise and their
+habitat.  BLM’s Response at 40.25  Based upon our review of the record, we agree 
+with BLM.
+In order to assess the potential impacts of the LCLA Project on the desert
+tortoise, BLM obtained a BO from the USFWS.  See AR 4.3.2.2 (BO).  BLM prepared a
+baseline analysis setting forth the tortoise’s typical habitat and activity patterns.  FEIS
+at 3-56 to 3-57.  This baseline analysis included a survey that used the strip-transect
+method to sample distribution and relative abundance of signs of tortoise life
+throughout the Project area.  FEIS at 3-57.  BLM acknowledged that “[c]onstruction
+and operation of the Proposed action will impact desert tortoise and desert tortoise
+habitat,” and that construction of the Project will possibly “result in the take of
+between 0 and 18 tortoises.”  Id. at 4-28.  Further, construction and operation of the
+Project will permanently disturb 108 acres of desert tortoise habitat, and temporarily
+disturb 848.5 acres of desert tortoise habitat, 253.7 acres of which is designated as
+critical habitat.  The FEIS provides an analysis of other potential effects of the Project
+to the desert tortoise and its habitat, as well as habitat restoration and other possible
+mitigation measures on the temporarily disturbed lands.  Id. at 4-29 to 4-30.  The
+                                           
+25  The BO issued by USFWS found the proposed action “not likely to jeopardize the 
+continued existence of the threatened desert tortoise,” and “is not likely to adversely
+modify designated critical habitat or diminish the capability of the area in providing
+the primary constituent elements of critical habitat.”  BLM ROD, Attachment 1
+at 12.  The BO also set forth several “reasonable and prudent measures with terms
+and conditions” during construction and operation of the Project, including payment
+of an estimated $1.4 million in remuneration fees associated with desert tortoise. 
+BO at 14-27.
+181 IBLA 374
+[[page 52]]
+IBLA 2010-86
+FEIS includes a separate cumulative impacts analysis with respect to the desert
+tortoise.  Id. at 4-73.
+We take particular note of Appellants’ assertion that BLM has misrepresented
+the amount of desert tortoise habitat loss.  See SOR at 32.  Appellants’ challenge to
+BLM’s habitat loss estimates appears based upon their belief that restoration of
+habitat “does not achieve the same [] habitat values as intact native habitat in the
+time horizon contemplated by BLM.”  Id.  However, as BLM asserts, “[n]owhere in
+BLM’s FEIS . . . has BLM attempted to describe the required habitat rehabilitation in
+terms of absolute certainty nor established a time horizon.”  BLM’s Response at 41. 
+BLM argues that Appellants’ “attempt to cause some sort of discrepancy about what is
+considered permanent versus temporary impacts does not prove any sort of deficient
+analysis in the FEIS, and is not directly relevant to what is required as mitigation for
+this project.”  Id.  BLM states that its mitigation measures are aimed at reducing
+potential effects, “regardless of temporary versus permanent disturbance.”  Id.;
+see FEIS at 4-29.        
+In light of the analysis regarding impacts to the desert tortoise and their
+habitat, as set forth in the BLM’s FEIS and in USFWS’ BO, we see no basis for
+Appellants’ argument that BLM “failed to fully identify and analyze the Project’s
+impacts to the desert tortoise,” and that BLM “simply stated that it would adopt a
+‘mitigation plan’ should the tortoise be negatively affected by the project.”  SOR at
+32.  The FEIS provides a clear analysis of the impacts of the Project on affected plants
+and animals generally, and the desert tortoise specifically.  FEIS at 4-26 to 4-36. 
+We conclude, as BLM argues, that “Appellant[s have] simply failed to explain how
+BLM’s analysis and related mitigation for the total disturbance of 0.34 percent of the
+applicable critical habitat unit did not result in the necessary hard look at this issue.” 
+BLM’s Response at 41.  To the contrary, we find that BLM took the required “hard
+look” at the impacts, id., analyzed the appropriate geographic and temporal scope of
+impacts on animal and plant species, FEIS at 3-42 to 3-64, and, after a reasonably
+thorough discussion of the probable environmental consequences of construction and
+operation of the Project, issued the ROD.
+E.  BLM’s Mitigation Plan is Adequate
+[8]  Appellants argue that BLM’s failure to fully analyze direct, indirect,
+and cumulative impacts to species and habitats means that “no mitigation plan
+can be meaningfully developed nor can its effectiveness be accurately assessed.” 
+SOR at 36.  Appellants contend that “the mitigations referred to by BLM in the FEIS
+and the response to comments lack detail.”  Id.  Appellants complain that “even many
+of the standard construction and operation procedures provided in Appendix C
+are devoid of a ‘trigger mechanism’ from which mitigation measures should start
+to be implemented,” and that there is “no indication as to whether BLM will
+181 IBLA 375
+[[page 53]]
+IBLA 2010-86
+require the project proponent to provide adequate resources to BLM to accomplish
+the measures.”  Id.  Appellants claim that BLM mistakenly assumes that temporarily
+disturbed habitat can be fully restored through a mitigation plan, when “numerous
+scientific studies indicate that habitat restoration is unlikely to restore habitat to
+its original condition in a meaningful timeframe, if at all, nor can many other
+resources be restored after they are lost including soil structure and native
+vegetation.”  Id.  According to Appellants, “BLM merely listed the mitigation
+measures,” see FEIS App. C, without providing “adequate discussion or analysis.” 
+BLM’s Response at 36-37.
+We agree with BLM’s general response that Appellants’ mitigation measures
+“section is premised on the conclusion that Appellant has actually proven BLM
+‘failed to fully analyze direct, indirect, and cumulative impacts to species and
+habitats and other resources,’” when “Appellant has far from proven any failure to
+comply with NEPA’s hard look requirement related to direct, indirect, and cumulative
+impact analysis.”  Id. at 42 (quoting SOR at 36).  We further agree with BLM that
+“Appellant’s alleged deficiencies with the mitigation measures listed in Appendix C
+following the FEIS are simply abstract statements.”  Id.  With regard to the absence
+of any “‘trigger mechanism’ from which mitigation measures should start to be
+implemented,” SOR at 36, BLM correctly notes that Appellants “do[] not actually
+specify which procedures require a trigger, what that trigger should be, why a trigger
+is necessary, with what issue related to the procedure in question is Appellant in
+disagreement, etc.”  BLM’s Response at 42.  Similarly, as BLM states, Appellants fault
+BLM for failing to provide adequate resources to accomplish the mitigation measures
+but do not identify what resources or measures are at issue.26  Id.  In Colorado
+Mountain Club, 161 IBLA 371, 383 (2004), the Board stated that “[a]ppellants’
+generic claims that mitigation is bound to fail do not assert, let alone demonstrate,
+that these results cannot be achieved.”  Likewise, we reject Appellants’ attempt to
+undermine BLM’s analysis regarding revegetation and other mitigation measures by
+stating merely that such mitigation is not possible. 
+Moreover, as BLM states, the FEIS includes BLM’s analysis of Appendix C
+mitigation measures where appropriate.  See, e.g., FEIS at 4-7 to 4-8, 4-22, 4-24, 4-
+27 to 4-29, 4-32 to 4-34, 4-36, 4-41, 4-43, 4-53.  BLM asserts that Appellants
+“fail[] to appreciate where the mitigation measures contained in Appendix C mostly
+originated-the project proponent.”  BLM’s Response at 43.  BLM states that “[a]s
+                                           
+26  We note that the Clover Valley Monitoring and Management Plan provides that
+“[t]he mitigation portion of the plan shall include a bond or escrow account
+established by the District to fund any possible mitigation actions.  FEIS App. B at 6. 
+Further, the BO provides that BLM shall ensure payment of remuneration fees to
+compensate for the loss of desert tortoise habitat–estimated to be $1,437,010.90–by
+requiring payment prior to issuing the Notice to Proceed.  BO at 17-18.
+181 IBLA 376
+[[page 54]]
+IBLA 2010-86
+voluntarily proposed mitigation measures, BLM will consider them as part of any Plan
+of Development and require compliance therewith.”  Id. at n.9; see ROD at § II D. 
+BLM alleges that in asserting that “BLM assumes that temporarily disturbed habitat
+can be fully restored through a mitigation plan,” SOR at 36, Appellants
+mischaracterize the nature of the mitigation measures listed in Appendix C and
+analyzed where appropriate in the FEIS, as noted supra.  BLM correctly states that
+Appellants do “not identify the ‘plan’ to which [they are] referring within the
+measures of Appendix C, where BLM made that ‘assumption,’ and what part of the
+FEIS analysis is fundamentally dependent on that ‘assumption.’”  BLM’s Response
+at 43.  We agree with BLM that Appellants’ “generalized allegations about the
+mitigation measures in Appendix C,” or opinions attributed “to the BLM which
+may be wholly inaccurate,” fail to “prove a deficient analysis within the FEIS itself.” 
+Id. at 43-44.  
+In Powder River Basin Resource Council, 180 IBLA at 137 (quoting
+Bristlecone Alliance, 179 IBLA at 60), the Board emphasized that NEPA, being a
+procedural statute, “does not require agencies to avoid major Federal actions that
+may cause a significant impact on the human environment; it obligates agencies to
+undertake an EIS for such major Federal actions to ensure that the decisionmakers’
+‘selection of an action represents a fully informed decision.’”  See also Wyoming
+Outdoor Council, 176 IBLA at 25; In re Bryant Eagle Timber Sale, 133 IBLA 25, 29
+(1995).  Moreover, “NEPA does not require the agency to mitigate impacts identified
+as significant in the EIS.”  Wyoming Outdoor Council, 180 IBLA at 137 (emphasis
+added).  The Board has rejected the argument that BLM’s NEPA analysis is deficient
+on the basis that it does not ensure implementation of certain mitigation measures. 
+Id.  BLM operates under the obligation to discuss the relevant mitigation measures “in
+sufficient detail ‘to ensure environmental consequences have been fairly evaluated.’” 
+BLM’s Response to Order at 44 (quoting Robertson v. Methow Valley Citizens Council,
+490 U.S. at 352).  BLM fully met that requirement.
+IV.  CONCLUSION
+We conclude that the disputed FEIS, which is very comprehensive by NEPA
+standards, constitutes a “detailed statement” that takes a “hard look” at the
+potentially significant environmental consequences of the LCLA Project, including
+reasonable alternatives thereto, considering all relevant matters of environmental
+concern.  The FEIS contains a “reasonably thorough discussion of the significant
+aspects of the probable environmental consequences” of the proposed action and
+reasonable alternatives.  Appellants have not carried their burden to show, by a
+preponderance of the evidence, with objective proof, that BLM failed to adequately
+consider a substantial question of material significance to the proposed action, or
+otherwise failed to abide by section 102(2)(C) of NEPA.  In analyzing the probable
+environmental consequences of the LCLA Project, BLM confronted many issues of a
+181 IBLA 377
+[[page 55]]
+IBLA 2010-86
+highly technical nature, and in doing so was entitled to rely upon the opinions of its
+technical experts concerning matters within their expertise.  In challenging those
+opinions, which we find are reasonable and supported by the record, Appellants have
+failed to demonstrate, by a preponderance of the evidence, error in data,
+methodology, analysis, or conclusions of the experts.  BLM has studied and cataloged
+the probable and potential environmental impacts of the Project and how best to
+mitigate those impacts.  NEPA’s objective of ensuring that BLM and the public are
+adequately informed during the agency’s decisionmaking process has been amply met
+in this case.
+Accordingly, pursuant to the authority delegated to the Board of Land Appeals
+by the Secretary of the Interior, 43 C.F.R. § 4.1, the decision appealed from is
+affirmed.
+                                                           
+James F. Roberts
+Administrative Judge
+I concur:
+                                                           
+Christina S. Kalavritinos
+Administrative Judge
+181 IBLA 378

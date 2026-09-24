@@ -1,0 +1,174 @@
+SOURCE: https://www.doi.gov/sites/default/files/document_handbooks/doi-handbook-of-nepa-procedures-concluded-508-compliant.pdf RETRIEVED: 2026-09-24
+[DOI NEPA Handbook (516 DM 1), February 2026, Appendix 2, Categorical Exclusions Adopted from Other Agencies, introduction, handbook p. 99]
+Categorical Exclusions Adopted from Other Agencies 
+ 
+ 
+Under Section 109 of NEPA, federal agencies are authorized to adopt CEs established 
+administratively by other agencies. DOI bureaus have formally adopted the following list of 
+CEs. Subject headings are for organizational purposes only. Any bureau or program may apply 
+any appropriate CE.  
+ 
+Responsible Officials must document reliance on any CE marked with an asterisk (*). This 
+documentation must include a description of how the proposed action conforms to the terms of 
+the categorical exclusion relied upon and written confirmation that none of the DOI 
+extraordinary circumstances apply and any other noted requirements.  
+ 
+Strikeouts indicate that the CE has been adopted with limitations. Brackets indicate where 
+bureau name can be substituted for establishing agency name or provide other information.   
+ 
+16.1 Adopted Categorical Exclusions
+
+[16.1 E. Realty, Facilities and Utilities, (3) fiber optic, handbook p. 104]
+(3) Department of Energy, 10 CFR 1021(D) (Appendix B4).7), as adopted by BIA and 
+BLM in 90 FR 4774. Make sure DOE’s “Integral Elements” are incorporated in 
+each DOE CX (10 CFR 1021 Appendix B). 
+  
+*FIBER OPTIC CABLE. Adding fiber optic cables to transmission facilities or 
+burying fiber optic cable in existing powerline or pipeline rights-of-way. Covered 
+actions may include associated vaults and pulling and tensioning sites outside of 
+rights-of-way in nearby previously disturbed or developed areas.
+
+[16.1 E(12), (13), handbook pp. 106-107]
+(12) National Telecommunication and Information Administration, 89 FR 22688, 
+Categorical Exclusions, Operational, C-8: as adopted by BIA and BLM in 90 FR 
+4774 and NPS in 90 FR 24644. 
+  
+*Acquisition, installation, reconstruction, repair by replacement, and operation of 
+aerial or buried utility (e.g., water, sewer, electrical), communication (e.g., fiber 
+optic cable, data processing cable and similar electronic equipment), and security 
+[[page 111]]
+   
+ 
+107 
+systems that use existing rights-of-way, easements, grants of license, distribution 
+systems, facilities, or similar arrangements. 
+  
+(13) Tennessee Valley Authority, 18 CFR Part 1318, Subpart C, Appendix A, n. 17, as 
+adopted by BLM in 90 FR 27655. 
+  
+*Routine modification, repair, and maintenance of, and minor upgrade of and 
+addition to, existing transmission infrastructure, including the addition, retirement, 
+and/or replacement of breakers, transformers, bushings, and relays; transmission 
+line uprate, modification, reconductoring, and clearance resolution; and limited pole 
+replacement. This exclusion also applies to improvements of existing access roads 
+and construction of new access roads outside of the right-of-way that are generally 
+no more than 1 mile in length.
+
+[16.1 E(16) through E(22), handbook pp. 108-109]
+(16) U.S. Army Corps of Engineers, 33 CFR 230.9(i), as adopted by BLM in 90 FR 
+42432. 
+ 
+*Real estate grants for rights-of-way which involve only minor disturbances to 
+earth, air, or water: 
+ 
+(1)  Minor access roads, streets and boat ramps. 
+ 
+(2)  Minor utility distribution and collection lines, including irrigation. 
+ 
+(3)  Removal of sand, gravel, rock, and other material from existing borrow 
+areas. 
+ 
+(17) Department of Energy, 10 CFR 1021(D) (Appendix B4.11), as adopted by BLM in 
+90 FR 42432. Make sure DOE’s “Integral Elements” are incorporated in each DOE 
+CX (10 CFR 1021 Appendix B) 
+ 
+*ELECTRIC POWER SUBSTATIONS AND INTERCONNECTION 
+FACILITIES. Construction or modification of electric power substations or 
+interconnection facilities (including, but not limited to, switching stations and 
+support facilities). 
+ 
+(18) Department of Energy, 10 CFR 1021(D) (Appendix B5.5), as adopted by BLM in 
+90 FR 42432. Make sure DOE’s “Integral Elements” are incorporated in each DOE 
+CX (10 CFR 1021 Appendix B) 
+ 
+*SHORT PIPELINE SEGMENTS. Construction and subsequent operation of short 
+(generally less than 20 miles in length) pipeline segments conveying materials 
+(such as air, brine, carbon dioxide, geothermal system fluids, hydrogen gas, natural 
+gas, nitrogen gas, oil, produced water, steam, and water) between existing source 
+facilities and existing receiving facilities (such as facilities for use, reuse, 
+transportation, storage, and refining), provided that the pipeline segments are 
+within previously disturbed or developed rights-of-way. 
+ 
+(19) Department of Energy, 10 CFR 1021(D) (Appendix B5.15), as adopted by BLM in 
+90 FR 42432. Make sure DOE’s “Integral Elements” are incorporated in each DOE 
+CX (10 CFR 1021 Appendix B) 
+ 
+*SMALL-SCALE RENEWABLE ENERGY RESEARCH AND 
+DEVELOPMENT AND PILOT PROJECTS. Small-scale renewable energy 
+research and development projects and small-scale pilot projects, provided that the 
+projects are located within a previously disturbed or developed area. Covered 
+actions would be in accordance with applicable requirements (such as local land 
+use and zoning requirements) in the proposed project area and would incorporate 
+appropriate control technologies and best management practices. 
+ 
+(20) Tennessee Valley Authority, 18 CFR Part 1318, Subpart C, Appendix A, n. 16, as 
+[[page 113]]
+   
+ 
+109 
+adopted by BLM in 90 FR 42432. 
+ 
+*Construction of new transmission line infrastructure, including electric 
+transmission lines generally no more than 10 miles in length and that require no 
+more than 125 acres of new developed rights-of-way and no more than 1 mile of 
+new access road construction outside the right-of-way; and/or construction of 
+electric power substations or interconnection facilities, including switching 
+stations, phase or voltage conversions, and support facilities that generally require 
+the physical disturbance of no more than 10 acres. 
+ 
+(21) Tennessee Valley Authority, 18 CFR Part 1318, Subpart C, Appendix A, n. 19, as 
+adopted by BLM in 90 FR 42432. 
+ 
+*Removal of conductors and structures, and/or the cessation of right-of-way 
+vegetation management, when existing transmissions lines are retired; or the 
+rebuilding of transmission lines within or contiguous to existing rights-of-way 
+involving generally no more than 25 miles in length and no more than 125 acres of 
+expansion of the existing right-of-way. 
+ 
+(22) Rural Utility Service, 7 CFR 1970.54(c)(2), as adopted by BLM in 90 FR 42432. 
+ 
+*Construction of electric power lines and associated facilities designed for or 
+capable of operation at a nominal voltage of either: 
+ 
+(iv) Less than 69 kilovolts (kV); 
+ 
+(v) Less than 230 kV if no more than 25 miles of line are involved; or 
+ 
+(iii) 230 kV or greater involving no more than three miles of line, but not for the 
+integration of major new generation resources into a bulk transmission system;
+
+SOURCE: https://www.govinfo.gov/content/pkg/FR-2025-09-02/html/2025-16759.htm RETRIEVED: 2026-09-24
+[90 FR 42432 (Sept. 2, 2025), FR Doc. 2025-16759, BLM statements of intended use]
+U.S. Army Corps of Engineers (USACE)
+
+    The BLM has identified the following USACE CX, found at 33 CFR 
+230.9(i), which applies to minor ROWs for access roads, boat ramps, and 
+utilities. The BLM intends to rely on the CX when authorizing, for 
+example and without limitation, ROWs for utilities, such as powerlines 
+and pipelines and construction of minor boat ramps within the 
+parameters of the CX.
+
+[90 FR 42432, DOE B4.11]
+    The BLM has identified the following DOE CX, found at 10 CFR part 
+1021, subpart D, appendix B, paragraph B4.11, which applies to electric 
+power substations and interconnection facilities. The BLM intends to 
+rely on the CX when authorizing, for example and without limitation, 
+construction or modification of electric power substations or 
+interconnection facilities.
+
+[90 FR 42432, TVA n.16]
+    The BLM has identified the following TVA CX, found at 18 CFR part 
+1318, subpart C, appendix A, n.16, which applies to construction of new 
+10-mile transmission line and construction of electric power 
+substations or interconnection facilities. The BLM intends to rely on 
+this CX when authorizing, for example and without limitation, 
+construction of 10-mile transmission lines that do not authorize more 
+than a 125-acre ROW and construction of 10-acre electric power 
+substations or interconnection facilities.
+
+[90 FR 42432, RUS]
+    The BLM has identified the following RUS CX, 7 CFR 1970.54(c)(2), 
+which applies to electric power lines with nominal voltage. The BLM 
+intends to rely on this CX when authorizing, for example and without 
+limitation, powerlines of voltages no greater than 230kV within the 
+parameters of the CX.

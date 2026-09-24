@@ -23,6 +23,14 @@ acreage and the GID district boundary (CHIP Brain).
 - **Target pathway:** EA and FONSI, applicant-prepared under BLM supervision, with the
   private generation disclosed as context only (Seven County scoping). Section 112 opt-in
   fee under consideration to fix a 180-day EA deadline (memo Q9; verify in `A-usc-42-nepa-112`).
+- **CX option to test:** BLM's 2025 adopted CEs cover new lines generally up to 10 miles and
+  125 acres of ROW (`P-blm-adopted-transmission-cx`, status open). The BLM share (~3.8 mi)
+  and Reclamation share (~1.9 mi) are each under 10 miles, but the whole line is ~11 miles:
+  using the CX on agency shares invites a segmentation attack. Treat as a question for
+  counsel, not a plan.
+- **Precedent:** the Vero fiber EA (Carson City District, 2024, through Churchill County)
+  had BLM lead and Reclamation (LBAO) adopt the BLM EA. That is a working model for the
+  two-agency FMDP structure (`A-prec-blm-vero-fiber-2024`).
 - **EIS is unacceptable** to the business plan (memo Background 7). Every design and
   record choice is weighed against that.
 

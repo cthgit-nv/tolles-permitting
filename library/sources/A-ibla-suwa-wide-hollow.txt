@@ -1,0 +1,1622 @@
+SOURCE: https://www.oha.doi.gov/IBLA/Ibladecisions/166IBLA/166IBLA140.pdf RETRIEVED: 2026-09-24
+[Full decision text, pypdf extraction; [[page N]] markers are PDF pages, not reporter pages]
+
+[[page 1]]
+SOUTHERN UTAH WILDERNESS ALLIANCE, ET AL.
+IBLA 2002-340, etc.  1/ Decided July 12, 2005
+Appeals from a decision record and finding of no significant impact issued by
+the Acting Manager, Grand Staircase-Escalante National Monument, Bureau of Land
+Management, approving construction of the New Wide Hollow Reservoir and related
+diversion structures, pipelines, and roads (EA UT-030-99-007), and from a
+subsequent decision granting a right-of-way based on that decision record and
+finding of no significant impact.  UTU-79720.
+Set aside and remanded. 
+1. Environmental Policy Act--Environmental Quality:
+Environmental Statements--Federal Land Policy and
+Management Act of 1976: Rights-of-Way--National
+Environmental Policy Act of 1969: Environmental
+Statements
+The reasonableness of a FONSI will be upheld if the
+record establishes that BLM took a “hard look” at the
+proposed action, carefully reviewed environmental
+problems, identified all relevant areas of environmental
+concern, and made a convincing case that the environ-
+mental impacts are insignificant or that any such impacts
+will be reduced to insignificance by the adoption of 
+________________________
+1/  The following appeals are consolidated and disposed of by this decision:  Southern
+Utah Wilderness Alliance, IBLA 2002-340; Main Canyon, L.C., IBLA 2002-341;
+Escalante Wilderness Project, IBLA 2002-344; Main Canyon, L.C., IBLA 2003-83; and
+Southern Utah Wilderness Alliance, et al., IBLA 2003-84.  A related appeal, Sevier
+River Water Users, IBLA 2002-442, was dismissed by order dated May 29, 2003,
+because appellant Sevier River Water Users was not a “party to the case” under
+43 CFR 4.410(a) and therefore lacked standing to appeal.
+166 IBLA 140
+[[page 2]]
+IBLA 2002-340, etc.
+appropriate mitigation measures.  A party challenging
+BLM’s decision has the burden of demonstrating with
+objective proof that the decision is premised on a clear
+error of law or demonstrable error of fact, or that the
+analysis failed to consider a substantial environmental
+question of material significance to the proposed action. 
+Where a FONSI is based on mitigation measures designed
+to minimize acknowledged adverse environmental
+impacts, analysis of the proposed mitigation measures
+and how effective they would be in eliminating those
+impacts is required.  A mitigation plan must be
+sufficiently developed and explained to provide a
+convincing case that significant environmental impacts
+will be reduced to insignificance.  A FONSI will be set
+aside where an appellant has shown that the proposed
+actions will have a significant impact to riparian resources
+and that BLM has failed to demonstrate that the proposed
+mitigation measures will reduce those impacts to
+insignificance.  
+APPEARANCES:  Liz Thomas, Esq., Moab, Utah, and Joro Walker, Esq., Salt Lake
+City, Utah, for Southern Utah Wilderness Alliance, The Wilderness Society, and Utah
+Rivers Council; Bruce H. Shapiro, Esq., Salt Lake City, Utah, and Borys Tkacz,
+Rockville, Maryland, for Main Canyon, L.C.; Patrick Diehl, Escalante, Utah, for
+Escalante Wilderness Project; James E. Karkut, Esq., Office of the Field Solicitor,
+U.S. Department of the Interior, Salt Lake City, Utah, for the Bureau of Land
+Management; Stephen H. Urquhart, Esq., St. George, Utah,  2/ Bartt Carter, President,
+New Escalante Irrigation Company, and Louise Liston, President, Wide Hollow Water
+Conservancy District, Escalante, Utah, for intervenors Wide Hollow Water
+Conservancy District and New Escalante Irrigation Company.
+OPINION BY ADMINISTRATIVE JUDGE HUGHES
+Southern Utah Wilderness Alliance, The Wilderness Society, and Utah Rivers
+Council (referred to collectively as “SUWA”) (IBLA 2002-340), Main Canyon, L.C.
+(Main Canyon) (IBLA 2002-341), and Escalante Wilderness Project (EWP)
+(IBLA 2002-344) have separately appealed the April 19, 2002, Decision Record and
+Finding of No Significant Impact (DR/FONSI) and the underlying environmental
+assessment (EA) (UT-030-99-007), issued by the Acting Manager, Grand Staircase-
+________________________
+2/  Stephen H. Urquhart, Esq., filed a withdrawal of counsel with the Board on
+June 23, 2003.
+166 IBLA 141
+[[page 3]]
+IBLA 2002-340, etc.
+Escalante National Monument (Monument), Bureau of Land Management (BLM),
+approving a right-of-way for the New Wide Hollow Reservoir project.  
+Main Canyon (IBLA 2003-83) and SUWA (IBLA 2003-84) have also separately
+appealed BLM’s subsequent issuance of a grant for an approved right-of-way to Wide
+Hollow Water Conservancy District (WHWCD) (UTU-79720), effective October 22,
+2002.  That grant is based on the DR/FONSI at issue herein.  Accordingly, by order
+dated May 29, 2003, the Board consolidated these appeals.  At the same time, it
+granted the motion to intervene submitted by WHWCD and the New Escalante
+Irrigation Company (NEIC), the project proponents, to appear as respondents in
+support of BLM’s decision.  3/
+BACKGROUND
+WHWCD is a non-profit entity formed in 1990 to assist in the development
+and management of water resources in the Escalante area.  WHWCD provides this
+assistance by obtaining funding to aid private parties in managing and conserving
+water supplies.  NEIC, the owner and operator of one of two irrigation companies in
+the Escalante area, irrigates approximately 2,700 acres of farmland with water shares
+currently issued by the company.  (EA at 1.)  The existing Wide Hollow Reservoir is
+an off-stream reservoir fed by a canal from a small diversion structure on the upper
+Escalante River.  Constructed in 1953 to store irrigation water, it serves as the major
+water facility for the NEIC water system.  Although the reservoir originally had a
+2,400 acre-foot storage capacity, sedimentation has reduced that capacity by
+42 percent to 1,400 acre-feet.  Id.
+In October 1998, WHWCD applied for a right-of-way pursuant to Title V of the
+Federal Land Policy and Management Act of 1976 (FLPMA), 43 U.S.C. § 1761(a)(1)
+(2000), to construct a new reservoir and associated diversion structures, pipelines,
+and access roads on public and private lands in sec. 34, T. 34 S., R. 2 E., and secs. 3,
+8, 9, 17, and 18, T. 35 S., R. 2 E., Salt Lake Meridian, Garfield County, Utah.  4/  (EA
+Cover Sheet; EA at 1.)  The proposed New Wide Hollow Reservoir would flood
+approximately 224 acres, have a storage capacity of about 6,100 acre-feet, and
+________________________
+3/  In this order, the Board also granted BLM’s motion to dismiss the appeal docketed
+as Sevier River Water Users, IBLA 2002-442, on the ground that the appellant was
+not a “party to the case,” as required by 43 CFR 4.410(a).  The Board denied
+WHWCD and NEIC’s request for expedited consideration and SUWA’s and EWP’s
+separate petitions for stay.  (Order dated May 29, 2003, at 2-3.)
+4/  Although the project is not located within the Grand Staircase-Escalante National
+Monument, the public land within the project area is managed by the Monument
+Office.  (EA at 1.)
+166 IBLA 142
+[[page 4]]
+IBLA 2002-340, etc.
+increase the average annual irrigation water yield for the Escalante area about
+7 percent from 8,028 acre-feet (85 percent of demand) to 8,678 acre-feet (92 percent
+of demand).  (EA at 1.)
+BLM prepared an initial EA for the New Wide Hollow Reservoir project and
+provided it to the public for comment in February 1999.  After reviewing the public’s
+comments and concerns, BLM determined that further data collection and analysis
+were necessary.  BLM drafted a second EA that it offered for public comment in
+March 2000.  BLM examined the public comments on the second EA and again
+decided that additional data accumulation and evaluation were warranted.  After
+gathering and analyzing the additional data, BLM prepared and disseminated the
+final EA at issue here.  Id. at 1-2, 47.
+In its description of the purpose and need for the project, the EA noted that
+the existing demand for irrigation water in the Escalante area for agricultural
+purposes and lawn and garden use was approximately 9,472 acre-feet.  According to
+the EA, the current system provided about 85 percent of that need, but the storage
+capacity of the existing reservoir was declining due to increased sedimentation, and
+pressure drops sometimes interrupted water delivery.  The EA explained that the
+436 percent increase in water storage capacity of the proposed 6,100 acre-foot
+reservoir could help satisfy the unmet demand and alleviate water delivery problems. 
+The EA stated that the existing Wide Hollow Dam, which was listed as a “high-
+hazard” dam by the Utah State Engineer, did not meet current dam safety standards
+and could fail in an earthquake and that the reservoir spillway would be inadequate
+in the event of a major flood or seismic event.  While acknowledging that the
+proposed New Wide Hollow Reservoir would also fall into the “high-hazard”
+category, the EA indicated that the proposed reservoir would be constructed under
+the parameters defined by the Utah Dam Safety Act of 1990, which would mitigate
+concerns about the loss to human life and consider seismic issues.  (EA at 2.)
+The EA analyzed four alternatives in detail:  Alternative A (the proposed
+action), which included construction of a new reservoir, new pipelines, new
+associated diversion structures, and new access roads; Alternative B (the no-action
+alternative), which continued the current situation; Alternative C, which adopted the
+proposed action’s construction of a new reservoir, but used the existing diversion and
+pumping structures to fill the new reservoir and eliminated the use of a road on the
+northern side of the proposed reservoir; and Alternative D (the preferred alternative),
+which incorporated the proposed action’s construction of a new reservoir, pipelines,
+diversion structures, and access roads (other than the road on the northern side of
+the reservoir), but placed a higher priority on maintaining the surface flow in North
+and Birch Creeks (the loci of the new diversion structures) through the imposition of
+additional design specifications and mitigation measures.  (EA at 10-11.)  The EA
+166 IBLA 143
+[[page 5]]
+IBLA 2002-340, etc.
+also identified various alternatives that BLM had considered but rejected without
+detailed analysis, including repairing and raising the existing dam and dredging the
+old reservoir, obtaining additional irrigation by drilling wells to tap groundwater, and
+decreasing irrigation water needs through conservation.  (EA at 9-10; see also EA,
+Appendix (App.) H.)
+The preferred alternative incorporated the reservoir, discharge pipeline,
+associated diversion structures, and access road for maintenance delineated in the
+proposed action.  (EA at 16, referring to Alternative A for a complete description of
+these elements.)  The EA described these components as the construction of an off-
+stream 6,100-acre-foot reservoir, pipelines, associated diversion structures, and
+access roads for maintenance.  (EA at 12.)  The reservoir (covering approximately
+224 acres and having an estimated life of 100 years) and the diversion structures
+would be entirely on public land, while the pipelines and access roads would cross
+both public and private land.  Id.  The dam would be an earthen structure built with
+600,000 cubic yards of on-site material; its crest would be 930 feet long, 130 feet
+high, and approximately 6,150 feet above sea level.  Id.  The water for the new
+reservoir would come year-round from two diversions via buried and suspended
+pipelines operating on gravity flow to eliminate pressure drops and pumping costs. 
+Id. at 13.  
+According to the EA, 
+[t]he first diversion would be in North Creek Canyon, approximately
+1½ miles upstream from the mouth of the canyon.  The diversion
+structure and approximately 1 mile of buried pipeline would be on
+public land.  The pipeline would run along the north side of the creek,
+in an old roadbed, for approximately ¼ mile, be suspended across
+North Creek, then run in the existing roadbed to the canyon mouth.
+The second diversion would be in Main Canyon, approximately
+2 miles up Birch Creek from its confluence with North Creek.  The
+diversion structure and about ½ mile of this pipeline would be on
+public land.  The pipeline would be buried parallel to the south side of
+Main Canyon Road, outside of the existing disturbance area of the road,
+for approximately 200 yards.  The pipeline would then be buried within
+the existing roadbed to the confluence of the North Creek drainage. 
+This pipeline and the North Creek pipeline would converge on private
+property and continue to the reservoir site.  The last ¼ mile of pipeline
+would cross public land before feeding into the reservoir.  The
+right-of-way width for the construction and maintenance of the pipeline
+would be 25 feet.
+166 IBLA 144
+[[page 6]]
+IBLA 2002-340, etc.
+Diversion structures and sand traps would be built at the head of
+each pipeline * * * .  A concrete diversion structure would be built
+across each stream channel funneling water into a collection pipe and
+the sand traps.  Flood and high water flows [would] not be diverted. 
+The sand traps would be designed to slow the water flow, allowing
+sediment to settle.  The sediment would periodically be flushed out the
+bottom of the traps and back to the stream channels by manually
+opening the valve at the bottom of the sand trap.  Water flowing into
+the sand trap would flush the sediment out, and flood waters in the
+creek would then redistribute the sediment downstream.  The diversion
+structure in North Creek would extend approximately 25 feet
+downstream and 90 feet across the streambed.  The diversion structure
+in Birch Creek would extend approximately 20 feet downstream and
+100 feet across the streambed.  There would also be an earthen berm,
+extending approximately 20 feet downstream and 50 feet across the
+streambed, alongside the diversion structure in Birch Creek.  The
+purpose of this berm would be to prevent a flood from eroding around
+the diversion structure.  The sand traps would be approximately 32 feet
+wide and 180 feet long.  The total areas of disturbance would be
+approximately 0.18 acres in North Creek, and 0.20 acres in Birch Creek.
+Water from the reservoir would be transported to the existing
+irrigation line through a new buried 24-inch pressurized pipeline.  This
+discharge line would run from the dam across less than ¼ mile of
+public land, then through the privately-owned agricultural fields in
+Wide Hollow (parallel to the existing road), turn south and tie into the
+existing line (also on private property).  The right-of-way width for
+construction of the pipeline, on public land, would be 25 feet; once
+construction activities were completed, the right-of-way width for
+maintenance of the pipeline would be 25 feet.  No pipeline rights-of-
+way would be used as travel routes after construction, with the
+exception of maintenance activities connected with the operation of the
+reservoir and associated structures (such as fixing breaks in the
+pipelines and/or cleaning out the pipelines).
+There is an existing road to the proposed reservoir site.  Most of
+it is on private land, with one small 500 foot section on public land. 
+This access road would be reconstructed with native material, using
+gravel cover where needed to make the road passable year-round to
+facilitate construction and maintenance.  All maintenance of this road
+would be the responsibility of the Wide Hollow Water Conservancy
+166 IBLA 145
+[[page 7]]
+IBLA 2002-340, etc.
+District.  Road access to the diversion structures would be over existing
+roads in North Creek and Main Canyon. * * * .
+(EA at 13-14.)
+In order to deliver water to the new reservoir while maintaining the health of
+riparian vegetation in the North Creek riparian zone on BLM lands, the preferred
+alternative established surface flow amounts that would bypass the diversions.  (EA
+at 16.)  Under the preferred alternative, both diversion flow amounts (water diverted
+into the reservoirs) and bypass flow amounts (water allowed to flow downstream
+past the diversions, remaining in the streambed) would be measured by a device with
+an automatic recorder built into the diversion structure.  These amounts could be
+adjusted by increasing bypass amounts if monitoring indicated a downward trend in
+the health of riparian communities from baseline conditions and decreasing those
+amounts if monitoring revealed the opposite.  Id.  The EA calculated the bypass flow
+amounts for the base flow of both North and Birch Creeks by using calibrated crop
+coefficients for irrigated crops in Utah adjusted to account for irrigation efficiency
+and other factors to estimate the consumptive use requirements for willows and
+cottonwoods.  (EA at 16-17; EA, App. L at 1-2.)  The bypass flow amounts were in
+addition to monsoonal storm events (thunderstorms) and snow-melt peak flows that
+exceeded the capacity of the diversion pipes and therefore could not be diverted to
+the reservoir.  Id. at 16.
+The following bypass flow amounts for North Creek (all in cubic feet per
+second (cfs)) were designed to maintain the existing physical function of the riparian
+area by mimicking “the naturally occurring stream hydrology profile which has
+provided for the development and maintenance of the existing physical and biological
+system” (EA at 16):  0.05 for January and February, 0.10 for March, 0.50 for April,
+0.80 for May, 1.20 for June, 1.50 for July, 1.10 for August, 0.70 for September,
+0.40 for October, 0.10 for November, and 0.50 for December.  See EA at 17, Table 1. 
+Under this alternative, flows generated by spring snow melt between April 1 and
+June 15, which are important for the hydrologic recharge of the floodplain aquifer
+and for the sediment transport and deposition processes critical for establishment and
+maintenance of cottonwoods, would be allowed to flow past the diversions under
+certain conditions: 
+1.  Bypass of highs flows would occur 2 times every 5 years,
+2.  Bypass would occur on years of average to above-average snow pack
+based on the April data at the Clayton and Widstoe Snowtell stations as
+determined by the BLM,
+166 IBLA 146
+[[page 8]]
+IBLA 2002-340, etc.
+3.  Bypass would last from 2 to 3 weeks and would focus on the
+receding limb of the hydrograph,
+4.  The length and timing of item number 3 would be at the discretion
+of the BLM, [and]
+5.  No diversion of flows would occur during this 2 to 3 week time
+period.
+(EA at 17-18.)  
+In order to create conditions fostering the regeneration of willows and
+herbaceous vegetation in Birch Creek, the preferred alternative set the base flow for
+that creek at 0.25 cfs year round.  The EA noted that “[i]f regeneration proves
+successful, the vegetation would build up soils and gradually form a floodplain
+capable of withstanding flood events.”  (EA at 18.)  The EA states as follows
+concerning spring snow melt:
+Spring snow melt above the year-round 0.25 cfs would not flow
+past the diversion at this time, with the exception of peaks that exceed
+the capacity of the diversion pipe.  Currently, the stream system is not
+capable of dispersing the energies of high flow, so vegetation is not able
+to become established.  If regeneration of willows and herbaceous
+vegetation proves to be successful at the lower, constant flows, then
+spring snow melt could be diverted in the future.
+(EA at 18.)  It appears that BLM meant to state that, if herbaceous vegetation
+becomes established, spring snow melt could be allowed to bypass the diversions and
+flow down the stream bed, since there would be sufficient vegetation to absorb the
+energy of the much higher spring snow melt water flow.
+The preferred alternative also required monitoring of portions of both creeks
+above and below the diversion structures:
+Monitoring would occur before diversions were in place, and
+every 3 years after the diversions were fully functioning, in order to
+assess whether riparian areas were being maintained.
+Prior to any diversions of water, the BLM would initiate an
+inventory and monitoring program to gather baseline information on
+existing vegetation, wildlife species, and riparian-obligate invertebrates. 
+Monitoring of both North Creek and Birch Creek riparian areas would
+166 IBLA 147
+[[page 9]]
+IBLA 2002-340, etc.
+occur.  The objectives of monitoring would be to determine whether the
+existing condition and trend in North Creek was being maintained, and
+to determine whether progress toward Proper Functioning Condition in
+Birch Creek was being achieved.  Three types of sampling procedures
+would be used to monitor vegetation changes:  1) vegetation cross-
+section composition, 2) greenline composition, and 3) woody species
+regeneration * * * .
+If monitoring in North Creek indicated that physical and/or
+ecological condition showed a downward trend from baseline
+conditions, based on changes in the percentage of composition relative
+to woody species regeneration[,] then water diversions from this Creek
+would be reduced until that downward trend was reversed and baseline
+condition was again achieved.  A downward trend is defined as a
+decrease in vegetative community reproduction and diversity.  Once
+baseline condition was again achieved, diversions could be reevaluated. 
+Monitoring would be conducted to detect effects on riparian condition.
+If monitoring in Birch Creek indicated that physical and/or
+ecological condition showed a downward trend from baseline
+conditions, based on changes in the percentage of compositions relative
+to woody species regeneration[,] then water diversions from this creek
+would be reduced until that downward trend was reversed and baseline
+condition was again achieved.  Changes to diversions would be based
+on monitoring.  Once baseline condition was again achieved, diversions
+could be reevaluated for daily flows during the growing season.
+The BLM has established national goals and objectives for
+managing riparian resources on public lands (Riparian-Wetland
+Initiative for the 1990’s USDI, 1991, BLM/WO/GI-91/001+4340; BLM
+Manual 1737; and UT-IM-93-93).  The overall objective is to ensure
+that riparian-wetland areas are functioning properly in order to provide
+the widest variety of vegetation and habitat diversity for wildlife, fish,
+and watershed protection.  To assess whether this objective is being
+achieved within the analysis area, Proper Functioning Condition
+surveys would be conducted at least once every 5 years.
+Monitoring of water temperatures in both Creeks would be
+conducted to determine whether any changes were occurring as a result
+of diversions.  Water temperature would be taken above the diversions
+in order to get a baseline measurement that would be unaffected by the
+diversions.  Water temperature would also be taken below the
+166 IBLA 148
+[[page 10]]
+IBLA 2002-340, etc.
+diversions to detect any changes associated with the withdrawal of
+water.  Monitoring would be conducted from May to September on a
+weekly basis for 3 years to establish a baseline and then monthly after
+that.  If monitoring showed water temperature about State standards
+for 3A waters (refer to Chapter IIISAffected Environment) [5/] as a result
+of diversions, then diversion volumes would either be decreased or
+diversions would only be done at night (when solar heating does not
+occur) in order to met State standards.
+Two peizometers would be installed on each Creek.  These
+devices would provide BLM with data on the alluvial groundwater table
+and would be monitored to ensure that the water stays at the
+mesoriparian level (20-40 inches below the ground surface) for plant
+availability.
+(EA at 18-19.)
+The EA discussed the affected environment, focusing on the resources that
+could be affected by implementation of the action alternatives, including four
+resources involved in these appeals:  (1) Wetlands/riparian zones; (2) threatened,
+endangered, candidate, or sensitive animal species; (3) Native American religious
+concerns/cultural resources; and (4) water quality.  (EA at 19-28.)  
+In its discussion of wetlands/riparian zones, the EA defined the four
+functioning classes for riparian area assessments utilized by BLM:  (1) Proper
+Functioning Condition, (2) Functioning at Risk, (3) Non-functioning, and
+(4) Unknown.  Id. at 21-22.  The EA also delineated the three phases of the “natural
+hydrograph” critical for preserving riparian vegetation and the maintenance of proper
+functioning condition:  (1) Spring snow melt, generally a 3-week to 2-month period
+essential (a) for maintaining the channel and floodplain, (b) for depositing the fine
+sediment on the floodplain necessary for the creation of good germination sites for
+cottonwood and willow seedlings, and (c) for recharging the alluvial aquifer;
+(2) summer base flow, the period from mid-June through September coinciding with
+the growing season crucial for (a) fostering the vigor of woody species,
+________________________
+5/  The discussion of water quality found in Chapter III of the EA indicated that both
+Birch and North Creeks were classified as 3A waters “protected for cold water species
+of game fish and other cold water aquatic life, including necessary aquatic organisms
+in their food chain” under the Utah Department of Water Quality standards and that
+the maximum acceptable temperature for Class 3A waters, which both creeks
+currently met, was 20º C with a maximum change of ±2º.  (EA at 28; see EA,
+App. O.)
+166 IBLA 149
+[[page 11]]
+IBLA 2002-340, etc.
+(b) regenerating herbaceous species, and (c) maintaining the alluvial water at the
+mesoriparian level needed to prevent deterioration of riparian vegetation; and
+(3) thunderstorm (monsoonal) events, which occur during July and August and are
+important for (a) recharging the alluvial aquifer, (b) dispersing and depositing fine
+sediment within the floodplain, and (c) creating surfaces for the following year’s
+cottonwood seed germination.  Id. at 22-23.  
+The EA described the 5.6 miles of North Creek located on public land as a
+perennial stream with a well developed, 34.76-acre riparian area containing dense
+and multi-storied riparian vegetation, including multiple classes of birch,
+cottonwood, and various species of willow, with rushes and sedges along the stream
+banks.  The EA noted that the riparian area in North Creek was in Proper Functioning
+Condition with a static trend and that it was being monitored every 4 years.  The EA
+added that the periodic drying up of the Creek in low moisture years to fill up the
+existing North Creek Reservoir, a practice that would end once the new reservoir was
+constructed, was not of sufficient duration to affect the riparian resources.  Id. at 23-
+24.  The EA contained the hydrograph showing existing conditions in North Creek,
+graphically depicting the existing average flow regime for North Creek.  See EA at 24,
+Figure 1.  
+The EA stated that the 5.9-mile, 22.16-acre riparian segment of Birch Creek
+located on public land was rated as Functioning at Risk, probably due to the gravelly
+soil in the streambed, which provided little stability for plant establishment, as well
+as to flood events that periodically scoured the drainage.  The EA characterized the
+segment of the Creek on public land as a heavily scoured and downcut drainage with
+a high proportion of exposed banks and patchy riparian vegetation composed
+primarily of cottonwoods and willow along the drainage.  The EA indicated that some
+regeneration was occurring among the cottonwoods and willows and that there was
+evidence of stream stabilization in some segments with new sediment deposition and
+seedling establishment, all of which suggested that the trend was improving.  Such
+improvement was in conformance with the objective set out in the Utah Riparian
+Management Policy (Riparian Policy) (Instruction Memorandum (IM) UT-93-93) of
+maintaining and/or improving riparian areas to Proper Functioning Condition.  (EA
+at 24-25.)  The EA also noted that Birch Creek’s flow regime resembled the pattern of
+North Creek, although flow amounts were much lower (about 20 percent of those for
+North Creek), with increases in flow between April and July due to snow melt,
+growing season average flows of 2.6 cfs in August and 2.7 cfs in September, and
+winter flows ranging from 1.8 cfs in October to 3.1 cfs in March.  Id. at 25.  These
+existing conditions were depicted graphically on the hydrograph for Birch Creek.  (EA
+Figure 2.)
+In its discussion of threatened, endangered, candidate, or sensitive animal
+species, the EA stated that a Utah Division of Wildlife Resources (UDWR) survey and
+166 IBLA 150
+[[page 12]]
+IBLA 2002-340, etc.
+assessment of the BLM-administered portion of North Creek for potential
+southwestern willow flycatcher habitat had revealed little or no habitat sufficient to
+support that species.  Nor had BLM surveys detected any southwestern willow
+flycatchers on that part of the Creek.  (EA at 25-26.)  The EA further observed that no
+yellow-billed cuckoo had been found in the project area and that, although both
+North and Birch Creeks contained suitable breeding habitat for the common
+yellowthroat (a Utah State sensitive species), that species had not been spotted in the
+project area.  Id. at 26.
+In its section addressing Native American religious concerns and cultural
+resources, the EA stated that an inventory of the proposed Wide Hollow Reservoir
+project area had uncovered five prehistoric archaeological sites considered unusual
+because they occupied a single place during a particular time and held features and
+artifacts similar but not identical to other sites.  The EA indicated that, before the
+proposed construction activities, test excavations might be required for the mitigation
+of the four small sites located in the proposed reservoir pool area and, possibly, the
+one site along one of the pipelines.  The EA noted that, if those test excavations
+suggested that the sites had additional research potential, the sites could be fully
+excavated after consultation with the State Historic Preservation Officer (SHPO) and
+Tribal officials about appropriate options, including the Hopi Preservation Office’s
+suggestion that the project proceed without conducting data recovery.  (EA at 27-28;
+see EA, App. NSSummary Report of Inspection for Cultural Resources.)
+The EA also limned the environmental consequences of each alternative.  In its
+discussion of the environmental impacts of the preferred alternative (Alternative D)
+on wetlands and riparian zones, the EA noted that imposed stipulations would
+minimize the direct input of sediment into the stream system caused by diversion
+structure construction and pipeline installation.  (EA at 31.)  As to impacts to North
+Creek, the EA stated that approximately 6,000 feet of riparian area on public land
+and 2,500 feet of riparian area on State and private land would be affected by
+diversion of water from the stream.  According to the EA, the condition and trend of
+riparian habitat in North Creek would be maintained through implementation of the
+stipulations identified in Alternative D, which would be added to the right-of-way
+grant.  The EA pointed out that BLM would monitor the condition of the riparian area
+to determine whether it was being degraded by continuing to read the existing
+standard photo plot study and by collecting and monitoring species composition and
+vegetation density data at least twice annually.  The EA indicated that three types of
+monitoring would occur to ensure that sufficient surface flow would remain in North
+Creek to maintain its riparian area in its existing condition.  The EA reiterated that, if
+monitoring indicated that the physical and/or ecological condition of the riparian
+resource were being degraded from baseline conditions as a result of the diversions,
+water diversions during the growing season would be curtailed until that downward
+166 IBLA 151
+[[page 13]]
+IBLA 2002-340, etc.
+trend was reversed and baseline condition was again achieved.  At that point,
+diversions would be reinitiated (starting with 20 percent of daily flows) and then
+monitored to ensure that the new level of diversion did not result in any adverse
+effects to riparian condition.  (EA at 32.)
+The EA observed that, since spring runoff and high flow events occurred
+periodically in North Creek, the diversion structures were designed so that the flood
+gates closed during high flows, eliminating all water diversion and allowing all water
+flow to remain in North Creek.  According to the EA, “[a]s a result of these actions,
+there is a reasonable expectation that existing riparian conditions [in North Creek]
+could be maintained during periods of normal or above normal precipitation. 
+Conversely, there is a reasonable expectation that during below average precipitation
+the existing riparian conditions could not be maintained.”  (EA at 32.)  The EA
+further noted that the abandonment of North Creek Reservoir for water storage
+would eliminate the periodic drying up of North Creek during summer months,
+benefitting the approximately 4½ miles of stream on BLM and National Forest
+Service lands by improving the vigor of the riparian vegetation.  Id. at 32-33.  In
+summary, the EA stated: 
+The designed hydrograph under Alternative D for North Creek
+bears a much closer resemblance to a natural hydrograph.  The bypass
+of flows during spring snow melt 2 out of 5 years would ensure the
+opportunity for cottonwood and willow regeneration and the
+maintenance of multiple age classes.  The summer base flow should be
+adequate to support a shallow water table that would retain the vigor
+of riparian vegetation.  If any indications of deterioration in riparian
+health were detected via monitoring, the bypass flow amounts would
+be altered.  The monitoring interval for this stream is 5 years after
+construction of the diversion and includes the collection of baseline
+information prior to the inception of the proposed project.
+(EA at 33.)  The EA also graphically depicted the pre-diversion hydrograph for North
+Creek as well as the post-diversion hydrographs for the creek under Alternative D
+during both average and spring runoff years.  Id. at 33, Figure 5.
+The EA also delineated the preferred alternative’s effects on Birch Creek.  After
+reciting BLM policy to improve or maintain riparian areas in proper functioning
+condition, the EA acknowledged that diversion of flows during the growing season
+would cause the stream to remain in at-risk condition or degrade to non-functioning
+condition.  The EA emphasized that the ecological processes sustaining riparian
+vegetation communities fit the pattern of the hydrological regime and that, therefore,
+perpetuation of the processes critical to sustaining a healthy riparian community
+166 IBLA 152
+[[page 14]]
+IBLA 2002-340, etc.
+required the retention of the three phases of the natural hydrograph, i.e., spring snow
+melt, summer base flow, and monsoonal events.  (EA at 34.)  The EA recognized,
+however, that “[t]he designed hydrograph under Alternative D for Birch Creek does
+not resemble a natural hydrograph.”  Id.  
+After reciting that a BLM senior hydrogeologist had identified 0.37 cfs for
+Birch Creek as an adequate maintenance flow to retain water table depths in the
+mesoriparian zone, the EA indicated that the bypass flows would be reevaluated if
+the water table appeared to be declining or vegetative recovery was not forthcoming. 
+The EA noted that the monitoring interval for this stream had been set at 3 years,
+once the diversion structure was in place, and that the monitoring included the
+collection of baseline information before project implementation.  (EA at 34.)  
+In discussing the hydrograph for Birch Creek under Alternative D, the EA
+stated that, each year, flows would be discharged downstream from the periodic
+flushing of sediment basins and that bypass flows would occur during monsoonal
+events.  Further, in very wet years, some additional bypass of flows would occur
+during the snow-melt time period.  (EA at 34.) 6/  The EA graphically depicted both
+the pre-diversion Birch Creek hydrograph and the changes to the hydrograph
+following construction of the diversion.  Id., Figure 6.  
+The EA further indicated that seasonal stream volumes between April and
+September downstream from the diversions would decrease by 95 percent in North
+Creek and by 62 percent in Birch Creek.  See EA at 35, Table 3.  These seasonal
+flows, the EA explained, correlated with certain riparian vegetation characteristics,
+such as riparian area width, 98 percent of the variability of which was empirically
+related to seasonal stream discharge.  Id. at 35.
+In addressing the preferred alternative’s impacts on threatened, endangered,
+candidate, and sensitive animal species, the EA acknowledged that North Creek
+contained marginal nesting habitat for the southwestern willow flycatcher and that,
+although Birch Creek did not contain such habitat, both creeks might be used by the
+species during migration.  (EA at 36.)  The EA noted that both UDWR and the
+U.S. Fish and Wildlife Service (FWS) had recommended that sufficient water be
+allowed to flow year round in North Creek to allow riparian-obligate species
+(including the southwestern willow flycatcher) to persist and reproduce on BLM-
+administered land.  The EA also noted that FWS had determined that the preferred
+alternative “may affect, but is not likely to adversely affect[,] southwestern willow
+________________________
+6/  We note that the EA states elsewhere that the Birch Creek stream system “is not
+capable of dispersing the energies of high flow, so vegetation is not able to become
+established.”  (EA at 18.)
+166 IBLA 153
+[[page 15]]
+IBLA 2002-340, etc.
+flycatchers.”  Id. at 36-37; see EA, App. D.  Since the project area fell within the
+breeding range of the yellow-billed cuckoo (a designated candidate species), the EA
+indicated that, while Birch Creek did not have potential habitat for this species, the
+project would decrease the suitability of North Creek’s denser riparian vegetation as a
+potential breeding site for the species.  Id. at 37.  The EA further stated that both
+creeks contained suitable breeding habitat for the common yellowthroat, a Utah State
+sensitive species, which might be reduced by implementation of the preferred
+alternative.  Id.
+According to the EA, the impacts to Native American concerns and cultural
+resources under the preferred alternative would be identical to those created by the
+proposed action.  These effects included the flooding of three archaeological sites
+when creating the reservoir and the further damaging of one previously disturbed site
+when constructing the pipeline.  The EA noted that these sites (as well as one
+additional site that would not be directly impacted by either construction or flooding)
+had been determined by BLM and the Utah SHPO to be potentially eligible for the 
+National Register of Historic Places under 36 CFR 60.4(d).  The EA further explained
+that a full-scale mitigation plan for each of the affected sites would be developed in
+consultation with the Utah SHPO, the Advisory Council on Historic Preservation, and
+other interested parties as required by section 106 of the National Historic
+Preservation Act (NHPA), 16 U.S.C. § 470f (2000),  7/ and that the Hopi Preservation
+Office’s request that consideration be given to an option not to conduct data recovery
+would be addressed during that consultation process.  The EA pointed out, however,
+that the sites would be adversely affected by the project regardless of whether
+excavation occurred.  (EA at 41.)
+In discussing the preferred alternative’s effects on water quality, the EA
+recognized that diversion of water from North Creek during the summer months
+could affect the long term survival of some temperature dependent aquatic
+invertebrate species by periodically raising below-diversion water temperatures above
+State standards for Class 3A waters.  The EA pointed out, however, that monitoring
+of water temperature both above and below the diversion structures in both North
+________________________
+7/  Section 106 of NHPA provides: 
+“The head of any * * * department or independent agency having authority to
+license any undertaking shall, prior to the * * * issuance of any license, * * * take into
+account the effect of the undertaking on any district, site, building, structure, or
+object that is included in or is eligible for inclusion in the National Register.  The
+head of any such Federal agency shall afford the Advisory Council on Historic
+Preservation * * * a reasonable opportunity to comment with regard to such
+undertaking.”
+16 U.S.C. § 470f (2000).
+166 IBLA 154
+[[page 16]]
+IBLA 2002-340, etc.
+and Birch Creeks would indicate when maximum temperatures were being exceeded
+and that diversion volume and/or timing would be adjusted to return the water
+temperature to within Class 3A water standards.  8/  Id. at 42-43.
+The EA briefly addressed the cumulative effects of the preferred alternative,
+concluding that no other projects were planned that would affect wetlands/riparian
+areas and that there were no past, present, or presumably future actions that would
+affect invasive non-native species, irrigation water availability in the Escalante area,
+or water quality within the analysis area.  (EA at 43.)  The EA further noted that the
+monitoring described in the alternatives and in Appendix K were sufficient for the
+proposal.  See EA at 44.  The EA also provided a summary of the public comments
+(EA, App. S) and additional supporting materials.  See EA, Apps. A through R. 
+In the April 19, 2002, DR/FONSI, the Acting Monument Manager concluded
+that, consistent with the analysis in the EA, implementation of the preferred
+alternative would not have a significant effect on the human environment and that
+an environmental impact statement (EIS) was not required.  He therefore decided to
+grant a right-of-way to WHWCD for construction of diversion structures, pipelines,
+reservoir, and access roads for the New Wide Hollow Reservoir project as described
+in the preferred alternative (Alternative D) of the EA, subject to the mitigation
+measures, conditions of approval, and monitoring plan set forth in the decision.  9/
+The Acting Monument Manager explained that he had selected Alternative D
+because it allowed the applicant “to reasonably exercise [its] right to place the water
+to beneficial use granted by the State of Utah and accomplishe[d] the stated purpose
+of increasing water storage capacity and meeting the water supply needs of the local
+community while providing for all practicable means to avoid or minimize
+environmental harm.”  (DR/FONSI at 1.)  He further found that the project
+specifications, mitigation, and conditions described in the EA, along with the
+additional mitigation, conditions of approval, and monitoring incorporated into his
+decision, reduced environmental impacts sufficiently to render it unlikely that the
+approved alternative would create unnecessary or undue degradation of public lands;
+that all practicable means to avoid or minimize environmental harm had been
+adopted; and that implementation of the project conformed to the Escalante
+management framework plan (MFP).  Id.
+________________________
+8/  It is not specified how this would be done while maintaining required water levels
+in the reservoir.
+9/  We note that the DR/FONSI makes no direct reference to construction of the dam
+itself, except insofar as it refers to WHWCD receiving a right-of-way “for the
+construction of * * * [a] reservoir.”  (DR/FONSI at 1.)
+166 IBLA 155
+[[page 17]]
+IBLA 2002-340, etc.
+The Acting Monument Manager presented his reasons for rejecting the other
+alternatives, concluding that:  Alternative A, the proposed action, did not provide
+adequate protections for the riparian areas associated with Birch Creek and North
+Creek; Alternative B, the no action alternative, did not accomplish the stated purpose
+of increasing the water supply and meeting the needs of the local community; and
+Alternative C, pumping water from the existing diversions to the new reservoir,
+excessively increased WHWCD’s pumping costs. 10/  (DR/FONSI at 1.)  He specified
+that the mitigation measures and conditions of approval shown on Appendix A to the
+decision  11/ and the monitoring plan set forth in Appendix K to the EA would be
+incorporated as stipulations into the right-of-way grant; he also specified that BLM
+would be present during all phases of the project to ensure compliance with the
+right-of-way stipulations.  (DR/FONSI at 1-2.)
+The mitigation measures integrated into the DR/FONSI relevant to these
+appeals included:
+2.  Monitoring of the North Creek and Birch Creek riparian zones
+within the project area will be done to achieve the following:
+a.  Determine current vegetative conditions (baseline data
+prior to stream diversions) and,
+b.  Detect any ecologic changes in the post-project
+(stream diversions) riparian vegetation over time.
+The inventory and monitoring methods that will be employed
+* * * are generally referred as “greenline” methods of riparian
+monitoring.  Greenline monitoring focuses on vegetative communities
+instead of individual species and tracks their change in composition
+(usually expressed as a percentage) over time.  Three sampling
+methods will be utilized.  The vegetation cross-section method will
+evaluate the health of vegetation across the valley floor.  Transects
+along the greenline will provide a measurement of the streamside
+________________________
+10/  According to the EA, adopting this alternative would increase annual pumping
+costs by $90,000 and lead to an annual operating deficit of between $21,500 and
+$61,500.  See EA at 39.
+11/  Appendix A, which the DR/FONSI refers to as “Attachment A,” was inadvertently
+omitted from the copy of the DR/FONSI sent to interested parties.  BLM subsequently
+forwarded a copy of the omitted appendix to those parties, with an Apr. 30. 2002,
+cover letter acknowledging the omission and extending the appeal period for the
+DR/FONSI. 
+166 IBLA 156
+[[page 18]]
+IBLA 2002-340, etc.
+vegetation.  Lastly, the woody species regeneration method will
+measure the density and age class structure of shrub or tree species
+present in the sampling area.  Taken together, these three sampling
+procedures can provide an evaluation of the health of all the vegetation
+in a given riparian area.  A baseline inventory will be accomplished
+using these methods prior to any water diversions.  Thereafter, these
+monitoring methods will be repeated at least once every 3 years to
+determine if negative riparian vegetative conditions occurred as a result
+of water diversions.  A negative result will then trigger the appropriate
+management change in order to counteract these negative riparian
+trends.
+* *****
+Photographs will be taken at the beginning and end of greenline
+transects, and representative photographs taken of the entire sampling
+reach. * * * Repeat photography at all photo points will be done at least
+every three years, and during the same season of year as the original
+photos.
+* * * [T]rend in riparian vegetation change will be used to guide
+management decisions as to the minimum flows and timing of flows
+necessary to achieve stated riparian community composition objectives. 
+If monitoring shows a change of a 25% or greater decline in baseline
+riparian vegetation community objectives (a shift to dry site
+vegetation), this will result in management re-evaluating the
+percentage of allowable diversion on a per season basis to be taken
+from the average daily flows.  Riparian vegetation acts as the most
+efficient buffer to resist flood events and maintain channel equilibrium. 
+Dry site vegetation (if it encroaches into the riparian zone) does not
+provide for adequate channel and bank stability.  Additionally, riparian
+vegetation is important in all or some phases of the life cycle of many
+wildlife species (including mammals, birds, reptiles, and amphibians). 
+The monitoring program is designed to provide management with the
+information to ensure that adequate flows are provided in order to
+sustain the affected riparian areas in an ecologically functioning
+condition.
+3.  Prior to any diversions of water, the BLM will initiate an inventory
+and monitoring program to gather baseline information on existing
+vegetation, wildlife species, and riparian-obligate invertebrates. 
+Monitoring of both North Creek and Birch Creek riparian areas will
+166 IBLA 157
+[[page 19]]
+IBLA 2002-340, etc.
+occur.  The objectives of monitoring will be to determine whether the
+existing condition and trend in North Creek is being maintained, and to
+determine whether progress toward Proper Functioning Condition in
+Birch Creek is being achieved. * * * Monitoring will take place every
+three years after the diversions are fully functioning, in order to assess
+whether riparian areas are being maintained.
+4.  Monitoring will be conducted to detect effects on riparian condition
+in North Creek.  If monitoring indicates that physical and/or ecological
+condition shows a downward trend from baseline conditions, then
+water diversions from this creek during the growing season (April 1 -
+September 30) will be reduced until that downward trend is reversed
+and baseline condition is again achieved.  A downward trend is defined
+as a decrease in vegetative community reproduction and diversity. 
+Once baseline condition is again achieved, diversions could then be
+reevaluated.  The existing standard photo plot study will be read on at
+least a * * * [twice per year] basis.  Data on species composition and
+vegetation density will also be collected and monitored on at least a
+[twice a year] basis.  Data collection and monitoring will be conducted
+by the BLM.
+5.  If monitoring in Birch Creek indicates that physical and/or
+ecological condition shows a downward trend from baseline conditions,
+then water diversions from this creek during the growing season
+(April 1 - September 30) will be reduced until that downward trend is
+reversed and baseline condition is again achieved.  Once baseline
+condition is again achieved, diversions could then be reevaluated for
+daily flows during the growing season.  Monitoring will be conducted to
+detect effects on riparian condition.
+6.  Proper Functioning Condition (PFC) surveys will be conducted by
+the BLM on the public land portions of both North Creek and Birch
+Creek.  These PFC surveys will be conducted at least every five years.
+7.  [WHWCD] will be required to maintain a constant flow of water in
+North Creek below the diversion during the growing season (April 1 -
+September 30).  If monitoring indicates that adequate amounts of water
+are flowing to maintain the riparian area in baseline condition, then
+additional water would be diverted, but only in small increments since
+threshold flows for maintaining these riparian areas are not known.
+166 IBLA 158
+[[page 20]]
+IBLA 2002-340, etc.
+8.  Flood and high water flows will not be diverted.  Sand traps will be
+designed to slow water flow, allowing sediment to settle.  The sediment
+will periodically be flushed out the bottom of the traps and back into
+the stream channels by manually opening the valve at the bottom of the
+sand trap.
+* *****
+10.  Snow melt generated flows will be allowed to flow past the
+diversions under the following conditions:
+a.  Bypass of high flows will occur two times every five
+years;
+b.  Bypass will occur on years of average to above-average
+snow pack, based on the April data at the Clayton and
+Widstoe Snowtell Stations as determined by the BLM;
+c.  Bypass will last from 2-3 weeks, as determined by and
+at the discretion of the BLM.
+11.  Spring snow melt above the year-round 0.25 cfs will not flow past
+the diversions (with the exception of peaks that exceed the capacity of
+the diversion pipes), unless determined otherwise by the BLM.
+* *****
+18.  Monitoring of water temperatures in both North Creek and Birch
+Creek will be conducted by the BLM or [WHWCD] to determine
+whether any changes are occurring as a result of water diversions. 
+Water temperature will be taken above the diversions in order to get a
+baseline measurement.  Water temperature will also be taken below the
+diversions to detect any changes associated with the withdrawal of
+water.  Monitoring will be conducted from May to September, on a
+weekly basis, for three years to establish a baseline and monthly
+thereafter.  If monitoring shows water temperature exceeds State
+standards for 3A waters (20ºC, with a maximum change of ±2ºC) as a
+result of diversions, then diversion volumes will be decreased or
+diversions will only be done at night (when solar heating does not
+occur) in order to meet State standards.
+(DR/FONSI, Appendix A at 1-5 (emphasis in original).)
+166 IBLA 159
+[[page 21]]
+IBLA 2002-340, etc.
+SUWA, Main Canyon, and EWP each appealed the DR/FONSI and underlying
+EA.  While those appeals were pending, on October 22, 2002, BLM issued right-of-
+way grant UTU-79720 to WHWCD authorizing the construction, operation,
+maintenance, and termination of a 6,100 acre-foot reservoir (with the crest height of
+the dam being approximately 130 feet and the crest length being approximately
+930 feet) encompassing approximately 224 acres; four 36- or 24-inch buried and
+suspended pipelines; two water diversion structures and two sand traps; and access
+roads on public lands.  The stipulations incorporated into the right-of-way grant,
+attached to the grant as Exhibit C, are similar to, but not identical with, the
+mitigation measures and conditions of approval included in Appendix A to the
+DR/FONSI.  SUWA and Main Canyon also appealed the issuance of the right-of-way
+grant.  12/
+ARGUMENTS ON APPEAL
+On appeal, SUWA argues that BLM violated numerous requirements of the
+National Environmental Policy Act of 1969 (NEPA), 42 U.S.C. § 4332 (2000).  SUWA
+avers that the EA is inadequate and violates NEPA because it is based on conclusory
+statements and assumptions unsupported by scientific data or rationale.  Specifically,
+SUWA asserts that BLM has provided no scientific support for the EA’s bypass flow
+and riparian health statements.  It asserts that the bypass flows, or consumptive use
+requirements, that BLM asserts will maintain the riparian vegetation of cottonwood
+trees, willows, and birches, were calculated using “consumptive use of irrigated crops
+in Utah,” rather than for woody riparian vegetation.  (SUWA SOR at 12.)  SUWA
+submits that BLM’s implicit recognition of this flaw and attempt to compensate for it
+by applying two different 50 percent adjustments fails because BLM does not explain
+why it considered irrigated crop coefficients to be good surrogates for woody riparian
+vegetation or how it determined the adjustment factors.  Id. at 13-14.  13/  SUWA
+________________________
+12/  Both SUWA and Main Canyon base their appeals of the issuance of the right-of-
+way grant on the arguments raised in their appeals of the DR/FONSI.  See generally
+Amended SUWA SOR and Main Canyon SOR (IBLA 2003-83) (expressly
+incorporating Main Canyon SOR filed in IBLA 2002-341).  Since our discussion of the
+issues raised in the appeals of the DR/FONSI govern resolution of all the consolidated
+appeals, we will not separately address the appeals of the right-of-way grant.
+13/  We find it necessary to comment on an aspect of SUWA’s presentation.  SUWA’s
+attorneys freely used quotation marks in the paragraph on page 13 of its SOR
+condemning BLM’s use of the two 50 percent increases, citing to BLM’s document
+entitled Estimated Consumptive Use Requirements for Willows and Cottonwoods
+near Escalante, Utah (EA, App. L):
+“Highlighting the fact that ‘irrigated crops’ estimates do not apply to woody,
+(continued...)
+166 IBLA 160
+[[page 22]]
+IBLA 2002-340, etc.
+supports its assertions with the declaration of Dr. Robert Ohmart (SUWA SOR, Ex. 8
+(Ohmart Decl.)), who characterizes BLM’s utilization of agricultural values (rather
+than known evapotranspiration values) as merely “best guesses.”  He also disputes as
+unfounded BLM’s reliance on base flow amounts to retain the vigor of riparian
+vegetation, citing the lack of long-term data supporting that reliance.  (SUWA SOR
+at 12-14; Ohmart Decl. ¶¶ 15 and 17.)  
+SUWA notes that the EA’s and DR/FONSI’s bypass flow recommendations
+contradict those presented in the second EA (EA #2) prepared for the project. 
+According to SUWA, the BLM Natural Resource Specialist’s recommendations in
+EA #2 for maintaining the existing riparian habitat along North Creek called for
+preserving a sufficient minimum flow through the growing season to sustain a high
+enough water table to support woody species, allowing spring run-off events
+inundating the floodplains to continue in order to sustain seedbed conditions and
+germination important for cottonwood seeds, and retaining periodic high flow
+events.  (SUWA SOR at 15, citing EA #2, App. J, attached to SUWA SOR as Ex. 9.) 
+SUWA points out that the Natural Resource Specialist specifically acknowledged in
+EA #2 that the lack of data on flow regimes, bankfull discharge, and channel profiles
+rendered it difficult to accurately determine the amount of maintenance flow needed
+to sustain the riparian community and hydrologic functions of North Creek.  SUWA
+observes that, given the lack of sufficient time to gather the necessary information,
+the specialist relied on reconnaissance-level methodology to determine that the
+________________________
+13/ (...continued)
+riparian vegetation, BLM tried to compensate for the differences by adjusting the
+calculated consumptive use amount by an arbitrary 50%, to take into account
+‘irrigation efficiency.’  Id.  [(This citation is to Appendix L to the EA.)].  Acknowledg-
+ing that this adjustment might not be adequate, and still ‘guessing’ that the needs of
+trees and other riparian vegetation differs substantially from irrigated crops, BLM
+added yet another 50% ‘fudge factor’ increase to the bypass flow for North Creek to
+‘account for’ the maintenance and recruitment of herbaceous vegetation.  Id.  [(This
+again cites to Appendix L to the EA.)].  For Birch Creek, rather than increase the flow
+another 50%, BLM decided the bypass flow would be ‘based on July consumptive use
+quantity with a 50% increase to account for herbaceous vegetation.’  EA Appendix L.” 
+(SUWA SOR at 13 (emphasis supplied).)
+As we would expect, some of the quoted words and phrases appear in the
+cited text (e.g., “irrigated crops,” “irrigation efficiency,” “account for,” and “based on
+[the] July consumptive use quantity with a 50% increase to account for herbaceous
+vegetation”).  However, neither “guessing” nor “fudge factor” appears therein.
+It would be most significant if BLM had admitted in its estimate of
+consumptive use requirements that it was “guessing” and using “fudge factors.”  It
+did not.  SUWA’s use of quotation marks in this context is misleading.
+166 IBLA 161
+[[page 23]]
+IBLA 2002-340, etc.
+stream flow in North Creek should be maintained at 60 percent of the annual stream
+flow during the growing season (4.62 cfs) and 40 percent of the annual average
+stream flow during the non-growing season (3.08 cfs), and that the stream flow in
+Birch Creek should be retained at 100 percent of the mean daily flow during the
+growing season (0.66 cfs) and 40 percent of the flow in the non-growing season
+(0.26 cfs).  (SUWA SOR at 15-16; SUWA SOR, Ex. 9.)  
+SUWA dismisses as unpersuasive BLM’s explanation that the EA rejected the
+significantly higher bypass amounts calculated in EA #2 because those amounts were 
+based on a flawed 5-year statistical average and emphasized aquatic life rather than
+the health of riparian vegetation.  According to SUWA, the discrepancy is too extreme
+to justify uncritical acceptance of the substantially lower bypass amounts in the
+current EA, especially since BLM lacks sufficient data to support those amounts and
+to sustain the FONSI.  (SUWA SOR at 16; SUWA SOR, Ex. 9.)
+SUWA points out that, although the EA recognized that riparian vegetative
+communities have evolved to fit natural flow peak patterns, BLM adopted a flat,
+minimal flow amount devoid of natural peaks for Birch Creek and a substantially
+reduced peak flow regime in average years for North Creek, both of which deviate
+from that natural hydrologic regime.  SUWA submits that the EA’s failure to provide
+any reliable data demonstrating that these reduced and altered flow patterns will not
+have significant impacts on the riparian habitat for these creeks is especially
+egregious since the peak flow regimes are critical to the maintenance, health, and
+functionality of both creeks.  (SUWA SOR at 16-17; Ohmart Decl. ¶ 14.)  SUWA
+further complains that BLM ignored the comments provided by FWS and the National
+Park Service (NPS) expressing concerns over the adverse impacts the proposed
+diversion would have on North Creek’s valuable riparian community and Birch
+Creek’s natural healing process (SUWA SOR, Exs. 10 and 11 (FWS comment letters))
+and identifying additional information needed to adequately evaluate the project
+(SUWA SOR, Ex. 12 (NPS comment letter)).  (SUWA SOR at 18-20.)
+SUWA contends that BLM’s decision to issue a FONSI and not prepare an EIS
+was arbitrary and capricious and violates NEPA because BLM has not shown that the
+project will not cause significant impacts and because substantial questions remain as
+to the project’s impacts.  SUWA identifies several factors listed in 40 CFR 1508.27 as
+indicative of significance which it claims mandate preparation of an EIS here. 
+Specifically, SUWA asserts that the effects of this project are highly controversial
+under 40 CFR 1508.27(b)(4) because a substantial dispute exists over the size,
+nature, or effect of the project, citing the NPS and FWS comment letters, the Ohmart
+Declaration, and the additional data collection and analysis animating the
+preparation of three EAs for the project.  (SUWA SOR at 22-26.)
+166 IBLA 162
+[[page 24]]
+IBLA 2002-340, etc.
+SUWA further asserts that the project affects an ecologically critical area as
+delineated in 40 CFR 1508.27(b)(3).  SUWA points out that these ecologically critical
+riparian areas occupy less than 1 percent of the land in Utah but support nearly
+95 percent of the wildlife species in the area and represent some of the most
+important and productive ecosystems in Utah.  (SUWA SOR at 27; Ohmart Decl. ¶ 8;
+Riparian Policy (UT IM-93-93) (SUWA SOR, Ex. 7).)  SUWA avers that preparation of
+an EIS is mandated by BLM’s acknowledgments that diversion of 62 percent of the
+flow in North Creek during below average precipitation periods would hamper
+maintenance of the existing riparian condition of the creek and that diversion of
+95 percent of the flows in Birch Creek during the growing season would perpetuate
+the creek’s at-risk condition or degrade it to non-functioning condition, coupled with
+the lack of scientific data supporting BLM’s claim that existing riparian conditions in
+North Creek would be maintained during periods of normal or above precipitation. 
+(SUWA SOR at 27-28, citing EA at 32-33.) 
+SUWA notes that the project undisputedly will affect cultural sites eligible for
+listing in the National Register of Historic Places and argues that, in accordance with
+40 CFR 1508.27(b)(8), this fact necessitates preparation of an EIS.  (SUWA SOR
+at 28-29.)  SUWA also maintains that, given the absence of information about the
+practical effect of the diversions and the lack of effective proposed mitigation
+measures to offset environmental damage, uncertain environmental effects and
+unknown risks exist about the project which, according to 40 CFR 1508.27(b)(5),
+mandate preparation of an EIS.  (SUWA SOR at 29-30.)
+SUWA questions BLM’s reliance on mitigation measures to support the FONSI. 
+According to SUWA, the mitigation measures listed in Appendix A to the DR/FONSI
+simply restate the monitoring plan found in Appendix K of the EA and fail to
+prescribe specific and effective corrective actions to reduce impacts to insignificance
+should certain resource conditions develop.  (SUWA SOR at 32.)  SUWA specifically
+points to mitigation measures 2, 4, 5, 8, 10, and 11 either as failing to clearly define
+and scientifically justify the thresholds triggering corrective action and the efficacy of
+that action or as illustrating the conflicts among the various mitigation measures.  Id.
+at 33-34.  SUWA further avers that it, FWS, and NPS all agree that the monitoring
+plan incorporated into the DR/FONSI suffers from the same flaws undercutting the
+mitigation measures and thus does not compensate for those inadequate mitigation
+measures.  Id. at 34-36.  In light of the lack of baseline data and scientific analysis in
+the EA and BLM’s failure to show the effectiveness of the adopted mitigation
+measures and monitoring plan in reducing impacts to insignificance, SUWA submits
+that BLM must prepare an EIS before proceeding with the project.  Id. at 36-38.
+SUWA also argues that the EA did not consider a reasonable range of
+alternatives as required by 42 U.S.C. § 4332(E) (2000).  SUWA highlights the water
+166 IBLA 163
+[[page 25]]
+IBLA 2002-340, etc.
+conservation alternative as one deserving detailed analysis, asserting it alone totally
+conforms to the Riparian Policy.  SUWA further avers that, since the preferred
+alternative would increase water supply by only seven percent at most, the EA should
+have fully evaluated the alternative of dredging the existing reservoir to increase
+storage capacity, which would raise water yield by five percent while using the
+existing diversions and nullifying the need for new diversions on Birch and North
+Creeks.  SUWA claims that BLM deprived the public and the decision-maker of the
+complete information needed to reach a reasoned decision by refusing to
+comprehensively consider these and other alternatives suggested by FWS and NPS
+that would create significantly less environmental impacts and comply with both the
+Riparian Policy’s proscription of new surface disturbing activities in riparian areas
+and FLPMA’s requirement that ecological, environmental, and archaeological sites be
+protected.  (SUWA SOR at 38-42.)
+SUWA contends that BLM failed to take the requisite hard look at the
+environmental effects of the project on riparian areas and wildlife.  Relying on the
+previously identified deficiencies, SUWA asserts that the EA’s failure to determine,
+based on scientific or other reliable data, the impact to riparian vegetation from the
+severely reduced streamflows did not constitute the hard look mandated by NEPA. 
+(SUWA SOR at 43-44.)  SUWA similarly maintains that the EA’s cursory analysis of
+the project’s impacts on the yellow-billed cuckoo, a candidate species entitled to
+special protections, and the dearth of surveys or data for wildlife species other than
+the yellow-billed cuckoo, southwestern willow flycatcher, and common yellowthroat
+demonstrate that BLM did not take a hard look at the impacts of the project on
+wildlife.  (SUWA SOR at 44-46; see also FWS Aug. 15, 2001, comment letter (EA,
+App. D) and BLM Manual 6840.06C).)
+SUWA’s last NEPA argument focuses on BLM’s failure to reevaluate the
+project’s impacts in light of significant new circumstances and information.  SUWA
+rests this claim on a May 2, 2002, article in the Garfield County News, which quotes
+the president of WHWCD as stating that the delays in processing the right-of-way
+application had necessitated decreasing the size of the reservoir from over 6,000 acre
+feet to 4,000 acre feet.  (Amended SUWA SOR at 47, 49; see EWP SOR,
+Attachment 1.)  SUWA insists that not only does this 40 percent downsizing render
+doubtful the project’s estimated 7 percent increase in water yield, but it also raises
+the possibility that other alternatives with less environmental impacts might be
+equally likely to achieve the same result.  (Amended SUWA SOR at 49-51.)  SUWA
+therefore asserts that, in accordance with 40 CFR 1502.9, BLM must consider and
+evaluate this new information and supplement the EA by analyzing a reasonable
+range of appropriate alternatives based on this new information.  (Amended SUWA
+SOR at 51-52.)
+166 IBLA 164
+[[page 26]]
+IBLA 2002-340, etc.
+Finally, SUWA argues that BLM’s approval of the project violated the Riparian
+Policy, IM UT-93-93 (SUWA SOR, Ex. 7).  SUWA contends that BLM is bound by
+three policy statements set forth in the Riparian Policy which direct that riparian
+areas be maintained or improved to Proper Functioning Condition; that no surface
+disturbing activities be permitted within 100 meters of riparian areas unless no
+practical alternatives exist, all lasting impacts can be completely mitigated, or the
+activities will benefit and enhance the riparian areas; and that riparian areas be
+improved at every opportunity.  Id. at 3; SUWA SOR at 47.  SUWA avers that,
+contrary to these policy directives, the approved project authorizes construction of
+new structures directly within the riparian areas despite the existing practical
+alternatives, the diversions’ unmitigated impacts, and the project’s lack of benefit to
+the affected riparian areas.  SUWA adds that the permitted diversion of flows during
+the growing season admittedly will, at best, perpetuate the at-risk condition of Birch
+Creek and, at worst, cause the creek to degrade to non-functioning condition and
+that the bypass flows in North Creek may not be enough to maintain the existing
+riparian condition in a dry period.  SUWA concludes that the dewatering activities
+clearly will not improve the riparian conditions in the affected areas.  (SUWA SOR at
+47-49.)
+Main Canyon, the owner of property downstream from the authorized
+diversion in Birch Creek, similarly charges that the approved project will have
+significant deleterious effects on the environment and that an EIS therefore must be
+prepared.  Main Canyon contends that the reduction of water flows to Birch Creek
+during the growing season violates BLM’s Riparian Policy and will degrade the health
+of riparian vegetation on private lands below the diversion.  Main Canyon asserts that
+the resulting loss of amenity vegetation, such as cottonwoods and willows, along the
+private stretches of Birch Creek will reduce both visual quality and property values. 
+Main Canyon further maintains that the elimination of seasonal snowmelt peaks
+could encourage the establishment of exotic invasive plant species in violation of
+Executive Order 13112, signed in February 1999, which, Main Canyon avers,
+prohibits actions that may lead to the spread of invasive species.  According to Main
+Canyon, water diversions in Birch Creek will also lead to increases in water
+temperature exceeding Utah water quality standards for Class 3A waters and harming
+temperature dependent aquatic invertebrate species.  The proposed monitoring plan
+will not timely detect changes in riparian health, Main Canyon submits, because the
+contemplated 3-year time period between the growing season stream flow diversion
+and the riparian health assessment is too long, especially considering that trees
+subject to a tenfold reduction in stream flow will decline in health and possibly die
+within a single growing season if the area has already suffered several years of
+drought.  (Main Canyon SOR at 1-2.)
+On appeal, EWP, like SUWA, asserts that the decrease in the size of the
+reservoir renders obsolete the analysis in the existing EA and raises questions about
+166 IBLA 165
+[[page 27]]
+IBLA 2002-340, etc.
+the reduced project’s ability to increase irrigation water deliveries, as well as NEIC’s
+plan to abandon the North Creek Reservoir.  (EWP SOR at 1.)  EWP notes that BLM
+has acknowledged that the outcome of a pending State lawsuit over 10,000 acre feet
+of water currently diverted each spring into North Creek could require the
+preparation of a new analysis for the project and avers that BLM should await judicial
+resolution of that suit before deciding whether to approve the project.  Id. at 1-2,
+citing EA, App. S at 23.  
+EWP contends that BLM failed to give due weight to the public interest, as
+distinct from the interests of NEIC shareholders and Escalante residents.  Specifically,
+EWP submits that the purported seven percent increase in average annual deliveries
+of irrigation is too small to justify the project even as a business proposition; that the
+EA fails to offset the current $15,000 annual pumping costs against the $12,000 to
+$16,000 annual monitoring costs associated with the preferred alternative; that
+agriculture is a liability in Garfield County, which includes Escalante, and should not
+be encouraged; that the proposed dam, like the current dam, would be a high hazard
+dam; that, as BLM has admitted, the flow reductions could damage riparian areas
+along both creeks, harm wildlife, and impair the public’s enjoyment of those areas, as
+well as violate BLM’s duties to maintain or improve riparian areas to proper
+functioning condition and to work toward recovery and eventual delisting of
+threatened and endangered species; that the EA fails to give sufficient weight to the
+negative impacts of the proposed project on the existing reservoir, the diminishment
+of which would reduce the attractiveness of the Petrified Forest State Park
+campground; and that the value of the project does not justify the destruction of
+archaeological sites potentially eligible for the National Register of Historic Places. 
+Id. at 2-4.
+EWP criticizes the EA’s socioeconomic analysis as defective because, in
+addition to overstating the importance of the agricultural sector and ignoring the
+project’s negative effects on the Petrified Forest State Park, the EA fails to give any
+real weight to the value of functioning riparian areas.  EWP maintains that, contrary
+to the EA’s assertion that no monetary value can be placed on those areas because no
+markets exist for them, real estate agents routinely evaluate the worth of land with
+healthy vegetation versus land without such vegetation, and experts capable of
+designing models for consumptive water use should surely be able to devise models
+for determining the economic value of elements like functioning riparian systems. 
+EWP adds that, in any event, rather than presenting an objective socioeconomic
+analysis, the EA unjustifiedly favored agriculture and farmers over recreation and
+tourists.  Id. at 5.
+EWP objects to the excessive guesswork in the environmental impact analysis
+throughout the EA.  In particular, EWP cites the use of known water requirements for
+166 IBLA 166
+[[page 28]]
+IBLA 2002-340, etc.
+irrigated alfalfa as the basis for estimating the unknown water requirements for
+willows and cottonwoods, the inconsistencies and illogical explanations rampant
+throughout the EA’s discussions of its stream flow and bypass determinations, the
+studies actually cited in the EA which cast doubt on the established bypass flows’
+sufficiency to maintain the current riparian conditions in both North and Birch
+Creeks, the lack of clarity and specificity in the mitigation measures and monitoring
+plan, the potential conflict between the project and BLM’s obligations under the
+Endangered Species Act, and the contradictory statements in the EA about the
+project’s effects on water temperature and quality.  (EWP SOR at 5-9)
+EWP questions the vagueness of the stream flow changes mandated if
+monitoring indicates a downward trend, averring that the lack of specific ranges of
+possible bypass flow additions opens the door to future disputes over the amounts of
+the necessary increases.  (EWP SOR at 9.)  EWP also objects to the EA’s failure to
+adequately evaluate the water conservation alternative and Alternative C.  EWP
+asserts that neither the changes to the existing irrigation and water delivery systems
+connected to the water conservation alternative nor the increased pumping cost
+associated with Alternative C justifies dismissal of those alternatives.  EWP further
+submits that the EA misstates the effect of existing water rights on the part of the
+Escalante River proposed for wild and scenic river designation; that the EA relies on
+an outdated 1981 MFP; that evaporative and seepage losses should be included in the
+EA’s analysis of the new reservoir’s ability to store water from year to year; and that
+the EA’s cavalier treatment of candidate species’ habitat could ultimately lead to the
+listing of such species which would threaten the viability of the project.  Id. at 10-11. 
+EWP concludes that all the issues raised in its appeal demonstrate that BLM should
+withdraw the EA and prepare a full-scale EIS addressing the potential significant
+impacts of the project.  Id. at 11-12.
+In its answer, BLM asserts that it properly considered reasonable alternatives
+to the proposed action.  BLM submits, that, unlike an EIS which must contain a
+detailed analysis of alternatives, an EA’s alternatives analysis is bound by a rule of
+reason and practicality and need not be exhaustive.  (BLM Answer at 13-14.)  BLM
+contends that it properly rejected the water conservation alternative as beyond its
+jurisdiction, noting that 40 CFR 1502.14(a) (relied upon by SUWA) addresses the
+requirements for an EIS not an EA.  As to the alternative of dredging the existing
+reservoir, BLM avers that a 1992 feasibility study on raising the dam and dredging
+the reservoir indicated that those activities would partially flood the Petrified Forest
+State Park and require relocation of various park facilities, a culinary pipeline, and an
+access road and, in any event, would not solve the reservoir’s sedimentation problem. 
+BLM argues that this study, coupled with a 1993 inspection of the dam’s spillway
+revealing its inadequacy in the event of a major flood and a geotechnical study of the
+dam’s foundation exposing its susceptibility to failure in an earthquake, more than
+166 IBLA 167
+[[page 29]]
+IBLA 2002-340, etc.
+suffice to satisfy its obligation to explain why it did not study that alternative in
+detail.  (BLM Answer at 15-16.)
+BLM maintains that it took the requisite hard look at the potential impacts of
+the project and that its decision that the project would not have significant impacts is
+reasonable and supported by the record.  BLM insists that it carefully considered the
+potential impacts the project’s diversions and bypass flows could have on the riparian
+areas along North and Birch Creeks.  BLM denies that the EA was based on
+inadequate information, pointing out that the historical information cited as missing
+has never been collected and that its absence does not undermine the EA because an
+EA necessarily is based on incomplete and uncertain information.  In any event, BLM
+submits that the mitigation measures incorporated into its approval of the preferred
+alternative ensure the acquisition of baseline data before any water diversions occur. 
+(BLM Answer at 16, 18-20.) 
+BLM contends that its calculations of the bypass flows necessary to maintain
+the riparian areas along North and Birch Creeks are reasonable.  BLM explains that it
+formed a technical team consisting of UDWR personnel, NEIC board of directors
+members, and BLM resource specialists to determine appropriate bypass flows for
+each creek, i.e., what minimum flow was necessary to preserve the riparian
+vegetation in each creek.  BLM avers that the lack of surface flow requirement data
+for the riparian vegetation led the team to adopt the calibrated crop coefficient
+standard used by UDWR to determine water requirements for water-intensive
+irrigated crops such as alfalfa, as adjusted upward to account for factors including
+density of vegetation, soils, topography, and channel geometry, to compute the
+effective bypass flows for the creeks.  (BLM Answer at 20-21.)  According to BLM, the
+resulting bypass flows for North Creek mirror the naturally occurring hydrograph and
+have a reasonable expectation of maintaining existing riparian conditions during
+normal or above-average precipitation periods.  Id. at 21.  Although the bypass flows
+assigned to Birch Creek do not mimic the natural hydrograph for that creek, BLM
+asserts that the flows were based on the estimated consumptive use requirements for
+the relatively higher flow month of July, but admits that the diversion of flows during
+the growing season would result in the creek remaining in at-risk condition or
+deteriorating to non-functioning condition.  Id. at 21-22.
+BLM counters the attacks on the use of calibrated crop coefficients and the
+concomitant support for the percentage method espoused in EA #2 by asserting that
+the percentage of stream flow methodology used in EA #2 was based on a 1984 BLM
+publication directed towards maintaining aquatic life habitat in the stream itself
+rather than riparian vegetation, and that the short, 5-year gauged flow period
+undermined the validity of the use of a statistical average.  BLM submits that
+disagreements over its explanation on this technical issue do not invalidate that
+166 IBLA 168
+[[page 30]]
+IBLA 2002-340, etc.
+explanation, especially since BLM is entitled to rely on the reasoned analysis of its
+experts.  (BLM Answer at 22-23.)  
+BLM disputes the allegations that the bypass flows specified in the EA are too
+small to maintain riparian vegetation in either creek.  BLM characterizes these
+allegations as speculative and devoid of the supporting scientific data and studies
+needed to establish error in BLM’s analysis, an analysis which, BLM claims,
+demonstrates that it thoroughly considered the potential impacts to the creeks from
+the water diversions and the bypass flows necessary to minimize such impacts.  BLM
+adds that it carefully considered and responded to comments on this issue and
+revised the EA as appropriate and that the challenges to its conclusions merely
+represent differences of opinion insufficient to establish error on its part.  (BLM
+Answer at 23-24.)  BLM discounts Dr. Ohmart’s declaration, questioning his
+qualifications as an expert on bypass flow issues and averring that, in any event, his
+criticisms of BLM’s methodology fail to identify the specific methodology BLM should
+have used other than that the calculations should have been based on existing
+published native community data.  BLM maintains that such unsupported disapproval
+is not the objective proof needed to demonstrate error in BLM’s analysis.  Id. at 24-
+25.
+BLM contends that its mitigation measures are reasonable.  According to BLM,
+the 20 mitigation measures incorporated into the approved action enumerate specific,
+pre-diversion monitoring and survey work intended to establish a baseline inventory
+of existing vegetation, wildlife species, and riparian obligate species, as well as
+post-diversion periodic monitoring activities designed to determine the effect of the
+water diversions on baseline conditions in each creek and establish any consequent
+appropriate reductions in diversions and increases in bypass flow.  (BLM Answer
+at 25-26, citing DR/FONSI, App. A, Mitigation Measures Nos. 3-6.)  BLM denies Main
+Canyon’s complaint that the 3-year period between the diversion of water in the
+growing season and the assessment of riparian health is too long for the reason that
+Main Canyon has failed to provide any credible data or study to support that
+contention.  BLM submits that SUWA’s and EWP’s objections to the EA’s monitoring
+requirements as internally inconsistent, insufficiently detailed, and excessively vague
+must fail because they are based on the mitigation measures found in Appendix K of
+the EA rather than on the conditions of approval specified in Appendix A to the
+DR/FONSI, which do not contain the challenged language.  (BLM Answer at 27.) 
+BLM distinguishes the precedent cited by SUWA on the ground that, in this case, BLM
+found that the preferred alternative would not have significant impacts, not that
+mitigation measures were needed to reduce impacts to below the significance
+threshold, and because the EA here discussed possible mitigation measures in some
+detail, rather than ignoring such measures.  Id. at 28.
+166 IBLA 169
+[[page 31]]
+IBLA 2002-340, etc.
+BLM further asserts that its selection of the preferred alternative is consistent
+with the Riparian Policy.  According to BLM the policy statements relied upon by
+SUWA simply set forth general goals, not mandatory terms and conditions, for BLM
+management of riparian areas.  (BLM Answer at 29.)  To the extent that the Riparian
+Policy can be interpreted as imposing specific duties, BLM contends that the
+procedures for integrating that policy into land use planning and environmental
+analyses, not the broad policy statements, set forth those obligations.  BLM avers that
+it has complied with those responsibilities by analyzing alternatives to the possible
+diversion of water from the creeks and explaining why those alternatives were not
+selected, identifying specific mitigation measures needed to prevent long-term
+impacts to the riparian areas on North and Birch Creeks, and documenting the
+minimum amounts of bypass flows BLM’s experts determined were essential to
+prevent degradation of the riparian areas.  Id. at 30-31; Riparian Policy, IM UT-93-93
+(SUWA SOR, Ex. 7), at 10.
+BLM contends that the project is not “controversial” as that term is used in
+40 CFR 1508.27(b)(4) and therefore does not require preparation of an EIS.  Noting
+that case law has interpreted “highly controversial” to refer to substantial disputes as
+to the size, nature, or effect of a Federal action rather than to opposition to a use,
+BLM counters each ground proffered as evidence of the alleged controversy.  BLM
+asserts that its preparation of three draft EAs demonstrates its commitment to
+performing a thorough NEPA analysis and informing the public of the results of that
+evaluation.  BLM interprets the FWS and NPS comments identifying concerns about
+potential impacts and suggesting items to be studied as additional indications of the
+proper functioning of the NEPA process rather than as harbingers of substantial
+controversy.  BLM also reiterates that, even if the public comments can accurately be
+construed an outpouring of public protest, opposition to a project does not establish
+that the project is “highly controversial” under the regulations.  (BLM Answer at 31-
+32.)
+BLM dismisses SUWA’s and EWP’s claim that the reduction in the size of the
+reservoir reported in a newspaper article renders obsolete the EA’s analysis of the
+project and mandates reconsideration of the need for the downsized project, the
+environmental effects of that project, and additional newly viable alternatives.  While
+acknowledging its awareness of the article, BLM avers that no WHWCD
+representative has advised it that the article was accurate and/or that WHWCD does
+not plan on constructing and operating the project proposed by WHWCD, analyzed in
+the EA, approved in the DR/FONSI, and described in the right-of-way grant.  (BLM
+Response to Amended SUWA SOR at 4.)  
+BLM also discounts EWP’s remaining NEPA claims as general complaints
+unsupported by any facts or data necessary to establish a violation of that statute.
+166 IBLA 170
+[[page 32]]
+IBLA 2002-340, etc.
+(BLM Answer at 33.)  BLM therefore submits that the EA satisfies NEPA and the
+DR/FONSI should be affirmed.  Id. at 33-34.
+In their answer, WHWCD and NEIC (collectively the “project proponents”)
+contend that the appellants have failed to establish by objective proof that the EA was
+based on a clear error of law or fact or that it failed to consider a substantial
+environmental question of material significance to the project.  (Project proponents’
+Answer  14/ at 2.)  They, like BLM, dismiss Dr. Ohmart’s declaration as simple
+criticism, not objective proof, and aver that mere differences of opinion do not justify
+overturning the reasoned analysis of BLM’s experts.  Id.  They further assert that,
+rather than undermining the validity of the final EA, BLM’s revisions of the earlier
+EAs demonstrated its responsiveness to public concerns and led to a final EA which
+crafted an alternative fusing their proposed project and the area’s resource
+requirements into an alternative conforming to BLM’s broad management
+responsibilities.  Id. at 3.
+In addition to adopting BLM’s response to the appeals, the project proponents
+characterize appellants’ arguments about riparian impacts as mere speculation
+designed to delay the project.  They point out that BLM’s development of the
+preferred alternative arose from its determination that the proposed project might
+harm the riparian environment and adopted measures designed to protect that
+resource by ensuring necessary bypass flow amounts.  According to the project
+proponents, appellants’ objections to the methodology used by BLM’s experts to
+calculate sufficient bypass flow amounts rest on simple conjecture, not compelling
+scientific data, and do not suffice to establish that a different methodology would
+have been preferable.  (Project proponents’ Answer at 4.)  
+The project proponents also discuss the compelling public interests served by
+the project.  They contend that the continual sedimentation of the existing reservoir
+has caused the reduction in per-acre hay yield from between five and seven tons to
+between one and one and a half tons that directly impacts farmers’ ability to meet
+their financial obligations, a situation the project is intended to rectify.  They further
+aver that the Town of Escalante would also benefit from the new reservoir because
+over 300 of the 1661.5 NEIC water shares are used to water gardens, pastures, and
+orchards within city limits, which lessens the strain on culinary water consumption. 
+According to the project proponents, these benefits, coupled with the elimination of
+the average annual $17,000 pumping costs currently incurred to pressurize the
+existing irrigation system, clearly outweigh the potential harm to riparian areas,
+________________________
+14/  The project proponents filed both an answer and an errata to that answer. 
+References in this opinion will be to the errata to the answer which will be
+denominated “Project proponents’ Answer.”
+166 IBLA 171
+[[page 33]]
+IBLA 2002-340, etc.
+which, they submit, will be mitigated by the monitoring and other requirements
+included in the approved alternative.  (Project proponents’ Answer at 4-5, citing
+Affidavit of Kim Keefe attached to Projects proponents’ Answer.)
+Both SUWA and EWP have responded to BLM’s and the project proponents’
+Answers.  In addition to reiterating the arguments made in its SOR, SUWA counters
+BLM’s challenge to Dr. Ohmart’s expertise in riparian issues by pointing out that, as
+his declaration and the vita attached to the declaration make abundantly clear, he
+has extensive experience, has published papers, and has performed research
+regarding riparian ecology and habitats.  (SUWA Reply at 6-7 n.2.)  While agreeing
+that an EA may be less detailed than an EIS, SUWA disputes BLM’s contention that
+the major assumptions and gaps in this EA are acceptable, averring that, even if an
+EA often is based on incomplete and uncertain information, it must still contain
+scientific support for its decision which is absent here.  Id. at 9 n.7.  SUWA considers
+unpersuasive BLM’s explanation for its use of irrigated crop data to calculate
+consumptive use requirements for cottonwoods and willows.  SUWA submits that,
+while valid reasons may exist for considering aquatic life flow determinations
+irrelevant to this project, nothing in the record objectively supports the use of the
+irrigated crop plus adjustments method selected by BLM, especially given BLM’s
+failure to delineate how it derived the adjustments and why those adjustments differ
+for each creek.  Id. at 7, 13.  SUWA further discounts BLM’s reliance on the technical
+review team as support for the bypass flow decisions because the team did not
+include a clear proponent of protecting riparian areas.  Id. at 12-13 n. 11.
+SUWA disputes BLM’s interpretation of the Riparian Policy.  SUWA insists that
+the Riparian Policy’s stated objective of establishing an aggressive riparian area
+management program to maintain, restore, and/or improve riparian values
+undermines BLM’s supposition that the policy statements in the Riparian Policy can
+be ignored as long as the EA documents riparian issues and impacts.  According to
+SUWA, the Riparian Policy affirmatively promotes protecting riparian areas, not
+simply describing the impacts authorized actions would have on those areas.  (SUWA
+Reply at 15-16, citing Riparian Policy at 2 and 3.)
+SUWA denies that it bases its contention that the highly controversial nature
+of the project mandates preparation of an EIS on “mere opposition” to the project,
+pointing out that both FWS and NPS joined it in identifying specific questions about
+the size, nature, and effects of the proposal.  (SUWA Reply at 17-20.)  SUWA further
+maintains that the mitigation measures incorporated into the DR/FONSI do not
+suffice to preclude the necessity of preparing an EIS because they are vague, fail to
+particularize the conditions triggering application of the mitigation measures, and
+neglect to identify the actions required to offset impacts arising from implementation
+of the project.  Id. at 20-22.  SUWA finds particularly troublesome the fact that the
+166 IBLA 172
+[[page 34]]
+IBLA 2002-340, etc.
+mitigation measures attached to the DR/FONSI are not identical to the stipulations
+incorporated into the right-of-way grant, noting that the stipulations omit any
+reference to a percentage decline in baseline riparian vegetation, but include the
+imprecise downward trend language and thus will likely be less effective than the
+mitigation measures included in the DR/FONSI.  Id. at 21-22 n.12.
+In addition to repeating the arguments raised in its SOR, EWP’s response also
+disputes BLM’s characterization of the dredging and water conservation alternatives
+as impractical or ineffective and questions BLM’s contention that the duty to consider
+alternatives outside the agency’s jurisdiction applies only to an EIS and not to an EA. 
+(EWP Response at 2 n.2.)  Although EWP objects to BLM’s interpretation of the
+Riparian Policy as contrary to the intent of that Policy, EWP avers that, even if BLM’s
+interpretation were adopted, the Policy directives cited by BLM require that an EA
+document the minimum acceptable amount of water needed to be retained from a
+diversion to prevent degradation of the riparian area, which neither the EA nor the
+DR/FONSI does in this case.  Id. at 4-5.  
+DISCUSSION
+[1]  Section 102(2)(C) of NEPA, 42 U.S.C. § 4332(2)(C) (2000), requires
+Federal agencies to prepare an EIS for a major Federal action significantly affecting
+the quality of the human environment.  In making the threshold determination of
+whether an EIS is necessary, the agency may prepare an EA documenting its
+consideration of all relevant matters, and the agency may go forward with the project
+if the analysis in the EA establishes that the project will not have a significant impact
+on the human environment.  A BLM decision to approve an action based on an EA
+and FONSI will generally be affirmed if BLM has taken a “hard look” at the proposed
+action, identified relevant areas of environmental concern, and made a convincing
+case that the environmental impacts are insignificant or that any such impact will be
+reduced to insignificance by the adoption of appropriate mitigation measures. 
+Armando Fernandez, 165 IBLA 41, 49 (2005); Great Basin Mine Watch, 159 IBLA
+324, 352 (2003); Southern Utah Wilderness Alliance, 158 IBLA 212, 219 (2003);
+Owen Severance, 118 IBLA 381, 385 (1991).  
+The Board will ordinarily uphold a BLM determination that a proposed
+project, with appropriate mitigation measures, will not have a significant impact on
+the quality of the human environment if the record establishes that a careful review
+of environmental problems has been made, all relevant environmental concerns have
+been identified, and the final determination is reasonable.  Armando Fernandez,
+supra; Great Basin Mine Watch, supra; The Ecology Center, Inc., 140 IBLA 269, 271
+(1997); Blue Mountains Biodiversity Project, 139 IBLA 258, 265-66 (1997).  A party
+challenging BLM’s decision has the burden of demonstrating with objective proof that
+166 IBLA 173
+[[page 35]]
+IBLA 2002-340, etc.
+the decision is premised on a clear error of law or demonstrable error of fact, or that
+the analysis failed to consider a substantial environmental question of material
+significance to the proposed action.  Armando Fernandez, supra; Great Basin Mine
+Watch, 159 IBLA at 353; Southern Utah Wilderness Alliance, 158 IBLA at 219-20;
+The Ecology Center, 140 IBLA at 271.  Mere differences of opinion provide no basis
+for reversal.  Armando Fernandez, supra; Great Basin Mine Watch, supra; Rocky
+Mountain Trials Association, 156 IBLA 64, 71 (2001).
+Applying these principles to the appeals before us, we find that BLM did not
+take the requisite hard look at the project’s potentially significant impacts to riparian
+areas and failed to convincingly demonstrate that the incorporated mitigation
+measures would reduce those impacts to insignificance.  Accordingly, we conclude
+that BLM’s decision to approve the preferred alternative was not reasonable given the
+record before it and set aside the DR/FONSI and the right-of-way grant issued
+pursuant to that decision. 
+Several key factors underlie our decision.  BLM does not dispute the
+importance of riparian areas and their resources; to the contrary, the EA expressly
+acknowledges that BLM has established national goals and objectives for managing
+riparian resources on public lands to ensure that riparian-wetland areas are
+functioning properly in order to provide the widest variety of vegetation and habitat
+diversity.  See EA at 19; see also Riparian Policy, IM UT 93-93 (SUWA SOR, 
+Ex. 7).  15/  The acknowledged value of these resources and the stated policy objective
+of maintaining or improving riparian areas to proper functioning condition provide
+the framework for our analysis of the issues raised in the appeals before us.
+Although BLM maintains that it properly calculated the bypass flow amounts
+necessary to meet riparian goals and objectives, we disagree.  BLM has failed to offer
+persuasive evidence supporting its decision to base riparian vegetation consumptive
+use requirements on calibrated crop coefficients for irrigated crops in Utah and has
+provided no rationale at all for its computation of the purportedly appropriate
+adjustment factors or its application of different adjustments to each creek.  BLM also
+has not explained its decision to ignore the natural flow regime in setting the bypass
+amount for Birch Creek, an omission especially glaring given the EA’s emphasis on
+the importance of mimicking the natural hydrograph.  See EA at 34.  Nor does BLM
+justify why, contrary to the EA’s explicit statement that BLM’s senior hydrogeologist
+________________________
+15/  We note that the Policy was issued on Mar. 11, 1993, with an expiration date of
+Sept. 30, 1994.  Although it is unclear whether BLM’s Utah State Office had reissued
+or extended the Policy (see Southern Utah Wilderness Alliance, 164 IBLA 33, 42 n.9
+(2004)), neither the EA nor BLM’s Answer questions the viability of the Policy or its
+relevance to the issues raised by this appeal.
+166 IBLA 174
+[[page 36]]
+IBLA 2002-340, etc.
+identified 0.37 cfs as an adequate maintenance flow to retain water table depth in the
+mesoriparian zone (EA at 34), it established 0.25 cfs as the year-round bypass flow
+amount for Birch Creek.  See EA at 18.  These defects fatally undermine the
+reasonableness of BLM’s bypass flow calculations, a conclusion bolstered by BLM’s
+own admissions that the diversion of flows in Birch Creek during the growing season
+would result in the creek remaining in at-risk condition or deteriorating to non-
+functioning condition and that, during below-average precipitation periods, the
+diversion in North Creek would jeopardize the maintenance of that creek’s existing
+riparian condition.  See EA at 30, 32; BLM Answer at 21, 22 .
+Those admissions also unequivocally undercut BLM’s claim that the project
+would not have significant impacts on the quality of the human environment.  The
+questions raised about the project’s impacts on riparian and other resources in the
+FWS and NPS comment letters and in Dr. Ohmart’s declaration cast additional doubt
+on the validity of BLM’s FONSI.  See, e.g., SUWA SOR, Exs. 8, 10, 11, and 12.  An
+appellant is not required to show that significant effects will, in fact, occur; rather the
+standard is whether the appellant “has alleged facts which, if true, show that a
+proposed project may significantly degrade some human environmental factor.” 
+Columbia Basin Land Protection Ass’n v. Schlesinger, 643 F.2d 585, 597 (9th Cir.
+1980) (emphasis in original), quoted in Foundation for North American Wild Sheep
+v. United State, 681 F.2d 1172, 1178 (9th Cir. 1982).  Appellants have met that
+burden in this case.  16/
+Although BLM’s Answer explicitly eschews any reliance on mitigation
+measures to reduce impacts to insignificance (see BLM Answer at 28 (EA revealed no
+significant impacts and did not find that mitigation measures were necessary to
+reduce such impacts below a significance threshold)), to the extent the DR/FONSI
+can be construed as relying on the incorporated mitigation measures to minimize the
+project’s impacts, that reliance is unwarranted.  When a FONSI is predicated on a
+determination that mitigation measures will sufficiently minimize potentially
+significant impacts, NEPA requires that the agency analyze the proposed mitigation
+________________________
+16/  The CEQ regulations concerning preparation of an EIS encourage the
+environmental reviewer to scrutinize “[t]he degree to which the effects on the quality
+of the human environment are likely to be highly controversial.” 40 CFR
+1508.27(b)(4).  That term properly refers to cases where a substantial dispute exists
+as to the size, nature, or effect of the action.  Glacier-Two Medicine Alliance, 88 IBLA
+133, 143-44 (1985), citing Rucker v. Willis, 484 F.2d 158, 162 (4th Cir. 1973). 
+Inasmuch as the present appeals challenge the size and nature of the effects of the
+proposed action and as we have concluded that BLM did not properly address such
+effects, it would appear that those effects are “highly controversial” under 40 CFR
+1508.27(b)(4).  BLM should address this question on remand.
+166 IBLA 175
+[[page 37]]
+IBLA 2002-340, etc.
+measures and reasonably assess their efficacy in reducing impacts to insignificance. 
+Klamath Siskiyou Wildlands Center, 157 IBLA 332, 338 (2002); Powder River Basin
+Resource Council, 120 IBLA 47, 60 (1991); Nez Perce Tribal Executive Committee,
+120 IBLA 34, 43-44 (1991);  17/ Idaho Natural Resources Legal Foundation, Inc.,
+115 IBLA 88, 91 (1990).  An appellant has the burden of establishing that BLM failed
+to properly consider appropriate mitigation measures or that the contemplated
+measures will be inadequate to accomplish their intended purpose.  Klamath Siskiyou
+Wildlands Center, supra.  Simple differences of opinion, even by experts, regarding
+the effectiveness of various mitigation measures provide no basis for reversal.  Id.
+Although BLM was not required 
+to develop a complete mitigation plan detailing the “precise nature of
+the mitigation measures,” the proposed mitigation measures must be
+“developed to a reasonable degree.”  [Wetlands Action Network v. U.S.
+Army Corp. of Engineers, 222 F.3d 1105, 1121 (9th Cir. 2000).]  A
+“‘perfunctory description,’” Okanogan Highlands Alliance v. Williams,
+236 F.3d 468, 473 (9th Cir. 2000) (quoting Neighbors of Cuddy
+Mountain [v. U.S. Forest Service], 137 F.3d [1372,] 1380 [(9th Cir.
+1998)]), or “‘mere listing’ of mitigation measures, without supporting
+analytical data,” is insufficient to support a finding of no significant
+impact.  Id. (quoting Idaho Sporting Congress v. Thomas, 137 F.3d
+1146, 1151 (9th Cir. 1988)).  In evaluating the sufficiency of mitigation
+measures, we consider whether they constitute an adequate buffer
+against the negative impacts that may result from the authorized
+activity.  Specifically, we examine whether the mitigation measures will
+render such impacts so minor as to not warrant an EIS.  See
+Greenpeace Action [v. Franklin], 14 F.3d [1324,] 1332 [(9th Cir.
+1992)].
+National Parks & Conservation Association v. Babbitt, 241 F.3d 722, 734 (9th Cir.
+2001).
+BLM divides the mitigation measures incorporated into the DR/FONSI into
+pre-diversion measures detailing the monitoring and survey work needed to create a
+baseline inventory of existing vegetation, wildlife species, and riparian-obligate
+species within the riparian areas of North and Birch Creeks and into post-diversion
+________________________
+17/  In Nez Perce Tribal Executive Committee, we also distinguished between the
+requirements for completeness of a mitigation plan for purposes of an adequate EIS
+and those requirements for purposes of an EA relying on mitigation measures to
+support a FONSI.  120 IBLA at 43-44, n.13.
+166 IBLA 176
+[[page 38]]
+IBLA 2002-340, etc.
+measures, including periodic monitoring to determine the water diversions’ effects on
+baseline conditions in each creek and any appropriate reductions in the amount of
+water diverted.  See BLM Answer at 25.  While the pre-diversion measures will
+provide vital baseline data, they do not ensure that the impacts of the authorized
+activity will be insignificant. 18/
+The post-diversion mitigation measures directing reductions in diversion flows
+when post-diversion monitoring indicates a downward trend (Mitigation Measures 2, 
+4, and 5), while clearly designed to minimize damage caused by the diversions, do
+not ensure that any harm will be reduced to insignificance.  Although Mitigation
+Measure 2 identifies a 25 percent or greater decline in the baseline riparian
+vegetation community percentages as the trigger point for management re-evaluation
+of the percentage of allowable diversion water on a per season basis, it does not
+require that corrective action be taken.  Nor has BLM explained why it selected a
+3-year monitoring interval or shown that 3 years is a reasonable interval because any
+damage occurring during the interim period would not be irremediable. 
+Additionally, none of the other mitigation measures adopt the 25 percent decline
+standard.  For example, although Mitigation Measure 4 defines “downward trend,” it
+does not include the 25 percent decline trigger point in that definition.  
+The adopted mitigation measures also contain varying time spans between the
+various monitoring activities.  For example, Mitigation Measures 2 and 3 contain a
+3-year monitoring interval; Mitigation Measure 4, which addresses North Creek,
+states that photo plot studies will be read and that data on species composition and
+vegetation density will be collected and monitored at least twice a year; Mitigation
+Measure 5, which discusses Birch Creek, contains no explicit monitoring schedule;
+and Mitigation Measure 6 indicates that Proper Functioning Condition surveys will be
+conducted at least every 5 years.  It is unclear which of these monitoring activities
+will form the basis for BLM’s downward trend determinations. 19/  Additionally, the
+record is devoid of any analytical data demonstrating that the mitigation measures
+are reasonably likely to reduce the project’s impacts to insignificance.  The mitigation
+________________________
+18/  That data should, arguably, have been obtained before BLM approved the project. 
+We note that BLM relies on these pre-diversion mitigation measures to counter
+SUWA’s contention that the EA was defective because it did not set forth detailed
+information on existing riparian vegetation and other baseline data necessary for
+informed decision-making.  See BLM Answer at 19-20.
+19/  While the twice a year program included in Mitigation Measure 4, which provides
+for the reductions in the diversion from North Creek, would normally be read as
+setting the time periods for evaluating the conditions in that creek, the lack of any
+time frame in the comparable mitigation measure for Birch Creek (Mitigation
+Measure 5) militates against uncritically accepting that assumption.
+166 IBLA 177
+[[page 39]]
+IBLA 2002-340, etc.
+measures incorporated into the DR/FONSI therefore are insufficient to support BLM’s
+FONSI.
+Our conclusion that the record does not support BLM’s determination that
+approval of the project would not have a significant impact on the human
+environment and that the DR/FONSI and right-of-way issuance, therefore, must be
+set aside renders unnecessary any discussion of the additional issues raised by these
+appeals.  Nevertheless, upon remand, BLM should carefully assess these arguments,
+including whether WHWCD and NEIC now envision a significantly smaller reservoir,
+and if so, how that changes not only the direct and indirect effects of the project, but
+also the purpose and need for the project and the availability and viability of
+reasonable alternatives to achieve that purpose and need.  20/
+________________________
+20/  An EA must include a brief discussion of alternatives as mandated by section
+102(2)(E) of NEPA, 42 U.S.C. § 4332(2)(E) (2000).  See 40 CFR 1508.9(b); 516 DM
+3.4(A).  See also Great Basin Mine Watch, 159 IBLA at 354, and cases cited. 
+Section 102(2)(E) of NEPA requires, independent of the necessity to file a formal EIS,
+that every Federal agency “study, develop, and describe appropriate alternatives to
+recommended courses of action in any proposal which involves unresolved conflicts
+concerning alternative uses of available resources.”  42 U.S.C. § 4332(2)(E) (2000).
+See also 40 CFR 1501.2(c), 1508.9(b).  The requirement that appropriate alternatives
+be studied applies to the preparation of an EA even if no EIS is found to be
+warranted.  Bob Marshall Alliance v. Hodel, 852 F.2d 1223, 1228-29 (9th Cir. 1988),
+cert. denied, 489 U.S. 1066 (1989); Great Basin Mine Watch, supra.  
+Section 102(2)(E) requires BLM to consider “appropriate alternatives” to the
+proposed action as well as their environmental consequences.  See 40 CFR 1501.2(c)
+and 1508.9(b); City of Aurora v. Hunt, 749 F.2d 1457, 1466 (10th Cir. 1984); Great
+Basin Mine Watch, supra; Southern Utah Wilderness Alliance, 158 IBLA at 217; Larry
+Thompson, 151 IBLA 208, 219 (1999).  “Such alternatives should include reasonable
+alternatives to a proposed action, which will accomplish the intended purpose, are
+technically and economically feasible, and yet have a lesser impact. 40 CFR
+1500.2(e).”  Headwaters, Inc. v. BLM, 914 F.2d 1174, 1180-81 (9th Cir. 1990); City
+of Aurora v. Hunt, 749 F.2d at 1466-67; Great Basin Mine Watch, supra; Southern
+Utah Wilderness Alliance, 158 IBLA at 217; Sierra Club Uncompahgre Group,
+152 IBLA 371, 378-79 (2000); Defenders of Wildlife, 152 IBLA 1, 9 (2000); Larry
+Thompson, 151 IBLA at 219-20; see also 43 CFR 1501.2, 1502.14, 1508.9; Wyoming
+Outdoor Council, 147 IBLA 105, 114 (1998).  Mere disagreement or difference of
+opinion as to the proper alternative does not suffice to establish error in BLM’s choice
+of alternatives.  Great Basin Mine Watch, supra.
+166 IBLA 178
+[[page 40]]
+IBLA 2002-340, etc.
+Therefore, pursuant to the authority delegated to the Board of Land Appeals
+by the Secretary of the Interior, 43 CFR 4.1, the decisions appealed from are set aside
+and the matter is remanded to BLM for further action consistent with this opinion. 
+____________________________________
+David L. Hughes
+Administrative Judge
+I concur:
+_______________________________
+James F. Roberts
+Administrative Judge
+166 IBLA 179

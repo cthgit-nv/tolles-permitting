@@ -1,0 +1,642 @@
+SOURCE: https://www.oha.doi.gov/IBLA/Ibladecisions/200IBLA/200IBLA052.pdf RETRIEVED: 2026-09-24
+[Full decision text, pypdf extraction; [[page N]] markers are PDF pages, not reporter pages]
+
+[[page 1]]
+ 
+200 IBLA 52 
+OWYHEE COUNTY 
+ 
+IBLA 2024-0070, IBLA 2024-0078     Decided June 4, 2025 
+IBLA 2024-0132, IBLA 2024-0169  
+ 
+Appeals from four decisions issued by the Bureau of Land Management approving 
+Travel Management Plans in Owyhee County, Idaho. 
+ 
+Motion to Dismiss Granted; Appeals Dismissed; Motion to Consolidate Denied as 
+Moot. 
+ 
+APPEARANCES: W. Alan Schroeder, Esq., Schroeder Law, Boise, Idaho, for Owyhee 
+County; Anne Corcoran Briggs, Esq., and Marc A. Shumaker, Esq., U.S. Department of 
+the Interior, Office of the Solicitor, Boise, Idaho, for the Bureau of Land Management. 
+ 
+OPINION BY ADMINISTRATIVE JUDGE SOSIN 
+ 
+Owyhee County appealed four decisions issued by four different local offices of the 
+Bureau of Land Management (BLM) in Idaho. In each decision, BLM approved a Travel 
+Management Plan (TMP) for BLM-managed lands in Owyhee County, Idaho, designating 
+travel routes for motorized and mechanized off-highway vehicle (OHV) recreation. In this 
+Decision, we grant BLM’s motion to dismiss Owyhee County’s appeals because the County 
+has not demonstrated standing to appeal the decisions. 
+ 
+SUMMARY 
+ 
+An appellant has the burden to demonstrate that it has standing to appeal a 
+decision to this Board by showing that it is both a party to a case and adversely affected 
+by the decision. To be adversely affected, the appellant must have a legally cognizable 
+interest that the decision is substantially likely to injure. Owyhee County claims that it is 
+adversely affected by the TMPs because BLM failed to consider some of the County’s 
+asserted Revised Statute (R.S.) 2477 rights-of-way. That omission, the County argues, 
+will leave it subject to adverse actions by BLM for unauthorized use and maintenance of 
+those asserted rights-of-way, will impair the County’s ability to provide government 
+services to its citizens, and violates the Omnibus Public Land Management Act and the 
+National Environmental Policy Act. The County’s assertions of adverse effects from 
+potential actions by BLM and to its ability to provide government services are speculative 
+or vague and unsupported, and therefore, they are insufficient to demonstrate any likely 
+injury to a legally cognizable interest. Nor is the County’s assertion of injury from BLM’s 
+[[page 2]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 53 
+alleged statutory procedural violations sufficient to show likely injury to a legally 
+cognizable interest. Because the County has failed to demonstrate any adverse effect from 
+the TMPs, it lacks standing. Accordingly, we grant BLM’s motion to dismiss and dismiss 
+the County’s appeals. 
+  
+BACKGROUND 
+ 
+At i
+ssue in these appeals are four TMPs approved by BLM in Owyhee County, 
+Idaho: the Canyonlands East TMP (IBLA 2024-0070),1 the Canyonlands West TMP 
+(IBLA 2024-0078),2 the Morley Nelson Snake River Birds of Prey National Conservation 
+Area South TMP (IBLA 2024-0132),3 and the Silver City TMP (IBLA 2024-0169).4 In each 
+TMP, BLM designated where OHVs could travel within the relevant TMP area. 
+ 
+The County separately appealed each TMP, arguing that in approving them, BLM 
+violated the Omnibus Public Lands Management Act of 2009 (OPLMA)-the statute that 
+directed development of the TMPs-and the National Environmental Policy Act (NEPA). 
+Each TMP was informed by an inventory of routes that BLM considered, and in its 
+appeals, the County claims that BLM erred by issuing the TMPs without including in that 
+inventory all routes the County identifies as established R.S. 2477 rights-of-way. 
+ 
+On June 26, 2024, BLM filed a motion to dismiss the County’s appeals, arguing 
+that the County lacks standing because the TMPs do not injure any legally cognizable 
+interest. Below, we first describe the relevant legal framework, followed by a brief 
+description of the TMPs and the County’s appeals.  
+ 
+I. Legal Framework for TMPs   
+ 
+BLM manages vehicle use on public land through resource management plans 
+(RMPs) and TMPs. As directed by the Federal Land Policy and Management Act (FLPMA), 
+BLM manages public lands in accordance with RMPs,5 which establish the allowable uses, 
+ 
+ 
+1 Administrative Record (AR) Canyonlands East TMP (CE-TMP) 1-11, Decision Record 
+(Oct. 25, 2023) (CE-TMP Decision Record). Citations to documents in each AR will start 
+with the Bates numbers applied by BLM, omitting the leading zeros. For ease of 
+understanding, we cite documents in the AR for the CE-TMP when the cited document is 
+substantively identical in each AR. 
+2 AR Canyonlands West TMP (CW-TMP) 1-11, Decision Record (Nov. 16, 2023). 
+3 AR Morley Nelson Snake River Birds of Prey National Conservation Area South TMP 
+(MN-TMP) 1-10, Decision Record (Feb. 23, 2024). 
+4 AR Silver City TMP (SC-TMP) 1-10, Decision Record (Mar. 29, 2024). 
+5 43 U.S.C. §§ 1712(a), 1732(a). Citations to Federal statutes and regulations are to 
+those in effect on the date BLM approved the TMPs, unless otherwise noted. 
+[[page 3]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 54 
+goals, and next steps for a particular area.6 Under Departmental regulations, BLM must 
+address OHV use in an RMP by designating all land as either “open, limited, or closed” to 
+OHVs.7 An “open” designation means that OHV use is permitted year-long within the 
+area; a “limited” designation means that OHV use is subject to certain restrictions within 
+the area; and a “closed” designation means that OHV use is prohibited within the area.8 
+ 
+Once BLM has designated lands in an RMP, it may develop a TMP-either 
+concurrent with the RMP process or subsequent to the RMP process-to implement those 
+designations.9 Where the RMP limits vehicular travel to designated areas, BLM uses the 
+TMP to, among other things, identify (through an inventory process), evaluate, and select 
+specific routes available for motorized uses.10 BLM also specifies in the TMP any 
+restrictions on the use of each route, e.g., restrictions on the type, duration, and season of 
+uses or modes of transportation allowed.11  
+ 
+In 2009, Congress passed the OPLMA. That statute directs BLM to “prepare 1 or 
+more travel management plans for motorized and mechanized off-highway vehicle 
+recreation for the land managed by the Bureau of Land Management in [Owyhee] 
+County.”12 The statute also directs BLM to “conduct resource and route inventories of the 
+area covered by the plan” before preparing it.13 
+ 
+Key to the County’s appeals is its assertion that in preparing the TMPs, BLM failed 
+to inventory some of the County’s claimed public rights-of-way established under 
+R.S. 2477. Enacted as part of the Mining Law of 1866, R.S. 2477 was an open-ended 
+grant of “the right of way for the construction of highways over public lands, not reserved 
+ 
+ 
+6 See 43 C.F.R. § 1601.0-5(n); 43 U.S.C. § 1712; see also Norton v. S. Utah Wilderness All., 
+542 U.S. 55, 59 (2004). 
+7 43 C.F.R. §§ 8342.1, 8342.2(b) (“The approval of a resource management plan, plan 
+revision, or plan amendment constitutes formal designation of off-road vehicle use 
+areas.”); see also Gardner v. BLM, 638 F.3d 1217, 1221 (9th Cir. 2011) (explaining that 
+BLM’s regulations require it “to designate lands as ‘open, limited, or closed’ to off-road 
+vehicle use through the land-use [planning] process”).  
+8 BLM Handbook H-8342-1, Travel and Transportation Management Handbook at 11-13, 
+48 (Mar. 16, 2012) (BLM Handbook), 
+https://www.blm.gov/sites/blm.gov/files/uploads/Media_Library_BLM_Policy_H-
+8342.pdf (last visited June 4, 2025). 
+9 Id. at 17-18. 
+10 Id. at 29. 
+11 Id. 
+12 Pub. L. 11-11, § 1507(a), 123 Stat. 991, 1040 (2009).  
+13 Id. § 1507(b).  
+[[page 4]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 55 
+for public uses.”14 Under the statute, public rights-of-way could be established by local 
+governments and “required no administrative formalities: no entry, no application, no 
+license, no patent, and no deed on the federal side; no formal act of public acceptance on 
+the part of the states or localities in whom the right was vested.”15 R.S. 2477 remained in 
+effect until repealed by FLPMA in 1976, but in FLPMA, Congress preserved valid existing 
+rights-of-way established under the statute.16  
+ 
+II. BLM’s TMPs 
+ 
+BLM developed the four challenged TMPs to comply with the OPLMA. For each 
+TMP, BLM inventoried existing routes within each TMP area beginning in 2004;17 
+updated the data “between 2009-2010, [using] aerial image processing, field GPS 
+validation, public input, working with interested organizations and individuals, and using 
+GIS for corrections”;18 and posted the completed inventory on its ePlanning website in 
+2010, accepting additional public input “for approximately six months.”19 BLM completed 
+the inventories in 2011 and 2012.20 In 2014 and 2015, BLM and contractor specialists 
+evaluated and designated individual routes within each TMP area and provided a public 
+scoping period for various route designation alternatives.21 
+ 
+BLM then prepared draft environmental assessments (EAs) to satisfy the 
+requirements of NEPA,22 analyzing the potential environmental impacts of alternative 
+route designations for each TMP area. It provided a public comment period on those draft 
+EAs.23 According to BLM, the TMP process was “paused” in 2017 “[d]ue to a shift in 
+administrative priorities” but was restarted in 2023.24 At that time, BLM “update[d] the 
+ 
+ 
+14 Act of July 26, 1866, Ch. 262, § 8, 14 Stat. 251, 253 (formerly codified at 43 U.S.C. 
+§ 932 (1970)), repealed by FLPMA § 706(a), 90 Stat. 2743, 2793 (Oct. 21, 1976). 
+15 S. Utah Wilderness All. v. BLM, 425 F.3d 735, 741 (10th Cir. 2005). 
+16 FLPMA, § 701(a), 90 Stat. at 2786 (codified at 43 U.S.C. § 1701 note). 
+17 See AR CE-TMP 15, Canyonlands East Travel Management Plan Environmental 
+Assessment, DOI-BLM-ID-B000-2011-0002-EA at 4 (Oct. 2023) (CE-TMP EA). The AR 
+index for the CE-TMP incorrectly labels the CE-TMP EA as “2015_CE-
+NCA_MilestoneSchedule.” 
+18 Id. at 17, CE-TMP EA at 6. 
+19 Id. 
+20 Id. at 15-16, CE-TMP EA at 4-5. 
+21 Id. at 17, CE-TMP EA at 6. 
+22 42 U.S.C. §§ 4321-4347; see also 40 C.F.R. pt. 1500 (Council on Environmental Quality 
+NEPA regulations), rescinded effective Apr. 11, 2025, Removal of National Environmental 
+Policy Act Implementing Regulations, 90 Fed. Reg. 10,610 (Feb. 25, 2025); 43 C.F.R.  
+pt. 46 (Department of the Interior NEPA regulations). 
+23 See AR CE-TMP 17-18, CE-TMP EA at 6-7.   
+24 Id. at 18, CE-TMP EA at 7. 
+[[page 5]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 56 
+analysis/plan to reflect the most current information and data,” including new RMP 
+direction related to the greater sage-grouse and a land exchange.25 
+ 
+ The final EAs, completed in 2023, analyzed four alternatives: a no action 
+alternative (Alternative A), which would maintain existing management,26 and three 
+action alternatives (Alternatives B, C, and D), which would provide for varying levels of 
+OHV use on new and existing routes.27 BLM described Alternative B as providing 
+“maximum resource protection while still providing reasonable motorized access,”28 
+Alternative C as “balanc[ing] motorized access with the protection of the area’s natural 
+and cultural resources,”29 and Alternative D as being “the least restrictive to motorized 
+public access while providing reasonable protection to priority and high priority natural 
+and cultural values.”30 
+ 
+In response to public comments, BLM considered designating “all routes associated 
+with R.S. 2477 assertions as open.”31 BLM ultimately did not separately analyze this 
+alternative in detail, since Alternative A-the no action alternative-would designate 
+existing routes Owyhee County asserts are R.S. 2477 rights-of-way as open, so long as 
+BLM was able to field verify the route.32 BLM also explained in the EAs that “a travel 
+management plan is not intended to provide evidence [of], [have] bearing on, or address 
+the validity of any R.S. 2477 assertions,” as “R.S. 2477 rights are determined through a 
+process that is entirely independent of the BLM’s planning process.”33 Consequently, BLM 
+stated that in developing its TMPs, it “did not take into consideration R.S. 2477 
+evidence[] or make determinations as to the validity of those claims,” because doing so 
+was “beyond the scope of” the EAs.34 BLM stated that if and when a Federal court makes a 
+decision on the validity of any claimed R.S. 2477 right-of-way, “BLM will adjust its travel 
+routes accordingly.”35  
+ 
+After completing the EAs, BLM issued findings of no significant impact, in which it 
+determined that the selected alternative for each TMP (Alternative D, the least restrictive 
+to motorized access) would not have a significant impact on the human environment, and 
+ 
+ 
+25 Id. 
+26 Id. at 25, CE-TMP EA at 14. 
+27 Id. at 26-29, CE-TMP EA at 15-18. 
+28 Id. at 27, CE-TMP EA at 16. 
+29 Id. at 28, CE-TMP EA at 17. 
+30 Id. 
+31 Id. at 29, CE-TMP EA at 18. 
+32 Id. at 30, CE-TMP EA at 19. 
+33 Id. 
+34 Id. 
+35 Id. 
+[[page 6]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 57 
+therefore BLM did not need to undertake additional NEPA analysis.36 BLM then issued the 
+decisions on appeal, approving each TMP. 
+ 
+III. Procedural History and BLM’s Motions to Dismiss   
+ 
+Owyhee County appealed each decision.37 The County also sought to consolidate 
+its appeals of the Canyonlands East TMP (IBLA 2024-0070) and the Canyonlands West 
+TMP (IBLA 2024-0078).38 BLM opposed that motion39 and sought to consolidate the 
+County’s and three other appellants’ appeals of the Canyonlands West TMP.40 The 
+County then moved to suspend its appeals pending resolution of pending litigation in the 
+District Court for the District of Idaho on 93 of the County’s asserted R.S. 2477 rights-of-
+way.41 We denied the County’s and BLM’s motions to consolidate, leaving open the 
+possibility of consolidation after the County and the other appellants filed statements of 
+reasons; we also denied the County’s motion to suspend the appeals, and we ordered the 
+parties to submit a briefing schedule.42  
+ 
+ 
+36 See AR CE-TMP 1222, Finding of No Significant Impact, Canyonlands East Travel 
+Management Plan at 1 (Oct. 25, 2023).   
+37 IBLA 2024-0070, Notice of Appeal (received by the Board Nov. 28, 2023); IBLA 2024-
+0078, Notice of Appeal (received by the Board Dec. 18, 2023); IBLA 2024-0132, Notice 
+of Appeal (received by the Board Mar. 4, 2024); IBLA 2024-0169, Notice of Appeal 
+(received by the Board Apr. 30, 2024). 
+38 Owyhee County’s Motion to Consolidate; Motion to Suspend Appeals; Motion for 
+Extension of Time to File Statement of Reasons in IBLA 2024-0070 and in IBLA 2024-
+[0078] (filed Dec. 21, 2023). 
+39 IBLA 2024-0070, BLM’s Response in Opposition to Consolidation, Opposition to 
+Appellant’s Request to Toll the Appeal, and Motion to Set Briefing Schedule (filed 
+Dec. 28, 2023). 
+40 BLM Notice of Appearance and Motion to Consolidate (filed Dec. 28, 2023) (seeking 
+consolidation of IBLA 2024-0078, Owyhee County; IBLA 2024-0079, Petan Company of 
+Nevada, Inc.; IBLA 2024-0080, Sierra Del Rio Ranch, LLC; and IBLA 2024-0084, Blue 
+Ribbon Coalition). 
+41 Owyhee County’s Reply in Support of Motion to Consolidate; Motion to Suspend 
+Appeals; Motion for Extension of Time to File Statement of Reasons in IBLA 2024-0070 
+and in IBLA 2024-0078 (filed Dec. 29, 2023). On February 9, 2024, the District Court for 
+the District of Idaho issued a decision granting in part and denying in part BLM’s motion 
+to dismiss the County’s complaint. Owyhee Cnty. v. United States, 2024 U.S. Dist. LEXIS 
+23518 (D. Idaho Feb. 9, 2024) (dismissing all but nine of the County’s Quiet Title Act 
+claims of R.S. 2477 rights-of-way for lack of subject matter jurisdiction). 
+42 Order, Motions to Consolidate Denied with Permission to Refile; Motion to Suspend 
+Denied; Motions for Extensions of Time Denied as Moot; Briefing Schedules Ordered 
+(Feb. 26, 2024). 
+[[page 7]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 58 
+The County has filed a statement of reasons in each appeal.43 In its statements of 
+reasons, the County alleges that BLM’s decisions approving the TMPs violate the OPLMA 
+and NEPA. The County’s primary assertion is that these violations stem from BLM’s 
+failure to include in its route inventory process some of the County’s asserted R.S. 2477 
+rights-of-way.44 The County makes two additional arguments in its statement of reasons 
+for the Canyonlands West TMP. There, the County also asserts that BLM’s TMP  
+(1) violates applicable land use plans by closing roads that are not within an area 
+designated as “closed” and (2) “has a latent ambiguity as to whether . . . livestock 
+permittees are exempt from” the TMP’s restrictions on certain routes.45 
+ 
+Shortly after filing its statements of reasons, the County filed a renewed motion to 
+consolidate, seeking to consolidate two additional appeals-its appeals of the Morley 
+Nelson Snake River Birds of Prey National Conservation Area South TMP (IBLA 2024-
+0132) and the Silver City TMP (2024-0169)-with the other TMP appeals then-pending 
+before the Board.46  
+ 
+BLM opposed the County’s renewed motion to consolidate and filed motions to 
+dismiss each of the County’s appeals, arguing that the County lacks standing because it is 
+not adversely affected by the TMPs.47 The County filed a single response, opposing BLM’s 
+motions to dismiss.48 
+ 
+As explained below, because we conclude that Owyhee County has not shown 
+that it is adversely affected by BLM’s TMP decisions, we grant BLM’s motions to dismiss 
+ 
+ 
+43 IBLA 2024-0070, Statement of Reasons (filed June 3, 2024) (CE-TMP Statement of 
+Reasons); IBLA 2024-0078, Statement of Reasons (filed June 3, 2024) (CW-TMP 
+Statement of Reasons); IBLA 2024-0132, Statement of Reasons (filed June 3, 2024); 
+IBLA 2024-0169, Statement of Reasons (filed June 10, 2024).  
+44 See CE-TMP Statement of Reasons at 11-12; see also id. at 11 (stating that BLM did not 
+conduct route inventories “to cover the CETMP planning area” because it omitted the 
+County’s asserted R.S. 2477 rights-of-way and “countless other roads”); id., Appendix 
+#1, Declaration of Mary Huff ¶ 14 (executed May 31, 2024) (“These omissions were of 
+significant interest and prejudice to Owyhee County . . . .”). Because each Statement of 
+Reasons makes these same claims, for ease of reference, we only cite the CE-TMP 
+Statement of Reasons.  
+45 CW-TMP Statement of Reasons at 18-19. 
+46 Renewed Motion to Consolidate (filed June 12, 2024). 
+47 IBLA 2024-0070, BLM’s Motion to Dismiss or, in the Alternative, Opposition to 
+Consolidation (filed June 26, 2024) (Motion to Dismiss). Because BLM’s Motion to 
+Dismiss in each appeal is substantively identical, we only cite BLM’s motion for the  
+CE-TMP. 
+48 Response/Reply in Support of Renewed Motion to Consolidate Filed by Petan, SDR, 
+and Owyhee County, As Well As in Opposition to BLM’s Motion to Dismiss [The] Appeals 
+Filed by Owyhee County (filed July 8, 2024) (County Response).  
+[[page 8]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 59 
+and dismiss the County’s appeals challenging the Canyonlands East TMP (IBLA 2024-
+0070), Canyonlands West TMP (IBLA 2024-0078), Morley Nelson Snake River Birds of 
+Prey National Conservation Area South TMP (IBLA 2024-0132), and Silver City TMP 
+(IBLA 2024-0169). We therefore also deny as moot the County’s renewed motion to 
+consolidate its appeals. 
+ 
+ANALYSIS 
+ 
+I. The Standing Requirements 
+ 
+The Department’s regulations provide that to have standing to appeal to this 
+Board, an appellant must show that it is both a “party to a case” and “adversely affected” 
+by the decision it seeks to appeal.49 An appellant bears the burden to demonstrate that it 
+satisfies both elements,50 and if it does not, the Board must dismiss the appeal for lack of 
+jurisdiction.51 
+ 
+An appellant is a “party to a case” when it has “taken action that is the subject of 
+the decision on appeal, is the object of that decision, or has otherwise participated in the 
+process leading to the decision under appeal.”52 A party to a case is “adversely affected” 
+by a decision “when that party has a legally cognizable interest, and the decision on 
+appeal has caused or is substantially likely to cause injury to that interest.”53 
+ 
+A legally cognizable interest may be an economic or property interest in the 
+affected public lands or adjacent land or a cultural, recreational, or aesthetic use and 
+enjoyment of those lands.54 A mere interest in a problem or concern about the issues 
+involved is not a legally cognizable interest.55 Similarly, an appellant cannot show 
+standing by simply alleging that an agency violated the law.56 Rather, an appellant must 
+show that the alleged violation of the law injured or is substantially likely to injure the 
+appellant’s legally cognizable interest separate and apart from procedural injury.57  
+ 
+ 
+49 43 C.F.R. § 4.410(a). 
+50 See, e.g., Moffat Cnty., 198 IBLA 265, 268 (2024). 
+51 Id. 
+52 43 C.F.R. § 4.410(b). 
+53 Id. § 4.410(d). 
+54 See, e.g., Moffat Cnty., 198 IBLA at 268. 
+55 Id.  
+56 Id. at 280 (holding that a procedural injury alone, such as “alleged violations of FLPMA 
+and NEPA,” is insufficient to demonstrate standing); see also W. Watersheds Project, 189 
+IBLA 310, 315 (2017) (holding that “procedural flaws under NEPA, which, alone, do not 
+show that BLM’s decision adversely affects” appellants, are insufficient to demonstrate 
+standing) (citing Summers v. Earth Island Inst., 555 U.S. 488, 496 (2009)). 
+57 Moffat Cnty., 198 IBLA at 280. 
+[[page 9]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 60 
+To establish that a decision is substantially likely to injure a legally cognizable 
+interest, an appellant must make colorable allegations, supported by specific facts, that 
+establish a causal relationship between the decision and the alleged injury.58 An appellant 
+need not prove that an injury is certain, but it must show that the threat of injury and its 
+effect on the appellant are more than hypothetical.59 
+ 
+Here, because Owyhee County participated in the process leading to the decisions 
+on appeal by commenting on the EAs, it is a party to a case.60 We therefore focus our 
+analysis on whether the County has demonstrated that it is adversely affected by BLM’s 
+decisions. 
+ 
+II. Owyhee County Lacks Standing to Appeal the TMPs 
+ 
+The County advances three arguments for how it is adversely affected by the 
+omission of certain of its asserted R.S. 2477 rights-of-way from BLM’s inventory 
+process.61 For purposes of our analysis, we assume the County has sufficiently identified 
+legally cognizable interests implicated by the TMPs. But as explained below, we conclude 
+that the County’s assertions of adverse effect are insufficient to show a substantial 
+likelihood of injury to a legally cognizable interest, and therefore, the County lacks 
+standing. 
+ 
+a. The County’s allegations of injury from potential BLM actions against the 
+County do not show any adverse effect from the TMPs 
+ 
+First, the County states that BLM’s omission from its inventory process of the 
+County’s asserted R.S. 2477 rights-of-way means that BLM “does not authorize any ‘use’ 
+of such omitted roads and/or any ‘maintenance’ of such omitted road,” which, in turn, 
+means that “any ‘use or maintenance’ by Owyhee County on these omitted routes” will 
+expose the County to adverse actions by BLM.62 The County argues, therefore, that it 
+“will be subject to claims of unauthorized use, whether civilly or criminally, by BLM.”63 
+ 
+ 
+ 
+58 Id. at 268; Ctr. for Biological Diversity, 195 IBLA 298, 302 (2020). 
+59 Moffat Cnty., 198 IBLA at 268; Ctr. for Biological Diversity, 195 IBLA at 302-03. 
+60 See AR CE-TMP 2459-2513, Comments of the Owyhee County Board of Commissioners 
+(Aug. 23, 2023); AR CE-TMP 164-179, 290-304, CE-TMP EA, Appendix G: Response to 
+Comments Canyonlands East TMP (2016) at 5-20, 131-45; Motion to Dismiss at 2 
+(“[T]here is no dispute that Owyhee County participated in the proceedings leading to 
+the challenged decision.”).  
+61 County Response at 8-9; see id. at 10-11 (“BLM’s TMPs omitted more than several of 
+the County’s R.S. 2477 assertions in its route inventories . . . .”). 
+62 Id. at 9. 
+63 Id. 
+[[page 10]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 61 
+This assertion of adverse effect is speculative and therefore insufficient to support 
+standing. The County does not provide any evidence or support for its prediction that 
+BLM will issue trespass notices to the County (or take other adverse action against the 
+County) for the County’s use or maintenance of its asserted R.S. 2477 rights-of-way. Nor 
+does the County identify any particular route that it would use or maintain if not for the 
+threat of BLM prosecution for trespass. Under Board precedent, an appellant must 
+provide “specific facts” showing what particular injuries are or will be caused by the 
+decision on appeal,64 and here, Owyhee County’s statement that it “will be subject to 
+claims of unauthorized use,” without more, does not satisfy its burden.65 Any future 
+trespass enforcement action would be a separate agency action subject to appeal, and 
+that appeal would be the appropriate forum for addressing the propriety of BLM’s 
+enforcement decisions. But the County cannot rely on its speculative prediction that BLM 
+would take such actions against the County to support its standing to appeal the TMPs.66 
+ 
+The County’s argument suggests that it believes that by omitting the County’s 
+asserted R.S. 2477 rights-of-way from BLM’s inventory of routes and the TMPs, BLM was 
+refuting the existence or validity of those rights-of-way, providing a basis for adverse 
+actions against the County for use and maintenance of those routes.   
+ 
+But Federal case law has established that the validity of an R.S. 2477 right-of-way 
+can only be determined by a Federal court in a Quiet Title Act lawsuit.67 Accordingly, 
+BLM’s management of roads through an RMP or TMP does not implicate the County’s 
+claims to R.S. 2477 rights-of-way. Consistent with this principle, as noted above, BLM 
+ 
+ 
+64 See Ctr. for Biological Diversity, 195 IBLA at 302 (requiring appellant to provide 
+“specific facts . . . establish[ing] a causal relationship between” the agency action and the 
+appellant’s alleged injury); Ojo Encino Chapter, 192 IBLA 269, 279 (2018) (finding no 
+standing where appellant provided “only general statements about its members’ and the 
+[appellant’s] use of roads” without identifying “any specific instances when the 
+[appellant] or a member” used certain roads). 
+65 See Colo. Open Space Council, 109 IBLA 274, 280 (1989) (“[M]ere speculation that an 
+injury might occur in the future will not suffice.”). 
+66 Cf. W. Watersheds Project, 189 IBLA at 314 (concluding that the appellant had not 
+shown injury to a legal cognizable interest when the challenged programmatic decisions 
+did not themselves approve activities that could cause injury, and appellant’s alleged 
+injury was contingent upon future decisions and therefore speculative). 
+67 See Moffat Cnty., 198 IBLA at 277 (explaining that asserted R.S. 2477 rights-of-way 
+“cannot be resolved outside of actions under the Quiet Title Act”) (citing Kane Cnty. Utah 
+v. Salazar, 562 F.3d 1077, 1088-89 (10th Cir. 2009)); Siegfried, 194 IBLA at 62 (“BLM 
+has no authority to make binding determinations on the validity of claimed R.S. 2477 
+rights-of-way.”); Seal, 194 IBLA 367, 376 (2019) (“[B]inding determinations concerning 
+the validity of an R.S. 2477 [right-of-way] can only be made by a Federal court in a Quiet 
+Title Act lawsuit.”). 
+[[page 11]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 62 
+explained in its EAs that determining the validity of the County’s asserted R.S. 2477 
+rights-of-way was beyond the scope of the TMPs, but that “BLM will adjust its travel 
+routes” if a Federal court makes a decision on the validity of any claimed R.S. 2477 right-
+of-way.68 As BLM notes in its motion to dismiss, its TMPs therefore “do[] not have any 
+impact on the County’s R.S. 2477 assertions.”69 Further, the Idaho District Court, which 
+dismissed the County’s complaint with respect to all but 9 of the County’s 93 asserted 
+R.S. 2477 rights-of-way, recognized that “BLM’s decision to exercise management 
+authority over the claimed rights-of-way in the travel management plan areas until they 
+are validated as R.S. 2477 roads by a court fails to establish the existence of an adverse 
+claim of title or disputed title under the QTA.”70 This further confirms that BLM’s 
+designations in the TMPs do not reflect any determination regarding the existence or 
+validity of the County’s asserted R.S. 2477 rights-of-way. 
+ 
+The County’s arguments are similar to those made in Moffat County.71 There, the 
+county argued (among other things) that it was injured by BLM’s decision to close 
+certain routes the county asserted were established R.S. 2477 rights-of-way.72 We 
+rejected that argument, stating that “questions of title to claimed R.S. 2477 rights-of-
+way . . . cannot be resolved outside of actions under the Quiet Title Act, and therefore 
+these allegations could not confer standing upon the Counties.”73 Likewise, here, the 
+County cannot establish standing based on its alleged injuries from BLM’s failure to 
+consider certain of its asserted R.S. 2477 rights-of-way in its TMPs. 
+ 
+b. The County’s allegations of injury to its ability to provide government services 
+do not show any adverse effect from the TMPs  
+ 
+The County next suggests that BLM’s failure to include some of the County’s 
+asserted R.S. 2477 rights-of-way in its inventory or TMPs injures the County’s ability to 
+provide government services to its citizens, such as road construction, road maintenance, 
+law enforcement, and emergency medical services.74 The County states that providing 
+such services “depend[s] on access to . . . several public rights-of way.”75 The County 
+ 
+ 
+68 AR CE-TMP 30, CE-TMP EA at 19. 
+69 Motion to Dismiss at 5; see also 2024-0070, BLM’s Answer at 10 (filed July 30, 2024) 
+(“[T]here is no connection between a route designation in a TMP and validation of an 
+R.S. 2477 right-of-way.”). 
+70 Owyhee Cnty. v. United States, Case 1:21-cv-00070-DKG, Memorandum Decision and 
+Order at 12 (D. Idaho Feb. 2, 2024) (citing prior ruling at Docket No. 29 at 17). 
+71 198 IBLA 265 (2024). 
+72 Id. at 276. 
+73 Id. at 277 (cleaned up) (quoting Kane Cnty. Utah v. Salazar, 562 F.3d 1077, 1088-89 
+(10th Cir. 2009)). 
+74 County Response at 11-12. 
+75 Id. at 11. 
+[[page 12]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 63 
+adds that it must “ensure for itself and its c itizens that BLM conforms to its legal 
+obligations relative to . . . travel management within Owyhee County.”76 But the 
+County’s alleged injuries are too vague to demonstrate that the TMPs are substantially 
+likely to injure the County’s ability to provide government services.  
+ 
+First, the County does not identify any routes that it requires access to for the 
+provision of government services, beyond stating generally that access depends on 
+“several public rights-of-way” within each TMP area. Nor does the County explain how 
+BLM’s TMPs will prevent the County from accessing any route, including its asserted 
+R.S. 2477 rights-of-way, or that it lacks alternative routes capable of supporting the cited 
+functions.77 Moreover, the TMPs do not prevent the County from accessing and using 
+routes on public land to provide law enforcement and emergency services, two of the 
+“government services” it identifies. As BLM explained in its EAs, under its regulations, 
+“travel management designations exclude military, fire, emergency or law enforcement 
+vehicles being used for emergency purposes.”78 
+ 
+Because the County’s assertions of injury to its ability to provide government 
+services lack specificity, they are insufficient to show injury to a legally cognizable 
+interest.  
+ 
+ Further, to the extent the County’s statement that it must “ensure for itself and it s 
+citizens that BLM conforms to its legal obligations” reflects the County’s intent to 
+demonstrate standing based on injuries to its citizens, this it cannot do. As we have 
+explained, “political subdivisions, such as cities and counties, whose power is derivative 
+and not sovereign, cannot sue [on behalf of their own citizens] as parens patriae.”79 
+ 
+ 
+ 
+76 Id. at 12. 
+77 See Moffat Cnty., 198 IBLA at 279 (finding that the county’s assertions that travel 
+management designations would interfere with its ability to provide “governmental 
+services” did not constitute “adverse effect,” particularly where the challenged plan did 
+not prevent access for the county’s provision of such services and the county provided no 
+information demonstrating such interference or the absence of alternative routes). 
+78 AR CE-TMP 19, CE-TMP EA at 8 (citing 43 C.F.R. § 8340.0-5, which excludes these 
+vehicles from the definition of “off-road vehicle”); see also CE-TMP Decision Record at 4 
+(“Motorized emergency use will be available . . . throughout the [Travel Management 
+Area] . . . regardless of area or route designations.”).  
+79 Moffat Cty., 198 IBLA at 270-71 (quoting W. Expl., LLC v. Dep’t of the Interior,  
+250 F. Supp. 3d 718, 732 (D. Nev. 2017)); see also Bd. of Cnty. Comm’rs of Pitkin Cnty., 
+Colo., 186 IBLA 288, 306 n.18 (2015) (“State or local governments do not have standing 
+as parens patriae (i.e., a representative of its citizens) to bring an action against the 
+Federal Government.”). 
+[[page 13]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 64 
+c. The County’s allegations of injury from BLM’s procedural violations do not 
+show any adverse effect from the TMPs 
+  
+Finally, although unclear, Owyhee County may be suggesting that BLM’s omission 
+of some of the County’s asserted R.S. 2477 rights-of-way constitutes procedural 
+violations of OPLMA and NEPA that alone satisfy the requirement to demonstrate 
+adverse effects from BLM’s TMPs.80 The County states that BLM’s omission of certain 
+asserted R.S. 2477 rights-of-way from the route inventory that informed the TMPs 
+resulted in “several material, adverse consequences,” including “a lack of conformance to 
+BLM’s statutory obligation[s],” under the OPLMA and NEPA.81 But procedural injuries, 
+alone, cannot provide an independent basis for standing. Under the Board’s precedent, to 
+create standing, a procedural injury must be related to an injury to a legally cognizable 
+interest apart from the alleged procedural violation.82 Because Owyhee County has not 
+otherwise shown an injury to a legally cognizable interest, it cannot show standing based 
+on alleged violations of the OPLMA and NEPA alone. 
+  
+CONCLUSION 
+ 
+ Owyhee County has not shown that BLM’s TMPs are substantially likely to injure 
+its legally cognizable interests. The County’s claim that it will be subject to adverse 
+actions by BLM based on the County’s use and maintenance of omitted R.S. 2477 rights-
+of-way is speculative, and its claim that BLM’s TMPs will adversely affect the County’s 
+ability to provide various government services lacks particularity. These claims, 
+therefore, are insufficient to establish standing. The County’s asserted procedural injuries 
+from BLM’s alleged failure to comply with the OPLMA and NEPA are not sufficient to 
+support standing in the absence of injury to a separate legally cognizable interest. 
+Because Owyhee County has not demonstrated that its legally cognizable interests are 
+substantially likely to be injured by BLM’s decisions approving the TMPs, it does not have 
+  
+ 
+ 
+80 County Response at 12; see also id. (“Owyhee County is thus adversely affected by 
+violations by BLM of the 2009 OPLMA or NEPA.”); CE-TMP Statement of Reasons at 12 
+(“These un-inventoried roads have several material, adverse consequences,” including “a 
+lack of conformance to BLM’s statutory obligation under the 2009 OPLMA . . . .”).   
+81 See CE-TMP Statement of Reasons at 12-13; see also County Response at 12 (stating 
+that it is “adversely affected by violations by BLM of the 2009 OPLMA or NEPA”). 
+82 Moffat Cnty., 198 IBLA at 280 (citing W. Watersheds Project, 189 IBLA at 315; City of 
+Sausalito v. O’Neill, 386 F.3d 1186, 1197 (9th Cir. 2004) (stating that “for Article III 
+purposes, we may recognize a ‘procedural injury’ when a procedural requirement has not 
+been met, so long as the plaintiff also asserts a ‘concrete interest’ that is threatened by 
+the failure to comply with that requirement”)). 
+[[page 14]]
+IBLA 2024-0070 et al. 
+ 
+200 IBLA 65 
+standing to appeal the decisions. Accordingly, we grant BLM’s motion to dismiss and 
+dismiss these appeals. Because we are dismissing the appeals, we deny the County’s 
+renewed motion to consolidate as moot. 
+ 
+ 
+ 
+_________________________________ I concur:  _________________________________ 
+Amy B. Sosin           Matthew T. Ballenger 
+Administrative Judge             Administrative Judge
+
+SOURCE: https://www.ecfr.gov/api/versioner/v1/full/2026-09-22/title-43.xml?part=4&subpart=E RETRIEVED: 2026-09-24
+[43 CFR 4.401 (definition of adversely affected) and 4.402(a), eCFR current as of 2026-09-22; subpart source 90 FR 2413, Jan. 10, 2025]
+Adversely affected
+ means that a person or entity has a legally cognizable interest, and the decision on appeal has caused or is substantially likely to cause injury to that interest. A legally cognizable interest may include, but is not limited to, a property or economic interest in the affected lands or resources, or a cultural, recreational, or aesthetic interest in the affected lands or resources.
+
+§ 4.402 Who may appeal; decisions not subject to appeal.
+(a) 
+Standing.
+ Any person or entity that is a party to the case and is adversely affected by an appealable decision of a bureau or office or an ALJ has the right to appeal to the Board, except as provided in paragraph (b) of this section.
+
+SOURCE: https://www.govinfo.gov/content/pkg/FR-2025-01-10/html/2024-30358.htm RETRIEVED: 2026-09-24
+[90 FR 2332 (Jan. 10, 2025), FR Doc. 2024-30358, DATES]
+Effective date: These rule is effective February 10, 2025.

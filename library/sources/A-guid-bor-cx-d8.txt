@@ -1,0 +1,76 @@
+SOURCE: https://www.doi.gov/sites/default/files/document_handbooks/doi-handbook-of-nepa-procedures-concluded-508-compliant.pdf RETRIEVED: 2026-09-24
+[DOI Handbook of NEPA Implementing Procedures (516 DM 1), February 2026, Appendix 2 introduction, handbook p. 53]
+Appendix 2 
+Bureau Categorical Exclusions 
+U.S. Department of the Interior 
+February 2026  
+The following pages include all the Department of the Interior (Department) Categorical 
+Exclusions (CEs) established or adopted for the use of bureaus. While the CEs are grouped by 
+bureau, the DOI NEPA procedures provide that any bureau can use another bureau’s CE, 
+including those listed under CEs adopted from other agencies. See DOI NEPA Handbook, 
+Appendix 1, 2. Categorical Exclusions (CE) and Extraordinary Circumstances Review Protocol, 
+Identifying potential CEs for use. An asterisk (*) indicates a requirement to document the 
+applicability of the CE and review of extraordinary circumstances. Even if it is not required to 
+document a categorical exclusion, the Responsible Official may document the use of a CE at their 
+discretion. Citations to these CEs should follow this format: DOI NEPA Handbook, Appendix 2, 
+[SECTION NUMBER], [PARAGRAPH NUMBER OR LETTER]. Subject areas are purely for 
+organization and do not limit application of a CE to a specific program area.  
+
+[[page 58]]
+
+[Appendix 2, Bureau of Reclamation, 14.5 introduction, handbook p. 92]
+Bureau of Reclamation 
+14.5 Categorical Exclusions. In addition to the actions listed in the Departmental categorical 
+exclusions, the following Bureau actions are designated documented categorical exclusions unless 
+one or more of the extraordinary circumstances applies:
+
+[Appendix 2, Bureau of Reclamation, 14.5 D(8), handbook p. 94]
+(8) *Issuance or renewal of use authorizations (as defined in 43 CFR 429.2, including 
+crossing agreements which provide rights-of-way) that authorize use of 
+Reclamation land, facilities, or waterbodies where one or more of the following 
+apply: (a) impacts of the action are expected to be minor and localized; (b) the 
+action does not lead to a major public or private action; (c) the only result of the 
+authorization will be to implement an administrative or financial practice or 
+change; or (d) the level of use or impacts to resources is not increased.
+
+SOURCE: https://www.govinfo.gov/content/pkg/FR-2025-01-13/html/2025-00485.htm RETRIEVED: 2026-09-24
+[90 FR 2735 (Jan. 13, 2025), FR Doc. 2025-00485, DATES]
+DATES: The revised categorical exclusions are incorporated into 
+Reclamation's NEPA procedures, located at Chapter 14 of Part 516 of the 
+Departmental Manual (516 DM 14), effective January 13, 2025.
+
+[90 FR 2735, Response discussing minor and localized]
+Under D8, minor and localized considerations 
+would include things such as physical size, surrounding land use, and 
+extent of potential ground disturbance on previously undisturbed land.
+
+[90 FR 2735, Response 9]
+Response 9--Reclamation accepted this recommendation by removing 
+the phrase ``work is minor and'' then adding the phrase ``of the 
+action'' after ``impacts.'' Reclamation retains the word ``minor'' but 
+moves it to the end of the sentence as described in the section below, 
+``Additional Clarifying Changes.''
+
+[90 FR 2735, Additional Clarifying Changes, D8]
+For the D8 CE, Reclamation changes ``provide right of use of 
+Reclamation land'' to ``authorize use of Reclamation land'' to align 
+the terminology in the CE with the terminology in 43 CFR part 429 on 
+the use of Reclamation land, facilities, and waterbodies. Reclamation 
+changes the beginning of (a) from ``work is minor and impacts are 
+expected to be localized'' to ``impacts of the action are expected to 
+be minor and localized.'' Reclamation makes this change to emphasize 
+the use of impact-based constraints to guide the application of the CE 
+in combination with the addition of language clarifying the terms 
+``minor'' and ``localized'' for the CE in response to public comments.
+
+[90 FR 2738-2739, revised CE text]
+    (8) Issuance or renewal of use authorizations (as defined in 43 CFR 
+429.2, including crossing agreements which provide rights-of-way) that 
+authorize use of Reclamation land, facilities, or waterbodies where one 
+or more of the following apply: (a) impacts of the action are expected 
+to be minor and localized; (b) the action does not lead to a major 
+public or private action; (c) the only result of the authorization will 
+be to implement an administrative or financial practice or change; or 
+(d) the level of use or impacts to resources is not increased.
+    (10) Reserved.
+    (14) Reserved.

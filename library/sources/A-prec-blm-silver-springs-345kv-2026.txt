@@ -1,0 +1,321 @@
+SOURCE: https://eplanning.blm.gov/Project-Home/?id=a534b60a-7637-f111-88b4-001dd8084607 RETRIEVED: 2026-09-24
+[BLM National NEPA Register project page, Project Information section]
+Project Information 
+NEPA Number
+DOI-BLM-NV-C020-2026-0012-EA
+Project Name
+Silver Springs 345-Kv Fold project
+Project Type
+EA
+NEPA Status
+Completed - Completed
+Lead Office
+Sierra Front Field Office
+Last Updated
+07/27/2026 - 12:00 AM
+What's New
+None
+Project Location
+City
+State/Territory
+Zip Code
+County(ies)
+Silver Springs
+Nevada
+89429
+Lyon
+Application Information
+Program
+Lands and Realty
+Sub-Program
+Rights-of-Way
+Project Dates
+Start Date
+4/13/2026
+Decision Date
+6/12/2026
+NEPA Completion Date
+6/12/2026
+FONSI Date
+6/12/2026
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /0d48cb0e-96f2-f011-8407-001dd80c29f3/Documents/Silver-Springs 345-kV_DR_20260528_508.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction]
+
+[[page 1]]
+Decision Record  1
+DOI-BLM-NV-C020-2026-0012-EA
+UNITED STATES DEPARTMENT OF THE INTERIOR
+Bureau of Land Management
+Carson City District
+Sierra Front Field Office
+5665 Morgan Mill Road
+Carson City, NV 89701
+DECISION RECORD
+for
+Silver Springs 345-kilovolt Fold Project
+DOI-BLM-NV-C020-2026-0012-EA
+May 2026
+I. DECISION
+Based on my review of Environmental Assessment DOI-BLM-NV-C020-2026-0012-EA and 
+supporting documents, this action will not result in significant impacts to the quality of the 
+human environment. Therefore, an Environmental Impact Statement will not be prepared.
+I have decided to authorize the Proposed Action (Selected Action) as described in Section 2.1 of 
+the EA. The decision will grant NV Energy a 160-foot-wide permanent right-of-way (ROW) and 
+300-foot-wide temporary construction ROW to construct, operate, and maintain a 345-kV 
+transmission line fold to connect to the proposed Greenlink West Project and the anticipated 
+Nighthawk substation, as well as associated transmission line access and maintenance roads on 
+public lands in Silver Springs, Nevada. This authorization will include standard stipulations and 
+Applicant-committed measures.
+The complete description of the Selected Action will be referenced in Section 2.1 of the EA. As 
+explained in the Finding of No Significant Impact (FONSI), the impacts of the Selected Action 
+have been analyzed in the EA and determined not to result in significant impacts to the quality of 
+the human environment. 
+Based on information in the EA and consultation with my staff, I have determined that the 
+Selected Action conforms to the applicable Carson City Field Office Consolidated Resource 
+Management Plan (CRMP) will result in no significant impacts. Therefore, the Selected Action 
+will proceed as described in Section 2.1 of the EA.
+A. Mitigation Measures
+The standard stipulations and Applicant-committed measures found in Section 2.1.9 of the EA will 
+need to be adhered to throughout Project activities. 
+B. Monitoring
+1. NV Energy has designated an Environmental Compliance Team to monitor 
+construction activities and track compliance with the measures listed in Section 2.1.9 
+of the EA, the BLM authorization, and other permits.
+[[page 2]]
+Decision Record  2
+DOI-BLM-NV-C020-2026-0012-EA
+II. COMPLIANCE AND CONFORMANCE
+This decision will comply with all applicable laws, regulations, and policies, including the 
+National Environmental Policy Act (NEPA), the Federal Land Policy and Management Act 
+(FLPMA), and Bureau of Land Management (BLM) regulations at 43 CFR Part 2800 governing 
+ROWs on public lands. 
+The Selected Action will conform to the Carson City Field Office CRMP and the Lyon County 
+Master Plan, as required by 43 CFR 1610.5-3(a). The EA analyzed the Project and determined 
+that the Selected Action is consistent with the goals, objectives, and management decisions 
+outlined in the land use plan, as discussed in Section 1.4 of the EA. No amendments to the plan 
+will be necessary. 
+Consultation and coordination requirements under Section 106 of the National Historic 
+Preservation Act, Endangered Species Act, and other applicable statutes have been completed. 
+All stipulations and Applicant-committed measures identified in the EA will be incorporated into 
+the ROW grant to ensure compliance with these requirements.
+III. PUBLIC INVOLVEMENT
+The Project was posted to ePlanning on April 13, 2026. No public comment period or notification 
+process occurred. Information on federal, state, and local agency coordination and tribal 
+consultation is provided in Section 4.0 of the EA. 
+IV. RATIONALE FOR DECISION 
+The Selected Action includes a 160-foot-wide permanent ROW and 300-foot-wide temporary 
+construction ROW to construct, operate, and maintain a 345-kV transmission line fold to connect 
+to the proposed Greenlink West Project and the anticipated Nighthawk substation, as well as 
+associated transmission line access and maintenance roads. As explained in the FONSI, the 
+impacts of the Selected Action have been analyzed in the EA and determined not to result in 
+significant impacts to the quality of the human environment. All effects remain below regulatory 
+and biological thresholds and the scale of disturbance will be small and temporary. Applicant-
+committed measures and design features will ensure no significant or precedent-setting effects 
+occur, with uncertainty addressed through monitoring and management plans. 
+Based on the information presented in the EA and consultation with my staff, I will approve the 
+Proposed Action (Selected Action) as described in Chapter 2.1 of the EA. This decision is based 
+on the determination that the Project conforms to the applicable land use plan and will result in 
+no significant impacts. Therefore, the Selected Action will proceed as outlined in Chapter 2.1 of 
+the EA.
+V. RIGHT OF PROTEST AND/OR APPEAL:  
+Administrative remedies are available to those who believe they will be adversely affected by this 
+decision. This decision may be appealed to the Interior Board of Appeals (IBLA), Office of the 
+Solicitor, in accordance with the regulations contained in 43 CFR Part 4 and BLM Form 1842-001 
+(July 2025). 
+[[page 3]]
+Decision Record  3
+DOI-BLM-NV-C020-2026-0012-EA
+If you choose to appeal: 
+· Notice of Appeal must be filed in this office (see the above address) within 30 days of 
+receipt of this decision. 
+· The Notice of Appeal, Decision Being Appealed, Statement of Standing, Statement of 
+Timeliness, and a Petition for a Stay, if applicable, must be filed with the IBLA.
+VI. APPROVAL
+                                                                       ______________________________
+Matthew E. Magaletti
+Sierra Front Field Manager  Date
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /0d48cb0e-96f2-f011-8407-001dd80c29f3/Documents/Silver Springs 345-kV_FONSI_20260528_508.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction]
+
+[[page 1]]
+FONSI  1
+DOI-BLM-NV-C020-2026-0012-EA
+UNITED STATES DEPARTMENT OF THE INTERIOR
+Bureau of Land Management
+Carson City District
+Sierra Front Field Office
+5665 Morgan Mill Road
+Carson City, NV 89701
+FINDING OF NO SIGNIFICANT IMPACT
+for Silver Springs 345-kilovolt Fold Project
+DOI-BLM-NV-C020-2026-0012-EA
+INTRODUCTION:
+The Bureau of Land Management (BLM) received a Standard Form 299 Application for 
+Transportation and Utility Systems and Facilities on Federal Lands in September 2024 
+requesting authorization to construct and operate a 345-kilovolt (kV) transmission line fold 
+across BLM-administered land in Lyon County, Nevada.  NV Energy (Applicant) has requested 
+a grant of right-of-way (ROW) for the Silver Springs 345-kV Fold Project (Project) located in 
+Silver Springs, Lyon County, Nevada. 
+An environmental assessment (EA) DOI-BLM-NV-C020-2026-0012-EA was prepared for the 
+Project to disclose and analyze the potential environmental effects of the Proposed Action and 
+No Action Alternative. This Finding of No Significant Impact (FONSI) applies to the Proposed 
+Action as described in Section 2.1 of the attached EA. 
+The Proposed Action would provide for a 160-foot-wide permanent ROW and a 300-foot-wide 
+temporary construction ROW to NV Energy to construct, operate, and maintain a 345-kV 
+transmission line fold to connect to the proposed Greenlink West Project and the anticipated 
+Nighthawk substation, as well as associated transmission line access and maintenance roads. 
+Also included in the Proposed Action is geotechnical exploration consisting of vertical 
+exploratory borings within the permanent ROW to obtain physical characteristics for final 
+structure design. NV Energy would implement all the environmental protection measures 
+(EPMs) outlined in Section 2.1.9 of the EA. The Project area encompasses a total of 
+approximately 540.6 acres, comprised of 387.9 acres of BLM-administered land and 152.7 acres 
+of private land in Lyon County. 
+FINDING OF NO SIGNIFICANT IMPACT:
+Based on my review of the attached DOI-BLM-NV-C020-2026-0012-EA and supporting 
+documents, I have determined that the Proposed Action will not significantly affect the quality of 
+the human environment. Therefore, an environmental impact statement (EIS) is not required. 
+This finding is based on the degree of the effects described in the following sections within the 
+identified affected environment.
+[[page 2]]
+FONSI  2
+DOI-BLM-NV-C020-2026-0012-EA
+Potentially Affected Environment 
+The potentially affected environment for the Project encompasses BLM-administered lands and 
+private lands within Lyon County, Nevada and is described in detail throughout Section 3.0 of 
+the EA. The area includes unique features such as 16 archaeological resources within the Project 
+Area, of which 12 are not eligible for the National Register of Historic Places and four remain 
+unevaluated. No threatened, endangered, or candidate species were identified in the Project Area; 
+however, two potential golden eagle (Aquila chrysaetos) nests have been observed within one 
+mile of the Project Area, one burrowing owl (Athene cunicularia) and occupied burrow was 
+observed during baseline surveys, and special status plant surveys identified the Nevada suncup 
+(Camissonia nevadensis) in the area. There are no wetlands within the Project Area; there are 
+several channels present within the Project Area that have been determined to be ephemeral and 
+do not convey relatively permanent, standing, or continuous flow.
+The Project’s disturbance footprint is relatively small, making up less than 0.05 percent of Lyon 
+County.  Effects on the environment are minimized through implementation of EPMs and are 
+generally limited in scale compared to the broader landscape. The EA organizes findings by 
+resource, providing quantitative and qualitative context for each resource potentially affected by 
+the Project. 
+Degree of Effects 
+The following have been considered in my evaluation of the selected alternative:
+i. Short- and long-term effects 
+The selected Proposed Action will cause short-term effects during construction (about 16 
+months), such as temporary visual disturbance, noise, vegetation and soil disturbance, wildlife 
+habitat loss, and increased vehicle activity. These effects are minimized because construction is 
+temporary, and EPMs will be implemented such as time restrictions to avoid sensitive periods, 
+best management practices for erosion and sediment control, and revegetation of disturbed areas. 
+Long-term effects, lasting for the operational life of the transmission line, include the presence of 
+new structures, managed vegetation, and minor permanent habitat loss. Design features like 
+revegetation, avoidance buffers, and ongoing monitoring ensure that both short- and long-term 
+effects remain below regulatory and biological thresholds and are not considered significant. 
+ii. Beneficial and adverse effects 
+a) Air Resources
+Expected emission sources include non-road construction equipment, on-road construction 
+workers commuting to/from the work site, and material delivery trucks. Based on the 
+conservatively modeled emissions detailed in Section 3.3 of the EA, the Project would not result 
+in major emissions of the modeled criteria pollutants, HAPs, or GHGs compared to relative 
+federal and state thresholds. Overall, effects to air quality as a result of the Proposed Action are 
+anticipated to be minimal because the emissions are below thresholds and the Project includes 
+EPMs to control fugitive dust, as outlined in Section 2.1.8.10 of the EA.
+[[page 3]]
+FONSI  3
+DOI-BLM-NV-C020-2026-0012-EA
+b) Cultural Resources and Native American Religious Concerns
+Archaeological monitoring would be in place for known historic properties near power pole 
+locations. Implementation of the survey, reporting, and measures described in the EPMs (Section 
+2.1.9.8 of the EA) would ensure that any previously known or newly recorded cultural resources 
+would be avoided by access and construction activities. Wherever possible, cultural sites 
+identified as eligible for inclusion on the National Register of Historic Places would be avoided. 
+Where avoidance is not possible, a Historic Properties Treatment Plan would be developed 
+through consultation among the BLM, the Nevada State Historic Preservation Office, and 
+applicable Tribes.
+c) Fire and Fuels Management
+A fire management strategy will be developed to implement measures to minimize the potential 
+for a human-caused fire during construction, operation, and maintenance. The strategy will 
+consider the need to reduce hazardous fuels (e.g., native and non-native annual grasses and 
+shrubs) and to prevent the spread of fires started inside the corridor. A Wildland Fire 
+Preparedness and Protection Plan is also given to all contractors prior to construction start. 
+Additional details about the Project’s fire prevention and response EPMs are included in Section 
+2.1.9.11 of the EA. With the implementation of EPMs, effects from the Proposed Action on fire 
+and fuels management are not anticipated. Fire safety training and inspections will promote 
+public health. 
+d) Soil and Vegetation Resources, including Special Status Species, Noxious Weeds, and 
+Invasive or Non-native Species
+The Project would disturb up to 540.6 acres of vegetation communities and soils. Buffers would 
+be established if sensitive plant species are identified during construction. Effects to soils and 
+vegetation would be minimal because BMPs and EPMs would be implemented to control runoff, 
+erosion, noxious and invasive plant species, and reseed and reclaim disturbed soils and 
+vegetation.
+e) Trails and Travel Management
+The Project would utilize existing roads where available within the proposed ROW that would be 
+evaluated for potential improvements to accommodate construction. Overall, adverse effects to 
+trails and travel management as a result of the Proposed Action are not anticipated because 
+surface disturbances would not occur within the existing NDOT ROW for USA Parkway and the 
+California National Historic Trail segment within the area of analysis is not present within the 
+Project Area, therefore disturbance within this segment would not occur. Improved access roads 
+may benefit recreation and land management. 
+f) Visual Resource Management
+The Project would result in moderate alterations to the existing landscape; however, the new 
+transmission line and associated access roads would not dominate the viewshed as they would be 
+absorbed by the landscape due to existing utility infrastructure in the vicinity. Visual effects 
+anticipated from construction activities of the project would be temporary. The proposed Project 
+would be in conformance with the interim Visual Resource Management Class IV objectives and 
+would ultimately conform with the existing land uses in the area of analysis.
+[[page 4]]
+FONSI  4
+DOI-BLM-NV-C020-2026-0012-EA
+g) Wildlife Resources, including Special Status Species and Migratory Birds
+There will be temporary and permanent loss of up to 540.6 acres of wildlife habitat. Following 
+construction activities, areas of disturbed land no longer required for Project operations would be 
+reclaimed to promote reestablishment of wildlife habitat. Effects would be minimal because 
+disturbed areas would be reclaimed after construction, surveys would be conducted for special 
+status species and migratory birds, and buffers would be implemented to avoid construction 
+during sensitive periods. 
+h) Rationale for Non-Significance
+All effects remain below regulatory and biological thresholds and the scale of disturbance will be 
+small and temporary. EPMs and design features will ensure no significant or precedent-setting 
+effects occur, with uncertainty addressed through monitoring and management plans. 
+iii. Effects on public health and safety 
+The Proposed Action would comply with BLM’s policy and guidelines, and other federal state, 
+and local laws. EPMs presented in Section 2.1.9 of the EA will further reduce effects on public 
+health and safety. 
+Hazardous and solid wastes generated during construction will be managed according to local, 
+state, and federal regulations, with standard operating procedures in place to ensure proper 
+containment and disposal. A Spill Prevention, Control, and Countermeasures Plan will be 
+implemented for the Project. Air quality impacts are minimal, with emissions estimated to be 
+below state and federal regulatory thresholds and a Fugitive Dust Control Plan will be 
+implemented. Water quality will be protected through best management practices, including 
+sediment and erosion control, outlined in the Stormwater Pollution Prevention Plan, and no 
+wetlands are present in the Project Area.
+iv. Economic effects
+The construction of the Project may stimulate minor, temporary economic activity in Silver 
+Springs, and/or the surrounding communities due to the presence of temporary construction 
+employees and their purchasing of goods. However, the Project is not antici pated to increase the 
+employment or income levels of the area of analysis to a noticeable level. An increase in long -
+term economic activity could occur as a result of the Project due to the increase in utility 
+development in the area of analysis; however, the level to which it may contribute to long -term 
+economic activity is unknown at this time due to future transmission line connectivity being 
+currently unknown. 
+The Proposed Action will not have significant negative economic effects. The Project is proposed 
+to support the growth in the Silver Springs area. 
+v. Effects on the quality of life of the American people.
+The Project may affect quality of life within the area of analysis associated with changes in 
+scenery, recreational access, solitude, and nature. However, the Project area is within a Lyon 
+County locally designated utility corridor. The new transmission line and associated access roads 
+would not dominate the viewshed as they would be absorbed by the landscape due to existing 
+utility infrastructure in the vicinity. Although construction activities may affect solitude and 
+[[page 5]]
+FONSI  5
+DOI-BLM-NV-C020-2026-0012-EA
+recreation opportunities in the area, these impacts would be temporary.  Cultural and ecological 
+values will be protected through avoidance and reclamation.
+The Project would provide an increase in regional power capacity and availability for potentially 
+several end users upon completion of construction, which may provide a beneficial impact to the 
+area and a potential for increased development and services due to additional power utility 
+connection opportunities.
+Any changes to quality of life will be small, short-term, and offset by long-term benefits. Overall, 
+effects on the quality of life will not be significant.
+Matthew E. Magaletti
+Sierra Front Field Manager    Date

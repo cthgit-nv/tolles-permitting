@@ -1,0 +1,820 @@
+SOURCE: https://eplanning.blm.gov/Project-Home/?id=f4dd06fc-446f-f111-ab0d-001dd802f839 RETRIEVED: 2026-09-24
+[BLM National NEPA Register project page, Project Information section]
+Project Information 
+NEPA Number
+DOI-BLM-NV-S010-2026-0080-DNA
+Project Name
+Townsite Data Center
+Project Type
+DNA
+NEPA Status
+Completed - Completed
+Lead Office
+Las Vegas Field Office
+Last Updated
+09/15/2026 - 04:23 PM
+Project Description
+The Applicant proposes to construct, own, operate, maintain, and eventually decommission a data center on 81 acres, with an additional 4 acres to be used for an 80 × 2,000–foot linear facilities segment.
+Project Location
+City
+State/Territory
+Zip Code
+County(ies)
+Henderson
+Nevada
+89044
+Clark
+Application Information
+Applicant
+Townsite Solar 2 LLC
+Case File Number
+NVNV106360814
+Program
+Lands and Realty
+Sub-Program
+Rights-of-Way
+Project Dates
+Start Date
+5/11/2026
+Decision Date
+6/26/2026
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /8806acc1-416f-f111-ab0d-001dd802f839/Documents/DOI-BLM-NV-S010-2026-0080-DNA-merged2.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction, first 52000 characters]
+
+[[page 1]]
+UNITED STATES DEPARTMENT OF THE INTERIOR 
+Bureau of Land Management 
+Southern Nevada District 
+Las Vegas Field Office 
+4701 N. Torrey Pines Drive 
+Las Vegas, Nevada 89130 
+DETERMINATION OF NEPA ADEQUACY WORKSHEET 
+DOI-BLM-NV-S010-2026-0080-DNA 
+New Proposed Action Title:  
+Townsite Data Center
+Case File No: NVNV105844791 (N-099875) 
+Location of New Proposed Action:  
+Clark County, Nevada. Northern portion of the Eldorado Valley, 2.5 miles south of Railroad Pass 
+and 0.75-mile west of U.S. Highway 95.  
+T. 23 S., R. 63 E., Sec. 14, Mt. Diablo Meridian
+Applicant:
+Townsite Solar 2 LLC, a wholly owned subsidiary of Townsite Solar 2 Parent, LLC, 
+a joint venture between TS2 Investments, LLC and Arevon Energy Devco 1, LLC 
+A. DESCRIPTION OF THE NEW PROPOSED ACTION
+(Note that the description below is based on information provided to the BLM in the Applicant’s 
+plan of development.) 
+Townsite Solar 2 LLC (Applicant) currently holds authorization to construct, operate, and 
+maintain a 19 MW solar project plus a 35 MW Battery Storage System (BESS) pursuant to 
+Bureau of Land Management (BLM) right of way (ROW) Grant N-99875 issued on September 
+22, 2023. The Applicant proposes to modify the ROW grant as outlined in the amended SF-299 
+submitted on November 4, 2025 and further updated on January 8, 2026 and in their updated 
+plan of development (POD) dated May 2026. 
+The Applicant now proposes to construct, own, operate, maintain, and eventually decommission 
+a data center on 81 acres of the existing 85-acre ROW area, with an additional 4 acres to be used 
+for an 80 × 2,000–foot linear facilities segment (Project / new proposed action).  
+The Project consists of the data center building housing computer servers, storage, and network 
+equipment to store, manage, process, and disseminate large amounts of data and digital 
+information, and administrative facilities. Contiguous to the data center building will be surface 
+parking, a 70 MW battery energy storage system (BESS), an electrical substation, and 
+emergency backup generators fueled by biodiesel.  
+[[page 2]]
+In addition, the linear facilities portion of the Project will contain a road to access the data center 
+site (and temporary laydown area) during construction and operation, installation of a permanent 
+12- to 13.8-kilovolt (kV) electrical distribution powerline (distribution line), and an underground 
+34.5-kV to 230 kV power collection system used to interconnect the Project into a new 
+substation proposed to support the expansion of the Southern Nevada Water Authority (SNWA) 
+230-kV transmission line (N-100382). The linear facilities will connect to the southeast corner of 
+the data center and run due east for approximately 2,000 feet to the western border of the project 
+being developed by the Applicant on municipal land owned by the City of Boulder City (BCNV 
+Property). The Project will interconnect into the newly expanded SNWA 230-kV transmission 
+line or into the existing Western Area Power Administration (WAPA) Mead 230-kV Substation 
+from the existing Townsite Solar 1 facilities, both located on municipal land. 
+Site access will use two separate locations from U.S. Highway 95. The first point of site access is 
+located approximately 1.24 miles south of the Interstate Highway 11 (I-11) / U.S. Highway 93 
+interchange with U.S. Highway 95, then west onto non-BLM lands using an unnamed road (the 
+road to access Impact Sand and Gravel’s Boulder Ranch Quarry (BRQ Pit)) for 0.25 mile, then 
+north on Old U.S. Highway 95 (Old Hwy 95) for 0.35 mile to the proposed Project’s linear 
+facilities segment on BLM land. The second point of site access is a right in / right out only point 
+of access located approximately 0.9 miles south of I-11 / U.S. Highway 93 interchange with U.S. 
+Highway 95. If needed, the Applicant will obtain authorization from the governing jurisdictions 
+for use of non-BLM roads for access.  
+To minimize potential environmental impacts, the proposed project area is slightly larger than 
+required to allow for adjustments in the facility layout. Any land ultimately not needed for the 
+Project will be relinquished back to the BLM at the appropriate time. 
+Below is a brief description of the Project’s proposed elements:  
+• Geotechnical investigation work includes soil borings, soil resistivity testing, pile load 
+testing, and access. Up to six exploratory test borings to depths of approximately 30 and 
+50 feet, two field soil resistivity tests (Wenner four-pin method) along two perpendicular 
+traverses at each borehole, and pile load testing at four locations with a group of three 
+piles installed at target depths of 7 and 13 feet. Underground Service Alert will locate and 
+mark the horizontal and vertical locations of exiting utilities prior to boring. Access will 
+be by existing trails and overland travel using a truck-mounted drill rig and conventional 
+pickup truck(s) or four-wheel drive truck(s). All disturbance will be restricted to the 
+Project Area. 
+• Construction Laydown area: Located adjacent to and outside of the southeast corner of 
+the Project Area, measuring approximately 467 × 464 and totaling 5 acres. This acreage 
+will initially be used as the laydown area and will subsequently be the location of a 70 
+MW BESS and switching station.  
+• Data center facility footprint:  
+o Current GIS datasets provided by the Applicant show a total of four data center 
+buildings, each with a rectangular footprint area of approximately 300,000 square 
+feet. All four buildings are proposed for development within the footprint of the 
+previously authorized solar facility analyzed in the existing NEPA document. 
+o The exact dimensions are not fixed, as they depend on factors like server density, 
+cooling systems, and overall building design. The data center building will not 
+exceed 25 feet in height.  
+[[page 3]]
+o Permanent fencing will be installed around the perimeter of the data center. The 
+perimeter fencing will include a 6- or 7-foot-tall chain-link fence with 1-foot-high 
+barbed-wire security strands along the top. Installation of permanent Mojave 
+desert tortoise (Gopherus agassizii) fencing will follow U.S. Fish and Wildlife 
+Service (USFWS) guidelines and will be attached to the bottom of the perimeter 
+fencing. Both will be installed concurrently. 
+o One auxiliary voltage transformer, measuring 61 × 62 × 71 inches mounted on a 
+concrete pad adjacent to and connected to the distribution line. 
+o Installation of a BESS and appurtenant systems will provide up to 70 MW, 4- to 
+8-hour capacity system for the electric grid.  
+o Installation of an electric switching station within the 5 acres to be initially used 
+as an equipment laydown area during construction.  
+o Installation of 167 MW of back-up biodiesel-fired generators.  
+o Underground Power Collection Line alternating current (AC) collection system 
+will transfer power from the DC collection system and PCSs and transfer the 
+power through the underground Power Collection Line to the Linear Facilities 
+segment where the electricity will interconnect into the grid.  
+• The Linear Facilities segment extending along the southern border of the project footprint 
+to the east, measuring 80 feet wide × 2,000 feet long, ending at the western border of the 
+proposed BCNV Property, on municipal land owned by the City of Boulder City, and will 
+be used for the site road, auxiliary distribution line, underground Power Collection Line, 
+and fiber optic cable: 
+o Site road: The proposed Project will use the 30-foot-wide × 2,000-foot-long 
+portion of the linear facilities segment for the main access to the data center 
+facility, which will provide site access during construction and operation of the 
+Project. The site road will be graded.  
+o Auxiliary overhead distribution line: The remaining 50-foot-wide × 2,000-foot-
+long portion of the linear facilities segment will be used for an overhead 12- to 
+13.8-kV auxiliary distribution line to provide power during construction and 
+operations. The Applicant intends to assign the 50 × 2,000-foot portion of the 
+linear facilities segment to the owner of the distribution line at a later date. 
+o Interconnection and communications: The 50-foot-wide × 2,000-foot-long portion 
+of the linear facilities segment will also be shared for the construction and 
+operation of the underground Power Collection Line and fiber optic cabling. The 
+underground 34.5-230 kV collection line will deliver electricity into the on-site 
+BESS or to the new SNWA substation in support of the newly expanded SNWA 
+230-kV transmission line. The Power Collection Line will require two pulling 
+sites, up to 80 × 300 feet each, to be within a portion of the linear facilities 
+segment (80 × 2,000-foot area) for an approximate two-month construction 
+timeframe. Fiber optic cabling will be installed either underground with the Power 
+Connection Line as a separate conduit or on overhead lines along the distribution 
+line.  
+• Project security using a combination of perimeter fencing around the data center 
+buildings, BESS and switching station, controlled access gates, on-site security patrols, 
+lighting, electronic security systems and/or remote monitoring. 
+[[page 4]]
+• Temporary fencing: Desert tortoise exclusion fencing (temporary) will be installed 
+around the linear facilities segment (4 acres) to reduce the number of biological monitors 
+required on-site. At least two desert tortoise gates will be installed within the linear 
+facilities segment and one entrance gate to the data center facility (with permanent desert 
+tortoise fencing attached). The desert tortoise fencing will be installed concurrently with 
+the perimeter fencing.  
+Non-potable reclaimed water will be obtained from the City of Boulder City Wastewater 
+Treatment Plant through an existing pipeline for dust suppression activities and stored on-site in 
+aboveground water tanks at the temporary laydown area. If water from the City of Boulder City 
+Wastewater Treatment Plant is not available, water would be obtained from commercial sources 
+with existing water rights or availability within a reasonable distance of the project area. This 
+water, if needed, would be trucked to the project area.  
+The Project will be designed in accordance with federal and industrial standards, including 
+American Society of Mechanical Engineers standards, the National Electrical Code (National 
+Fire Protection Association [NFPA] 2008), the International Building Code (International Code 
+Council 2006), the International Energy Conservation Code (International Code Council 2006), 
+the Uniform Plumbing Code (International Association of Plumbing and Mechanical Officials 
+2006), the Uniform Mechanical Code (International Association of Plumbing and Mechanical 
+Officials 2006), NFPA standards, and Occupational Safety and Health Administration (OSHA) 
+standards. 
+Construction is expected to take up to 18 months and will include mobilization, construction 
+grading and site preparation, installation of drainage and erosion controls, data center and BESS 
+construction. 
+ 
+B.  LAND USE PLAN CONFORMANCE 
+LUP Name: Las Vegas Resource Management Plan  Date Approved: October 5, 1998 
+The new proposed action is in conformance with the 1998 Las Vegas RMP. Specifically, it 
+conforms with the following objective pertaining to right-of-way management.  
+Las Vegas Resource Management Plan Objective RW-1 (Rights-of-Way Management) - 
+Meet public demand and reduce impacts to sensitive resources by providing an orderly 
+system of development for transportation, including legal access to private inholdings, 
+communications, flood control, major utility transmission lines, and related facilities.  
+(Las Vegas RMP, p. 19) 
+Data centers like the one in the new proposed action are a key component of modern-day cloud-
+computing infrastructure that are essential to the well-organized management and rapid access of 
+information/data used by the whole of American society. 
+ 
+  
+[[page 5]]
+C. NEPA AND OTHER RELATED DOCUMENTS
+NEPA environmental analysis of the new proposed action is covered by the following existing 
+BLM NEPA document: 
+o Environmental Assessment – Townsite Solar 2 Project (September 2023)
+DOI-BLM-NV-S010-2023-0016-EA
+https://eplanning.blm.gov/Documents/?id=f37e7dd8-a7f2-f011-8406-
+001dd8008d46&spid=08622883-a8f2-f011-8407-001dd80c29f3#
+D. NEPA ADEQUACY CRITERIA
+1. Is the new proposed action a feature of, or substantially the same as an alternative
+analyzed in the existing environmental document(s)?
+Yes, the new proposed action (data center) is essentially like the original 2023 proposed action 
+(photovoltaic solar energy facility) analyzed in the existing 2023 Environmental Assessment. 
+Both proposals are from LLC applicants operated by the same parent corporate entity. Both 
+proposals will use the exact same location, same acreage, and same perimeter. Both are 
+proposals for industrial uses that will operationalize cutting-edge technologies that are 
+predominantly electrical and solid-state in nature. Both proposals are connected to external 
+electrical infrastructure via the same proposed utility corridor. Both proposals will use the same 
+access roads and construction laydown footprints. Both involve improvements/facilities that 
+are visually geometric and less than 30 feet in height. Both propose grading the project site in 
+order to accommodate development. Both proposals would require fencing of the site perimeter 
+to ensure site security.  Both proposals involve construction timeframes of 12-18 months using 
+similar equipment and vehicles. 
+A description of the original 2023 proposed action is presented in the existing BLM NEPA 
+document DOI-BLM-NV-S010-2023-0016-EA on pages 4 - 11.  
+2. Is the proposed action within the same analysis area, or if the location of the proposed
+action is different, are the geographic and resource conditions sufficiently similar to
+those analyzed in the existing environmental document(s)? If there are differences, can
+you explain why they are not substantial?
+Yes, the new proposed action is within the exact same analysis area as that which was analyzed 
+in the existing 2023 Environmental Assessment. Location, acreage, and perimeter shape and size 
+are all the same. 
+A description of the analysis area for the original 2023 proposed action is presented in the 
+existing BLM NEPA document DOI-BLM-NV-S010-2023-0016-EA in Appendix A – Table A-2 
+and Figures A-1 through A-4. 
+[[page 6]]
+3. Is the range of alternatives analyzed in the existing environmental document(s) 
+appropriate with respect to the new proposed action, given current environmental 
+concerns and resource values? 
+Yes, the range of alternatives analyzed in the 2023 Environmental Assessment is appropriate 
+with respect to the new proposed action.  There are no known environmental concerns or 
+resource values which would mandate the addition of new action alternatives beyond the 
+alternatives that were analyzed in the existing 2023 Environmental Assessment: the original 
+2023 proposed action and the “no action” alternative.  
+Any action alternative [1] must satisfy the Purpose and Need statement (which – for applicant-
+driven proposals – typically is for BLM to respond to the application), [2] must be technically 
+and economically feasible, [3] must be within the BLM’s authority to implement, and [4] must 
+address unresolved conflicts about the proposed action with respect to alternative uses of 
+available resources. In the existing 2023 Environmental Assessment, the justifications for why 
+certain potential action alternatives were considered but eliminated from detailed analysis remain 
+relevant and applicable to the new proposed action.  
+A description of the potential action alternatives that were considered but eliminated from 
+detailed analysis is presented in the existing BLM NEPA document (DOI-BLM-NV-S010-2023-
+0016-EA) on page 12. 
+In addition, it is important to note that the BLM ultimately approved (via its NEPA decision 
+record) and authorized (via a ROW grant) the original 2023 proposed action. Consequently, this 
+means that a potential denial of the new proposed action may result in the construction and 
+operation of the original 2023 proposed action coming to fruition since it is already approved and 
+authorized. In other words, a denial of the new proposed action does not mean that the project 
+area in question would remain undeveloped.  
+4. Is existing analysis valid considering any new information or circumstances relevant to 
+the proposed action (such as, rangeland health standards assessment, recent 
+endangered species listings, updated list of BLM sensitive species)?  Can you reasonably 
+conclude that new information and new circumstances do not warrant substantial 
+change to the analysis of the new proposed action? 
+Yes. The analysis provided in the existing 2023 Environmental Assessment remains valid with 
+regards to the new proposed action. Because the 2023 Environmental Assessment is still less 
+than three years old and there are no known new circumstances or information regarding the 
+condition of resources present at the project location, the 2023 Environmental Assessment 
+remains relevant to the new proposed action with regards to alternatives, affected environment, 
+effects analysis, and mitigation measures. The project area is still surrounded by intensive land 
+uses and heavy infrastructure including open-pit aggregate quarries, utility-scale solar 
+photovoltaic farms, electric transmission corridors, a highway corridor, and an outdoor firearms 
+shooting range.    
+ 
+ 
+  
+[[page 7]]
+5. Are the environmental effects that would result from implementation of the new 
+proposed action similar (both quantitatively and qualitatively) to those analyzed in the 
+existing NEPA document? 
+Yes. The effects analysis in the existing 2023 Environmental Assessment considered the original 
+proposed action’s potential effects on 14 distinct resources. Below is a concise resource-by-
+resource explanation as to why the existing analysis remains applicable to the new proposed 
+action. 
+o Air Quality (AQ) – Because the new proposed action’s location, size, and amount of ground 
+disturbance remain the same as the original 2023 proposed action, and construction duration, 
+construction equipment, and vehicle types and quantities are similar to the original 2023 
+proposed action, construction phase impacts from dust and equipment emissions are likely to 
+remain similar as well, as are local AQ regulatory/permitting requirements.   
+Operational phase on-site impacts on AQ are similar, since both projects do not directly 
+generate large volumes of pollutant emissions, but may generate some emissions during 
+periodic use of emergency backup generators.   
+The potential fugitive emissions associated with the data center’s air-cooling system are 
+expected to be de minimis under Clean Air Act standards. Because the cooling compounds 
+must be predominantly non-volatile / non-HFC (per 40 CFR Part 84) and the system is 
+sealed, the Potential to Emit (PTE) falls below the threshold for Hazardous Air Pollutants 
+(HAPs), thereby exempting the cooling infrastructure from major source air permitting 
+requirements. 
+Operational phase off-site pollutant emissions resulting from the generation of electricity for 
+the new proposed action will be limited, since the new proposed action will receive its 
+electrical power wholesale from the Western Area Power Administration’s (WAPA’s) Mead 
+Substation. Mead Substation’s physical inputs are dominated by the 2,074 MW Hoover Dam 
+hydroelectric complex plus gigawatts of localized solar generation within the Eldorado 
+Valley Energy Zone (such as the Copper Mountain and Townsite Solar projects). 
+Consequently, during peak daylight hours, most of the power pooled and exported through 
+the substation is sourced from non-carbon emitting renewable generation. With an estimated 
+peak demand of up to 167 MW, the new proposed action represents less than 2% of the Mead 
+Substation’s total transport capacity. 
+The environmental analysis in Section 3.2 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Cultural Resources – Because the new proposed action’s location, size, and amount of 
+ground disturbance remain the same as the original 2023 proposed action, the potential for 
+physical impacts to cultural resources remains the same as the original 2023 proposed action. 
+Because the indirect APE has already been substantially impacted by surrounding land uses / 
+development, the new proposed action’s potential visual and atmospheric effects on cultural 
+resources would be unchanged from the original 2023 proposed action.  
+The environmental analysis in Section 3.3 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action.  
+[[page 8]]
+o Socioeconomics – Estimated workforce sizes for the new proposed action are slightly larger 
+for both the construction phase and the operational phase in comparison to the original 2023 
+proposed action, thereby potentially resulting in a nominally increased benefit to the local 
+labor market. According to the Applicant, the new proposed action will create 250-300 jobs 
+during construction, and 40 full-time positions during the operational life of the project.  
+The environmental analysis in Section 3.4 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Fish and Wildlife (excluding T&E species) – Because the new proposed action’s location, 
+size, and amount of ground disturbance remain the same as the original 2023 proposed 
+action, the potential for adverse impacts to wildlife habitat remains the same as the original 
+2023 proposed action.  Although some specific types of potential impacts within the project 
+area itself could be replaced by other impacts (e.g., “lake effect” on avian species would be 
+no longer present, while new noise effects may occur), these differences in effects could be 
+minor considering the surrounding lands and resources are already heavily disturbed with 
+hundreds of acres of solar photovoltaic panels as well as noise-inducing mining quarry 
+operations, high voltage powerline corridors, a highway corridor, and a firearms shooting 
+range. 
+The environmental analysis in Section 3.5 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Fuels and Fire Management – The new proposed action’s location remains the same as the 
+original 2023 proposed action. The Existing 2023 Environmental assessment explains that 
+the project area and immediate surrounding areas are open desert with minimal vegetation 
+that do not support meaningful levels of vegetative fuel to carry wildland fire. Although a 
+data center poses a larger fire risk than solar panel arrays, the project component with the 
+greatest risk for fire – the battery energy storage system (BESS) – is common to both the 
+original 2023 proposed action and the new proposed action. The existing 2023 
+Environmental Assessment analyzes the potential fire risk of an on-site BESS and prescribes 
+mitigation measures, including development of a fire management plan, that remain valid 
+with regards to the new proposed action. 
+The environmental analysis in Section 3.6 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Meteorological Trends – The analysis presented in the existing 2023 Environmental 
+Assessment states that emissions known to impact meteorological trends “would be 
+generated under the [original 2023] Proposed Action through the use of vehicles and off-road 
+equipment during Project construction and decommissioning, with minimal emissions 
+generated during O&M.” This assessment holds true for the new proposed action, as the 
+construction equipment and construction duration are largely similar. 
+As noted above (in the Air Quality section), operational phase off-site emissions resulting 
+from the electrical demand of the new proposed action will be limited, since it will receive its 
+electrical power from WAPA’s Mead Substation which has an energy generation mix that is 
+majority renewable generation during solar production hours. With an estimated peak 
+demand of up to 167 MW, the new proposed action represents less than 2% of the Mead 
+Substation’s total transport capacity. 
+[[page 9]]
+Although the new proposed action poses a slight risk of emitting chemical pollutants that can 
+contribute to changing meteorological trends (due to potential fugitive emissions of 
+chemicals used for refrigerant purposes), these emissions are unquestionably negligible in 
+comparison to the major sources of such emissions (generally speaking, the transportation 
+sector and the electrical power generation sector). In addition, the cooling compounds must 
+be predominantly non-volatile / non-HFC (per 40 CFR Part 84) and the system is sealed, 
+further reducing the chance for emissions of HFC chemicals.  
+The 2023 EA states, “On a global scale, the GHG emission contribution of any single source 
+on a subnational scale is dwarfed by the large number of comparable national and 
+subnational contributors…. A single subnational contributor is very unlikely to influence 
+global cumulative emissions. The [original 2023] Proposed Action alone is very unlikely to 
+influence global cumulative emissions on a scale to make observable any increase or 
+lessening of the social cost of all global emissions.” This assessment remains true for the new 
+proposed action as well. 
+The environmental analysis in Section 3.7 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action.  
+o Migratory Birds and Eagles – The existing 2023 Environmental Assessment states that 
+“Impacts to migratory birds (including golden eagles) are quantified as either displacement or 
+removal of habitat and mortality. Due to a lack of suitable nesting habitat, impacts to golden 
+eagles are limited to the amount of foraging habitat that would be permanently removed by 
+the [original 2023] Proposed Action.” Because the new proposed action will utilize the same 
+location with the same acreage of disturbance as the original 2023 Proposed Action, this 
+assessment holds true. The 2023 Environmental Assessment explains that impacts to nesting 
+and foraging for golden eagles will be minimal, due to the small scale of the project and the 
+availability of potential foraging habitat to the southeast and west of the project. 
+Regarding migratory birds, the 2023 Environmental Assessment discusses that most impacts 
+to these species would be caused by the loss of 85 acres of habitat (rather than the type of 
+project proposed). Because the new proposed action will occur in the same location, this 
+assessment remains accurate. The 2023 Environmental Assessment also explains that 
+“Waterbird species may potentially mistake the solar panels for water features on which the 
+birds can land…. These behaviors may lead to collisions with PV solar panels resulting in 
+mortality, injury, or stranding of those species that require water to take off again”. This 
+unfortunate phenomenon is known as the “lake effect hypothesis”. Switching the proposed 
+action from a solar facility to a data center may avoid the potential for this particular adverse 
+effect on waterbirds. 
+The environmental analysis in Section 3.8 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Recreation / Travel / Wild and Scenic Rivers – The existing 2023 EA demonstrates that 
+potential impacts to these resources are mostly due to the original 2023 proposed action’s 
+location, access routes, construction duration and methods, and perimeter fencing needs. 
+Since these project characteristics remain very similar for the new proposed action, it is 
+reasonable to conclude that the effects would remain similar as well, thereby resulting in 
+analysis in the 2023 EA that is adequate to cover the new proposed action. 
+[[page 10]]
+The environmental analysis in Section 3.9 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Soils and Surface Hydrologic Conditions – The existing 2023 Environmental Assessment 
+demonstrates that potential impacts to these resources are mostly due to the original 2023 
+proposed action’s location, construction duration and methods, and overall surface grading. 
+Since these project characteristics remain very similar for the new proposed action, it is 
+reasonable to conclude that the effects would remain similar as well, thereby resulting in 
+analysis in the 2023 Environmental Assessment that is adequate to cover the new proposed 
+action. 
+The environmental analysis in Section 3.10 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Special Designations – Because the new proposed action is in the same location as the 
+original 2023 proposed action, the proximity to specially designated lands – specifically the 
+Old Spanish National Historic Trail – does not change. Because the intensity of development 
+and general type of development does not change (modern industrial use with relatively low-
+height improvements, in an area presently occupied with active mining operations, solar 
+power generation facilities, and multiple high-voltage electrical transmission lines), the 
+impacts to nearby specially designated lands is likely very similar to what is analyzed in the 
+existing 2023 Environmental Assessment. 
+The environmental analysis in Section 3.11 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Threatened, Endangered, or Candidate Animal Species – Because the new proposed 
+action is in the same location as the original 2023 proposed action, the list of T&E species 
+which may have their habitat impacted does not change. Because the new proposed action’s 
+location, construction duration and methods, and intensity of development remain the same, 
+it is reasonable to conclude that impacts, mitigation measures, and the outcome of 
+interagency consultation would remain the same as well, thereby resulting in analysis in the 
+2023 EA that is adequate to cover the new proposed action. 
+The environmental analysis in Section 3.12 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Vegetation – Because the new proposed action is in the same location as the original 2023 
+proposed action, the type of vegetative communities and the list of botanical species which 
+may be present in the project area (including special-status species) does not change. Because 
+the new proposed action’s location, construction duration and methods, and intensity of 
+development (including grading) remain the same or similar, it is reasonable to conclude that 
+impacts and mitigation measures would remain the same as well, thereby resulting in analysis 
+in the 2023 EA that is adequate to cover the new proposed action. 
+The environmental analysis in Section 3.13 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Visual Resources – Although certain structures in the new proposed action would be 
+different from the original 2023 proposed action, the general type of land use would remain 
+the same (modern industrial use with relatively low-height structures and improvements) as 
+would the location, intensity of use, size of the project area, and perimeter shape.  
+[[page 11]]
+As the 2023 Environmental Assessment explains, the project area is currently designated as 
+Visual Resource Inventory (VRI) Class IV. The new proposed action is unlikely to trigger a 
+change in this VRI designation. The surrounding land uses which contribute to the VRI class 
+would remain the same (active mining operations, solar power generation facilities, and 
+multiple high-voltage electrical transmission lines).  
+The Visual Resource Management (VRM) designation for the project area is Class III. 
+Because the new proposed action is similar to the original 2023 proposed action in size, 
+location, and technologically-advanced industrial use, it is reasonable to conclude that the 
+degree of visual impact felt from the new proposed action at the selected KOP’s would 
+remain weak, and that the new proposed action would remain in conformance with BLM’s 
+VRM objectives associated with the VRM Class III (2023 EA p. 58). 
+No longer including photovoltaic solar panels as part of the project area’s development may 
+improve the glare analysis for the new proposed action. VR mitigation measures specified in 
+Appendix H of the exiting 2023 Environmental Assessment would remain applicable. 
+The environmental analysis in Section 3.14 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Wastes (Hazardous or Solid) – Because the new proposed action will implement 
+geotechnical testing and utilize construction equipment and methods similar to the original 
+2023 proposed action, the construction phase impacts will be similar as well. During the 
+operational life of the new proposed action, limited quantities of hazardous materials will be 
+used on site that are similar to the types of hazardous materials that were considered in the 
+2023 Environmental Assessment. Thus, potential impacts would be similar. Mitigation 
+measures prescribed in the 2023 Environmental Assessment (including development of and 
+adherence to a hazmat management plan, spill prevention plan, and an emergency response 
+plan) would remain appropriate for and applicable to the new proposed action. 
+Any liquid waste resulting from periodic maintenance of the closed-loop cooling system will 
+be trapped and properly disposed of offsite through contractors approved to handle and 
+dispose of the specific mixture in use. 
+The environmental analysis in Section 3.15 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Effects of Past, Present, and Reasonably Foreseeable Future Actions – The new proposed 
+action is in the same location as the original 2023 proposed action with the same resource 
+conditions and is similar in type and intensity of land use (modern high-technology 
+electrically-focused industrial land use). Therefore, the anticipated impacts of the new 
+proposed action when combined with the effects of past, present, and reasonably foreseeable 
+future actions in the analysis area are sufficiently similar to the impacts that were analyzed 
+and disclosed in the 2023 Environmental Assessment.  
+The environmental analysis in Section 4 of the 2023 Environmental Assessment is 
+appropriate with regard to the new proposed action. 
+o Notes on water use: 
+The 2023 Environmental Assessment for the proposed solar project analyzed the Applicant’s 
+intended use of reclaimed effluent water discharged by the City of Boulder City Wastewater 
+[[page 12]]
+Treatment Plant for construction phase dust suppression. The Applicant’s 2026 POD for the 
+new proposed action (data center) explains that this plan for sourcing dust suppression water 
+remains unchanged. Although the volume of water estimated for dust suppression use is 
+greater for the new proposed action (now projected at up to 500,000 gallons per day), this 
+consumptive use will not adversely affect regional water supply volume. This is because – 
+unlike other communities in southern Nevada – reclaimed effluent water discharged by the 
+City of Boulder City Wastewater Treatment Plant is not recycled and returned to the 
+Colorado River / Lake Mead system. Rather, Boulder City’s reclaimed effluent water is sent 
+to local evaporation ponds where this water is ultimately lost to the atmosphere. The 2026 
+POD further states that the Applicant does not intend to develop or purchase water rights 
+(2026 POD p. 21).    
+During the operational life of the project, daily water usage estimates for the new proposed 
+action are in the +/- 2,000 gallon-per-day range and are primarily for uses such as employee 
+restroom and kitchen facilities (2026 POD p. 40). This estimate converts to approximately 
+2.24 acre-feet per year, which is consistent with the water usage estimate in the existing 2023 
+Environmental Assessment of 2-3 acre-feet per year (2023 EA p. 10). (Under the new 
+proposed action, employee numbers would increase, but washing of solar panels would be 
+eliminated.) 
+According to the Applicant’s Plan of Development, approximately 90% of the potable water 
+used onsite during the operational life of the project will be returned to Boulder City’s 
+wastewater treatment plant. 
+The Applicant proposes a design for the new proposed action that would rely on a closed-
+loop air-cooling system for the data center. Up to 400,000 gallons (1.23 acre-feet) of a 
+purified water/propylene glycol mix would be required for an initial one-time filling of the 
+closed loop system, but this type of cooling system does not rely upon constant evaporation 
+(and an associated loss of water) as its means of heat dissipation. The purified 
+water/propylene glycol mix will be purchased from a vendor of that mixture. The cooling 
+system will not be filled with any municipal water, as it is not appropriate for this type of 
+cooling system. The initial fill of the cooling system and any topping up of the system must 
+be with the purchased purified water/propylene glycol mix. The first year, one-time 
+consumption of 1.23 acre-feet would be 55% greater than the Applicant’s estimated per year 
+average water use of 2.24 acre-feet, but when considered across the proposed 30-year life of 
+the project, the project remains well within the existing 2023 Environmental Assessment’s 
+water usage estimate of 2 to 3 acre-feet per year. 
+It is estimated that up to an additional 2,000 gallons (0.006 acre-feet) per year of purified 
+water/propylene glycol mix could be needed for periodic maintenance activities of the 
+cooling system and will be likewise sourced from a vendor of that mixture. Any waste from 
+the system associated with periodic maintenance will be trapped and properly disposed of 
+offsite through contractors approved to handle and dispose of the material. 
+6. Are the public involvement and interagency review associated with existing NEPA
+document(s) adequate for the current proposed action?
+Yes. As expressed in Section 5 of the 2023 Environmental Assessment, the following steps were 
+taken to ensure adequate public involvement and interagency review: 
+[[page 13]]
+o The BLM notified adjacent ROW grant holders of the original 2023 proposed action before 
+issuing a decision on the 2023 Environmental Assessment. 
+o A public comment period on the 2023 Environmental Assessment was held from August 3 
+through August 18, 2023. A total of 12 public submissions were received. Public comments 
+and BLM responses were included in Appendix I of the final version of 2023 Environmental 
+Assessment. 
+o BLM sent cooperating agency invitations for the 2023 Environmental Assessment via 
+certified mail and electronic transmittal on February 24, 2023. Cooperating agencies included 
+the Clark County Department of Aviation; Clark County Department of Environment and 
+Sustainability, Division of Air Quality; EPA; and USFWS. 
+o On May 2, 2022, the BLM initiated government-to-government consultation with the 
+following tribes: Chemehuevi Indian Tribe, Colorado River Indian Tribes, Fort Independence 
+Indian Community of Paiute, Fort Mojave Indian Tribe, Hualapai Tribe, Kaibab Band of 
+Paiute Indians, Las Vegas Paiute Tribe, Moapa Band of Paiutes, Paiute Indian Tribe of Utah, 
+San Juan Southern Paiute Tribe, The Hopi Tribe, Twenty-Nine Palms Band of Mission 
+Indians, and Utu Utu Gwaitu Paiute Tribe (Owens Valley Paiute Benton Reservation). The 
+BLM also sent letters on August 21, 2022 to the Big Pine Paiute and Lone Pine Paiute 
+Tribes. 
+The BLM conducted government-to-government meetings with the Moapa Band of Paiutes 
+regarding the original 2023 proposed action, as well as a preliminary field visit with tribal 
+staff on February 18, 2022. Additionally, the BLM conducted informal coordination 
+meetings with tribal staff from the Twenty-Nine Palms Band of Mission Indians. Moapa 
+Band of Paiutes inquired about water resources, dust abatement measures, vegetation 
+treatments, solar panels, and impacts to both cultural and wildlife resources. Both tribes 
+expressed general interest in cultural resources, but no specific concerns were shared 
+regarding impacts to traditional use areas, sacred sites, or Traditional Cultural Properties 
+within the Project area. By request, the BLM provided the Moapa Band of Paiutes with a 
+copy of the final draft of the Class III cultural report following completion of consultation 
+with the Nevada State Historic Preservation Office (SHPO). 
+Because the new proposed action is in the same location as the original 2023 proposed action 
+with the same resource conditions, and the new proposed action is similar in type and intensity of 
+land use with similar anticipated impacts, the public involvement and interagency review 
+associated with 2023 Environmental Assessment is adequate for the new proposed action. 
+ 
+  
+[[page 14]]
+E. CONCLUSION
+Determination of NEPA Adequacy:
+☐ Based on the review documented above, I conclude that this proposal conforms to the
+applicable land use plan and that the NEPA documentation fully covers the proposed
+action and constitutes BLM’s compliance with the requirements of the NEPA.
+No Significant Impacts 
+As documented in detail in Section D.3 of this DNA, because the environmental effects that 
+would result from implementation of the new proposed action are similar (both quantitatively 
+and qualitatively) to those effects analyzed and disclosed in the existing 2023 Environmental 
+Assessment, the new proposed action will similarly result in no significant impacts.  
+Responsible Official: _________________________________ Date: _______________ 
+ATTACHMENTS: 
+• Environmental Assessment for the Townsite Solar 2 Project
+(DOI-BLM-NV-S010-2023-0016-EA - 
+September 2023),
+including the Biological Opinion on the Townsite Solar 2 Project
+(2022-0035189-S7-001 – October
+ 2022)
+• Townsite Data Center Plan of Development (May 2026)
+
+[[page 15]]
+ 
+ 
+ 
+Environmental Assessment 
+DOI-BLM-NV-S010-2023-0016-EA 
+ 
+ 
+ 
+Townsite Solar 2 Project 
+Case File Number NVN-099875 
+ 
+ 
+ 
+Applicant 
+Skylar Energy Resources, LLC 
+5847 San Felipe Street 
+Suite 4450 
+Houston, Texas 77057 
+Phone: (713) 341-7944 
+ 
+ 
+ 
+Department of the Interior 
+Bureau of Land Management 
+Southern Nevada District 
+Las Vegas Field Office 
+4701 North Torrey Pines Drive 
+Las Vegas, Nevada 89130 
+Phone: (702) 515-5000 
+ 
+ 
+ 
+September 2023
+Environmental Assessment 
+Las Vegas Field Office 
+[[page 16]]
+Environmental Assessment DOI-BLM-NV-S010-2023-0016-EA 
+i 
+TABLE OF CONTENTS 
+1 Introduction .......................................................................................................................................... 1 
+1.1 Purpose and Need ......................................................................................................................... 2 
+1.2 Applicant’s Project Objectives ..................................................................................................... 2 
+1.3 Decision to be Made ..................................................................................................................... 2 
+1.4 Conformance Summary ................................................................................................................ 2 
+2 Proposed Action and Alternatives ...................................................................................................... 4 
+2.1 Introduction .................................................................................................................................. 4 
+2.2 Proposed Action ........................................................................................................................... 4 
+2.2.1 Project Overview ................................................................................................................ 4 
+2.2.2 Project Elements ................................................................................................................. 5 
+2.2.3 Construction of the Facilities .............................................................................................. 7 
+2.2.4 Laydown Area (Temporary) ............................................................................................... 8 
+2.2.5 Photovoltaic Solar and Ancillary Facility Construction ..................................................... 9 
+2.2.6 Operations and Maintenance............................................................................................. 10 
+2.2.7 Decommissioning and Site Reclamation .......................................................................... 10 
+2.2.8 Design Features and Standard Agency Requirements ...................................................... 10 
+2.3 No Action Alternative ................................................................................................................ 11 
+2.4 Alternatives Considered but Eliminated from Detailed Analysis ............................................... 12 
+2.4.1 Larger Project Boundary ................................................................................................... 12 
+2.4.2 Maintaining Vegetation, Soils, and Surface Water Flow within the Solar Field Area ..... 12 
+3 Affected Environment and Environmental Effects ......................................................................... 13 
+3.1 Resource Evaluation ................................................................................................................... 13 
+3.2 Air Quality .................................................................................................................................. 13 
+3.2.1 Affected Environment ....................................................................................................... 14 
+3.2.2 Environmental Effects of the No Action Alternative ........................................................ 15 
+3.2.3 Environmental Effects of the Proposed Action................................................................. 15 
+3.2.4 Mitigation Measures ......................................................................................................... 16 
+3.3 Cultural Resources ...................................................................................................................... 17 
+3.3.1 Affected Environment ....................................................................................................... 17 
+3.3.2 Environmental Effects of the No Action Alternative ........................................................ 17 
+3.3.3 Environmental Effects of the Proposed Action................................................................. 18 
+3.3.4 Mitigation Measures ......................................................................................................... 18 
+3.4 Environmental Justice and Socioeconomics ............................................................................... 18 
+3.4.1 Affected Environment ....................................................................................................... 19 
+3.4.2 Environmental Effects of the No Action Alternative ........................................................ 20 
+3.4.3 Environmental Effects of the Proposed Action................................................................. 21 
+3.4.4 Mitigation Measures ......................................................................................................... 22 
+3.5 Fish and Wildlife (Excluding Federally Listed Species) ............................................................ 22 
+3.5.1 Affected Environment ....................................................................................................... 22 
+3.5.2 Environmental Effects of the No Action Alternative ........................................................ 25 
+3.5.3 Environmental Effects of the Proposed Action................................................................. 25 
+3.5.4 Mitigation Measures ......................................................................................................... 28 
+3.6 Fuels and Fire Management........................................................................................................ 28 
+3.6.1 Affected Environment ....................................................................................................... 28 
+3.6.2 Environmental Effects of the No Action Alternative ........................................................ 29 
+3.6.3 Environmental Effects of the Proposed Action................................................................. 29 
+[[page 17]]
+Environmental Assessment DOI-BLM-NV-S010-2023-0016-EA 
+ii 
+3.6.4 Mitigation Measures ......................................................................................................... 31 
+3.7 Greenhouse Gas Emissions/Climate Change .............................................................................. 31 
+3.7.1 Affected Environment ....................................................................................................... 31 
+3.7.2 Environmental Effects of the No Action Alternative ........................................................ 34 
+3.7.3 Environmental Effects of the Proposed Action................................................................. 34 
+3.7.4 Mitigation Measures ......................................................................................................... 37 
+3.8 Migratory Birds and Eagles ........................................................................................................ 37 
+3.8.1 Affected Environment ....................................................................................................... 38 
+3.8.2 Environmental Effects of the No Action Alternative ........................................................ 38 
+3.8.3 Environmental Effects of the Proposed Action................................................................. 38 
+3.8.4 Mitigation Measures ......................................................................................................... 41 
+3.9 Recreation/Travel/Wild and Scenic Rivers................................................................................. 41 
+3.9.1 Affected Environment ....................................................................................................... 41 
+3.9.2 Environmental Effects of the No Action Alternative ........................................................ 41 
+3.9.3 Environmental Effects of the Proposed Action................................................................. 42 
+3.9.4 Mitigation Measures ......................................................................................................... 42 
+3.10 Soils and Surface Hydrologic Conditions ................................................................................... 42 
+3.10.1 Affected Environment ....................................................................................................... 43 
+3.10.2 Environmental Effects of the No Action Alternative ........................................................ 44 
+3.10.3 Environmental Effects of the Proposed Action................................................................. 44 
+3.10.4 Mitigation Measures ......................................................................................................... 45 
+3.11 Special Designations .............
+
+SOURCE: https://blm-eplanninganonconnector-lap.blm.gov/api/Blob_Storage_Download_External (blobUrl /8806acc1-416f-f111-ab0d-001dd802f839/Documents/DR__DOI-BLM-NV-S010-2026-0080-DNA-merged2.pdf) RETRIEVED: 2026-09-24
+[Document retrieved through the NEPA Register document download connector; pypdf text extraction, first 6000 characters]
+
+[[page 1]]
+Decision Record 1 
+DOI-BLM-NV-S010-2026-0080-DNA 
+UNITED STATES DEPARTMENT OF THE INTERIOR 
+Bureau of Land Management 
+Southern Nevada District 
+Las Vegas Field Office 
+4701 N. Torrey Pines Drive 
+Las Vegas, Nevada 89130  
+DECISION RECORD 
+Townsite Data Center
+Determination of NEPA Adequacy (DNA) 
+DOI-BLM-NV-S010-2026-0080-DNA 
+based on 
+DOI-BLM-NV-S010-2023-0016-EA 
+ Environmental Assessment – Townsite Solar 2 Project 
+June 2026 
+I. DECISION
+I have decided to approve the application from  Townsite Solar 2 LLC (Applicant) , wherein the 
+Applicant seeks an amendment to their existing BLM ROW grant NVN-99875. The original grant 
+authorizes the Applicant to construct, operate, maintain, and decommission a 19 MW solar project 
+plus a 35 MW Battery Storage System (BESS). Now, the Applicant is requesting authorization in 
+their new proposal to construct, own, operate, maintain, and eventually decommission a data center 
+on 81 acres of the original grant’s 85-acre ROW area, with an additional 4 acres to be used for an 
+80 × 2,000–foot linear facilities segment (Project / new proposed action).  The original proposal 
+for the solar project and BESS was not constructed. The new proposed action will be located within 
+the same footprint as the original grant. 
+Details regarding the design, components, and construction methods  of the new proposed data 
+center are provided in the Applicant’s plan of development (POD – dated May 2026).  
+Details regarding the BLM’s evaluation of the existing NEPA document’s adequacy in analyzing 
+the new proposed action are provided in DNA documentation DOI -BLM-NV-S010-2026-0080-
+DNA. That evaluation forms the basis for my rationale in approving the Applicant’s request  
+(Section III). 
+A. M
+itigation Measures
+• The Applicant-Committed Environmental Protection Measures  – originally identified in
+Appendix C of the existing NEPA document (Environmental Assessment  for the Townsite
+Solar 2 Project) and subsequently adjusted in Section 6.4 of the Applicant’s POD (May 2026)
+– shall remain in effect for the new proposed action (to the extent that they are applicable) and
+shall be incorporated into the terms, conditions, and stipulations of the BLM ROW grant.
+[[page 2]]
+Decision Record  2 
+DOI-BLM-NV-S010-2026-0080-DNA 
+• The BLM SNDO Standard Stipulations – originally identified in Appendix D  of the existing 
+NEPA document and updated from time to time by SNDO – shall remain in effect for the new 
+proposed action (to the extent that they are applicable) and shall be incorporated into the terms, 
+conditions, and stipulations of the BLM ROW grant. 
+• The project-specific mitigation measures – originally identified on a resource-by-resource 
+basis throughout Section 3 of the existing NEPA document – shall remain in effect for the 
+new proposed action (to the extent that they are applicable) and shall be incorporated into the 
+terms, conditions, and stipulations of the BLM ROW grant. 
+ 
+II. COMPLIANCE AND CONFORMANCE 
+The new proposed action is in conformance with the 1998 Las Vegas RMP. Specifically, it 
+conforms with the following objective pertaining to right-of-way management.  
+Las Vegas Resource Management Plan Objective RW-1 (Rights-of-Way Management) - 
+Meet public demand and reduce impacts to sensitive resources by providing an orderly 
+system of development for transportation, including legal access to private inholdings, 
+communications, flood control, major utility transmission lines, and related facilities.  
+(Las Vegas RMP, p. 19) 
+Data centers like the one in the new proposed action are a key component of modern- day cloud-
+computing infrastructure that are essential to the well-organized management and rapid access of 
+information/data used by the whole of American society. 
+ 
+III. RATIONALE FOR DECISION  
+Consistent with BLM policy, my determination that the existing environmental document (2023 
+Environmental Assessment of the Townsite Solar 2 Project)  provides adequate analysis for the 
+new proposed action is based on the following considerations: 
+1. The new proposed action is substantially the same as the original proposed action analyzed in 
+the existing environmental document. 
+2. The new proposed action is within the same analysis area as that which was analyzed in the  
+existing environmental document. 
+3. The range of alternatives analyzed in the existing environmental document is appropriate with 
+respect to the new proposed action, given current environmental concerns and resource values. 
+4. The existing analysis is valid considering n ew information or circumstances relevant to the 
+new proposed action. 
+5. The environmental effects that would result from implementation of the new proposed action 
+are similar (both quantitatively and qualitatively) to those analyzed in the existing NEPA 
+document. 
+6. The public involvement and interagency review associated with the existing environmental 
+document is adequate for the new proposed action. 
+  
+[[page 3]]
+Decision Record  3 
+DOI-BLM-NV-S010-2026-0080-DNA 
+7. The new proposed action is in conformance with the applicable BLM land use plan (1998 Las 
+Vegas Resource Management Plan).  
+ 
+IV. RIGHT OF PROTEST AND/OR APPEAL:   
+This decision may be appealed to the Interior Board of Land Appeals (IBLA), Office of the 
+Secretary, in accordance with the regulations contained in 43 CFR Part 4 and Form 1842–1. If an 
+appeal is taken, your notice of appeal must be filed in this office within 30 days of the decision. 
+The appellant has the burden of showing that the decision appealed from is in error. 
+ 
+If you wish to file a petition pursuant to regulation 43 CFR 2801.10 or 43 CFR 2881.10, for a 
+stay of the effectiveness of this decision during the time that your appeal is being reviewed by 
+IBLA, the petition for a stay must accompany your notice of appeal. A petition for a stay is 
+required to show sufficient justification based on the standards listed below. Copies of the notice 
+of appeal a
