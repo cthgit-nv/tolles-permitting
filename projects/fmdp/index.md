@@ -5,8 +5,8 @@
 ## What this is
 
 The broader Hazen federal application: linear infrastructure only (transmission lines,
-access roads and related facilities) under BLM FLPMA Title V, and Reclamation for any
-segment on Reclamation land (open: `Q-20260924-fmdp-reclamation-segments`). The corridor
+access roads and related facilities) under BLM FLPMA Title V and a Bureau of Reclamation
+authorization (43 C.F.R. Part 429) for the segments on Reclamation land (facts F6). Two agencies. The corridor
 is planned to share alignment and access with the Great Basin Gas Transmission pipeline
 (to be built) and the existing NV Energy road and transmission line. All solar, battery
 storage, geothermal and other generation is on private land and outside the federal
@@ -28,7 +28,7 @@ acreage and the GID district boundary (CHIP Brain).
 
 ## Critical risks
 
-1. **Segmentation and phasing with Application 1.** FMDP documents must not describe the
+1. **Segmentation and phasing with Application 1.** Reclamation reviews both Hazen applications, which makes the split easier to attack. FMDP documents must not describe the
    Reclamation crossings or the Hart Lane road as a phase of FMDP.
 2. **Scope creep to private generation.** Seven County supports excluding it; Section 7
    (but-for plus reasonably certain) and Section 106 (indirect and visual effects in the
@@ -42,7 +42,7 @@ acreage and the GID district boundary (CHIP Brain).
 
 ## Next actions
 
-1. Confirm the route and agency set (Q-20260924-fmdp-reclamation-segments).
+1. Settle lead and cooperating agency structure (`Q-20260924-fmdp-lead-agency`); confirm the route.
 2. Red-team the BLM PPOD against the current structure (known defect: substation shown on
    BLM land).
 3. Library: complete segmentation and cumulative-effects propositions before drafting.

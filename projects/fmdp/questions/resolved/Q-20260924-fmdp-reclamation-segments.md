@@ -12,7 +12,7 @@ The Aug 14 memo put about 1.9 miles of line on Reclamation land and an overhead 
 
 ## Answer
 
-- **Answered:**
-- **Answer:**
-- **Cites:**
-- **Led to:**
+- **Answered:** 2026-09-24 by Cory Hunt
+- **Answer:** Yes. FMDP (Application 2) will need a Reclamation authorization as well as the BLM right-of-way. Application 2 is a two-agency action.
+- **Cites:** Cory, 2026-09-24 session
+- **Led to:** fmdp facts F6. Lead and cooperating agency structure is now open: `Q-20260924-fmdp-lead-agency`.

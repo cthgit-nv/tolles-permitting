@@ -9,6 +9,7 @@
 | F3 | The Aug 2026 plan: an 11-mile transmission line, about 3.8 miles on BLM land and about 1.9 miles on Reclamation land, with an overhead span of the Hazen Drain (no structures in the Reclamation corridor). | `CHIP_NEPA_Risk_Memo_081426.docx`, Background 2 | PRIVILEGED | 2026-09-24 |
 | F4 | The line and roads serve multiple sources and users, including third-party geothermal generation, not only solar. | `CHIP_NEPA_Risk_Memo_081426.docx`, Background 4 | PRIVILEGED | 2026-09-24 |
 | F5 | An EIS is unacceptable to the project. | `CHIP_NEPA_Risk_Memo_081426.docx`, Background 7 | PRIVILEGED | 2026-09-24 |
+| F6 | FMDP (Application 2) needs a Bureau of Reclamation authorization in addition to the BLM ROW, so it is a two-agency action. | Cory, 2026-09-24 session | INTERNAL | 2026-09-24 |
 
 ## Documents
 

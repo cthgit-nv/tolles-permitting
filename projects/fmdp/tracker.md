@@ -5,7 +5,7 @@
 | Authorization | Agency / office | Authority | Pathway | Status | Next action | Deadline |
 |---|---|---|---|---|---|---|
 | ROW grant: transmission line and access roads on BLM land | BLM Carson City District, Stillwater FO (to confirm) | FLPMA Title V, 43 C.F.R. Part 2800 | EA / FONSI, applicant-prepared | Pre-application; PPOD draft | Confirm route; SF-299; cost recovery agreement (43 C.F.R. 2804.14) | None set |
-| Use authorization: line segments and Hazen Drain span on Reclamation land (if on route) | Reclamation | 43 C.F.R. Part 429 | Cooperating in BLM EA, or own decision | Open question | `Q-20260924-fmdp-reclamation-segments` | None set |
+| Use authorization: line segments and Hazen Drain span on Reclamation land | Reclamation | 43 C.F.R. Part 429 | Cooperating in BLM EA, or joint lead (42 U.S.C. 4336a) | Required (facts F6) | `Q-20260924-fmdp-lead-agency` | None set |
 | Section 112 opt-in fee | CEQ / lead agency | NEPA section 112 (`A-usc-42-nepa-112`) | Optional | Under consideration | Counsel view on timing and recourse (memo Q9) | Before EA start |
 | ESA Section 7 | BLM with FWS | 16 U.S.C. 1536 | Informal expected | Not started | IPaC species list | None set |
 | NHPA Section 106 and tribal consultation | BLM with Nevada SHPO, tribes | 36 C.F.R. Part 800 | Required | Not started | Define APE (indirect and visual effects) | None set |
