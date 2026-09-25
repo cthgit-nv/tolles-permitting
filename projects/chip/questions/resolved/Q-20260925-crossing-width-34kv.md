@@ -12,7 +12,7 @@ Cory's Aug 20 decision: 200-ft corridor straight over each corner (~0.23 ac per 
 
 ## Answer
 
-- **Answered:**
-- **Answer:**
-- **Cites:**
-- **Led to:**
+- **Answered:** 2026-09-25 by Cory Hunt
+- **Answer:** A 400-ft ROW at each crossing, four-lane road. Seven wings of ~0.92 ac each, ~6.43 ac total (desk KMZ from BLM CadNSDI corners; each wing within its Table 1 aliquot).
+- **Cites:** Cory, 2026-09-25 session
+- **Led to:** PPOD redline v2; gis/CHIP_App1_Crossings_HartLane_DRAFT_2026-09-25.kmz

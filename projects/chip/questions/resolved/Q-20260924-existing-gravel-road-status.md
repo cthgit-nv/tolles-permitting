@@ -39,7 +39,7 @@ previously undisturbed land as a factor).
 
 ## Answer
 
-- **Answered:**
-- **Answer:**
-- **Cites:**
-- **Led to:**
+- **Answered:** 2026-09-25 by Cory Hunt
+- **Answer:** Not a recorded county right-of-way; shown as a historical county road. Construction use and improvement need Reclamation authorization (requested in the PPOD).
+- **Cites:** Cory, 2026-09-25 session
+- **Led to:** facts F13; PPOD redline v2
