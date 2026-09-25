@@ -12,6 +12,8 @@ EO = 'Tolles decision 9/25: remove the EO 14318 Qualifying Project request. It p
 FMDP = ('Tolles decision 9/25: remove description of the separate transmission application. Application 1 stands on its own purpose. '
         'Option for Tolles/counsel: if a disclosure line is wanted, suggested neutral text: "A separately proposed transmission and access project in the region will be the subject of its own applications and environmental review; it is not required for, and does not require, the facilities described in this PPOD."')
 
+APP = 'Tolles decision 9/25: applicant of record is CHIP LLC, the landowner and developer of the CHIP parcels connected by the crossings. A landowner connecting its own parcels also reinforces the independent purpose of the crossings. Confirm exact legal name and state of organization for the SF-299.'
+
 def rep(i, old, new, comment=None):
     t = T(i)
     assert old in t, (i, old, t[:120])
@@ -33,7 +35,17 @@ rep(224, 'The industrial, data center, generation, and storage facilities locate
     'The crossings and the access road segment serve the CHIP industrial park as a whole, including its internal roads, water, wastewater, communications, and on-site power distribution from generation and storage facilities within the park, and do not depend on any off-site transmission facility. The industrial, commercial, generation, and storage facilities located on private land are separately proposed, are outside Reclamation\'s authority to approve, and are not the subject of the requested federal authorization; any federal permits those facilities require would be subject to their own review.',
     'States the independent purpose of the crossings and road (park-wide access and utilities; power from on-site generation and storage). Replaces the prior statement that private facilities "require no federal construction approval," which is not certain (e.g., CWA, FAA) and invited contradiction.')
 R.delete_para(225, FMDP)
-rep(227, 'to reflect the status.', 'to reflect the status.]', 'Closes an unclosed bracket.')
+t = T(227)
+a1 = 'Tolles Development is anticipated to construct, own, operate, and maintain the Project.'
+b1 = 'CHIP LLC, the landowner and developer of the CHIP parcels, is anticipated to construct, own, operate, and maintain the Project.'
+a2 = t[t.index('[INSERT: confirm the applicant of record'):]
+b2 = '[INSERT: confirm the exact legal name and state of organization of CHIP LLC].'
+assert a1 in t
+R.edit(227, t.replace(a1, b1).replace(a2, b2), APP)
+rep(124, 'Tolles Development', 'CHIP LLC', APP)
+R.insert_after(15, 'CHIP LLC', APP, like=17)
+rep(204, 'Tolles Development (Applicant)', 'CHIP LLC (Applicant)', APP)
+rep(574, ', and whether the authorization should be applied for by the Applicant or by Churchill County]', ']', APP)
 
 # ---- Section 2 Purpose and Need ----
 R.edit(233, 'The proposed butterfly configuration was selected because it confines the federal land use at each section corner to a small, discrete area and produces a crossing of Reclamation land rather than a longitudinal use of it. The access road segment improves an existing road alignment rather than creating a new corridor on Reclamation land. Consistent with Reclamation policy that lateral encroachments along Reclamation facility rights-of-way are not authorized, the Project crosses Reclamation-administered land at defined points and does not parallel or occupy any Newlands Project facility right-of-way. No Newlands Project canal, lateral, or drain has been identified within or adjacent to the proposed crossings or the access road segment in the screening performed to date [INSERT: confirm TCID facility locations from the land-status review and TCID records, including whether the excavated riverine feature mapped in Corner Crossing 2 (Section 8.2.6) is a Newlands Project facility].',
