@@ -46,6 +46,10 @@ the CHIP Brain in Dropbox.
 
 See `questions/open/`. Blocking: `Q-20260924-cx-fit-road-and-bundle`, `Q-20260924-dropbox-public-edit-links`.
 
+## Current PPOD
+
+Desk redline of the EPS 9/18 draft (`drafts/PPOD CHIP BOR 092526 Desk Redline.docx`) implements `D-20260925-app1-ppod-scope`. Open before filing: engineering width (`Q-20260925-crossing-width-34kv`), Hart Lane road legal description and width, gravel road status, Figure 2 redraw, remapped KMZ, TCID check of the Crossing 2 excavated feature, counsel on a neutral FMDP disclosure line. Then re-red-team the clean copy.
+
 ## Next actions
 
 1. Conform the Reclamation PPOD to the two-application structure and add the Hart Lane

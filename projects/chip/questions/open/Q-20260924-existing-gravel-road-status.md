@@ -35,6 +35,8 @@ disturbance is on previously disturbed land, which strengthens D(8) prong (a)
 (`P-reclamation-cx-d8-fit`; Reclamation's 2025 preamble names ground disturbance on
 previously undisturbed land as a factor).
 
+**Update 2026-09-25 (Cory):** the Hart Lane road follows the existing gravel road and stops at the CHIP property line (facts F12). Legal status of the gravel road (county right-of-way or not) is still open.
+
 ## Answer
 
 - **Answered:**
