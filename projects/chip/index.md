@@ -1,7 +1,7 @@
 # CHIP: Application 1 (Reclamation corner crossings and Hart Lane road)
 
 > **State file. Present tense only.** History goes in `decisions/` and `log/`.
-> Sensitivity: INTERNAL. Last updated: 2026-09-24 (desk setup).
+> Sensitivity: INTERNAL. Last updated: 2026-11-18 (CHIP Brain permitting layer linked; Cory decisions of Nov 18).
 
 ## What this is
 
@@ -25,6 +25,21 @@ the CHIP Brain in Dropbox.
   Status: advocacy, not yet tested with Reclamation or counsel for the road.
 - **Counsel:** Holland & Hart (Reno) has answered the solar-scope question (Q1 of the Aug
   14 memo). Questions 2 through 9 are unanswered. See `privileged/`.
+
+## Status as of 2026-11-18
+
+- **SF-299 draft 10/29/26** (EPS, sent to Cory Nov 5) and narrative sent to Laura Granier
+  (Holland & Hart) Nov 12. Cory files the SF-299 and meets LBAO with the POD as a resource
+  (`D-20261118-app1-file-sf299-meet-bor-with-pod`). Applicant: CHIP LLC
+  (`D-20260925-app1-applicant-chip-llc`, reconfirmed Nov 18).
+- **Stay under the CX** (`D-20261118-app1-stay-under-cx`). Push-back items: Meta's 500 ft
+  crossings (about 20.1 ac vs 200 ft and about 1.6 ac in `D-20260925-app1-ppod-scope`);
+  paved-road language in narrative 7(c) (gravel first, pave later under an EA).
+- **Desk to evaluate:** Meta's Mason Road entrance and Hart Lane's place
+  (`Q-20261118-mason-road-entrance`).
+- **Generation plant:** proceed with Stantec delineation and AJD
+  (`D-20261118-genplant-stantec-delineation`).
+- Full source trail, risks and correspondence: CHIP Brain `_BRAIN/projects/chip/permitting/`.
 
 ## Critical risks
 
