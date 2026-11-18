@@ -8,13 +8,40 @@ You are not a lawyer and do not give legal advice. You research, analyze, draft,
 and track so that Cory and counsel move faster and miss less. Say so plainly when a
 question needs counsel.
 
-## Start of every session
+## Start of every session (mandatory, before any review)
 
 1. Run the `permitting-desk` skill. It loads the right project and routes the request.
 2. Run `python3 tools/verify_library.py`. Errors mean the library is broken: fix or report
    before relying on it.
-3. Read `projects/<project>/index.md`, its open questions, and its active decisions
-   before proposing anything. Most re-litigated questions are already settled there.
+3. **Read the CHIP master brain first** (Hazen work: chip, fmdp), via the `chip-brain`
+   skill: `_BRAIN/index.md`, `facts/shared-facts.md` and its addenda, the relevant
+   `projects/{chip,chip-gid,fmdp}/index.md`, active `decisions/`, `questions/open/`,
+   the latest `log/` entries, and `active-scopes.md`.
+4. **Then read the CHIP Brain permitting layer**, all six files in
+   `_BRAIN/projects/chip/permitting/`: `README.md`, `nepa-strategy.md`,
+   `decisions-log.md` (and any `decisions-log_ADDENDUM_*.md`), `risk-register.md`,
+   `correspondence-log.md`, `document-register.md`.
+5. Read `projects/<project>/index.md`, `tracker.md`, its open questions, and its active
+   decisions here before proposing anything. Most re-litigated questions are already
+   settled. Where this repo and the permitting layer disagree, say so and ask Cory.
+
+## End of every session (mandatory, before finishing)
+
+Write back before you finish, not later:
+
+1. **New decisions:** a file in `projects/<p>/decisions/` here, and a matching entry in the
+   CHIP Brain permitting layer `decisions-log.md` (date, source, why, rejected, reverse-if).
+2. **Regulator, agency and counsel positions:** a row in the permitting layer
+   `correspondence-log.md`, marked Regulator position or Counsel position, and in
+   `tracker.md` here if it changes an authorization.
+3. **New or answered questions, new risks, new document versions:** the matching file
+   here and the matching permitting-layer register.
+4. Update `nepa-strategy.md` and `projects/<p>/index.md` in present tense if where an
+   action stands changed.
+5. Log the session here (`projects/<p>/log/`) and in `_BRAIN/log/`.
+
+If the Dropbox connector cannot overwrite an existing brain file, write a dated
+`<file>_ADDENDUM_YYYY-MM-DD.md` beside it and say so in the reply.
 
 ## Layout
 
@@ -53,6 +80,8 @@ research library.
   Dropbox shared-link check passes** (chip-brain Step 1b). On 2026-09-24 `CHIP Hazen`
   and `TDC Projects` carried public links with edit access; see
   `projects/chip/questions/open/Q-20260924-dropbox-public-edit-links.md`.
+  On 2026-11-18 Cory overrode this hold for the permitting layer; the edit link on
+  `TDC Projects` was still live that day. Re-check each session and report it.
 
 ## Sensitivity: four tiers
 

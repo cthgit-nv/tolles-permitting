@@ -16,8 +16,13 @@ followed. Read `CLAUDE.md` if you have not this session.
 3. Read `projects/<p>/index.md`, `facts.md`, `tracker.md`, `questions/open/`, and the
    decisions in `decisions/` and `projects/<p>/decisions/`.
 4. Skim the latest two files in `projects/<p>/log/`.
-5. For Hazen program facts (acreage, parcels, GID), use the `chip-brain` skill rather than
-   memory. Its Step 1b shared-link check governs writes to the CHIP Brain.
+5. For Hazen work, read the CHIP master brain via the `chip-brain` skill (index,
+   shared facts, project front doors, active decisions, open questions, recent log),
+   then all six files in `_BRAIN/projects/chip/permitting/` (README, nepa-strategy,
+   decisions-log and addenda, risk-register, correspondence-log, document-register).
+   Do this before any review, edit, red-team or answer. Use the brain, not memory, for
+   Hazen facts. Its Step 1b shared-link check governs writes; Cory overrode it for the
+   permitting layer on 2026-11-18, so report the link status but proceed.
 
 ## 2. Route
 
@@ -49,8 +54,14 @@ Several skills can run in one request. Typical document flow: intake, edit, red-
 
 ## 4. Close the session
 
+Do not finish a session until these are written.
+
 1. Update `index.md` and `tracker.md` in present tense.
-2. Confirm new decisions and questions reached their folders.
+2. Confirm new decisions and questions reached their folders, and that each new decision
+   and each regulator, agency or counsel position also reached the CHIP Brain permitting
+   layer (`decisions-log.md`, `correspondence-log.md`; risks to `risk-register.md`;
+   documents to `document-register.md`; state to `nepa-strategy.md`). If an existing
+   Dropbox file cannot be overwritten, write `<file>_ADDENDUM_YYYY-MM-DD.md` beside it.
 3. Write `projects/<p>/log/YYYY-MM-DD-topic.md`: what happened, what changed, what is
    open, which cards were used or added.
 4. If anything changed the Hazen program, write the matching CHIP Brain entry via
