@@ -24,11 +24,9 @@ def rep(i, old, new, comment=None):
         cur[1].append(comment)
 
 
-GEOM = ('GEOMETRY (blocking). Width and acreage do not match. A wing whose long side spans a corridor W feet wide has area W x W / 4. '
-        'At a 500-ft corridor that is 62,500 sq ft = ~1.43 ac per wing, ~10.0 ac for seven wings. '
-        '2.87 ac per wing is a triangle with 500-ft legs on the section lines, which is a corridor ~707 ft wide. '
-        'Please confirm which one Bald Eagle engineering means, remap, and make 7(c), 13(b), 17(f), the map and the shapefiles agree. '
-        'Report permanent and temporary acreage separately.')
+GEOM = ('ACREAGE. At a 500-ft corridor centered on the corner, each triangular wing has legs of ~354 ft on the section lines and is ~1.43 ac (62,500 sq ft). '
+        'A two-wing crossing is ~2.87 ac, so the draft\'s 2.87 ac is per crossing, not per wing. Seven wings (three two-wing crossings plus the single wing at Crossing 2) = ~10.0 ac, not 20.1. '
+        'EPS: please confirm in the GIS and update throughout, including the map and shapefiles.')
 
 R.edit(2, 'Desk redline of the Oct 29, 2026 EPS draft, Nov 21, 2026. Working copy for EPS; not part of the filing. Text matches the PDF form; checkbox items are listed in the transmittal email.')
 
@@ -54,7 +52,8 @@ rep(15, 'medium-voltage collector lines (overhead or underground; both configura
     'Reviewer will want one defined action. If overhead vs. underground stays open, the acreage and disturbance should reflect the larger case.')
 
 rep(16, 'each designed as a road and utility corridor approximately 500 feet in total width.',
-    'each designed as a road and utility corridor approximately [500] feet in total width.', GEOM)
+    'each designed as a road and utility corridor approximately 500 feet in total width.',
+    'Bald Eagle engineering confirmed 500 ft (Nov 12). Please update throughout unless you see a concern.')
 rep(16, 'the fourth crossing (Corner Crossing 2 located in the northeast crossing), is limited to a single wing.',
     'the fourth crossing (Corner Crossing 2, [section corner]) is limited to a single wing.',
     'Identify Crossing 2 by section corner. Expect Reclamation to ask why the other three need two wings if one works at Crossing 2; a sentence on why would help.')
@@ -62,7 +61,7 @@ rep(16, 'The existing road will be graded, widened, and paved as necessary to pr
     'Roads within each crossing would be constructed, or where a road already exists, improved, to provide safe and reliable access. Work may include vegetation clearing, earthwork, drainage improvements, placement of aggregate base material, and paving within the authorized footprint.',
     '"The existing road" has no antecedent now that Hart Lane is out of this application. If an existing road or two-track runs through a crossing, name it: prior disturbance helps the "minor and localized" test (Reclamation looks at ground disturbance on previously undisturbed land, 90 FR 2735).')
 rep(16, 'approximately 2.87 acre each as mapped in the project GIS, approximately 20.1 acres in total;',
-    'approximately [__] acres each, approximately [__] acres in total;', GEOM)
+    'approximately 1.43 acres each, approximately 10.0 acres in total;', GEOM)
 rep(16, 'Crossings of Reclamation facilities would be approximately perpendicular, with required vertical clearance; no lateral encroachment is proposed. The 500-foot configuration remains subject to confirmation against the engineering test fit.',
     'No Reclamation canal, lateral, or drain has been identified within a crossing; if one is encountered, it would be crossed approximately perpendicular, with required vertical clearance, and no lateral encroachment is proposed.',
     'Draft said both that facilities would be crossed and (17(c)) that none lie in a crossing. Please confirm against TCID/Newlands facility data at the final footprint, including the "excavated" NWI feature at Crossing 2. '
@@ -106,7 +105,7 @@ rep(30, 'Alternative 2 was not selected as creating a corridor across BOR land f
     'Alternative 2 was not selected because a corridor across Reclamation land parallel to a section line would disturb more federal land and divide the remainder of each parcel, limiting Reclamation\'s use of it. Alternative 3 was not selected because acquisition or exchange of the intervening sections would require a separate land transaction with its own approvals and is not necessary to connect the parcels.',
     'Reasons tied to federal land and resources, not the developer\'s schedule. If you have Alternative 2 acreage, add it.')
 rep(30, 'The selected configuration, a road and utility corridor approximately 500 feet wide crossing directly over each section corner, confines the permanent federal use for the crossings to approximately 20.1 acres; The configuration remains subject to confirmation against the engineering test fit; if additional width or a different configuration is required, the requested crossing areas will be revised before filing.',
-    'The proposed configuration, a road and utility corridor approximately [500] feet wide crossing directly over each section corner, confines the permanent federal use to approximately [__] acres at the section corners. The width accommodates [__] travel lanes, shoulders and drainage, and separated utility alignments [basis from engineering cross-section].',
+    'The proposed configuration, a road and utility corridor approximately 500 feet wide crossing directly over each section corner, confines the permanent federal use to approximately 10.0 acres at the section corners. The width accommodates [__] travel lanes, shoulders and drainage, and separated utility alignments [basis from engineering cross-section].',
     'The "revised before filing" sentence cannot be in the filed text. Physical size is the first thing Reclamation weighs for this CX; the record shows the width going 200, 400, then 500 ft. Please add a one-line engineering basis (lanes, utility separations, clearances). ' + GEOM)
 
 # ---- Item 14 ----
@@ -133,7 +132,7 @@ rep(38, 'Future NEPA compliance, may evaluate impacts near the project area beyo
 rep(42, 'National Hydrography Dataset and National Wetlands Inventory data show two unnamed ephemeral streams and three riverine features in Crossings 2 and 3;',
     'National Hydrography Dataset and National Wetlands Inventory data show [__] features in Crossings [__];',
     'Counts were taken at the smaller footprint. Re-run NHD/NWI on the final geometry and report by crossing; wetlands are an extraordinary-circumstances screen.')
-rep(45, 'approximately 20.1 acres in the four crossings;', 'approximately [__] acres in the four crossings;', GEOM)
+rep(45, 'approximately 20.1 acres in the four crossings;', 'approximately 10.0 acres in the four crossings;', GEOM)
 R.edit(46, '(g) Historic and archaeological resources: a Class I records search and a Class III cultural resources inventory of the crossing areas will be completed to support Reclamation\'s Section 106 review, including tribal consultation, and Indian Trust Assets will be reviewed, before construction.',
        'Section 106 applies to Reclamation\'s authorization regardless of NEPA level; "if required" made it sound optional and conflicted with 7(g).')
 
